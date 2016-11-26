@@ -1,0 +1,429 @@
+ORSES
+Comisión de Regulación de Energía y Gas
+PROPUESTAS PARA LA ENTRADA DE
+NUEVAS PLANTAS DE GENERACIÓN Y LA ASIGNACIÓN DEL CARGO DE CONFIABILIDAO PARA PLANTAS
+EXISTENTES
+DOCUMENTO CREG-070 30 de julio de 2015
+MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN 34 Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión No. 668
+CONTENIDO
+1. Introducción.36
+2. Análisis de comentarios al Documento 077 con respecto a las asignaciones del CxC.37
+21. Comentarios acerca de la asignación administrada............................... 37
+22. Análisis de comentarios a asignaciones por subastas.............................. 45
+3. Análisis de la situación actual del mercado mayorista de energía: Oferta disponible para
+contratos y relación con el mercado de confiabilidad. 47
+4. Esquemas regulatorios propuestos. 49
+4.1. Subasta adicional mediante el Cargo por Confiabilidad.50
+4.2. Alternativas propuestas para la asignación administrada. 50
+4.2.1. Asignaciones de OEF con precios ofertados...51
+4.2.2. Asignaciones de OEF con subastas anuales. 53
+5. Bibliografia......................................................................................................................... 55
+Anexo 1. 57
+Matriz de comentarios al Documento CREG 077 de 2014. Tema. Asignaciones Administradas
+57
+Anexo 2.....................................................................................................................................60
+Matriz de comentarios al Documento CREG 077 de 2014. Tema. Asignaciones por Subastas
+... 60
+;?????\ 35 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN ??? &???/ /?? Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDAD, APLANTASEXISTENTES
+
+
+SeSión No. 668
+PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+1. Introducción
+La Comisión de Regulación de Energía y Gas (CREG) mediante la Circular 089 de 2014 publicó para comentarios el Documento CREG 077 de 2014, titulado: “Expansión en Generación de Energía Eléctrica y Cargo por Confiabilidad". En este documento se realiza un diagnóstico de los resultados alcanzados con la aplicación de la Resolución CREG 071 de 2006, que contiene las reglas que configuran el funcionamiento del esquema del Cargo por Confiabilidad (CXC).
+Como fruto del diagnóstico realizado, en ese mismo documento se presentan propuestas conceptuales de modificación de las reglas del CxC, en aras de que el mercado de confiabilidad, acorde con lo contemplado en la Ley 143 de 1994, cumpla con los siguientes principios:
+i) Tener las plantas de generación para asegurar el cubrimiento de la demanda
+      con energía firme ii) Contar con las plantas de generación más eficientes para el sistema, de
+acuerdo con la dotación de recursos con que se cuente.
+Estos principios también se alinean con lo consignado en el documento de “Bases del Plan Nacional de Desarrollo 2014-2018”, en el que se reconoce que si bien con el esquema del CxC se ha logrado que el país cuente con suficiente energía para atender a la totalidad de la demanda, un porcentaje de la ENFICC se concentra en plantas de generación, cuyos altos costos variables les impiden ofertar energía para contratos de suministro en el mediano plazo o en el corto plazo.
+Adicionalmente, en las bases del Plan Nacional de Desarrollo se considera como pertinente promover la entrada de nuevos proyectos que permita un reemplazo progresivo de estas plantas con costos elevados, por unas que puedan subsanar esta situación de oferta a altos precios y puedan ofrecer energía en el mediano y corto plazo a la demanda.
+Con el fin de alcanzar los dos objetivos previamente mencionados, en el Documento CREG 077 de 2014 se plantearon propuestas regulatorias en los siguientes temas: ii) asignaciones administradas, ii) asignaciones por subasta, iii) participación de la demanda, iv) plantas menores y v) necesidades de potencia localizada.
+Dado que las plantas que participan en el CxC, tanto en la subasta como en las asignaciones administradas, son las mismas que participan en el mercado de energía de corto plazo y de contratación bilateral, la señal de expansión que se dé mediante el CxC tendrá impacto en los precios resultantes en esos dos mercados. Por lo anterior, las propuestas concernientes a la asignación administrada y asignaciones por subasta tienen como propósito la creación de mecanismos regulatorios a través del esquema del CxC, que por un lado, permitan la entrada de nuevos generadores para el reemplazo progresivo de las plantas con altos costos variables y que por el otro, la asignación de obligaciones para las plantas existentes refleje adecuadamente
+                                                                                    36 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN
+Y LAASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión NO. 668
+las señales de abundancia o escasez de energía firme en el mercado de confiabilidad.
+En este documento se analiza con mayor detalle el tema de asignaciones por subasta y asignaciones administradas a los generadores existentes, teniendo en cuenta los comentarios recibidos por parte de los agentes a las propuestas del Documento CREG 077 de 2014. Adicionalmente se presentan modificaciones a la asignación por subasta a partir del diagnóstico realizado por David Harbor, Marco Pagnozi y Peter Cramtono. Finalmente, se pone a consideración de los agentes una propuesta regulatoria que se ha diseñado para la consecución de los dos objetivos mencionados anteriormente.
+Este documento está organizado en cinco (5) secciones incluida esta introducción. En la siguiente sección, se presentan y se da respuesta a los comentarios recibidos al Documento CREG 077 de 2014 en lo referente a la asignación administrada y asignación por subasta y se presentan los ajustes adoptados en la asignación por subasta. En la tercera parte, se expone el análisis realizado por la CREG que sustenta las propuestas regulatorias que se ponen a consulta con este documento. En la cuarta sección se exponen los esquemas regulatorios que se diseñaron para promover la entrada de nuevos proyectos de generación y los ajustes al procedimiento de asignación administrada. Finalmente, se presenta la lista de la bibliografia utilizada.
+2. Análisis de comentarios al Documento 077 con respecto a las asignaciones del
+CXC
+21. Comentariosacerca de la asignación administrada
+En esta sección se presentan los comentarios recibidos al Documento CREG 077 de 2014, en lo referente a las propuestas de la asignación administrada y la asignación por subasta del CxC. En la Tabla 1 se presentan los números de radicado entregados a las comunicaciones recibidas durante el periodo de consulta.
+Tabla 1. Comentarios recibidos al Documento CREG 077 de 2014 en los temas de asignación del CxC
+Empresa Radicado SCL Energía. Activa S.A. E-2014-012299 E-2014-012953 Andesco E-2014-012910 Gecelca E-2014-0.12937 Emgesa E-2014-0.12939 Celsia/Epsa E-2014-012940 E-2014-012981 Comité Asesor Comercialización E-2014-012955
+ “Second Review of Fim Energy Auction in Colombia". Documento publicado mediante Circular CREG 015 de 2013.
+"Colombia Fim Energy Auction: Descending Clock or Salled-Bid?”. Presentación disponible
+??. http:/IWW. Creg.gov.CO/phocadownload/presentaciones/Cramton-Colombia-firm-energyauction-format%20VO.pdf
+D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN
+37
+Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+/4
+Sesión No. 668
+Acolgen E-2014-012965 E-2014-012989 Asocodis E-2014-012986 ASoenergia: Crystal, Groupe SEB, E-2014-013018: E-2014-012994, E-2014Corona, Carvajal, Familia, Seatech, | 012996, E-2014-012997, E-2014-013007, EPapelsa, Ingredion, Aluminio 2014-013008, E-2014-013009, E-2014
+Emma, Alumina, Sigra, O13013, E-2014-013015, E-2014-013016, ECerroMatoso, Alfagres, Landers, 2014-013017, E-2014-013031, E-2014Cementos Tequendama, Peldar, O13019, E-2014-013021, E-2014-013022, EIberplast, Postobon, Linde, 2014-013024, E-2014-013027, E-2014
+Corpacero, Alpina. O13029, E-2014-013030. Termobarranquilla E-2014-013025 Termotasajero E-2014-013046 TermoemCali E-2014-013050 lisagen E-2014-013072 Consejo Nacional de Operación E-2014-013106 UPME E-2014-013286 EPM E-2014-013288
+Para facilitar la exposición y el análisis de los comentarios, estos se agruparon por grupos temáticos. La descripción completa de los comentarios remitidos por las empresas se puede consultar en el Anexo 1: Asignaciones administradas.
+Los comentarios a las propuestas planteadas en el Documento CREG 077 de 2014, numeral 3.2, son:
+a. Asigna un costo de oportunidad cero al agua, cuando en condiciones de escasez su costo de oportunidad es el mismo precio de escasez. Lo mismo aplica para los combustibles líquidos, ya que su costo de participación sería el mismo precio de escasez, máximo que recibirían en condiciones críticas.
+La comparación debe ser cuando el sistema es más vulnerable, momento en el cual el costo de oportunidad de los recursos renovables tienden a infinito.
+Respuesta:
+Las asignaciones administradas del CxC previstas en la Resolución CREG 071 de 2006 se adelantan cuando la oferta de energía firme es mayor que la demanda esperada del período a asignar.
+En ese sentido y para ese período, la cantidad de energía firme está en exceso y se presenta una condición crítica el precio en bolsa podría llegar a ser el precio de escasez. Situación que nos llevaría a una asignación como la propuesta en el Documento CREG O 77 de 2014.
+b. Durante el 2012 fue el propio MIME quién cito a los agentes térmicos y les pidió que incrementaran la confiabilidad de sus respaldos con líquidos, llevando a cuantiosas inversiones.
+                                                                                    38 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN
+Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión No. 668
+Respuesta:
+La reunión que se realizó en el Ministerio de Minas y Energía, en la cual participó la CREG, fue para conocer la logística de combustibles líquidos que tenían prevista las plantas térmicas para atender las Obligaciones de Energía Firme a que se comprometieron cubrir con dicho combustible y las cuales estaban siendo remuneradas por la demanda a través del Cargo por Confiabilidad. En ningún momento se requirió más allá de lo que las plantas deberían tener conforme a las obligaciones adquiridas voluntariamente por ellas y por lo que la demanda venía pagando.
+c. Lo que requiere el sector es una solución de política energética de abastecimiento de gas natural de largo plazo para las plantas térmicas, a través de las cuales las plantas a líquidos puedan migrara GNl.
+Respuesta:
+La política energética del sector gas natural fue definida con el Decreto 2100 del 2011 “Por el cual se establecen mecanismos para promover el aseguramiento del abastecimiento nacional de gas natural y se dictan otras disposiciones".
+d. La propuesta es la resurrección del Cargo por Capacidad, de un producto no homogéneo, cuyo único efecto, sería el transferir renta desde los agentes térmicos respaldados con líquidos al sector hidráulico. Uno de los problemas del cargo por capacidad era que en su aplicación resultaba era un cargo por energía y no un por energía firme.
+Respuesta:
+La propuesta definida en el Documento CREG 077 de 2014 define una metodología para asignar la Obligaciones de Energía Firme a plantas que tienen energía firme con el objetivo de cubrir la demanda esperada con los recursos más eficientes con que cuenta en el sistema.
+Por lo tanto, no identificamos que exista un cambio del producto: energía firme que se entrega cuando el precio de bolsa supera al precio de escasez. Ahora a lo que lleva la metodología es a asignar obligaciones a las plantas con energía firme y con los costos más eficientes, lo cual no permite concluir que se está cambiando a un cargo por energía. El ajuste que se propone en la resolución atiende al cumplimiento del principio de eficiencia establecido en la Ley 142 de 1994.
+e. El Cargo por Confiabilidad ha sido acertado para aminorar el riesgo para el generador de recuperar sus costos fijos y pueda operar bajo un escenario financiero positivo, estimulando la inversión necesaria en el Sector.
+Respuesta:
+De acuerdo, el Cargo por Confiabilidad ha permitido incentivar las inversiones para la construcción de plantas nuevas a las cuales se les aseguran ingresos hasta por
+D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN VU
+Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión No. 668
+veinte (20) años. Este plazo se consideró suficiente para recuperar las inversiones y situación sobre el cual no se propone cambio alguno.
+La propuesta es para plantas existentes que en su gran mayoría tienen varios años de operación en el sectoro y a las cuales las asignaciones se les hacen por un año, de acuerdo con el cubrimiento del servicio de energía firme que requiera la demanda.
+Algunas de las plantas existentes han realizado inversiones en los sistemas de combustibles para adecuarias para operar con el combustible alterno. Lo que les ha permitido recibir asignaciones OEF y remuneración del Cargo por Confiabilidad durante varios años".
+f. La homogeneidad del producto, la transparencia en la asignación y la
+ausencia del sesgo tecnológico han sido una virtud del producto.
+Respuesta:
+La propuesta no cambia las anteriores características, lo que hace es definir un criterio para la asignación en donde entran todas las plantas y se seleccionan para asignar las más eficientes para cubrir la demanda.
+Sin embargo, la regla anterior podría tener afectación para aquellas plantas que hagan mejoras de eficiencia para futuras asignaciones, razón por la cual en la sección 4 de este documento, se analizan diferentes propuestas para la asignación.
+g. La CREG con esta propuesta, ocasionaría, a través del traslado de rentas en los agentes del parque de generación, estatizar y justificar la puesta en riesgo y eventual expropiación de los activos de generación que usan recursos no-renovables. Lo anterior bajo el argumento de incluir la competitividad como principio regulatorio, no consagrado legalmente como tal, reinterpretando las funciones que a ella le fueron asignadas.
+Respuesta:
+En la Constitución Nacional y desde la expedición de las Leyes 142 y 143 de 1994, el criterio de eficiencia es un principio fundamental en la regulación para buscar un aprovechamiento eficiente de los recursos energéticos, en beneficio de los usuarios en términos de calidad, continuidad, oportunidad y costos de los servicios como lo señalan los artículos 20 y 23 de la citada ley.
+En ese sentido para contar con un respaldo eficiente como lo ordena el artículo 23 de la Ley 143 de 1994, se debe contar con plantas que aseguran el respaldo a los precios más eficientes de acuerdo con la dotación de recursos con que se cuente.
+* La última planta en entrar a operar, antes del inicio del mecanismo del Cargo por Confiabilidad, fue en el año 1998. “Cerca de 10 años teniendo en cuenta que se tienen asignaciones de OEF hasta noviembre de 2016.
+                                                                                    40 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN ???? ????
+Y LAASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión NO. 668
+h. Priorizar el menor costo sin garantizar la prestación del servicio como funciones de la CREG es peligroso y podría llevar a que la regulación termine por incurriren ilegalidades.
+Respuesta:
+La tarea regulatoria la adelanta la CREG con apego a los principios que le señalan la Ley de Servicios Públicos (142 de 1994) y la Ley Eléctrica (142 de 1994), tal como se expuso en la respuesta dada en el literal g.
+i. Es la confiabilidad y no la competitividad lo que se protege como uno de
+los principios fundamentales de la regulación eléctrica.
+Respuesta:
+El principio fundamental de la regulación eléctrica es el criterio de eficiencia de acuerdo con la Ley Eléctrica. Se reitera la respuesta dada en el literal g.
+j. La competitividad no puede ser un principio que termine por hacer inocua la confiabilidad, que se garantiza al tener un parque de generación diversificado.
+Respuesta:
+En el Cargo por Confiabilidad el producto transado es energía firme lo que garantiza que cualquier tecnología puede asegurar la confiabilidad energética. Por lo tanto, el concepto de competitividad no está en contraposición de la confiabilidad, dado que lo que se busca es contar con la energía firme más eficiente en beneficio de los usuarios. La propuesta permite que se garantice la misma o más confiabilidad pero con un mayor criterio de eficiencia.
+k. La asignación por costos variables tiene múltiples inconvenientes de
+cara a la necesidad de mantener una neutralidad en su regulación.
+Respuesta:
+En la sección 4 se presenta la nueva propuesta de asignación de OEF para plantas existentes, la cual introduce ajustes a la propuesta preliminar incluida en el Documento CREG 077 de 2014 en lo relacionado con los costos variables.
+l. El criterio de la asignación administrada debe ser el de asignar las OEFs como lo haría un mercado competitivo. Y, además, debe ser un mercado competitivo en equilibrio; es decir, en una situación en la cual se equilibre la oferta y demanda de OEFs.
+Sí hoy en día sobra energía firme en Colombia no es porque los inversionistas hayan sobredimensionado las plantas sino porque el regulador se ha equivocado en sus previsiones de demanda.
+Respuesta:
+41 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN *?? Y LA ASGINACION DEL CARGO POR CONFIABILIDAD, APLANTASEXISTENTES ????
+
+
+SeSión No. 668
+El Cargo por Confiabilidad es el instrumento con el que cuenta el sistema eléctrico Colombiano para incentivar el desarrollo de plantas de generación que aseguren el Cubrimiento de la demanda.
+Para dar el tiempo suficiente para la construcción de las plantas es necesario asignar las obligaciones de forma anticipada, lo cual se ha venido haciendo con cuatro (4) hasta diez (10) años de antelación.
+Para establecer la demanda esperada a cubrir y asegurar su cubrimiento, la CREG toma como base las proyecciones de la UPME como entidad especializada del estado que adelanta esta tarea, asignada por Ley, tomándose el escenario de menor riesgo para la demanda, escenario alto, lo que permite cubrir la incertidumbre en el crecimiento de la demanda y atraso de proyectos. Además que en la asignación se debe tener en cuenta que los proyectos no son divisibles, es decir no se les pueden hacer asignación parciales.
+Adicionalmente, la selección del escenario alto permite al sistema tener un margen de reserva, lo que tiene un impacto en el precio de bolsatal como lo señalan los estudios de FEDESARROLLO 2009 “El Mercado de la Energía Eléctrica en Colombia" y MERCADOS ENERGÉTICOS CONSULTORES 2011 “Estudio del Impacto Regulatorio del Sector de Energía Eléctrica, Incluida la Regulación de los intercambios de Energía", en donde se identificó la existencia de una alta correlación de signo negativo entre el margen de reserva y los precios de bolsa. Es decir, a
+menor margen de reserva mayor precio de bolsa.
+Por lo tanto, pensar en un sistema que se mantenga constantemente en equilibrio (oferta-demanda) es llevar a una condición en donde todos los recursos de generación serán pivotales, lo que dará poder de mercado a dichos recursos.
+Dado estos elementos, no puede ser objetivo del regulador el mantener una cobertura de generación detal magnitud que no cubra los riesgos antes señalados. Por lo tanto, no se encuentra que sea una equivocación hacer una cobertura para la estimación de la demanda alta proyectada por la UPME que ha sido la regla aplicada desde el inicio del Cargo por Confiabilidad, año 2006, y que ha sido conocida por todos los agentes que participan voluntariamente en dicho mecanismo.
+En la sección 4 se hace un análisis de diferentes alternativas para la asignación entre las cuales una es mediante un esquema de mercado en donde refleja la condición de falta o exceso de energía firme para cubrir la demanda.
+m. Vulneración constitucional: principio de buena fe - confianza legítima. Relevante que los derechos adquiridos por los agentes sean preservados.
+Respuesta:
+Se debe precisar en primer lugar que la propuesta no modifica los derechos adquiridos de quienes a la fecha han recibido asignaciones de obligaciones de energía firme por el mecanismo de subasta o de asignaciones administrada.
+La función de regulación de la CREG es de carácter permanente y debe atender el cumplimiento de los fines señalados en la ley como lo es el de la eficiencia económica
+                                                                                    42 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN V? t/ Y LAASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSjón NO.668
+en la prestación del servicio. Como ya se dijo este principio legal, que tiene origen en el mandato constitucional del artículo 365, es el que se persigue con la propuesta de modificación de las subastas administradas.
+La confianza legítima busca mantener señales estables para quienes son destinatarios de las normas pero esta no puede ser entendida en un sentido tal que conlleve la petrificación de la regulación.
+Las señales regulatorias cuya modificación se analiza fueron adoptadas en el año 2006 con lo cual se ha mantenido su aplicación por un período de casi 10 años. Adicionalmente, las nuevas propuestas presentadas en la sección 4 contemplan mecanismos para que los generadores sigan participando en la asignación.
+n. La protección de las inversiones, los tratados de libre comercio, el caso
+de Colombia y Chile. Aplicación del principio del trato justo y equitativo.
+Respuesta:
+La propuesta presentada no introduce tratamientos diferenciales según el origen de las inversiones en la actividad de generación. Los cambios propuestos están destinados a aplicar en forma homogénea a quienes realizando la actividad de generación deseen participar en la cargo por confiabilidad.
+En cuanto a la aplicación del principio del trato justo y equitativo que se cita en alguno de los comentarios, se observa que en los términos del Acuerdo de Libre Comercio entre la República de Colombia y la República de Chile, dicho principio implica “la obligación de no denegar justicia en procedimientos criminales, civiles, o contencioso administrativos, de acuerdo con el principio del debido proceso incorporado en los principales sistemas legales del mundo." Claramente ni la propuesta del Documento CREG 077 de 2014 ni la que se presenta en el proyecto de resolución que acompaña este documento contienen disposición alguna referente a la aplicación o acceso de los inversionistas a la justicia y a la aplicación del debido proceso.
+o. Al incentivar los recursos renovables, priorizando su asignación, no se valora la energía firme que es capaz de entregar otros recursos como el carbón de manera permanente, constante y comprobada, existiendo el riesgo de llegar a un parque generador vulnerable a los eventos climatológicos.
+Respuesta:
+La energía firme de cualquiera de los recursos que participan en el Cargo por Confiabilidad es estimada para la peor condición hidrológica histórica. Por lo tanto, el riesgo señalado muy difícilmente se materializaría, a menos que se presentara un evento peor al que se ha presentado en la historia.
+p. La energía firme a considerar en los balances debe ser la ENFICC que depende de los parámetros para su cálculo. La propuesta cortaría de raíz la oportunidad de crecimiento y mejoras tecnológicas de las plantas existentes.
+                                                                                    43 </<t D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN
+Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+SeSión No. 668
+Respuesta:
+La nueva propuesta considera la ENFICC que depende de los parámetros para su Cálculo.
+q. La alternativa propuesta elimina la alternativa de cambio de
+combustible.
+Respuesta:
+La nueva propuesta mantiene la alternativa de cambio de combustibles.
+r. El mecanismo del Cargo por Confiabilidad se definió bajo la estructura de mercado, por lo que si lo que desea es que los combustibles líquidos salgan de la matriz energética como respaldo de confiabilidad, debe ser el mismo mercado quien lo resuelva con la entrada de nuevos proyectos de menor costo.
+Respuesta:
+La asignación para cuando no se requiere subasta “asignación administrada" fue definida por una regla del regulador: asignar a pronata la demanda remanente a los recurSOS existentes.
+En la sección 4 presentan dos alternativas para la asignación, entre las cuales una es mediante un esquema de mercado en donde refleja la condición de falta o exceso de energía firme para cubrir la demanda.
+s. Ante un eventual respaldo de GNl de las plantas térmicas del interior, las plantas que quedarían sin asignaciones serían las hidráulicas y las térmicas a carbón. Como consecuencia de que la Res. 139 de 2011 establece asignaciones por OPACGN de 10 años.
+Respuesta:
+La nueva propuesta da misma oportunidad a los diferentes recursos.
+En lo que respecta a la Res. 139 de 2011 dicha norma estableció asignaciones de OPACGNl por 10 años para las obligaciones que inician en diciembre de 2015 y no es una regla general.
+t. En las plantas existentes con que cuenta actualmente el mercado reside la génesis de los problemas de confiabilidad, de formación de precios y de poder de mercado que existen en el mercado eléctrico Colombiano. Es imposible pensar que con la existencia de plantas a líquidos y a gas ineficientes exista un sistema confiable donde se garantice una formación de precios.
+Respuesta:
+                                                                                    44 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACION V????
+Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión NO. 668
+Las plantas existentes dan una garantía de confiabilidad, dado que se hace una verificación de la energía firme. Sin embargo en algunos casos pueden ser a precios altos.
+u. La regla de participación en la asignación administrada de las plantas GPPS va en contravía de las expectativas razonables en materia de asignación del CxC de las plantas existentes, siendo que el modelo original de las plantas GPPS no preveía su participación.
+Respuesta:
+Las funciones de la CREG, según la ley, es lograr esquemas eficientes, luego en la medida que se requieran ajustes para logrario ésta debe adelantarios, sin afectar compromisos ya adquiridos.
+22. Análisis de comentarios a asignaciones por subastas
+Para tener un mejor entendimiento de los comentarios estos se agruparon de acuerdo con los temas de que tratan.
+La descripción completa de los comentarios remitidos por las empresas se puede consultar en el Anexo 2: Asignaciones por subastas.
+Los comentarios a las propuestas planteadas en el Documento CREG 077 de 2014, numeral 3.3, son:
+O Se coincide en que no se deben fusionar las subastas de reloj
+descendente y la subasta de plantas GPPS.
+Fusión subasta de reloj descendente y GPPS, de acuerdo que no se fusione en la medida que las plantas GPPS sean de gran magnitud con oferta competitiva.
+Respuesta:
+Tal como se señaló en el Documento CREG 077 de 2014 no se considera conveniente fusionar la subasta principal con la subasta a plantas GPPS.
+o Participación en la subasta de plantas existentes con la última asignación afecta las reglas de juego existentes y carece del principio de eficiencia económica.
+La asignación se haga anualmente y por costos variables.
+La ENFCC disponible debe primar para la asignación. Pasa por alto que la ENFCC puede estar sujeta a variaciones. Puede afectar la eficiencia del mercado al convocar a subasta aun contando con ENFCC disponible por parte de plantas existentes.
+Respuesta:
+                                                                                                           Kv( ? 45 ?? D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN N??
+"???z?
+?? Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+-???4/
+SeSión No. 668
+En las propuestas que se presentan en la sección 4 para las asignaciones se considera al ENFCC de la planta.
+o Subasta de sobre cerrado es una alternativa si los análisis identifican
+probabilidad de pivotalidad.
+El mecanismo de sobre cerrado puede ser una mejor alternativa para que los participantes revelen mejor su información privada y la misma se refleje en la oferta de precio. Evaluar la posibilidad de que la asignación se haga a precio discriminatorio con el objetivo de inducir una mejor revelación de la información y por tanto de precios más competitivos.
+Respuesta:
+Tal como se señaló en el Documento CREG 077 de 2014, la CREG adelantó la contratación de un experto internacional en subastas, Profesor Peter Cramton que evalúo la conveniencia de migrar a una subasta de sobre cerrado “Colombia Fim Energy Auction: Descending Clock orSealed-Bid?”. Los resultados se presentaron en taller del 3 de junio de 2015 a todos los interesados que respondieron a la convocatoria pública que hizo la CREG mediante la Circular 058 de 2015.
+Dicho estudio recomendó migrar a una subasta de sobre cerrado, dado que los problemas de ejercicio de poder de mercado en una subasta del tamaño de la colombiana pueden ser considerables. Por otra parte dicho estudio ratifico que es conveniente que se siga con una subasta de precio único.
+o linadecuado eliminar la prioridad que tiene la energía remanente de plantas GPPS, pues son recursos ya viabilizados y en construcción. Mantener el precio del último período asignado.
+Los ajustes a las reglas en las subastas GPPS se consideran adecuados y contribuye a eliminar las ventajas que se estaban presentando para plantas GPPS con asignaciones previas.
+Respuesta:
+En el proyecto de resolución que se publica se incorpora la eliminación de la prioridad para las planta GPPS que se asignen en nueva subastas. Sin embargo, se conserva la regla para la planta GPPS que entraron con dicha prioridad.
+o Participación de energía remanente de plantas GPPS es la asignación administrada, podría generar un incentivo a la restricción de la oferta en la subasta inicial, dado que se reduce el riesgo de perder el ingreso.
+La asignación a plantas GPPS en procesos de asignación administrada va en contravía de las expectativas razonables en materia de asignación de OEF de las plantas existentes.
+D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión No. 668
+Participación plantas GPPS en asignación administrada se considera apropiado. Es una medida de eficiencia.
+Respuesta:
+En el proyecto de resolución que se publica se incorpora la participación de la energía no asignada de plantas GPPS con las mismas reglas de las plantas existentes, dado que dichas plantas ya habían adquirido el compromiso de construcción.
+o Aquellos inversionistas que ya tienen proyectos de plantas GPPS se le debe respetar las condiciones de inversión y garantizar la estabilidad regulatoria.
+Respuesta:
+Reiteramos la respuesta dada en el literald.
+o Las plantas puedan hacer uso de una flexibilidad en el sentido de cumplir sus obligaciones con la entrada en operación de las unidades necesarias para cumplir la OEF.
+Los compromisos del Cargo por Confiabilidad, adquiridos voluntariamente, para plantas nuevas son: entrada en operación del activo de generación prometido con la energía firme suficiente para cumplir con las obligaciones asignadas.
+3. Análisis de la situación actual del mercado mayorista de energía: Oferta disponible para contratos y relación con el mercado de confiabilidad
+En esta sección del documento se hace un balance inicial de la oferta de energía disponible con el parque generador actual y los proyectos que se espera se instalen en un futuro cercano, frente a las proyecciones de demanda de la UPME de marzo de 2015. Lo anterior, con el fin de identificar que tan necesario resulta aumentar la oferta de energía, mediante la entrada de generadores de bajos costos variables, que puedan ofrecer contratos bilaterales en el mercado de mediano plazo, así como en la bolsa de energía en el corto plazo.
+Esta revisión de oferta de energía disponible para el mercado de mediano plazo es motivada por un lado, por lo consignado en las bases del Plan Nacional de Desarrollo, en las que se recomienda promover una sustitución de la generación con combustibles líquidos, por plantas de generación con costos más bajos. Como se señala en las bases, una participación relativamente importante de generadores con altos costos variables conlleva a un aumento en el precio del mercado de contratos y en el mercado de corto plazo (i.e. bolsa de energía).
+De otro lado, esta revisión también es motivada por las diversas comunicaciones enviadas a la CREG por parte de los gremios representantes de la demanda, en las que manifiestan su preocupación por la escasez de energía para contratos y el aumento progresivo en los precios de los mismos. En una primera comunicación remitida por Asocodiso, plantean su preocupación “(...) por la disminución en los
+o Radicado CREGE-2014-012627
+                                                                                    47 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN
+Y LAASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión No. 668
+niveles de oferta de energía eléctrica (...)". En esta comunicación, se señala que para el periodo 2016-2019 las convocatorias de compra de energía apenas logran cubrir el 50% de la demanda, lo que en consecuencia, deja a las empresas y a sus usuarios frente a una alta exposición al precio de bolsa, así como a los riesgos de cartera y de caja resultantes.
+En una segunda comunicación enviada por ASOENERGÍA o se manifiesta la imposibilidad que tienen sus asociados de encontrar un portafolio de ofertas de energía con el que se puedan firmar contratos de suministro a un precio competitivo.
+Ante lo dispuesto en las bases del Plan Nacional de Desarrollo, las solicitudes de los agentes y el diagnóstico realizado en el Documento CREG 077 de 2014 en donde se plantea la necesidad de que con las señales de expansión que se den con el CxC se debe garantizar confiabilidad en el suministro de energía e incentivar la instalación de plantas eficientes que puedan ofertar energía en los mercados de mediano y corto plazo, se comparó el nivel de la demanda esperada (escenario medio UPME) con la energía media por tecnologías, tal y como se presenta en la Figura 1.
+Figura 1. Balance entre oferta disponible y demanda esperada en el mediano plazo
+Energía media, EM, por tecnologías
+EM_Liq EMOCG EM GNL EM. Tebsa
+EM H EMCM ENFICC H
+HEM Menores
+H. DC
+80
+60
+4.
+O
+---- DC contratada
+2
+O
+O
+O
+2015 2016 2017 2018 2019
+Fuente. XM, UPME (2015), cálculos propios
+La oferta de energía disponible se ordenó de forma esquemática según sus precios ofertados. En la base se encuentran las plantas menores porque son tomadoras de precio, en segundo lugar se encuentra la energía firme de las plantas hidráulicas (ENFCC H), enseguida se adiciona la energía media de las plantas a carbón (EM CM). La suma de estos dos últimos bloques de energía podría ser considerada como la energía disponible para contratos a un precio bajo. Como se puede ver en la Figura 1, existe una brecha entre la demanda esperada y estos dos bloques de energia.
+A continuación, se adiciona la diferencia entre energía media y firme de las plantas hidráulicas (EM H), se ordenó en tercer en lugar puesto que cada vez que el generador hidráulico decide contratarse por niveles superiores a su ENFICC corre
+o Radicado CREGE-2014-013018
+                                                                                    48 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN \??,??
+Y LAASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+ 
+
+
+SeSión NO.668
+más riesgo, en la medida que en periodos de hidrología crítica deberá recurrir a generadores más costosos para cumplir con sus contratos. Por lo anterior, se supone que la energía que se encuentra entre la energía media y firme de las plantas hidráulicas es más costosa.
+Finalmente, en los últimos escalones de la Figura 1 se presenta la energía media de los generadores con costos variables más altos, es decir, las plantas de gas natural, gas natural importado, gas natural con un contrato de opción y finalmente las que operan con combustibles líquidos.
+De la anterior figura se puede concluir que si bien en caso de un evento crítico, es decir cuando no se pueda contar con la energía media de las plantas hidráulicas (EM H), la oferta de energía es suficiente para cubrir a la demanda; el costo marginal que permitiría satisfacer el nivel de demanda actual así como el esperado sería cercano al costo de los siguientes recursos más costosos como se ve en la figura.
+El balance presentado anteriormente permite concluir que ante el escenario de relativa escasez de gas natural a un precio bajo, una buena parte de la oferta existente no podría ofrecer energía para contratos o en bolsa a precios inferiores o iguales a los registrados en los últimos 5 años. En consecuencia, es preciso incentivar la oferta de energía de precios bajos, para promover la disponibilidad de energía para contratos con precios marginales inferiores.
+Teniendo en cuenta que el mecanismo de CXC es el vehículo regulatorio con el que se han dado las señales de expansión del parque generador nacional en la última década, pero que en la actualidad no se presentan las condiciones bajo las que se convocaría una nueva subasta, es preciso crear un nuevo esquema que permita la entrada de nuevos proyectos de generación con costos variables bajos, así como introducir nuevas reglas para la asignación administrada del CXC que permitan mejorar la eficiencia en la asignación de la energía firme existente.
+4. Esquemas regulatorios propuestos
+Partiendo del diagnóstico presentado en la sección anterior, así como los análisis y las alternativas presentadas en el Documento CREG 077 de 2014, en esta parte del documento se pone a consideración de los agentes las alternativas diseñadas por la CREG, para lograr incentivar la entrada de nuevos generadores de costos variables bajos y lograr una asignación eficiente del cargo entre los generadores existentes, sin afectar la confiabilidad del sistema.
+En términos generales, la propuesta contempla dos estrategias:
+o La realización de una subasta adicional del CXC para incentivar la entrada de nuevos generadores de costos variables bajos, que amplíe la base de energía disponible para contratos en el mediano plazo
+o Complementariamente se plantean ajustes a la regla de asignación a prorrata del CxC, con el fin de dar señales de eficiencia en la asignación de OEF entre los recursos existentes, para lo cual se ponen en consideración dos alternativas.
+                                                                                    49 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN
+Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+%
+
+
+SeSión No. 668
+Es preciso recordar que adicionalmente a la propuesta que se presentará en esta sección, se adoptarán los ajustes a la subasta del cargo que fueron resultado de las recomendaciones de los consultores. Dichos ajustes son los mismos que se presentaron en el Documento CREG 077 de 2014 y que fueron discutidos en la primera sección de este documento.
+4.1. Subasta adicional mediante el Cargo por Confiabilidad
+El primer elemento de la propuesta para alcanzar los objetivos mencionados anteriormente consiste en la realización de una subasta adicional del CXC. Esta subasta estaría dirigida a proyectos de generación de bajos costos variables que ya estén listos para iniciar la construcción de forma tal que puedan estar disponibles en el mediano plazo.
+Concretamente, la subasta adicional se caracterizaría por los siguientes elementos:
+i) Subasta de sobre cerrado y precio máximo.
+ii) Costo variable de operación debe ser menor o igual al 80% del precio de
+escasez para poder participar
+iii) Precio máximo de oferta igual al valor del cargo actual
+iv). Inicio del periodo de obligación será definido por la CREG.
+v) La cantidad de energía firme a comprar será determinada por la CREG
+vi) Los generadores que salgan seleccionados de esta subasta tendrán OEF y el
+ingreso del CXC hasta 20 años.
+En el Anexo 3 de este documento se presenta el proyecto de resolución que contiene los detales normativos de esta propuesta.
+4.2. Altemativas propuestas para la asignación administrada
+Las asignaciones administradas se llevan a cabo cuando la oferta de energía firme, en la que se contemplan las OEF de las plantas nuevas y energía firme de las plantas existentes, es suficiente para cubrir la demanda esperada para el período de análisis.
+El procedimiento establecido en el artículo 25 de la Resolución CREG 071 de 2006 señala que la demanda remanente, es decir, la demanda que no está cubierta con asignaciones previas de OEF a plantas nuevas, se asigna a las plantas existentes a prorrata de su energía firme.
+En el Documento CREG 077 de 2014 se propuso que las asignaciones administradas por la demanda remanente a las plantas existentes se hiciera por sus costos de operación, es decir, iniciando con aquellas que tienen recursos renovables y continuando con las plantas de combustibles fósiles de menores costos variables.
+Teniendo en cuenta los comentarios recibidos por parte de los agentes, así como los objetivos enumerados anteriormente, se presentan a continuación dos alternativas para las asignaciones de OEF a plantas existentes.
+                                                                                    50 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN \? ?????}/ Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+???? ?????
+SeSión No. 668
+En primera instancia, se tiene una alternativa similar a la presentada en el Documento CREG 077 de 2014, pero en lugar de utilizar los costos de operación como criterio de ordenación para la asignación, se utilizan los precios ofertados. La segunda alternativa consiste en una asignación con la reglas de la subasta actual, propuesta presentada por el profesor Peter Cramton en el marco del estudio “Colombia Fim Energy Auction. Descending Clock or Saled-bid?".
+4.2.1. Asignaciones de OEF con precios ofertados
+En términos generales, esta primera alternativa propone que la regla de asignación de OEF a la demanda remanente tenga como criterio el promedio de precios ofertados en bolsa durante el año anterior a la asignación.
+Las reglas serían las siguientes:
+j) Se asigna la demanda remanente a prorrata entre las plantas de generación, que tengan un promedio de precios ofertados menor o igual al promedio del precio de escasez.
+ii) La demanda remanente que falte por asignar, después de haber aplicado el paso i, se asignará a prorrata entre las plantas de generación que tengan un promedio de precios ofertados superior al promedio del precio de escasez.
+El promedio de precios ofertados no es más que el promedio aritmético de los precios de oferta diarios que la planta declaró durante los doce meses calendario, anteriores a la fecha de asignación.
+El promedio del precio de escasez corresponde al promedio aritmético de los precios de escasez mensuales correspondientes a los doce meses calendario anteriores a la fecha de asignación.
+En la Figura 2 se presenta gráficamente la propuesta, siendo las plantas E1 a E6 del grupo i, precios ofertados por debajo del precio de escasez, y las plantas E7 a E9 las del grupo i, precios ofertados por encima del precio de escasez.
+                                                                                    51 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN
+Y LAASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión No. 668
+Figura 2. Asignación de OEF por precios ofertados
+70,000 T
+Planta E9
+60.000 - Planta E8 50,000 ? ? Planta E7 || U. -- ??.
+                                                                | Planta E6 ?40000 - ?? Planta E5 || s ? Planta E4
+                                                               Planta E3 20.000 o Planta E2 ||
+10,000 Planta E1
+                                                       M PNDC ----?-- O Planta nueva
+Demanda Oferta OEF
+Ahora, las plantas del grupo i pueden tener oportunidad de clasificarse en el grupo i. para lo cual se propone que el procedimiento de asignación tenga el siguiente orden:
+a. Se asignan las OEF con el procedimiento señalado anteriormente pero considerando en el grupo i a las plantas del grupo i que manifiesten el compromiso de hacer las actualizaciones para pertenecera dicho grupo.
+b. Faltando dos (2) meses, para el inicio del período de vigencia de las obligaciones se verifica que la planta que se comprometió a hacer las actualizaciones las haya hecho, momento en cual se confirma las asignaciones previstas en a... en caso contrario se hacen nuevamente considerando la planta en el grupo ii.
+c. En el Anexo 4 de este documento se presenta el proyecto de resolución que contiene los detalles de esta alternativa, así como los ajustes recomendados a la subasta.
+4.2.2. Asignaciones de OEF con subastas anuales
+El profesor Cramton en el marco del estudio que adelantó para la CREG propuso” que como en todos los mercados de confiablidad que han adoptado esquemas similares al colombianoo, se convoquen subastas anuales en donde siempre participen plantas nuevas y existentes. En caso que cuando se convoque la subasta, no participen plantas nuevas, el precio del CXC se formaría únicamente con la participación de las plantas existentes.
+"Las actualizaciones corresponden a contar con toda la infraestructura y contratos necesarios
+ara operar con el combustible que les va a permitir reclasificarse en el grupo i. "Colombia Firm Energy Auction: Descending Clock or Sealed-Bid?", junio 2015. o New England y PJM entre otros.
+                                                                                    52 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN
+Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+ 
+ 
+ 
+
+
+SeSión NO. 668
+Figura 3. Propuesta de asignación de OEF por subasta anual
+Price of firm energy Supply
+Rejected
+P SSSSSSSSSSSSSSS SS SS
+Accepted
+Demand
+O
+Fuente: CantOn P.
+Dicha subastas tienen las siguientes características:
+o Tienen las mismas reglas de las subasta del cargo por confiabilidad que se tienen en la actualidad, Resolución CREG 071 de 2006, en donde la plantas existentes son activas a partir del 80% del CE.
+o Las subastas anuales dan la oportunidad constante de entrada y salida.
+o Envían la señal de precio basado en las necesidades: ) precio alto cuando se requiere la entrada de nuevas plantas, ii) precio bajo cuando hay exceso, iii) plantas nuevas y existentes compiten todos los años.
+En cuanto a cambio de combustibles se aplicarían las mismas reglas vigentes.
+En el Anexo 5 de este documento se presenta el proyecto de resolución que contiene los detalles de esta alternativa, así como los ajustes recomendados a la subasta.
+En la medida que cualquiera de las dos alternativas propuestas para la asignación del CxC a las plantas existentes corresponde a un cambio frente a las reglas actuales, la CREG llevará a cabo una evaluación de las alternativas propuestas aplicando los Criterios:
+a. Simplicidad. La aplicación de las reglas que se adopten son de fácil
+implementación.
+b. Neutralidad. Se da el mismo tratamiento a todas las plantas ylo unidades de
+generación.
+c. Formación de precios. El precio del Cargo por Confiabilidad se define de la
+interacción de la oferta y la demanda para el período a asignar.
+d. Ajuste con la demanda. Las cantidades que se asignan son iguales a la
+demanda que se quiere cubrir.
+                                                                                    ?? 53 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DE GENERACIÓN \??????? Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES
+
+
+SeSión No. 668
+e. Oportunidad nueva generación. El mecanismo permite la participación de
+nuevas plantas de generación.
+f. Asigna a costos variables bajos. La metodología permite asignar las OEF a la
+plantas de generación de menores costos variables.
+4.3 Procedimiento de aplicación de la propuesta
+La puesta en marcha de la propuesta presentada en los literales anteriores contempla dos etapas y se esquematiza en la Figura 4. Como se mencionó anteriormente, la primera parte de la propuesta corresponde a la realización de una subasta adicional del CxC (propuesta presentada en el literial 4.1), con el fin de incentivar mediante el mecanismo del CXC, la entrada de generadores de costos bajos en el mediano plazo.
+Las plantas nuevas que resulten seleccionadas en ese proceso quedarán en la base de la energía firme a asignar (i.e. En la Figura 4 corresponde a los bloques morados) y deberán estar en la capacidad de ofrecer su energía en el mercado de contratos en el mediano plazo.
+La segunda etapa consiste en aplicar un nuevo esquema de asignación del CxC a las plantas existentes, que como se presentó anteriormente, podría ser una asignación por precios ofertados (presentada en el literal 4.2.1) o mediante una subasta anual de sobre cerrado (presentada en el literal 4.2.2). En la Figura 4, corresponde al bloque naranja.
+Figura 4. Estrategia regulatoria para el logro de los objetivos planteados
+s ? ? ? d --
+E UV ?
+                                                          LL ??? ? - =??
+L ?| ° ? O - "sk
+       C LL ? ??? ?? ? . ?? E s ? 5 ?"
+??
+Año t Año t+1 Año t+2
+Tiempo
+Finalmente, vale la pena reiterar que la propuesta planteada busca por un lado, incentivar la entrada de generadores con costos bajos que aumenten la oferta de energía para contratos en el mediano plazo, lo que resultará en menores precios para la demanda, sin que ello signifique aumentar la cantidad de energía firme a asignar. De otro lado, se busca que la asignación del CXC entre los agentes existentes de la energía firme remanente provea señales de eficiencia.
+D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN Y LA ASGINACION DEL CARGO POR CONFABILIDAD, APLANTASEXISTENTES
+ 
+ 
+ 
+
+
+SeSión No. 668
+5. Bibliografia
+(1) Castro L., Oren S., Riascos A., "An Evaluation of CREG 051 - 2009
+Regulatory Intervention in Colombian Electricity Market", diciembre 2013.
+(2) Comisión de Regulación de Energía Gas, Resolución CREG 071 de 2006 “Por la cual se adopta la metodología para la remuneración del Cargo por Confiabilidad en el Mercado Mayorista", octubre 2006.
+(3) Comisión de Regulación de Energía Gas, Documento CREG 077 de 2014 “Expansión en generación de energía eléctrica y cargo por confiabilidad", Octubre 2014.
+(4) Cramton P., "Colombia Fim Energy Auction. Descending Clock or Saled
+Bid?", junio 2015.
+(5) Fabra N., Montero J.P., Reguant M., “La Competencia en el Mercado Eléctrico
+Mayorista en Chile", enero 2014.
+(6) Fedesarrollo, “El Mercado de la Energía Eléctrica en Colombia.
+Características, Evolución e Impacto sobre otros Sectores", 2009.
+7 Harbord D., Pagnozzi M., "Second Review of Fim Energy Auctions in
+Colombia", diciembre 2012.
+(8) Mercados Energéticos Consultores, “Estudio del Impacto del Marco
+Regulatorio del Sector de Energía Eléctrica, Incluida la Regulación de los Intercambios de Energía", 2011.
+55 D-070-15 PROPUESTAS PARA LA ENTRADA DE NUEVASPLANTAS DEGENERACIÓN \???? Y LA ASGINACIÓN DEL CARGO POR CONFIABILIDADAPLANTASEXISTENTES ????
+

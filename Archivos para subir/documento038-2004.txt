@@ -1,0 +1,656 @@
+Comisión de Regulación de Energía y Gas
+PROPUESTA PARA LA DETERMINACIÓN Y ASIGNACIÓN DEL CARGO POR CONFIABILIDAD EN EL MERCADO DE ENERGÍA MAYORISTA
+DOCUMENTO
+              CREG- 038 25 DE JUNIO DE 2004
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+
+PROPUESTA PARA LA DETERMINACIÓN Y ASIGNACIÓN DEL CARGO POR CONFIABILIDAD EN EL MERCADO DE ENERGÍA MAYORISTA
+1 INTRODUCCIÓN.....................................................................................................5
+2 JUSTIFICACIÓN CONCEPTUAL DEL CARGO POR CONFIABILIDAD ...........5
+2.1 Propósitos Identificados. 6
+2.2 Retos 7
+3 CARACTERÍSTICAS DEL MERCADO DE ENERGÍA COLOMBIANO:............10
+3.1 Composición del parque de generación 11
+3.2 Remuneración del negocio de generación 11
+3.3 Ventas de energía en el mercado de corto plazo 11
+3.4 Ventas de energía en el mercado de largo plazo 13
+3.5 Remuneración por Cargo por Capacidad 15
+3.6 Vulnerabilidad hidrológica del sistema eléctrico colombiano 16
+4 VALORACIÓN DE LA CONFIABILIDAD Y GARANTÍA DE SUMINISTRO
+EN UN MERCADO DE ENERGÍA LIBERALIZADO.......................................... 16
+5 LA ADMINISTRACIÓN DEL RIESGO................................................................. 18
+6 OFERTA ESTRATÉGICA DE PRECIOS EN UN MERCADO DE ENERGÍA
+LIBERALIZADO.................................................................................................. 19
+6.1 Modelos de competencia imperfecta 19
+6.2 Determinación de los ingresos por concepto de ventas de energía en
+bolsa y contratos 20
+7 EXPERIENCIAS INTERNACIONALES EN MATERIA DE
+REMUNERACIÓN DE CARGO POR CONFIABILIDAD....................................24
+7.1 Mercado de Pennsylvania -New Jersey y Maryland-PJM- 24
+2 r
+
+
+7.2 Mercado Español 24
+7.3 Mercado Panameño 24
+7.4 Mercados de solo energía 25
+8 ESTUDIO REALIZADO POR LA FIRMA JERA.................................................25
+9 ESTUDIOS REALIZADOS POR LOS GENERADORES COLOMBIANOS 25
+10 RESUMEN DE PRINCIPALES OBSERVACIONES AL CARGO POR
+CAPACIDAD ACTUALMENTE VIGENTE EN COLOMBIA...............................26
+11 MAGNITUD DE LA REMUNERACIÓN POR CONCEPTO DE CARGO
+POR CONFIABILIDAD........................................................................................28
+12 PROPUESTA REMUNERACIÓN CARGO POR CONFIABILIDAD.................. 29
+12.1 Mecanismo propuesto para la asignación a los agentes generadores del
+Cargo por Confiabilidad 29
+12.1.1 Remuneración por energía firme..............................................................29
+12.1.2 Mecanismo para determinar la asignación del Cargo por
+Confiabilidad por energía firme entre los agentes generadores..............29
+12.1.3 Mecanismo para determinar la asignación del Cargo por
+Confiabilidad por Potencia Firme entre los agentes generadores...........35
+12.2 Recursos de generación a ser considerados en la asignación del Cargo
+por Confiabilidad 36
+12.3 Determinación de la magnitud de Cargo por Confiabilidad a ser
+remunerado 36
+12.4 Determinación del valor del Cargo por Confiabilidad 37
+12.5 Mecanismos necesarios para que los generadores garanticen el nivel de
+confiabilidad que se les esta remunerando 38
+12.6 Intervención de embalses e Indisponibilidad de combustible 38
+12.7 Mercado secundario de confiabilidad 39
+
+
+12.8 Oferta de precios al mercado de energía 39
+12.9 Liquidación y recaudo del Cargo por Confiabilidad por concepto de
+energía firme y Potencia 39
+13 REFERENCIAS....................................................................................................40
+4
+
+
+Sesión No. 237
+1 Introducción
+Este documento tiene por objetivo presentar una propuesta conceptual sobre el Cargo por Confiabilidad que puede ofrecer el sistema eléctrico colombiano, como contraprestación a la firmeza energética y al cubrimiento de la demanda de potencia del sistema.
+Esta señal económica, permite disminuir incertidumbre sobre flujos financieros esperados de caja para proyectos existentes y para proyectos nuevos, de forma tal que se tengan señales de largo plazo como incentivo a la instalación de nueva generación en el país y a la permanencia de la existente.
+El mecanismo planteado para la remuneración por concepto de Cargo por Confiabilidad contenido en el presente documento, conserva los principios fundamentales y los objetivos buscados en el actual mecanismo de remuneración, pero adicionalmente, permite a los agentes generadores, tanto térmicos como hidráulicos y de otras tecnologías, la autovaloración de sus recursos de generación, eliminando el procedimiento centralizado de determinar el valor de agua y los costos variables de generación y vincula de manera consecuente, esta valoración con el mercado ocasional.
+2 Justificación Conceptual del Cargo por Confiabilidad
+Entre las justificaciones que se han dado para considerar que los mercados de energía en competencia, no garantizan el pleno abastecimiento de la demanda, están algunas imperfecciones que caracterizan estos mercados:
+• Los consumidores no están preparados para tomar las mejores decisiones sobre la suficiencia y seguridad del suministro y por tanto sus niveles de consumo no se ajustan a las circunstancias específicas que afronta el sistema para garantizar el suministro hora a hora.
+• En el lado de la oferta se han identificado imperfecciones relacionadas con segmentos de la producción que presentan economías de escala, existencia de concentración de propiedad, existencia de poder de mercado, etc.
+En general en un mercado de energía se identifican externalidades que generan costos (racionamiento) y producen beneficios (confiabilidad), y el pago por confiabilidad pretende internalizar estas externalidades cobrando a los usuarios el valor de la confiabilidad que desean y pagando a los generadores por el beneficio que se obtiene de la confiabilidad que brindan. En la medida en que se logre internalizar las externalidades identificadas, que hacen el mercado inestable e ineficiente, a través de un pago por confiabilidad, se logra que el precio que pagan
+0-033 Confiabilidad
+5
+
+
+los usuarios (energía y confiabilidad) correspondan al precio de equilibrio en el largo plazo en un mercado perfecto.
+2.1 Propósitos Identificados.
+Uno de los principales objetivos del regulador dentro de un mercado liberalizado de energía, es que exista la suficiente capacidad instalada de generación para abastecer la demanda futura.
+Es así como el regulador debe propender por garantizar una confiabilidad en el suministro, la cual no necesariamente se garantiza a través del mercado, dadas las imperfecciones que se presentan en su funcionamiento.
+La confiabilidad se puede desagregar en dos condiciones:
+La primera una condición relacionada con la seguridad en la operación del sistema, está condición es de corto plazo y en esencia se refiere a la capacidad de respuesta del sistema ante eventualidades en la demanda o en la oferta.
+La segunda condición está relacionada con la suficiencia en el abastecimiento, que corresponde a un concepto de mediano y largo plazo, y se refiere a la capacidad del sistema de atender la demanda futura de energía del mismo.
+En este sentido es claro que lo que se requiere es: i) motivar la inversión en generación de punta, logrando la estabilización de los ingresos de los generadores. En general, está generación resulta más costosa comparada con la generación que se requiere en la operación normal del sistema, y ii) otorgar señales de inversión para que nuevos proyectos entren a competir en el largo plazo y para que los existentes permanezcan en el mercado. En la mayoría de los casos los diseños de mecanismos de pago por confiabilidad consideran la condición de largo plazo.
+El inversionista, que en general es adverso al riesgo de no recuperar sus capitales, en un mercado real de energía se puede abstener de invertir. Como ya se dijo, el mercado real de energía tiene imperfecciones que conducen a que el precio del mercado no necesariamente refleje las condiciones de la oferta y la demanda.
+Por otra parte, dadas las altas volatilidades en los precios del mercado, se genera incertidumbre que el inversionista valora como un mayor nivel de riesgo en la inversión. Así mismo los usuarios prefieren no recibir una señal de precios volátil, con lo cual están dispuestos a asumir dicho costo. Es por esto que la reducción razonable de la volatilidad., tanto desde el punto de vista de los usuarios como de los inversionistas, se constituye igualmente, en un elemento importante dentro de los propósitos del cargo.
+
+
+2.2 Retos
+Cuando se establece un pago por confiabilidad en un mercado en competencia, se identifican dos retos fundamentales: i) establecer un monto apropiado de acuerdo con las condiciones de confiabilidad que se hayan establecido y ii) distribuirlo de manera efectiva.
+Es importante considerar que el exceso de incentivos en un mercado puede generar operaciones sub óptimas y costosas, y que la falta de incentivos puede conducir a racionamientos de energía, de alto costo.
+Una aproximación para resolver el primer problema es considerar que la confiabilidad es un bien público, y que por lo tanto ésta debe concordar con las características del bien que los usuarios buscan. El mercado debería ser entonces capaz de captar la disposición a pagar de los usuarios por concepto de confiabilidad, para posteriormente determinar el monto de recursos que se destinen a este propósito.
+Otra aproximación es tratar de evaluar el tamaño y la composición del parque óptimo, para abastecer la demanda con cierta confiabilidad, y pagar ese valor.
+Así por ejemplo, en mercados de capacidad se ha implementado la contratación por parte de un distribuidor de una capacidad igual a la carga pico mensual esperada, más un margen de reserva.
+Para cumplir con el objetivo de tener un nivel determinado de confiabilidad en el largo plazo, en un mercado de energía desregulado, en el cual desaparece el estado como planificador y ejecutor central, las señales requeridas deberían provenir del mismo mercado (0ren2000), sin la necesidad de mecanismos centralizados que brinden un nivel de ingresos determinado a los agentes generadores, tanto a los establecidos como a los entrantes, en contrapartida a la firmeza energética y de potencia que el sistema requiere. Sin embargo es importante considerar que dicha condición solo se logra en los mercados ideales en los cuales el consumidor se encuentra expuesto al precio y a las señales de escasez, valorando de manera inmediata los cambios en las especificaciones del producto que está dispuesto a recibir, y brindando de esta manera, las señales necesarias para las variaciones de la demanda. De igual manera se parte del supuesto de la participación de agentes inversionistas neutrales al riesgo, que respondan en forma oportuna a dichas señales. Bajo este principio se han diseñado mercados como: California, Nordpool y Victoria (Australia).
+Una vez iniciada la desregulación de los mercados de energía, que empezó en el año 1978 con la liberalización del mercado chileno, la implementación de diferentes mecanismos regulados de pagos a los generadores ha buscado brindar las condiciones necesarias de flujo de caja con el fin de garantizar la expansión requerida por el sistema y lograr que aquellos generadores que ya se encuentran instalados, permanezcan en el mismo, alcanzando de esta manera el nivel de confiabilidad de largo plazo requerido.
+
+
+Para el caso de la confiabilidad relacionada con la firmeza energética, estos mecanismos de remuneración se hacen necesarios en el caso particular de sistemas hidrotérmicos, donde la confiabilidad o suficiencia de los recursos energéticos se ve drásticamente comprometida ante eventos de hidrología crítica, por la disminución significativa en la energía firme de los recursos hidráulicos. La vulnerabilidad hidrológica resulta ser una característica relevante, en mercados donde la proporción de energía hidráulica es importante, para establecer el grado de suficiencia energética del sector eléctrico. En este sentido mecanismos de remuneración de la firmeza energética adquieren una gran importancia.
+En la Figura No. 1 se aprecia cómo para condiciones hidrológicas secas, el sistema requiere una mayor reserva energética, la cual debe ser ofrecida a éste con anterioridad a la presencia del evento crítico (reserva hidráulica en embalses por ejemplo).
+Energía requerida en el
+Energía
+período
+Evento crítico en el cual se requiere firmeza energética
+Húmedo Medio Seco
+Figura No. 1 Concepto de firmeza energética en función de los eventos hidrológicos
+En la Figura No. 2 se ilustra lo que ocurre para los diferentes períodos hidrológicos, entre agentes hidráulicos y térmicos, en función de la naturaleza de su firmeza energética. Los hidráulicos ofrecen firmeza energética menor, a medida que la hidrología se hace más crítica (sequía), mientras que los térmicos solo presentan limitaciones cuando existen problemas en el suministro del combustible o en su transporte, lo cual puede ocurrir con mayor probabilidad cuando existen precisamente condiciones hidrológicas críticas, debido a que se espera que la demanda de combustibles, especialmente de gas, crezca.
+
+
+Capacidad hidráulica Capacidad térmica
+í
+Energía firme
+Energía firme
+Limitaciones en el suministro de combustible
+Húmedo Medio Seco Húmedo Medio Seco
+Figura No. 2 Firmeza energética de Recursos térmicos e hidráulicos
+Para el caso de la confiabilidad relacionada con la capacidad del sistema de atender los picos de potencia, se requiere también una señal que permita tener instalada y disponible una holgura de potencia en éste, suficiente para cubrir una expectativa de demanda pico, incluyendo contingencias y crecimiento de la misma, así como una reserva rodante de potencia.
+En los sistemas en los que la firmeza energética no presenta mucha incertidumbre, como ocurre cuando son fundamentalmente térmicos, la remuneración de firmeza se orienta generalmente a garantizar suficiente holgura de potencia en los picos (nadie instala un generador térmico de un tamaño superior al que puede ser atendido por el suministro de combustible que tiene), mientras que a medida que el sistema es más hidráulico, la remuneración de la firmeza energética se hace cada vez más importante, dado que la potencia del generador se determina con base en las expectativas hidrológicas (Factor de Planta), aunque obviamente no se pierde la necesidad de respaldar los requerimientos de cubrimiento de los picos de demanda. Otro extremo es un sistema totalmente hidráulico, el cual, si no presenta problemas de desabastecimiento energético, difícilmente (por el sobredimensionamiento de potencia que supone el Factor de Planta), presentará problemas para atender el pico de la demanda.
+Es entonces conveniente la existencia combinada de varios tipos de recursos de generación, que al presentar costos variables de producción diferentes, conllevan a diferentes despachabilidades, de tal forma que, los térmicos, por ejemplo, tienen costos variables superiores al precio marginal del mercado cuando el sistema se encuentra bajo condiciones hidrológicas favorables (eventos de hidrología húmeda o media) y demandas bajas o medias, y por lo tanto sus mejores oportunidades de mercado spot se dan durante los períodos de tiempo en el año, que conlleven a costos de oportunidad del agua altos para los generadores hidráulicos, o durante los picos diarios de potencia, cuando la capacidad hidráulica es insuficiente para cubrirla totalmente.
+9
+
+
+i i
+CVT3
+Precio marginal del sistema
+CVT2
+CVT1
+Condición hidrológica o pico de potencia
+Hidrología húmeda o baja demanda Hidrología media o media demanda — Hidrología crítica o demanda pico
+Figura No. 3 Firmeza energética de térmicos e hidráulicos
+La Figura No. 3 muestra cómo para condiciones de hidrología húmeda las tecnologías de generación T2 y T3 no podrían recuperar sus costos variables de generación (CV-T2 y CV-T3), y por lo tanto no participarían del despacho de generación durante dichas condiciones, viéndose restringida su participación solo durante condiciones hidrológicas medias y secas, o durante picos de demanda mayores.
+3 Características del Mercado de Energía Colombiano:
+El proceso de reestructuración del sector eléctrico colombiano, implementado a mediados de la década de los 90, tuvo como fundamento incentivar la participación de agentes privados en los diferentes eslabones de la cadena de prestación del servicio de energía eléctrica, y especialmente en la actividad de generación. El Estado dejó de tener la función de planificador - ejecutor central y asumió la regulación económica, a través de la cual se deben diseñar los mecanismos de mercado y las señales necesarias para que los agentes del mercado se encarguen de la expansión del sistema requerida para garantizar un nivel adecuado de confiabilidad en el largo plazo.
+
+
+3.1 Composición del parque de generación
+Históricamente el sector de generación de energía eléctrica en Colombia se ha desarrollado alrededor de grandes centrales hidroeléctricas, debido a las características geográficas e hidrológicas favorables presentes en muchas regiones del territorio nacional (se ha estimado una capacidad potencial de generación hidráulica de más de 100.000 MW), y al paradigma de las economías de escala y de alcance en la transmisión, supuestamente existentes en los grandes proyectos hidroeléctricos cuando están unidos al negocio de transporte de grandes bloques de energía eléctrica, que aunque presentan altos costos fijos de instalación, se caracterizan por bajos costos variables. Esta situación ha sido revaluada con la aparición de tecnologías de generación térmica, con bajos costos de instalación, aunque altos costos variables, que resultan competitivas frente a las tecnologías hidráulicas, así como con la implementación de esquemas de mercado en los cuales los negocios de generación y transmisión son independientes.
+La anterior situación se evidencia al analizar la evolución histórica del parque de generación instalado, donde se observa una creciente participación de recursos de generación térmica, los cuales complementan las necesidades de firmeza energética del sistema, reduciendo el riesgo de desabastecimiento durante períodos secos. Cabe anotar que desde el punto de vista de costo de prestación del servicio, se debe propender por una canasta tecnológica que permita alcanzar el nivel de confiabilidad deseado con un costo de operación eficiente.
+3.2 Remuneración del negocio de generación
+El mercado de energía eléctrica, implementado como resultado del proceso de liberalización y reestructuración, remunera el negocio de generación mediante la venta de energía que los generadores realizan, bien sea en contratos de largo plazo o por ventas en bolsa. Adicionalmente existe la figura del Cargo por Firmeza (llamado también Cargo por Capacidad o Cargo por Potencia), que remunera parcialmente los costos fijos de inversión a los generadores que contribuyen a la confiabilidad del sistema, simulando condiciones de hidrología crítica o como soporte de potencia para cubrir picos de demanda, incluyendo crecimiento. Dicho cargo por firmeza obedece a la necesidad de los mercados reales de contar con un mecanismo de flujo de fondos, el cual busca brindar las señales requeridas para garantizar la expansión del sistema de generación y la permanencia en el mercado de los generadores existentes, además de que sirve como señal para reducir la volatilidad del mercado Spot, debido a que reduce las necesidades de flujo de caja en el sistema y de esta forma, la necesidad de especular en el mercado ocasional.
+3.3 Ventas de energía en el mercado de corto plazo
+Para el mercado de energía colombiano se adoptó desde 1994 un modelo económico de remuneración a costo marginal, según el cual todas las ventas realizadas en el mercado de corto plazo (Bolsa) son remuneradas al precio de
+11
+
+
+despeje del mercado (precio de bolsa). Cada generador debe realizar diariamente una oferta que refleje sus costos variables y debe hacer una declaración de disponibilidad horaria.
+De conformidad con la reglamentación vigente, la oferta realizada por los generadores debe reflejar su estructura de costos variables, permitiendo que los generadores que son despachados puedan recuperar la totalidad de costos variables y parte de sus costos fijos, mediante la renta inframarginal, es decir, el diferencial entre el precio del mercado (precio de bolsa) y el precio de oferta (costos variables). De conformidad con la teoría marginalista, en el largo plazo la renta inframarginal remunera la totalidad de la inversión. Esta renta inframarginal refleja la volatilidad del mercado de corto plazo, lo que en la practica significa volatilidad en los ingresos de los productores, incrementando el nivel de incertidumbre sobre el flujo de fondos del negocio.
+La Figura No. 4 muestra la evolución histórica del precio promedio mensual de bolsa del mercado de energía colombiano, para los períodos de demanda pico y fuera de pico.
+4-íj.
+Figura 4. Evolución precio promedio de Bolsa, fuente: Interconexión Eléctrica S.A -ISA- Gerencia Administración y Operación del Mercado
+De la anterior Figura se puede observar que el sistema presenta rachas de precios altos debidas a condiciones hidrológicas críticas, momentos en los cuales las tecnologías de generación que presentan mayores costos variables pueden entrar en
+12
+
+
+mérito con mayor probabilidad y producir una renta inframarginal importante para todos los generadores, que en valor esperado, permite remunerar la inversión a la tasa implícita del mercado.
+La anterior consideración establece que bajo condiciones de competencia, un mercado de corto plazo (spot) está en capacidad de remunerar no solo los costos variables de generación de la planta que pone el precio de bolsa, sino parte de los costos fijos de las demás plantas que entren en mérito.
+3.4 Ventas de energía en el mercado de largo plazo
+Adicional al mecanismo de corto plazo (bolsa) implementado, existe el mercado de Contratos Bilaterales en el cual los generadores tienen la posibilidad de vender energía a término, mediante contratos bilaterales de carácter financiero. En este mercado el precio y el plazo son pactados libremente entre el comprador y el vendedor.
+Mediante el mercado de Contratos Bilaterales se transa un alto porcentaje de la demanda, permitiendo que tanto la demanda como la oferta puedan alcanzar un grado importante de cubrimiento del riesgo de mercado (volatilidad del precio).
+Si bien el mecanismo de Contratos Bilaterales de largo plazo, podría brindar las señales requeridas por el sistema para el incremento de la capacidad de generación, logrando de esta manera alcanzar los niveles de confiabilidad deseados, dicha condición solo se lograría en la medida en que los contratos firmados tuvieran una duración suficiente para dar la señal financiera a quien desea hacer la inversión de respaldo a ese contrato. Situación esta última que no siempre se puede lograr ya que la duración de dichos contratos en general no es muy larga, por la aversión al riesgo en la estimación del Costo Incremental de Largo Plazo. Esta situación se puede apreciar en la siguiente gráfica que muestra la duración media de los contratos firmados en Colombia.
+
+
+Histograma Duración de Contratos
+160 i
+<0 140 -
+                 i---------- 5 6
+120 - -------
+=
+100
+        - « ?o >3 g E a>
+ao.
+60
+40 -
+        ---- - 2 20
+0 ----- 1 I I i l---- 1 I "" I---- F
+o 1 p o Oí 1 Oí i ro p 6 i i b * i A Oí O) 00 co OI b i en en en en
+p 7^- ro p
+V
+01
+     ho co i i i i i i en i en en én A Oí en OI o í Oí <j> 00 en b i o í en p
+en
+p en
+i i en 1 i i
+én
+M 00 A en en én Duración (años)
+Figura 5. Duración contratos de largo plazo registrados el en MEM, fuente: Interconexión Eléctrica S.A -ISA- Gerencia Administración y Operación del Mercado, cálculos CREG.
+Curva de Duración Contratos de Largo Plazo -CLP-
+100%
+90% -
+80% -
+70% -
+g 60% -
+50%
+40%
+30%
+El 85% de los contratos
+20%
+firmados tienen una duración menor a 2.5 años 10%
+o%
+O < oí O CJi oí
+Ni OI
+o» Ü1 en O)
+tn tn
+CD
+o Oí
+en
+N) Oí
+CDbi
+v
+ro
+Años
+Figura 6, Curva de Duración contratos de largo plazo registrados el en MEM, fuente: Interconexión Eléctrica S.A -ISA- Gerencia Administración y Operación del Mercado, cálculos CREG.
+
+
+3.5 Remuneración por Cargo por Capacidad
+Adicionalmente a los mecanismos de remuneración de corto plazo (bolsa) y largo plazo (contratos) implementados en el mercado de energía mayorista, los generadores reciben un pago por concepto de cargo por capacidad, el cual es asignado en función de la energía firme que estos pueden aportar al SIN en condiciones de hidrología crítica y eficiencia económica. La siguiente gráfica muestra la evolución mensual del valor del Cargo por Capacidad en Colombia.
+Valor a Distribuir por Concepto de Cargo por Capacidad Dólares corrientes
+50,000,000 n
+45,000,000 -
+40,000,000 -
+35,000,000 -
+30,000,000 -
+25,000,000 -
+A la fecha se han distribuido US$3,200 millones, al finalizar el
+20,000,000 -
+período de 10 años se distribuirán aproximadamente US$5,000 15,000,000 -
+millones
+10,000,000 -
+5,000,000 -
+<_c T
+                                                 m co £ "i ? s
+C- c T
+m c_G
+T
+m3 c_
+c T
+m3 c_G
+T
+m c_
+c I
+m
+c T o M t*>
+m
+CD
+c_ c 1“ O) cp p
+Figura 7. Valor a Distribuir -VD* por concepto de Cargo por Capacidad Dólares corrientes, fuente: Interconexión Eléctrica S.A -ISA- Gerencia Administración y Operación del Mercado, cálculos CREG.
+Para marzo de 2004 la remuneración acumulada, desde su entrada en vigencia en enero de 1997, por concepto de Cargo por Capacidad recibida por los generadores, alcanza un valor aproximado de 3,200 millones de Dólares, y considerando un crecimiento anual de la demanda de energía y potencia del 2%, al finalizar el período de diez (10) años, la remuneración total alcanzará un valor aproximado de 5,000 millones de dólares corrientes. Con fines de un análisis macro, considerando un valor de cerca de US$ 500/kW instalado, en veinte años se habrían pagado completamente cerca de 9,000 MW de los 13.200 MW que tiene instalados el país.
+15
+
+
+3.6 Vulnerabilidad hidrológica del sistema eléctrico colombiano
+Una característica fundamental del sector eléctrico colombiano la define el régimen hidrológico al cual se encuentra expuesto, con estaciones de invierno y verano claramente definidas y vulnerabilidad al evento Niño el cual tiene un período de recurrencia entre 5 y 7 años, lapsos durante los cuales la energía firme de origen hidráulico de que dispone el sistema, se ve drásticamente reducida, como se puede observar en la Figura No. 8 sobre la evolución histórica del embalse ofertable (embalse agregado menos mínimo operativo superior), en la cual se evidencia la disminución de la energía disponible en el SIN durante estos eventos críticos.
+Evento Niño 1997-1998. La energía disponible en el sistema disminuye
+11,000 -i GWh
+drásticamente teniendo que operar por debajo de los Mínimos Operativos
+12.000
+establecidos
+10.000
+8,000
+6.000
+4,000
+2.000
+-2,000
+£
+q> 03 0
+O) 9 0) ?
+Q 9 9 o 9 O 9 9 T- 9 T- 9
+fO
+N 9 N 9 9 m O 9 tt 9
+Figura No. 8 Embalse Ofertable (Nivel de embalse agregado - MOS) Fuente: Informe mensual del mercado ISA -enero de 2004-
+En conclusión se puede establecer que se requiere una señal de largo plazo que permita el flujo de fondos de los proyectos de generación que el sistema necesita para atender sus necesidades de energía y potencia.
+4 Valoración de la confiabilidad y garantía de suministro en un mercado de
+energía liberalizado.
+Dados los análisis realizados en el capítulo anterior sobre las características predominantes en un sistema hidrotérmico como el colombiano y las consecuencias que sobre la sociedad en general puede traer un déficit energético, es importante establecer si un mercado liberalizado como el implementado en Colombia, puede
+
+
+brindar las señales adecuadas para la ampliación (expansión) de la capacidad de generación.
+En un mercado liberalizado como el colombiano, los agentes participantes del negocio de generación pueden realizar cualquier inversión que consideren conveniente, asumiendo los riesgos que dicha decisión tiene implícitos, es decir, si la inversión muestra una variación a la baja en la rentabilidad, dicha pérdida debe ser asumida por el inversionista, y por el contrario, si la variación es al alza (por ejemplo rentas de escasez), éste se ve beneficiado al apropiarse de este ingreso adicional.
+El riesgo de la inversión en un nuevo recurso de generación surge de diferentes fuentes como:
+• Tecnología de generación utilizada (tamaño de la inversión inicial)
+• Evolución de los precios de los combustibles.
+• Variaciones significativas de la demanda.
+• Incertidumbres macroeconómicas que afectan el equilibrio de pagos, generalmente en moneda extranjera.
+• Variaciones en el precio de la energía
+• Capacidad total instalada y su composición.
+Lo anterior implica que el análisis de riesgo del negocio de generación en un mercado liberalizado se convierta en una tarea de gran importancia para las empresas (actuales o futuras) que operan en dicho mercado.
+En el sector eléctrico, como en muchos otros sectores de la economía, las empresas realizan inversiones que generarán una serie de ingresos en periodos futuros, lo cual implica que en cierto sentido, la rentabilidad de una inversión no es otra cosa que un perfil de flujos de caja, el cual debe ser valorado adecuadamente.
+En el caso de inversiones en el sector eléctrico, la valoración del flujo de caja puede presentar mayores complicaciones, debido a condiciones como el tiempo relativamente largo durante el cual se debe realizar la evaluación que puede alcanzar valores entre los 15 y los 35 años, con el consecuente escenario de incertidumbre que dichos horizontes de tiempo implican. Como se analizará más adelante, dichas situaciones de incertidumbre pueden ser administradas mediante mecanismos que permitan gestionar el nivel de riesgo máximo, bien sea mediante herramientas de mercado o por mecanismos establecidos por el regulador. No obstante, como en cualquier mercado siempre existen niveles de incertidumbre que no pueden ser mitigados con herramientas como un cargo por confiabilidad al tratarse de ingresos no garantizados y cuya estimación depende de variables exógenas, que aunque con menores niveles de incertidumbre, pueden variar en el período en el que se definan.
+17
+
+
+5 La administración del riesgo
+Bajo cualquier escenario, el riesgo debe ser medido, administrado y gestionado por cada uno de los agentes participantes del mercado. En dicho proceso se pueden identificar tres etapas claves:
+• La identificación del riesgo -Identificar lo que puede salir mal-
+• La medida del riesgo -Valorar cuál es la distribución de probabilidad de las pérdidas y las ganancias.
+• La toma de decisiones - En el caso de un sistema eléctrico consiste en decidir en invertir o no, en un nuevo recurso de generación-
+Para efectos de realizar la labor de identificación de riesgos, es importante realizar una clasificación de los mismos. Comúnmente en la literatura los riesgos se pueden clasificar en:
+• Riesgo operacional.
+• Riesgo estratégico.
+• Riesgo de mercado.
+• Riesgo de liquidez.
+• Riesgo de crédito.
+• Riesgo negocio.
+• Riesgo país.
+Dadas las características del análisis que se realiza en el presente documento, la valoración del riesgo que conduce a la necesidad de plantear señales de largo plazo, se enfoca en el riesgo del mercado, el cual resulta de la variación en el precio de un bien, que para el caso del sector eléctrico se asume como la variación del precio de la energía.
+Para tratar de dar respuesta a la anterior pregunta se debe realizar un análisis desde el punto del inversionista, determinando la probabilidad de que ante determinadas condiciones de diseño del mercado (variable de estado) se tome la decisión de invertir o no en un nuevo proyecto de generación.
+Para llevar a cabo la valoración y el desarrollo de proyectos bajo incertidumbre existen múltiples herramientas que pueden brindar un grado aceptable de información al inversionista. Dentro de este conjunto de herramientas se cuenta con el método de “cash-flow at risk ", el cual haciendo uso de la teoría de Valor en Riesgo -VaR-, por sus siglas en ingles, y considerando el flujo de caja esperado, permite determinar bajo ciertas condiciones de aversión al riesgo por parte del inversionista, la viabilidad o no de la inversión analizada.
+18
+
+
+Para efectos de estimar la distribución de probabilidad del flujo de caja CF), se hace necesario definir un mecanismo que permita estimar con menor grado de incertidumbre los ingresos en el mercado de energía, de un nuevo proyecto de generación.
+Como se analizó anteriormente, los ingresos de un agente generador se encuentran determinados fundamentalmente por sus ventas de energía en bolsa, ventas en contratos y cargo por capacidad. En el análisis que a continuación se realiza, se estimarán los ingresos por concepto de ventas de energía en bolsa y por cargo por capacidad, mientras los ingresos por contratos de largo plazo serán valorados suponiendo un nivel determinado de contratación y un precio futuro f.
+6 Oferta estratégica de precios en un mercado de energía liberalizado.
+Como se dijo anteriormente, en un mercado liberalizado las decisiones de inversión en nuevos recursos de generación son tomadas por los agentes participantes (actuales o potenciales), considerando la información suministrada por el mercado sobre su posible evolución en el largo plazo. Dadas las características actuales del mercado de contratos y bajo el supuesto de un inversionista con grado alto de aversión al riesgo, la estimación de los ingresos futuros por concepto de venta de energía en la Bolsa y remuneración por concepto de cargo por capacidad son fundamentales en dicho proceso de toma de decisiones.
+6.1 Modelos de competencia imperfecta
+A continuación se desarrolla un modelo de curva de oferta que parte del principio de la existencia de un equilibrio de Nash, en el cual ninguno de los jugadores siente la tentación de cambiar de estrategia, ya que cualquier cambio unilateral implicaría una disminución en su ingreso. Lo anterior implica que:
+Dados un conjunto de curvas de oferta (OiN, 02N,.. OnN,. OkN), se tiene que para todo agente n, el beneficio es función de las curvas de oferta de los restantes agentes así como de la suya, esto es Bn=
+B n (O iN,
+0 2N,..
+O nN,. O k N).
+En el equilibrio de Nash debe verificarse que:
+B n íO ^ , 0 2n ,.. O n N,. O k N) > = B n íO ^ , 0 2N, . O n,. O kN) V O n
+Bajo el modelo económico adoptado para el mercado de energía colombiano, la función de utilidad de una firma generadora corresponde a:
+19
+
+
+i ^Energia^i ^C P C j
+Para el caso especifico de un nuevo proyecto de generación (expansión) la función de utilidad puede ser definida por:
+^nr ^Energía,nr ^CPC,nr ^inv,nr
+Donde:
+TE
+  Em rginnr; Remuneración por ventas de energía en el mercado de energía mayorista (bolsa y contratos).
+yi,CPC,nr 7T
+: Remuneración por concepto de Cargo por Confiabilidad
+r ^im ,nr : Costo de inversión
+El ingreso por concepto de venta de energía está definido por la cantidad de energía entregada a la Bolsa (QB) y el precio marginal del mercado (pe), así como por la cantidad de Energía comprometida mediante contratos de largo plazo (Qc) a un precio (pc), bajo una estructura de costos variables (CV), como se puede ver en la siguiente expresión.
+71 Energía
+A Q b’ Q c’ P b’ P c,TM )
+=
+Q b.í X
+i ? B ~ C V ) ~
+(P
+B ~
+PC¡)^Qc,¡
+La remuneración por concepto de Cargo por Confiabilidad es una función de la cantidad total (Q) a ser remunerada y un conjunto de reglas (m) para su asignación.
+^¿,CPC (Qcpc,m )
+6.2 Determinación de los ingresos por concepto de ventas de energía en
+bolsa y contratos
+Para efectos de determinar los posibles ingresos por conceptos de venta de energía, bien sea en bolsa o mediante contratos de largo plazo, se debe estimar la función de oferta de cada una de las firmas, la cual depende de las decisiones estratégicas adoptadas por las restantes firmas del mercado. Sea O(i) la estrategia adoptada por la firma i, entonces:
+n ,{
+0
+(
+1
+),
+0
+(
+2
+), O (
+h
+)
+
+
+Es la utilidad de la firma i, dado que las restantes firmas adoptaron la estrategia 0(j) para todo j diferente de i.
+De conformidad con la anterior expresión, la mejor estrategia (respuesta) de la firma i está dada por la solución al siguiente problema de optimización:
+Max O(y)} para todo j ^ i
+0(0
+Para efectos de determinar la respuesta óptima (curva de oferta) de la firma i, se debe considerar, para el horizonte de análisis:
+Qm :Demanda total a ser atendida OAm(p) :0ferta agregada de los competidores al precio p. Dri(p) :Demanda residual de la firma i en función del precio p
+             Dri(p) = Qm - OAm(p) QCi :Cantidad comprometida en contratos de largo plazo por la firma i. PCi Precio de venta en contratos de largo plazo de la firma i.
+Para un mes de operación se tiene:
+CMi :Costo marginal de la firma i FOi(p) Punción de oferta de la firma i cantidad a un precio determinado
+Dadas las consideraciones anteriores, la utilidad de la firma i está definida por la siguiente expresión:
+X
+X
+P
+) = DRi(p)(j> - CM) ~ (p - PCi)QCi
+Como se dijo anteriormente DR¡(p) corresponde a la función de demanda residual de la firma i que maximiza su beneficio dada la respuesta de sus competidores a un precio resultante de mercado p.
+Ahora bien, dadas las características de un sistema hidrotérmico, el cual incorpora una componte de incertidumbre sobre los aportes hidrológicos, que sumado a la imposibilidad de almacenamiento de la energía, enfrenta al generador a la solución de un problema dinámico que tiene la siguiente expresión:
+            c Max p = {p )(p - CM ) - (p - PCi )QCi )dp
+          p = CV s.a Si (t + \) = Si (t) + Ai (/) - DRi (t) Si (t + \) > Soi
+
+
+donde
+Si(t) :Nivel del embalse i en el periodo t. Soi :Nivel mínimo técnico del embalse i Ai(t) .Aportes al embalse i en el periodo t.
+La solución del anterior problema de optimización produce un P* que maximiza el beneficio del agente i, el cual al ser sustituido en la función de demanda residual DR, produce:
+DRi(p*), que representa la mejor respuesta del agente i dadas las estrategias adoptadas por los demás agentes del mercado.
+Considerando la propuesta para la determinación del Cargo por Confiabilidad, se tiene que:
+• La función de oferta para el mercado diario se encuentra acotada por la oferta realizada para el Cargo por Confiabilidad.
+• La función de oferta para Cargo por Confiabilidad condiciona la operación de los recursos de generación en el corto plazo, por lo tanto, el problema de optimización a considerar tiene la siguiente forma:
+          CR 1 Max p = ^{DRi ( p) ( p - CM ) - (p - PCi )QCi + CxC (p, m))dp
+          p = CV s.a Si (f + 1) = Si (t) + Ai (t) ~ DRi (t) Si(t + 1) > Soi
+donde:
+CxC(p,m) corresponde a la remuneración de Cargo por Confiabilidad en función del precio ofertado por el agente y el conjunto m de reglas de asignación establecidos por la regulación. Lo anterior implica que al momento de establecer el precio (función de precio) para efectos de la remuneración de Cargo por Confiabilidad se debe realizar por parte del agente una valoración de sus ingresos en el mercado de corto plazo, en función de la evolución del escenario hidrológico y de su nivel de contratación.
+
+
+En resumen, el agente generador se ve enfrentado a la maximización de la siguiente función durante el horizonte de análisis:
+          c Max p
+=
+{p){p - CM )~{p - PCi )QCi
++
+CxC (p))dp
+        p=CV s.a Si(t
++1) -
+         Si(t) + Ai (t) - DRi (t) Si(t + l)>Soi donde
+P *
+g-a(Ne-MOS
+)
+s.a k + C <CR\
+k . C ^ a > 0
+donde los parámetros a, k y C son las variables de decisión.
+Dado que el comportamiento estratégico de los agentes generadores depende de las condiciones hidrológicas del sistema (presentes y futuras), el anterior proceso de optimización brinda información sobre los ingresos de un generador ante diferentes evoluciones del proceso hidrológico, al considerar éste como una variable estocástica, pudiéndose obtener entonces una estimación de la distribución de probabilidad del flujo de caja de un nuevo proyecto de generación, el cual será utilizado para efecto de valorar el “cash-flow at risk” y determinar la probabilidad de ingreso al sistema de dicho proyecto de generación bajo diferentes escenarios de remuneración de Cargo por Confiabilidad.
+La aplicación del modelo anteriormente descrito permite estimar el posible comportamiento de los agentes generadores ya instalados, frente a la propuesta de remuneración de Cargo por Confiabilidad, así como la probabilidad de ingreso de un nuevo proyecto de generación ante diferentes escenarios de remuneración (magnitud) y estrategias de los agentes existentes, permitiendo con esto determinar la magnitud mínima a ser remunerada por concepto de Cargo por Confiabilidad, conservando los criterios de confiabilidad existentes en la reglamentación actual.
+23
+
+
+7 Experiencias internacionales en materia de Remuneración de Cargo por
+Confiabilidad
+A continuación se analizan algunos de los mercados de energía en los cuales existen herramientas que buscan lograr un determinado nivel de confiabilidad de largo plazo. Entre dichos mercados se tienen:
+7.1 Mercado de Pennsylvania -New Jersey y Maryland-PJM-
+El mercado de Pennsylvania -New Jersey y Maryland -PJM-, fundado en enero de 1998, es en la actualidad el mercado de despacho centralizado más grande de los Estados Unidos, contando con una capacidad instalada aproximada de 56,000 MW, el cual cuenta entre otros con un mercado de capacidad, en el cual algunos generadores denominados “Capacity Resource” pueden ofertar en forma diaria, mensual y anual, su capacidad de respaldo con el fin de que sea adquirida por los LSE “Load Service Entities", entidades que tienen la obligación de garantizar la energía necesaria para atender a los usuarios finales.
+La compra por parte de los LSE, de la capacidad disponible de los generadores del tipo "Capacity Resource" se realiza mediante una subasta, en la cual las ofertas realizadas por los generadores (prima) son asignadas en orden de mérito hasta cubrir la demanda de cada uno de los LSE. Una vez finalizado este proceso de asignación se determina el precio (prima) marginal, al cual son remunerados todos los generadores que hayan resultado casados.
+La obligación adquirida por los generadores es la de estar disponibles, es decir realizar una oferta al mercado diario, por una capacidad igual o superior a la asignación del mercado de capacidad. En el caso en que un generador no se encuentre disponible, deberá pagar una penalización y comprar los fallantes en el mercado diario de capacidad.
+7.2 Mercado Español
+El mercado español cuenta con un mecanismo de remuneración denominado potencia firme, el cual es determinado de manera centralizada y su asignación a los agentes generadores se realiza mediante modelos de simulación similares a los empleados en la actualidad en el mercado colombiano.
+7.3 Mercado Panameño
+En la actualidad el mercado panameño cuenta con un mercado de capacidad firme, mediante el cual los distribuidores responsables de atender la demanda, mediante un proceso establecido por el regulador, determinan su demanda esperada (demanda identificada), la cual debe ser cubierta mediante contratos bilaterales de capacidad con los generadores. Para aquellos distribuidores que por cualquier motivo no
+
+
+realicen la contratación de la demanda identificada, el operador del sistema procede a abrir una subasta de capacidad.
+El precio (prima) al cual son remunerados los generadores que participan en dicha subasta, es determinado por la oferta del generador marginal. Al igual que el mecanismo implementado para el mercado de PJM, existe un mercado secundario con resolución diaria, al cual deben acudir aquellos generadores que no tengan una disponibilidad igual a la remuneración por concepto de potencia firme.
+7.4 Mercados de solo energía
+Contrario a los anteriores mercados existen sistemas que solo remuneran la energía, es decir no existe remuneración de la potencia firme ni de la capacidad de respaldo. Estos mercados se caracterizan por tener un parque de generación sobredimensionado o por la existencia de interconexiones importantes con los sistemas vecinos, por lo cual la expansión del sistema en el largo plazo no es un problema importante. Entre estos sistemas se cuentan: Noruega, Suecia, Australia, Nueva Zelanda y California1.
+8 Estudio realizado por la firma TERA
+Durante los años 1999 y 2000, la firma Teknicom Energy Risk Advisors -TERA- realizó un estudio, el cual tenía por objeto identificar una posible alternativa aplicable en materia de Cargo por Confiabilidad, mínimos operativos y estatuto de racionamiento. Específicamente en materia de Cargo por Confiabilidad, y de manera muy resumida, la firma TERA propuso la implementación de un mecanismo de subastas de opciones del tipo cali sobre el precio de la energía en Bolsa, mediante las cuales los comercializadores deberían contratar su demanda identificada.
+La prima y el precio de ejercicio serian resultado del procedimiento de subasta, a través del cual el vendedor (generador) adquiere el derecho a recibir la prima (la cual reemplaza el Cargo por Confiabilidad), y la obligación comercial de entregar la energía cuando la opción sea ejercida por parte del comercializador, y el vendedor adquiere el derecho a recibir energía al precio de ejercicio cuando quiera que el precio de bolsa sea superior a éste.
+9 Estudios realizados por los generadores colombianos
+Durante el año 1999, el Instituto de Investigación Tecnológica de la Universidad de Comillas -Madrid- realizó un análisis del Cargo por Capacidad actualmente implementado en Colombia, así como el diseño de un mecanismo de mercado que cumpliera los mismos objetivos del cargo por capacidad. Para contrastar la propuesta desarrollada en el estudio mencionado se comparan los objetivos
+1 Si bien el mercado de California presentó una crisis importante a partir del año 99, dicha situación no se puede imputar solo a la no existencia de un mercado de capacidad.
+
+
+identificados por la Universidad de Comillas con los propuestos en este estudio de Cargo por Confiabilidad:
+             Comillas Propuesta a discusión Subasta de Opciones del tipo cali (La prima remunera el CxC), los generadores compiten ofertando la prima, el regulador fija el precio de ejercicio.
+La asignación es resultado de la subasta
+Cuando el precio marginal del sistema supera el precio de ejercicio de la opción, el agente comprador ejerce el derecho.
+Las subastas de opciones reemplazan el mercado de largo plazo
+Existe una relación bilateral entre el comprador y el vendedor.
+La prima está definida por el regulador, los generadores compiten ofertando precio.
+La asignación es resultado de un proceso de simulación del sistema bajo condiciones de hidrología critica.
+La oferta de precio realizada por el agente generador para cargo por capacidad, constituye su oferta máxima al mercado de corto plazo (Bolsa)
+El mercado de largo plazo sigue operando de conformidad con la reglamentación vigente.
+No existe relación entre comprador y vendedor, la asignación es realizada por el operador del mercado (CND), la remuneración es una estampilla asumida por la demanda.
+10 Resumen de principales observaciones al cargo por capacidad actualmente
+vigente en Colombia
+Una vez determinada la conveniencia de la existencia de un Cargo por Confiabilidad, el análisis de éste debe enfocarse en tres aspectos fundamentales:
+• Determinación de la cantidad total a remunerar.
+• Mecanismo de asignación de la cantidad total para garantizar potencia y energía y asignación entre los agentes generadores.
+• Mecanismos para que los generadores garanticen el nivel de confiabilidad requerido por el sistema.
+
+
+Sobre este particular se han identificado, por parte de los actores del mercado, los siguientes aspectos sobre el Cargo por Capacidad actualmente vigente en el mercado colombiano:
+Fortalezas:
+• Incentiva la inversión en tecnología eficiente por ser una señal de largo plazo para la expansión y busca en términos conceptuales garantizar la confiabilidad del sistema.
+• Asegura la permanencia de inversionistas establecidos en el mercado, garantizando un flujo de fondos mínimo.
+• Reconoce el aporte de confiabilidad de las plantas instaladas en el sistema.
+Debilidades:
+• La asignación entre unidades térmicas e hidráulicas se realiza mediante una herramienta de cálculo muy sensible a la variación de los datos de entrada y por lo tanto sus resultados son inestables.
+• No existe una vinculación entre el cargo por capacidad remunerado y el mercado.
+• El producto objeto de pago no está claramente definido.
+• La evaluación centralizada de la contribución a la confiabilidad reviste complejidad.
+• La valoración del agua se hace centralizadamente sin consultar la percepción de los agentes.
+• No incluye las restricciones de suministro y transporte de fuentes primarias térmicas.
+• Puede no remunerarse la totalidad de la CRT calculada para el sistema ya que no existe un procedimiento de recálculo o reconciliación.
+• No consulta la disposición a pagar por parte de la demanda.
+A continuación se analiza cada uno de los puntos anteriormente descritos con el fin de establecer una metodología de remuneración por concepto de Cargo por Confiabilidad que permita lograr los objetivos la incorporación de cada uno de estos.
+
+
+11 Magnitud de la remuneración por concepto de Cargo por Confiabilidad
+Como se ha analizado anteriormente el Cargo por Confiabilidad constituye una herramienta que permite alcanzar un grado de confiabilidad del sistema, tanto en el corto como en el largo plazo. Por lo tanto, es fundamental realizar un análisis desde el punto de vista de la teoría de la inversión, que permita determinar el monto óptimo de remuneración por concepto de Cargo por Confiabilidad, de tal manera que se tenga una aceptable probabilidad de ingreso al mercado de nuevos proyectos de generación en la medida en que se requieran.
+Dentro de la teoría de la inversión, los enfoques tradicionalmente adoptados por Jorgenson y Tobin han abordado el problema de la expansión de la capacidad utilizando el criterio de valor presente neto de los proyectos de inversión (VPN), según el cual una inversión debe ser realizada si, bajo supuestos razonables, el VPN del proyecto es positivo. No obstante, cuando se toman en cuenta importantes características como la irreversibilidad de la decisión de invertir (debido a la existencia de costos hundidos), la existencia de un alto grado de incertidumbre (debido a las distintas posibilidades para los beneficios futuros), y la posibilidad de diferir o “ejecutar" la decisión u opción de invertir, entonces, resulta claro que es necesario modificar la regla del VPN añadiendo el valor que puede tener la espera a que las incertidumbres sean despejadas parcial o totalmente (Dixit y Pindyck; 1994), o establecer una metodología que permita valorar el riesgo asociado con los rendimientos futuros del proyecto. Es decir, cuando una decisión de inversión es irreversible e implica pagos futuros inciertos, la valoración de dicho proyecto debe incorporar esta situación. En ese sentido y dadas las características del sector eléctrico colombiano, se propone la valoración de un nuevo proyecto y su posibilidad de incorporación al mercado mediante un modelo de “Cash-Flow-at Risk”.
+En esa misma línea, es importante destacar que si bien un proyecto puede presentar un VPN positivo, aun existe la posibilidad de aplazar dicha inversión hasta tanto se disminuya el grado de incertidumbre sobre un determinado conjunto de variables, lo cual hace de la inversión una opción.
+Lo anterior es consistente con una de las características fundamentales de la decisión de inversión de las empresas, la cual tiene un carácter discreto, es decir, usualmente se concentra en algunos períodos (lumpy investment). En este sentido, Keynes había señalado hace varias décadas lo errático de la inversión. Considerando la ocurrencia de “ciclos” marcados de inversión, la teoría de la inversión como una opción permite la realización y concentración de inversiones en un período corto de tiempo cuando se produce una importante reducción de la incertidumbre. La evidencia empírica sugiere que el enfoque de la inversión como una opción permite mejorar su predicción (Caballero; 1997).
+Finalmente, debe tenerse en cuenta un factor adicional en la determinación de las inversiones, propio de industrias oligopólicas, donde la inversión es un instrumento adicional dentro de las estrategias de las empresas, lo cual naturalmente afecta la
+
+
+dinámica de ésta. Visto como un problema de comportamiento estratégico, las inversiones son realizadas considerando aspectos referidos a la competencia efectiva o potencial. En este sentido, es fundamental considerar la existencia de dicho proyecto con el fin de evaluar la función de reacción del mercado a la decisión de inversión2.
+12 Propuesta Remuneración Cargo por Confiabilidad
+12.1 Mecanismo propuesto para la asignación a los agentes generadores del
+Cargo por Confiabilidad
+A continuación se describe el mecanismo propuesto para la remuneración por Cargo por Confiabilidad una vez finalice la vigencia del actual esquema adoptado. Esta propuesta se fundamenta en el principio de remuneración explícita de potencia mediante un mecanismo de subasta de potencia firme, y de remuneración por firmeza energética en condiciones de hidrología critica, vinculando el Cargo por Confiabilidad al mercado spot, a través de una curva de oferta máxima, que se traduce en una opción para cada generador, en la cual la prima es el Cargo por Confiabilidad y el precio de ejercicio es la curva de oferta máxima con la cual se hace el despacho en condiciones de hidrología crítica para establecer la firmeza energética aportada.
+12.1.1 Remuneración por energía firme
+Mediante un proceso de simulación del sistema, utilizando un escenario hidrológico crítico (determinístico), definido por el regulador, así como los parámetros técnicos de las unidades de generación, se determina, de manera centralizada, la energía firme para cada uno de los recursos de generación hidráulicos y térmicos del SIN. Para este efecto se utilizan las curvas de oferta máxima de las fuentes hidráulicas y los precios máximos de los agentes térmicos. Para la realización de dicha simulación, cada uno de los generadores debe remitir al regulador a más tardar el 15 de noviembre del año en el cual se determina el Cargo por Confiabilidad, los datos necesarios.
+El procedimiento de asignación del Cargo por Confiabilidad sería realizado anualmente por el CND o por la misma CREG, dado que su cálculo se ve notablemente simplificado al eliminar la etapa de valoración centralizada del agua.
+12.1.2 Mecanismo para determinar la asignación del Cargo por Confiabilidad
+por energía firme entre los agentes generadores
+2 Gilbert (1989).
+29 s -
+
+
+Para efectos de determinar la remuneración por energía firme a cada uno de los generadores, se deberá realizar un proceso de simulación del sistema bajo condiciones de hidrología crítica, considerando las variables técnicas y económicas reportadas por cada uno de los agentes generadores. Entre dichas variables se tienen:
+• Función temporal de precios máximos de ofertas para cada recurso de generación hidráulico.
+• Precio máximo de oferta para cada recurso de generación térmico.
+• Características técnicas de las plantas y/o unidades de generación térmicas e hidráulicas.
+• Disponibilidades históricas de los recursos de generación
+• Escenario de demanda de energía.
+• Restricciones de las fuentes primarias de energía.
+12.1.2.1 Declaración de Precios para generadores hidráulicos:
+Cada generador hidráulico deberá declarar a la CREG a más tardar el 15 de noviembre del año en el cual se determina el Cargo por Confiabilidad, una función de precios correspondiente a costos variables de generación (entendidos como costos de oportunidad del agua) para cada mes del año, de acuerdo con la siguiente expresión;
+= Jfc + C * ) para todo Ne > MOS
+donde
+/; Mes
+Precio de oferta de costos variables, en $/kWh, el cual en ningún caso podrá ser superior al costo de la primera etapa de racionamiento definido por la UPME. Es decir, k+C< CR1 (Costo de la primera etapa de racionamiento, dado por la UPME) e;
+            Número de Euler. a:
+factor positivo estimado por el generador, factor positivo estimado por el generador en $/kWh. MOS
+            Mínimo Operativo Superior (en porcentaje) Ne:
+Nivel del embalse en porcentaje (A/e es siempre mayor o igual a MOS y menor o igual a 100%).
+
+
+k Constante positiva estimada por el generador
+La siguiente figura muestra de manera general, una curva de precios resultante de aplicar la expresión anterior para algunos valores de los parámetros establecidos y hasta un nivel de embalse igual al MOS.
+450
+Precio para generadores hidráulicos
+400 -
+350 -
+300 -
+g 250
+200
+-
+150 -
+100
+-
+50 -
+- -C+K
+- -MOS
+0 20 40 60 80 100
+Ne (%)
+De lo anterior se desprende que para un nivel del embalse igual al MOS, se obtiene el precio de oferta máximo, el cual corresponde al factor C+k. Para efectos de la simulación cuando se tienen niveles de embalse inferiores al MOS, se aplicará la metodología establecida en materia de intervención de embalses con el fin de determinar el precio de oferta.
+12.1.2.2 Declaración de Precios para generadores térmicos
+Cada generador térmico deberá declarar a la CREG a más tardar el 15 de noviembre del año en el cual se determina el Cargo por Confiabilidad, un precio, expresado en $/kWh, correspondiente a costos variables de generación asociados con su operación usando combustible primario y un precio, expresado en $/kWh, correspondiente a costos variables de generación asociados con su operación usando combustible sustituto, siempre y cuando pueda operar en esa condición.
+V
+
+
+12.1.2.3 Remuneración de Energía Firme
+Considerando ia información remitida por los generadores (oferta de precios y características técnicas de los recursos de generación), así como los escenarios de demanda, se realizará una simulación del sistema con resolución de tres períodos de carga diarios, considerando las condiciones de oferta y demanda establecidas en este documento.
+Para un horizonte de dos (2) años iniciando el primero de noviembre del año en el cual se realiza la asignación del Cargo por Confiabilidad, se deberá realizar un proceso de optimización considerando la siguiente información:
+• Escenario hidrológico critico establecido por el regulador.
+• Nivel de embalse agregado mínimo, establecido por el regulador
+• Restricciones de otras fuentes primarias de energía (suministro y transporte).
+• Características técnicas de los recursos de generación.
+• Disponibilidades históricas de los recursos de generación
+• Escenario alto de demanda de energía establecido por la UPME.
+• Generación determinística de plantas que no participan en la asignación de remuneración de energía firme.
+Para cada una de las etapas (períodos de carga del día) se deberá determinar la generación aportada al SIN por cada uno de los recursos. Para efectos de determinar la capacidad a ser remunerada por Energía Firme, se encontraría para los meses de verano die del año T+1-abril del año T+2 (entendiendo por año T el año en el que se entregan los datos para hacer el cálculo), la potencia media resultante de dicho proceso de simulación, la cual corresponderá a la remuneración que por Energía Firme será entregada al agente generador. El criterio de desempate en precios será el mismo aplicado en el mercado.
+La siguiente figura muestra de manera general el período de hidrología critica a ser considerado para la determinación de la fracción del Cargo por Confiabilidad para remunerarse como Energía Firme.
+
+
+Etapa en la cual se inicia inicia el el proceso proceso de de simulación
+Periodo durante el cual se avalúa la energía firme aportada por cada uno de los recursos de generación
+/
+Escenario hidrológico
+? Potencia media producida durante cada uno de los meses del verano para el cual se determina la firmeza que remunera el Cargo por Confiabilidad
+El proceso de simulación tendría como objetivo minimizar el costo de operación del sistema, simulando, para cada una de las etapas, un despacho ideal de conformidad con la siguiente expresión:
+n
+s.a
+1 = 1
+restricc de demanda restricc de oferta restricc de las fuentes primarias de energía
+Para efectos de considerar las restricciones en las fuentes primarias de energía, se tendrán en cuenta las sustituciones factibles de combustible.
+Con el fin de determinar la producción de cada uno de los recursos de generación para cada una de las etapas de la curva de duración de carga, el procedimiento de simulación deberá observar que para cada etapa, el nivel de cada uno de los embalses debe ser mayor o igual que el Mínimo Operativo Superior de dicho embalse, es decir, al final de cada etapa L, el nivel del embalse deberá satisfacer la siguiente restricción:
+
+
+donde
+NE Nivel del embalse
+Embalse Etapa del proceso de optimización L
+Para el cálculo mencionado, la capacidad de cada generador sería afectada por su índice de disponibilidad histórico total (las 24 horas del día) de los últimos 36 meses anteriores a la fecha de entrega de la información para el cálculo. Es decir que la remuneración por Energía Firme mencionada se realizaría durante las 24 horas del día de despacho, considerando la disponibilidad comercial de cada uno de los recursos de generación.
+La remuneración por concepto de Cargo por Energía Firme a ser asignada a cada uno de los agentes generadores corresponderá a la potencia media (MW) durante los cinco (5) meses de la estación de verano del año T+2.
+En el caso de que los niveles mínimos agregados resultantes de la simulación efectuada con las curvas de precio máximo entregadas por los generadores hidráulicos, sean inferiores a los mínimos establecidos por el regulador, todas las curvas de precio de los generadores hidráulicos serán multiplicadas por un factor hasta que se cumpla este requerimiento. En ningún caso los precios podrán superar el costo de racionamiento.
+Para los generadores nuevos, la disponibilidad comercial se calcularía utilizando ia regla actualmente vigente, con lo cual estos generadores tendrán la posibilidad de acceder al Cargo por Energía Firme desde su inicio de operación comercial.
+12.1.2.4 Remuneración de Potencia Firme
+La Potencia Firme a ser remunerada a cada uno de los generadores sería el valor resultante de un proceso de subasta realizado considerando el valor de la prima ofertada por cada uno de los recursos de generación despachados centralmente y que opten por participar en dicha asignación, para cuyo fin cada generador debe remitir al regulador, junto con la función de oferta de precio utilizada para la remuneración de la Energía Firme, una prima expresada en US$/kW-mes, la cual sería considerada para la asignación de la Potencia Firme.
+Para los generadores nuevos, la disponibilidad comercial se calcularía utilizando la regla actualmente vigente, con lo cual estos generadores tendrán la posibilidad de acceder al Cargo por Potencia desde su inicio de operación comercial.
+34
+
+
+12.1.2.5 Oferta de la prima para remuneración de Potencia Firme
+Cada generador que desee participar en la asignación de la Potencia Firme a ser remunerada, debe ofertar al mercado una prima expresada en US$/kWh la cual sería utilizada en la determinación de la prima marginal para remunerar la Potencia Firme que como resultado de la subasta, le sea asignada.
+12.1.3 Mecanismo para determinar la asignación del Cargo por Confiabilidad
+por Potencia Firme entre los agentes generadores
+Una vez finalizado el procedimiento de optimización utilizado para la determinación de la remuneración por concepto de Energía Firme y determinada la potencia media equivalente para el sistema y la potencia equivalente asignada a cada generador, se procedería a la realización de una subasta de capacidad de conformidad con el siguiente procedimiento.
+Se determinaría la Potencia Firme a remunerar como la diferencia entre la demanda máxima de potencia estimada por la UPME para cada uno de los meses de la estación de verano para la cual se realiza la asignación del Cargo por Confiabilidad y la potencia equivalente del sistema asignada a los generadores, resultante del proceso de optimización anteriormente descrito para la Energía Firme.
+De igual manera se procedería a determinar la potencia asignable de cada uno de los generadores como el resultado de sustraer de la capacidad efectiva neta descontada por el índice de indisponibilidad histórico en el pico, la potencia equivalente remunerada por el cargo de Energía Firme a ese generador.
+Una vez determinada la Potencia Firme necesaria, y la Potencia Firme asignable, excedente de cada uno de los generadores, dicha Potencia Firme a ser remunerada sería asignada de conformidad con el siguiente procedimiento:
+Se ordenaría cada uno de los generadores en estricto orden creciente de la prima ofertada (US/kWh), hasta cubrir la Potencia Firme a ser remunerada, como se muestra a continuación:
+
+
+Precio (prima) marginal
+Potencia firme a se remunera
+Prima US$/kWh
+Potencia asignable de cada uno de los generadores
+?
+En caso de empate en el marginal de las primas ofertadas, se usaría la misma regla de desempate del despacho económico.
+Cada generador sería remunerado por concepto de potencia firme, al valor de la prima marginal.
+La remuneración por concepto de potencia firme correspondería a un período de cuatro (4) horas diarias, comprendido entre las 18:00 y las 21:59 horas del día de despacho. El índice de disponibilidad histórico en el pico correspondería al de ese período horario mencionado, para los últimos 36 meses.
+12.2 Recursos de generación a ser considerados en la asignación del Cargo
+por Confiabilidad
+En el procedimiento de asignación del Cargo por Confiabilidad participarán todos los generadores despachados centralmente y los cogeneradores con garantía de potencia. La energía producida por las plantas no despachadas centralmente será considerada como generación determinística dentro del proceso de simulación e igual a la energía histórica del año inmediatamente anterior. El componente de origen no térmico de esta energía sería afectado por un factor, determinado por el regulador, con el fin de tener en cuenta el impacto del escenario climático, sobre la generación de estas plantas.
+12.3 Determinación de la magnitud de Cargo por Confiabilidad a ser
+remunerado
+En un mercado ideal la demanda debería estar en capacidad de brindar las señales que la oferta requiere y que permitan en un horizonte de mediano y largo plazo
+
+
+ajustar su capacidad de producción (entrada de nuevos proyectos de generación) o de igual manera brindar señales económicas que permitan que algunos segmentos de demanda tengan la característica de desconectables, de tal manera que los generadores que brinden la confiabilidad que permita a la demanda desistir de desconectarse por falta de señales para pagar por su confiabilidad de largo plazo, reciban un pago por este “servicio” que prestan al sistema.
+Dado que las condiciones actuales de un mercado eléctrico liberalizado no permiten la obtención de dichos valores, fundamentalmente por contar con una demanda que no se encuentra expuesta al precio ni a las señales de escasez, es labor del regulador determinar la disposición a pagar por concepto de confiabilidad por parte de dichos usuarios.
+En las consideraciones anteriores, la magnitud de Energía Firme a ser remunerada, corresponderá a la proyección de demanda de energía estimada por la UPME, para el escenario alto, para la estación de verano para la cual se calcula el Cargo por Confiabilidad.
+La Potencia Firme a ser remunerada será igual a la diferencia entre la potencia media equivalente a la demanda de energía remunerada por concepto de energía firme y la proyección de demanda de potencia para el escenario alto realizado por la UPME.
+12.4 Determinación del valor del Cargo por Confiabilidad
+De igual manera que para determinar la magnitud que por confiabilidad están dispuestos a pagar los usuarios, la determinación del valor de dicha confiabilidad debería ser el resultado de las fuerzas del mercado y hasta que este grado de desarrollo se logre, es labor del regulador establecer el valor del pago por confiabilidad que deben realizar los usuarios. En este sentido el valor total del monto a remunerar por concepto de Cargo por Confiabilidad, asociado con Energía Firme, puede ser establecido por la CREG mediante la valoración de los costos fijos mínimos que deben ser considerados en el cargo, a partir del costo por kW instalado de una unidad térmica de ciclo simple de 150 MW, valorada con un período de vida útil de 25 años, con una tasa de retorno que considere los costos financieros básicos (bonos de largo plazo y costos de capital propio y deuda), así como el riesgo país. Esta tasa no tendría en cuenta el riesgo negocio, el cual se espera que sea afrontado en el mercado mismo (Spot y contratos).
+Este cálculo sería validado y ajustado si fuera del caso, utilizando los siguientes procedimientos de estimación:
+• Análisis del efecto financiero de los Flujos de Fondos recibidos por los agentes históricamente por concepto de Cargo por Capacidad y su comparación con el precio de largo plazo que paga el usuario por concepto de energía y confiabilidad.
+37 y
+
+
+• Análisis económico de disponibilidad de pago por firmeza por parte de los usuarios. Esta aproximación requiere valorar la confiabilidad como un bien público, y por lo tanto debe concordar con las características del bien que los usuarios buscan. Se debe por lo tanto estimar la disposición a pagar de los usuarios por concepto de confiabilidad, para posteriormente determinar el monto de recursos que se destinen a este propósito. Dicha aproximación conceptual requiere el desarrollo de modelos de bienestar que maximicen la utilidad de los usuarios en relación con el suministro confiable del servicio.
+12.5 Mecanismos necesarios para que los generadores garanticen el nivel de
+confiabilidad que se les esta remunerando
+El pago realizado por parte de la demanda a los generadores por concepto de Cargo por Confiabilidad, bien sea remuneración por Energía Firme o por Potencia Firme, implica una responsabilidad de estos con el sistema, por lo tanto se deben implementar mecanismos que hagan que estos generadores beneficiarios de la remuneración por concepto de Cargo por Confiabilidad, brinden el nivel de confiabilidad que se les está remunerando. A continuación se describen algunos de estos mecanismos:
+12.6 Intervención de embalses e Indisponibilidad de combustible
+Dado que la asignación de Cargo por Confiabilidad considera explícitamente como una restricción, la existencia de los Mínimos Operativos, los generadores hidráulicos que se encuentren intervenidos por violación de los Mínimos Operativos o que se encuentren indisponibles, serán remunerados por concepto de energía firme y potencia, durante el horizonte de tiempo que dure dicha situación; pero deberán adquirir en el mercado secundario, el fallante, al precio de ese mercado. El tiempo que dure esta condición será considerado como indisponible para efectos del cálculo de indisponibilidad histórica.
+La indisponibilidad de la fuente de energía (combustible por ejemplo) también se consideraría como indisponibilidad de la planta para el cálculo de la indisponibilidad histórica. Por lo tanto, los generadores térmicos que presenten esta indisponibilidad, serán remunerados por concepto de energía y/o potencia firme durante el horizonte de tiempo que dure dicha situación, pero deberán ir al mercado secundario de confiabilidad a adquirir el fallante.
+El generador que al ser llamado a cumplir el programa de despacho resulte indisponible, se considerará indisponible desde el último período en el cual su generación real fue mayor a cero, esto para efectos del cálculo del índice de indisponibilidad histórica.
+
+
+12.7 Mercado secundario de confiabilidad
+Mensualmente los generadores que presentan una capacidad efectiva neta, afectada con el mínimo índice de indisponibilidad entre energía y potencia en el pico, superior a la potencia equivalente de la Energía firme más la Potencia Firme, podrán ofertar una prima (Energía o Potencia) expresada en $/kWh al mercado secundario de confiabilidad. Los generadores que durante el mes tengan una disponibilidad comercial inferior a su remuneración por concepto de Cargo por Confiabilidad, bien sea mediante energía o potencia, deberán adquirir dicho fallante al precio marginal resultante de dicho mercado secundario.
+12.8 Oferta de precios al mercado de energía
+Para todos los efectos el precio máximo que un generador puede ofertar a la Bolsa de energía en ningún caso puede ser superior al precio ofertado para efectos de la asignación del Cargo por Confiabilidad. Como precio de oferta a ia Bolsa se entiende la diferencia entre el valor reportado por el generador y los cargos base de la oferta como: CEE (CERE), FAZNI, Aportes Ley 99 de 1993, Costo Unitario por Servicio de AGC proporcional a la Generación Programada del agente (estimado y luego corregido con asignación real).
+Para el caso de generadores hidráulicos dicho valor máximo será determinado diariamente por el CND utilizando el nivel del embalse del día anterior de operación, así como la función de precios declarada por cada uno de los generadores.
+12.9 Liquidación y recaudo del Cargo por Confiabilidad por concepto de
+energía firme y Potencia
+Para efectos de recaudar el Cargo por Confiabilidad por concepto de Energía Firme y potencia en el pico, el CND estimará mensualmente el costo equivalente a ser remunerado por confiabilidad, como el resultado de dividir el monto total a ser remunerado por Energía Firme -RE- y potencia pico - RP, por el pronóstico de demanda de energía para el respectivo mes, de conformidad con la siguiente expresión:
+
+
+donde
+CEC :Costo Equivalente a ser remunerado por Confiabilidad RE :Remuneración total por energía RP Remuneración total por Potencia Pico DE :Demanda de energía m :Mes El anterior valor será utilizado para efectos de establecer por parte de los generadores el precio de oferta a la Bolsa de Energía.
+La liquidación y el recaudo del CEC serán realizadas por el ASIC en los términos establecidos para las transacciones en la bolsa de energía.
+Las plantas con Energías No Convencionales, menores de 20 MW, serán tratadas como Planta Menores.
+13 Referencias
+(0ren2000) S. Oren Shmuel. “Capacity Payments and Supply Adequacy in Competitive Electricity Markets” University of California at Berkeley, Mayo de 2000. (Oren2003) S. Oren Shmuel. “Ensuring Generation Adequacy in Competitive Electricity Markets” University of California at Berkeley Junio de 2003.
+Vázquez, Carlos; Batle, Carlos; Rivier, Michel y Pérez-Arriaga, Ignacio J. “Security of suplí in the Dutch electricity market: the role of reliability options” Universidad Pontificia Comillas, Diciembre de 2003.
+Teknecon Energy Risk Advisors, “A Revised Framework for the Capacity Charge, Mínimos Operativos, and Rationing Rules in Colombia”, Febrero de 2000. www.creQ.qov.co.
+Pauli Murto “on investment, uncertainty, and strategic interaction with applications in energy markets”. Helsinki University of Technology
+H. Murphy Frederic; Smeers Yves “Generation Capacity Expansion in Imperfectly Competitive Restructured Electricity Markets” Mayo de 2002.

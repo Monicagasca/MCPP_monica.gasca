@@ -1,0 +1,703 @@
+Comisión de Regulación
+de Energía y Gas
+PROPUESTA DE TRABAJO PARA LA REMUNERACION DEL CARGO POR CAPACIDAD
+-Documento para consulta
+DOCUMENTO CREG-122
+DICIEMBRE 20DE 2005
+
+
+TABLA DE CONTENDO
+1. ANTECEDENTES............................................................................................ 4 2. OBJETIVOS...". 4 3. DEFINICIÓN DEL PRODUCTO. 5 4. RESULTADO EVALUACIÓN DE ALTERNATIVAS. 5 5. ALTERNATIVAS PROPUESTAS PORACOLGEN. 9 6. RESUMEN EVALUACIÓN ALTERNATIVAS. 9
+7. ALTERNATIVA RECOMENDADA................................................................. 10 8. CARACTERÍSTICAS DEL MERCADO DE OPCIONES. 11
+8.1. DEFINICIÓN DEL PRECIO DE EJERCICIO...................................................... 12 8.2. EJERCICIO DE LA OPCIÓN...................................................... 13
+9. ANLLOS DE SEGURIDAD ............................................... 13 10. IMPLEMENTACIÓN. 14 11. MODULOS Y CRONOGRAMA DE TRABAJO........................ 15 12. BIBLIOGRAFA:..." 15 13. ANEXO 1: ALTERNATIVAS............................................... 16
+13.1. ALTERNATIVA 1.......................................................................................... 16 13.2. ALTERNATIVA 2.......................................................................................... 16 13.3. ALTERNATIVA 3.......................................................................................... 18 13.4. ALTERNATIVA 4.......................................................................................... 19 13.5. ALTERNATIVA 5.......................................................................................... 21 13.6. ALTERNATIVA 6.......................................................................................... 22 13.7. ALTERNATIVA 7.......................................................................................... 22 13.8. ALTERNATIVA8.......................................................................................... 23 14. ANEXO 2: EVALUACIÓN DE LAS ALTERNATIVAS. 24 15. ANEXO3. RESULTADOSTALLER DE EVALUACIÓN. 34 16. ANExo 4: DESCRIPCIÓN GENERAL DE LOS MóDULOS. 35 16.1. PRUEBAS DE DISPONBILDAD................................................. 35 16.2. RETIRO Y DEGRADACIÓN DE GENERADORES. 35 16.3. ANILLOS DE SEGURIDAD. 36 16.4. PROYECCIÓN DE DEMANDA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 16.5. DETERMINACIÓN DE LA ENERGÍA FIRME. 37 166. ORGANZACIÓN. 37 16.7. SEGUIMIENTO....................................................................................... 37 16.8. GARANTÍAS............................................................................................ 38 16.9. SUBASTAS....................................... 38 16.10. ESTABLECIMIENTO DEL PRECIO DE EJERCICIO. 38
+
+
+16. 11. RECAUDO........................................................................................... 39 16.12. CONTRATOS DE COMBUSTIBLES................................................... 39 16.13. CHECQUEO INVERSIONISTAS......................................................... 39
+
+
+1. ANTECEDENTES
+La Comisión de Regulación de Energía y Gas, mediante Documento CREG-072 de 2005, puso a consideración de los agentes y terceros interesados un documento en el cual establecía ocho alternativas a la remuneración del cargo por capacidad, y un conjunto de principios y criterios de evaluación de las mismas.
+Soportado en el documento CREG-072 de 2005, se realizó un taller con la participación de todos los agentes del mercado en el cual se efectúo una evaluación de cada uno de los criterios para cada una de las alternativas, y cuyos resultados fueron presentados por la CREG en el seminario del mercado de energía mayorista realizado por el Consejo Nacional de Operación y el Comité Asesor de Comercialización en octubre del año 2005.
+Posteriormente, el 15 de diciembre de 2005, los generadores agrupados en ACOLGEN presentaron a la Comisión los resultados de los análisis elaborados por los consultores del grupo de generadores hidráulicos y del grupo de generadores térmicos
+En este documento se presentan los resultados del proceso de evaluación descrito, tanto el realizado por los agentes como el adelantado al interior de la CREG
+Con los resultados obtenidos en esta evaluación, la Comisión de Regulación de Energía y Gas, en su sesión del 20 de diciembre, aprobó continuar con la dirección de trabajo que se propone en este documento y ratificó el cronograma previsto en el documento CREG-072 de 2005, el cual contempla como paso siguiente el análisis con la industria de esta propuesta y el desarrollo de los módulos requeridos para su implementación. En este contexto, el presente documento constituye la base de análisis del objetivo planteado.
+2. OBJETIVos
+Dadas las consideraciones establecidas en la Ley 143 en materia de remuneración del respaldo que brindan los generadores al sistema y los análisis realizados por la Comisión de los cuales se deriva la necesidad de seguir contando con un mecanismo de cargo por capacidad que permita alcanzar el nivel de confiabilidad requerido por el sistema, este documento presenta la alternativa propuesta para la remuneración del cargo por capacidad, la cual se fundamenta en una opción de energía firme y un conjunto de mecanismos que permita que ante condiciones criticas se cuente con la capacidad y la energía necesarias para atender la demanda.
+
+
+3. DEFINICIÓN DEL PRODUCTO
+El producto asociado al pago realizado por la demanda, la energía relacionada con cada bloque de demanda para una condición crítica, según se define más adelante y a un precio máximo establecido previamente.
+En la figura 1 se presenta de manera gráfica el compromiso adquirido por el generador el cual corresponde a la entrega de la energía asociada a cada bloque de la curva de duración de carga del sistema, siempre que ésta sea requerida.
+El generador se compromete a ??? entregar la energía E2 \ por bloque (p.e. E2) E1 cuando sea
+requerido
+E3
+Figura 1, Producto remunerado mediante el Cargo por Capacidad.
+La potencia asociada a cada compromiso de energía se convierte en una variable para verificar la disponibilidad que tiene el generador de la entrega de la energía firme comprometida.
+La cantidad total del producto a remunerar con el esquema que se propone, esta directamente relacionada con la confiabilidad del sistema y como tal, corresponde a un bien de beneficio universal.
+4. RESULTADO EVALUACIÓN DE ALTERNATIVAS
+A continuación se presentan los principales resultados obtenidos del proceso de evaluación de las alternativas, adelantado por la CREG y los agentes del mercado.
+En los anexos 1 y 2 se presenta el detalle de evaluación de principios y criterios de cada alternativa.
+EFICIENCIA ECONÓMICA: Permite la prestación del servicio a mínimo costo. En general las alternativas administradas mediante las cuales el regulador fija el precio y espera que el mercado tome la decisión de cuanta capacidad instalar comprometen el grado de eficiencia y confiabilidad del sistema.
+
+
+En la medida en que se fije un precio superior al costo marginal de la tecnología que cubre la demanda punta (p+d) se puede inducir un exceso de capacidad de generación comprometiendo la eficiencia económica, por el contrario, en los casos en los que se fije un precio inferior al costo de la tecnología que cubre la demanda de punta (p-d) no incentiva la inversión necesaria para atender la demanda del sistema, comprometiendo la confiabilidad del sistema, ver figura 2.
+A
+Déficit
+Ped Exceso de Pe capacidad
+R8 R* R4 Reserva
+Figura 2, Precio y niveles de reserva
+Considerando lo anterior es recomendable contar con un mecanismo en el cual sea el regulador el que determine la cantidad requerida (energía firme, R’) y el mercado sea quien determine el precio (Pe).
+COHERENCIA CON LOS PRECIOS DEL MERCADO: No distorsiona la formación de precios, de corto y largo plazo.
+En referencia a la coherencia con los precios del mercado las alternativas 3, 4, 5, 6, 7 y 8 presentan una superioridad en la medida en que generan una externalidad positiva debido al horizonte de mediano y largo plazo que consideran y la existencia de la obligación de contar con la energía a un precio máximo, bien sea mediante los contratos “forward" establecidos en la alternativa 6 o mediante los precios de ejercicio establecidos en las alternativas que consideran un mercado de opciones.
+CONFIABILIDAD: Permite asegurar la continuidad en la prestación del servicio, para todos los usuarios del Sistema Interconectado Nacional-SIN-.
+En materia de confiabilidad las alternativas 4, 7 y 8 presentan fortalezas al considerar de manera integrada (es decir, por la totalidad de la demanda) los requerimientos de sistema, contemplan explícitamente y con suficiente anticipación los requerimientos del expansión del mismo y aseguran un flujo de
+
+
+ingresos en período suficientemente amplio para que tanto los agentes existentes como los nuevos mantengan o decidan construir sus generadores.
+La alternativa 6, en la cual la contratación es bilateral, requiere de una asignación de metas particulares y una agregación de las mismas, lo cual no es garantía de cumplimiento de confiabilidad del sistema total. Por su parte, las alternativas 1,2,3 y 5, tienen un horizonte de muy corto plazo y no consideran mecanismo para convocar los nuevos recursos de generación requeridos por el sistema.
+ESTABILIDAD: Conduce a una baja volatilidad en la asignación del Cargo por Capacidad en el tiempo, recibida por cada uno de los agentes del mercado, tanto existentes Como entrantes.
+Las alternativas 4, 7 y 8, son claramente superiores al considerar períodos de asignación de 5 años para las plantas en operación y 10 años para las plantas
+UeVaS.
+PREDICTIBILIDAD: Posibilita que cualquier agente del mercado pueda estimar la evolución futura de su remuneración por concepto de confiabilidad, con un nivel de probabilidad aceptable.
+En referencia a la predictibilidad las alternativas administradas 1, 3 y 5 presentan superioridad frente a las alternativas de mercado, en las cuales las fuerzas de la oferta y la demanda determinan los precios y las cantidades asignadas a cada generador, mientras en las primeras enumeradas, al ser el precio administrado, se percibe más predecible.
+CAPACIDAD DE PREVISIÓN: Posibilita la apropiación oportuna de los requerimientos futuros del sistema.
+Las alternativas 4, 6, 7 y 8 presentan superioridad clara en la medida en que consideran los requerimientos futuros del sistema para un horizonte de 5 años y adicionalmente, algunas de las cuales, tienen explícitamente mecanismo de convocatoria para incorporación de nueva capacidad instalada.
+RIESGOS DE LA ACTIVIDAD DE GENERACIÓN: Asigna los riesgos de mercado que corresponden a la actividad de generación.
+Las alternativas de corto plazo asignan a los generadores el riesgo de demanda asociado, entre otras variables, a la incidencia de las condiciones macroeconómicas del país, las cuales difícilmente pueden ser diversificadas por éstos. Por el contrario, las alternativas que consideran períodos de asignación de mayor plazo disminuyen considerablemente dicho riesgo para el generador al asignar un monto determinado de Cargo por Capacidad el cual no es afectado por caídas de la demanda.
+
+
+Adicionalmente, el riesgo de precio es compartido por la generación y la demanda de acuerdo con el nivel de precio de ejercicio. El riesgo del generador es respaldado por la planta con la cual debe soportar el compromiso adquirido de entrega de la energía firme.
+En las alternativas administradas, el riesgo de variaciones de precios en los costos de Capital y Administración Operación y Mantenimiento es administrado y supuesto por el regulador, con las implicaciones señaladas anteriormente para aquellos casos en los cuales éste es superior o inferior a los valores reales. En las alternativas de mercado estos riesgos son administrados por los agentes, que tienen mejor información, para hacerlo.
+Para el caso de las alternativas que consideran opciones o contratos de largo plazo se debe establecer un mecanismo que permita administrar el riesgo de precios de combustible para los generadores térmicos. Se están considerando las alternativas de indexación y la utilización de esquemas de cobertura por parte del generador.
+CAPACIDAD DE ATRAERINVERSIÓN DIRECTA: es un esquema competitivo en el mercado internacional para atraer inversión en nuevos proyectos de generación.
+Las alternativas 4, 7 y 8, presentan fortalezas frente a las restantes en la medida en que establecen un horizonte de mediano y largo plazo de remuneración y tienen explícitamente mecanismos de convocatoria para la incorporación de los recursos de generación requeridos dentro de un horizonte de 5 años. Esto implica que el sistema deja de ser pasivo ante la inversión en nuevas centrales. Adicionalmente, se da un monto de ingresos garantizados de 10 años para nueva inversión en generación.
+Por el contrario, las alternativas administradas limitan la actuación autónoma de los agentes, no ofrecen señales explícitas de expansión y en tal sentido pueden constituirse en una barrera a la entrada.
+SIMPLICIDAD, TIEMPO DE IMPLEMENTACIÓN Y NVEL DE CAMBIOS REQUERIDOS AL MODELO ECONOMICO EXISTENTE: En materia de simplicidad, cambios requeridos y tiempo de implementación, las alternativas administradas presentan superioridad con respecto a las alternativas de mercado, en la medida en que éstas conservan en gran medida el esquema actual lo cual facilita su implementación y no requieren cambios en el esquema de mercado actual.
+Adicionalmente, entre las alternativas restantes en las cuales el cargo por capacidad se establece mediante una esquema de competencia se encuentran menos complejas de implementar las alternativas 7 y 8, puesto que la alternativa 6 requiere desarrollar un procedimiento que permita verificar que cada comercializador se comprometa con contratos de energía firme que en forma
+
+
+agregada correspondan al nivel adecuado de confiabilidad requerido por el sistema.
+No obstante, incluso la alternativa 1, implica modificaciones con respecto a la Situación actual.
+Eficiencia
+5
+-- Alt1
+-- Alt2
+At3
+———— At4
+-- Alt5
+-- Alts
+      vr -- Alt/ Eficacia At3
+Transparencia Continuidad
+Reciprocidad
+Simplicidad
+Figura 3 Diagrama resumen de evaluación de alternativas
+5. ALTERNATIVAS PROPUESTAS PORACOLGEN
+Las alternativas propuestas por ACOLGEN y conocidas por la CREG mediante presentación realizada el 15 de Diciembre de 2005 están enmarcadas dentro de las alternativas de precio regulado, para las cuales valen los análisis presentados anteriormente. Adicionalmente, se anota que en la alternativa que considera una distribución mediante una relación de proporcionalidad a la energía firme, no se Cumple Con el Criterio de eficiencia económica, al desconocer diferencias de eficiencia en la asignación.
+6. RESUMEN EVALUACIÓN ALTERNATIVAS
+En resumen las alternativas 6,7 y 8 cumplen en mayor grado cada uno de los principios, comparadas con las restantes, lo que lleva a recomendar la implementación de un mecanismo de mercado. Al interior de estas alternativas es importante resaltar que la alternativa 6 presenta un grado alto de complejidad, al implicar el diseño e implementación de un mecanismo de negociación que permita la firma entre compradores y vendedores de los contratos “forward".
+ 
+
+
+Como se muestra en la figura 3, las alternativas 7 y 8 presentan superioridad en:
+- Eficiencia económica - Eficacia - Continuidad (Confiabilidad) - Incorporación oportuna de nuevos recursos (Expansión) - Asignación adecuada de los riesgos
+Por lo tanto, la implementación de un esquema de remuneración de Cargo por Capacidad que contemple las características de estas alternativas constituye un modelo superior a cualquiera de los analizados.
+7. ALTERNATIVA RECOMENDADA
+Dadas las características del producto y considerando las ventajas existentes en las alternativas 7 y 8, se propone la implementación de un mercado de opciones de energía firme de tipo Call, para cada uno de los bloques de la curva de duración de carga, las cuales serían adquiridas periódicamente mediante un procedimiento competitivo y adelantado de manera centralizada por el operador del sistema. Con este procedimiento los generadores compiten entre sí para proveer el volumen de opciones requeridas por el sistema y para determinar el valor de las mismas (prima).
+Las opciones de energía firme son instrumentos respaldados con capacidad instalada, mediante las cuales el sistema adquiere el derecho pero no la obligación de adquirir la energía a un precio máximo denominado precio de ejercicio.
+Por otra parte, el generador adquiere la obligación de entregar la energía a un precio igual al precio de ejercicio, siempre que este sea superior al precio de la energía en la bolsa. De igual manera el generador debe respaldar la opción con una planta instalada o por instalar, según sea planta en servicio o por entrar en operación.
+Las opciones de energía firme serían asignadas a los generadores existentes mediante un mecanismo competitivo y por un período de 5 años.
+Para los nuevos generadores las opciones serían igualmente asignadas haciendo uso de un proceso competitivo y por un período de ejercicio de 10 años.
+El mercado de opciones de energía firme esta conformado por dos mercados: un mercado primario de baja frecuencia y condiciones de largo plazo y un esquema de anillos de seguridad que permite ajustar la oferta a las condiciones de corto plazo de la demanda, el cual esta orientado a establecer mecanismos que permitan alternativas de gestión de riesgo tanto a la oferta como a la demanda.
+
+
+La figura 4, presenta de manera esquemática la asignación en el tiempo de las opciones de energía firme.
+Demanda A Opciones de
+Capacidad firme energía firme por
+SeXistente 10 años
+: : : : ??? Opciones de : : : : : energía firme por 5
+afios :
+                  i i i Y/H O 1 2 3 4 5
+Figura 4. Opciones de energía firme para generadores existentes y nuevos.
+Conviene señalar que la creación de este mercado de opciones de energía firme para la remuneración del Cargo por Capacidad, no modifica los mercados de corto plazo (Bolsa) y de contratos existentes desde el año 1995. Por el contrario, se crea un tercer mercado en el Mercado Mayorista Colombiano, sin efectuar modificaciones en los mercados existentes.
+8. CARACTERÍSTICAS DEL MERCADO DE OPCIONES
+Las siguientes constituyen las características generales del mercado de opciones de energía firme que se propone para la remuneración del Cargo por Capacidad.:
+Tipo de Opción: Call americana
+Prima: Determinada mediante subasta. Precios de Ejercicio: Establecidos de manera administrada. Período de ejercicio: Cinco años para generadores existentes
+                        Diez años para generadores nuevos. Activo subyacente: Energía en Bolsa.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Garantía: la opción está respaldada por el generador con una planta disponible cuya energía firme es declarada y Certificada.
+Inicio del pago de prima: A partir de puesta en operación para plantas nuevas o del compromiso de suministro de la planta que garantiza la energía firme.
+8.1.DEFINICIÓN DEL PRECIO DE EJERCICIO
+Corresponde al precio al cual el generador se compromete a entregar la energía firme remunerada por concepto de Cargo por Capacidad, siempre que la opción sea ejercida. El administrador ejercerá la opción siempre que el precio de bolsa supere el precio de ejercicio.
+Precio de Bolsa vs Precio de Ejercicio
+O T T T T I
+1 2 3 4 5 6 7 8 9 101112131415 161718192021222324
+Hora
+-Precio de Bolsa - Precio de Ejercicio
+Para efectos de permitir la administración del riesgo de precios de combustible para el caso de los generadores térmicos que se encuentren comprometidos en el mercado de opciones de energía firme se deben implementar mecanismos como:
+• Indexación del precio de ejercicio con el precio del combustible.
+• Implementación de un mecanismo de cobertura de precios de combustible por parte del generador.
+• El contrato así establecido entra en el proceso de balance que realiza el ASIC para liquidar los intercambios.
+ 
+
+
+8.2. EJERCICIO DE LA OPCIÓN
+o Cuando el precio de bolsa supera el precio de ejercicio.
+o Una vez la opción se ejerce esta constituye un contrato de venta de energía
+del generador al sistema a un precio igual al precio de ejercicio.
+9. ANILLOS DE SEGURIDAD
+Como se indicó anteriormente, el producto que los usuarios están pagando es el suministro de energía en condiciones críticas. Dicho propósito supone que el bien que por esencia se remunera es la entrega misma de energía, y que en el momento en que uno de los agentes generadores tenga limitaciones para cumplir con el compromiso pueda acudir a recursos disponibles en el sistema antes de entrar a la ejecución de un racionamiento y a la realización de compensaciones financieras por este concepto al usuario. En tal sentido se ha contemplado un esquema complementario conformado por tres mecanismos para lograr el balance oferta-demanda: ) Mercado secundario de energía firme; ii) Generación de última instancia; y iii) Demanda desconectable voluntariamente, que operan alrededor de los mercados mencionados anteriormente.
+Mercado primario de energía
+Mercado secundario de
+energia firme
+Generadores de última instancia
+Demanda desconectable voluntarianete
+Mercado primario de energía: Es la misma bolsa de energía.
+ 
+
+
+Mercado secundario de energía firme: En este mercado se transan obligaciones de energía firme entre generadores que tienen comprometida su energía firme, que por alguna razón no disponen del físico (p.e. indisponibilidad de la planta que respalda el contrato), y generadores que no han comprometido toda su energía firme y pueden suplir al primero para que pueda honrar la obligación de entrega de energía.
+El producto transado en el mercado secundario de energía firme corresponde a una opción con igual precio de ejercicio, como resultado del despeje de este mercado se tiene el valor de la prima que debe ser pagada por el generador que se encuentra total o parcialmente indisponible.
+Generadores de última instancia: Corresponde a un parque de generación instalado en el sistema que no participa en el mercado de opciones de energía firme ni en el mercado primario de energía de corto plazo (generadores fuera de mercado) ni en el mercado de contratos. Debido a la baja despachabilidad esperada de estos generadores, deben tener características de bajos costos de inversión y presumiblemente altos costos variables de generación. Estos generadores de última instancia tendrían asegurada la remuneración de sus costos de capital, y serían requeridos y remunerados con su costo variable en los casos en los cuales se presente un déficit en el mercado primario de energía.
+Los costos asociados a la operación de los generadores de última instancia deben ser asumidos por los generadores que incumplen sus obligaciones de energía firme.
+Demanda desconectable voluntariamente: Adicional a los generadores de ultima instancia se implementará un mecanismo que permita la participación de la demanda con disponibilidad de reducir su consumo o autogenerar, para los casos en los que se acuda por parte del sistema a este mecanismo, los costos generados por el mismo deberán ser asumidos por los generadores que incumplieron sus obligaciones de energía firme.
+Las condiciones para establecer la disponibilidad de la demanda a someterse a una reducción voluntaria de consumo deben ser establecidas previamente. Los costos de esta disponibilidad deberán ser asumidos por los generadores que incumplan sus obligaciones en el mercado de opciones, portanto, este despacho no afectará los precios del mercado de corto plazo.
+10. IMPLEMENTACIÓN
+Para una adecuada implementación del mercado de opciones de energía firme se propone:
+• Desarrollar el mecanismo de subasta para la adquisición de la energía firme requerida por el sistema en un horizonte de 5 años (expansión).
+
+
+0 mplementar un mecanismo de subasta de energía firme para las plantas que se encuentran en operación comercial, incluyendo si se considera conveniente un límite inferior (piso) y un límite superior (techo) para la prima de la opción, los cuales serían eliminados de manera gradual.
+o Diseñar el mecanismo de “Anillos de seguridad”: mercado secundario,
+generación de última instancia y Reducción de demanda.
+11. MODULOS Y CRONOGRAMA DE TRABAJO,
+El anexo 4 del presente documento contiene una descripción general de cada uno de los módulos y las actividades previstas para su desarrollo.
+12. BIBLIOGRAFÍA:
+Nance, P (2005). Cargo por Confiabilidad Y Sistema Electrónico de Contratos Estandarizados. Final report, disponible en www.creg.gov.co
+TERA (2000), Mínimos Operativos, Cargo por Capacidad y Estatuto de racionamiento, disponible en www.creg.gov.co.
+Wolak, F (2005). Report on "Proposal for Determining and Assigning the Reliability Charge for the Wholesale Energy Market" and "Electronic System of Standardized Long-Term Contracts (SEC)”, disponible en www.creg.gov.co
+Vasquez, et al (2002). A market approach to long-term security of Supply. IEEE Transactions on Power Systems, Vol. 17. No 2, Pp. 349-357-389.
+ 
+
+
+13. ANEXO 1: ALTERNATIVAS
+A continuación se describen las alternativas propuestas en el documento CREGO72 de 2005.
+13.1.
+ALTERNATIVA 1
+En general corresponde a la metodología establecida actualmente, mediante la Resolución CREG-116 de 1996, considerando algunas modificaciones, en especial la determinación de la Energía Firme, la cual se realizaría el procedimiento general que se establecerá para todas las alternativas identificadas:
+13.2.
+Anualmente y para cada una de las plantas existentes se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin.
+El procedimiento denominado “K” establecido mediante la Resolución CREG-116 de 1996, se sustituiría por el despacho realizado por el modelo hidrotérmico en el período de demanda alta. Para el efecto la demanda de potencia en dicho periodo se aumentaría por un factor del 5%.
+En el proceso de asignación solo se concederían aquellos recursos instalados o los que entren en operación comercial durante alguno de los meses del verano para el cual se esta realizando la asignación.
+La asignación a cada recurso de generación se realizaría considerando la Energía Firme dentro de cada bloque de demanda, así como los costos variables de cada uno, determinados mediante un mecanismo definido por la CREG.
+La asignación de Cargo por Capacidad para cada uno de los recursos se realizaría anualmente.
+El pago del Cargo por Capacidad se realiza considerando la disponibilidad real de cada uno de los recursos de generación, en los términos establecidos en la reglamentación vigente.
+El costo unitario expresado en US$/kW-mes de la tecnología eficiente a ser utilizado para la remuneración de la confiabilidad sería definido por la CREG, con base en una planta eficiente y el bloque de demanda a releaf.
+ALTERNATIVA 2.
+
+
+Corresponde al mecanismo propuesto mediante la Resolución CREG-050 de 2004, por la cual se sometió a consideración de los agentes y demás interesados el documento CREG 038 de 2004, el cual contiene una propuesta para la determinación y asignación del Cargo por Confiabilidad en el Mercado de Energía Mayorista
+Anualmente cada generador remite a la CREG una oferta de precios, la cual se utilizará para el proceso de asignación.
+Para cada planta se certifica su Energía Firme y la asignación se realiza considerando los precios ofertados por cada uno de los generadores.
+El cargo por confiabilidad asociado con la Energía Firme se remunera durante las 24 horas del día de despacho a un costo unitario expresado en USS/kW-mes, establecida por la CREG, con base en una planta eficiente y el bloque de demanda a remunerar.
+Una vez se asigna la Energía Firme se procede a realizar la asignación de potencia firme mediante un mecanismo de subasta en el cual cada agente generador debe ofertar el costo unitario expresado en US$/kW-mes, al cual espera ser remunerado, la asignación se realiza hasta el punto en el cual se cubre la demanda máxima de potencia.
+La remuneración por potencia firme se realiza durante las cuatro (4) horas del período de punta, al costo marginal resultante del proceso de subasta.
+La oferta de costos variables y de valor de agua realizada por cada uno de los generadores constituye un techo al precio de oferta que pueden realizar al mercado de corto plazo (bolsa).
+La cantidad de potencia firme contemplada en la subasta corresponde a la diferencia entre la demanda máxima de potencia y la potencia media asociada con la Energía Firme asignada.
+Se establece un mercado secundario en el cual los generadores que fallan en entregar una disponibilidad igual o superior a su asignación de potencia firme, deban adquirirla de aquellos generadores que tiene potencia disponible no remunerada, si en dicho mercado no existe disponibilidad el generador debe pagar al costo de racionamiento.
+En el proceso de asignación del cargo por confiabilidad por Energía Firme y en la subasta de potencia solo participan los generadores ya instalados.
+La asignación se realiza de manera anual, para un período de cinco (5) años.
+
+
+13.3. ALTERNATIVA 3.
+Contempla una alternativa administrada de remuneración de capacidad, con las siguientes características.
+o Anualmente se establece para cada período de demanda y con un horizonte de 5 años la capacidad confiable de generación, la cual corresponde a la capacidad mínima requerida para atender la demanda esperada por la UPME.
+O Para cada una de las plantas existentes se certifica la Energía Firme de
+conformidad con el procedimiento establecido para tal fin
+• La asignación se realiza de manera anual para los siguientes cinco (5) años, como se muestra en la siguiente figura 2, período durante el cual se realizan ajustes anuales por variaciones en el índice de indisponibilidad.
+Capacidad firme existente
+Años
+Figura 2, asignación por cinco (5) años del cargo por capacidad.
+o El costo unitario expresado en US$/kW-mes a remunerar es definido por la CREG, con base en una planta eficiente y el bloque de demanda a Terrerar.
+• Se asigna la capacidad confiable seleccionando la capacidad firme de cada una de las plantas de menor costo variable.
+ 
+ 
+
+
+13.4.
+Esta
+Cada año se asigna para los siguientes 5 años la capacidad incremental que no ha sido asignada.
+El cargo se actualiza cada año para las nuevas asignaciones.
+El cargo antes establecido se reconoce a las capacidades que se asignen Cada año.
+El procedimiento de asignación se realiza cada cinco (5) años.
+Precio techo (Se incluyo en noviembre 25)
+ALTERNATIVA 4
+alternativa contempla uma asignación administrada de cargo por capacidad
+para el parque existente y un mecanismo de subastas de nueva capacidad para atender la demanda incremental.
+Para generadores instalados
+Anualmente se establece para cada período de demanda y con un horizonte de 5 años la capacidad confiable de generación, la cual corresponde a la capacidad mínima requerida para atender la demanda esperada por la UPME.
+Para cada una de las plantas de generación se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin
+Para cada generador existente la asignación de potencia firme a ser remunerada tiene un periodo de vigencia de cinco (5) años, durante el cual Se realizan ajustes anuales por variaciones en el índice de indisponibilidad, mediante una metodología establecida por la CREG.
+La asignación a cada generador se realiza considerando el costo variable de cada uno de estos, determinados mediante un mecanismo definido por la CREG.
+Para los generadores con asignación antes adelantada la primera subasta, el costo unitario a remunerar es definido por la CREG, con base en una planta eficiente y el bloque de demanda a remunerar.
+Después de realizada la primera subasta el costo unitario a ser remunerado a los generadores existentes corresponde al costo unitario resultante de cada uno de los procesos de subasta.
+
+
+Para nueva capacidad de generación:
+• Anualmente se establece para cada período del horizonte de cinco (5) años la capacidad confiable de generación incremental requerida para atender la demanda con la confiabilidad definida por la UPME.
+Capacidad instakada en
+\ Potencia
+firme en t-0
+Nueva capacidad firme requerida
+— Capacidada ser asignada
+Años
+Figura 3, asignación a generadores existentes y subasta de nueva capacidad
+El valor incremental se obtiene de la diferencia entre el valor de la demanda pico esperada y la capacidad confiable total instalada para cada bloque de demanda (punta, media, base) y asignada en cargo por capacidad a los generadores existentes durante cada uno de los años.
+Una vez se identifica la nueva capacidad requerida se subasta en un proceso a nivel internacional donde cada oferente compite por el precio de la capacidad en US$/kW-mes, para cada bloque de carga.
+Para cada una de las plantas se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin.
+La capacidad firme asignada a cada oferente en el proceso de subasta tiene una vigencia de diez (10) años, contados a partir de la fecha para la cual fue asignada dicha capacidad. Con lo cual el generador se compromete a tener una disponibilidad de capacidad firme y de la Energía Firme correspondiente.
+ 
+ 
+
+
+Cada nuevo generador deberá constituir las garantías de cumplimiento de entrada en operación, que para tal efecto determine la CREG.
+El procedimiento de subasta será realizado para cada uno de los bloques de la curva de demanda (base, media, alta), y cada generador podrá participar según las características de su Energía Firme previamente certificada.
+Para todos los efectos la CREG establecerá un precio techo aplicable al mercado de corto plazo, el cual debe ser considerado por los generadores al momento de realizar sus ofertas en el proceso de subasta.
+13.5. ALTERNATIVA 5.
+Esta alternativa corresponde a la primera parte de la propuesta presentada por el consultor Peter Nance, la cual es complementaria con la propuesta de energía presentada por Frank Wolak y tiene las siguientes características.
+O Convertir el actual cargo por capacidad en un contrato de potencia
+asimilable a una opción del tipo Call, con un precio de ejercicio igual al precio promedio de bolsa para los últimos cinco (5) años y un precio de mercado igual al precio promedio de bolsa para el último mes.
+• Mediante un proceso de despacho bajo condiciones hidrológicas criticas se determina de manera centralizada la Energía Firme de cada generador la cual determina su CRT, la cual es remunerada a una tarifa fija (ej., 5.25 US$/kWh-mes) definida por el regulador.
+O Durante cada mes el generador deberá realizar un pago al mercado
+mayorista igual a:
+Pago = CRT*min(0, Pim-P5);
+Donde
+P5: Precio promedio de bolsa últimos cinco (5) años. Pm: precio promedio de bolsa del mes.
+o Lo anterior implica que para los casos en los cuales el precio promedio de los últimos cinco (5) años P5, sea inferior al precio promedio del mes anterior el sistema ejerce automáticamente la opción y el generador ve disminuida su remuneración por concepto de CXC, en el monto correspondiente al pago arriba señalado.
+O Asignación anual para un período de cinco (5) años.
+
+
+13.6. ALTERNATIVA 6.
+Esta alternativa corresponde a la propuesta del mercado de energía sin cargo por capacidad realizado por Frank Wolak, en el cual la capacidad de generación de respaldo se incluye en los contratos de largo plazo firmados entre la demanda y los generadores.
+Se debe requerir a cada uno de los comercializadores contratar un portafolio de productos.
+El portafolio de productos adquiridos por el comercializador puede estar conformado por contratos del tipo “forward” o por opciones del tipo Call sobre Energía Firme.
+El regulador debe establecer la composición del portafolio, por ejemplo para un año se puede requerir que el 90% se contrato mediante contratos “forward” y el 10% restante mediante opciones Call con un precio de ejercicio determinado, para el caso de horizontes de entrega mayores el 90% puede ser reducido y el 10% incrementado.
+Se debe implementar un mercado secundario que permita al comercializador ajustar sus desviaciones frente al contrato, por ejemplo al comercializador que pierde un usuario liberar la Energía Firme y al entrante adquirirla.
+Periodo de contratación de cinco (5) años.
+13.7. ALTERNATIVA 7.
+Esta alternativa constituye un mercado de capacidad asignado mediante un procedimiento de subasta.
+O Para cada una de las plantas se certifica la Energía Firme de conformidad
+con el procedimiento establecido para tal fin
+O Se establece la demanda esperada para cada bloque para el período de 10
+años.
+• Anualmente se realiza una subasta para cada uno de los bloques de demanda en la cual pueden participar tanto las plantas existentes como las entrantes, considerando su Energía Firme previamente certificada.
+• En la subasta el generador debe ofertar la prima con la que espera ser remunerado, expresada en US$/kW-mes.
+
+
+13.8.
+Cada generador adquiere un compromiso con el sistema por un período de diez (10 años), equivalente a su potencia firme remunerada y la Energía Firme correspondiente, para los nuevos y cinco (5) para los establecidos.
+La remuneración recibida por cada generador asignado corresponde al precio ofertado en el proceso de subasta.
+ALTERNATIVA 8.
+El producto adquirido corresponde a una opción de capacidad del tipo Call, la cual le otorga el derecho al comprador mediante el pago de una prima, mas no la obligación de adquirir un bien determinado en un momento del tiempo a un precio pactado previamente denominado precio de ejercicio.
+El mercado o el operador deben adquirir de los generadores un volumen determinado de opciones de confiabilidad, definido por el regulador.
+El regulador establece el precio de ejercicio de la opción el cual se propone sea superior al 25% del CMg del generador más costoso que se espera despachar en un período determinado.
+La asignación se realiza mediante un mecanismo de subasta en la cual los generadores ofertan la prima de la opción, expresada en US$/kW-mes, considerando la Energía Firme certificada para cada uno.
+Para cada una de las plantas se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin
+Cuando el precio del mercado spot supere el precio de ejercicio el generador debe pagar al mercado la diferencia de precios por el volumen total comprometido.
+Se establece una penalización para los generadores requeridos en el despacho y que se encuentren indisponibles.
+Asignación anula para un período de cinco (5) años.
+
+
+14. ANEXO 2: EVALUACIÓN DE LAS ALTERNATIVAS
+A continuación se presenta un resumen de la evaluación de cada uno de los Criterios para cada una de las alternativas realizado al interior de la Comisión. En el anexo 3 del presenta documento se recogen los resultados de la evaluación realizado por los agentes y terceros en el taller adelantado para tal fin.
+El marco teórico utilizado para la evaluación de los criterios se incluye en el anexo 5 del presente documento.
+Eficiencia económica: Permite la prestación del servicio a mínimo costo
+Alternativa 1 La eficiencia técnica se alcanza en la medida en que la prima establecida en 5.25 US$/Kw-mes, corresponde a una planta de tecnología eficiente. La eficiencia asignativa se alcanza dado que la asignación del Cargo por capacidad es función del costo marginal de cada una de las plantas
+Alternativa 2 La eficiencia técnica se alcanza en la medida en que la prima establecida en 5.25 US$/Kw-mes, corresponde a una planta de tecnología eficiente. La eficiencia asignativa se alcanza en la medida en la que las ofertas de los generadores se aproximen al costo marginal de cada una de las plantas
+Alternativa 3 La eficiencia técnica se alcanza en la medida en que la prima establecida en 5.25 US$/KW-mes, corresponde a una planta de tecnología eficiente. La eficiencia asignativa se alcanza dado que la asignación del Cargo por capacidad es función del costo marginal de cada una de las plantas
+Alternativa 4 Para el caso de los existentes el mecanismo es exactamente igual al CXC actual. En el proceso de subasta solo se podría verificar un criterio de eficiencia técnica (esto se corrige con el precio de ejercicio), pero si dicho mecanismo es eficiente y se encuentra bien diseñado, los agentes participantes deberían tener el objetivo de minimizar costos y por lo tanto se debería alcanzar la eficiencia asignativa
+Alternativa 5 la valoración del CXC y el mecanismo de asignación es igual al
+de las alternativas 1 y 3.
+Alternativa 6 La eficiencia económica se puede alcanzar en la medida en que el mecanismo de negociación de contratos entre comercializadores y generadores sea centralizado y simultaneo que garantice la participación de todos los agentes en igualdad de condiciones
+
+
+Alternativa 7
+La eficiencia económica se alcanza en la medida en que el diseño de la subasta sea adecuado
+Alternativa 8
+La eficiencia técnica se alcanza en la medida en que la determinación adecuada del precio de ejerció induce a la entrada de plantas de tecnología eficiente.
+Coherencia con los precios del mercado: No distorsiona la formación de precios, de corto y largo plazo.
+Alternativa 1
+La distorsión sobre los precios del mercado se podría dar más por el mecanismo de recaudo que por la existencia del cargo por capacidad mismo. Se puede presentar distorsión en las ofertas de los generadores que se encuentran indisponibles y que para no perder el cargo por capacidad ofertan precios cercanos al CR
+Alternativa 2
+Para el caso del mercado de energía si las condiciones esperadas no se cumplen podría presentarse una asignación ineficiente en el corto plazo. Existe información privada y dificultad en lograr que todos los agentes tengan la misma capacidad de previsión
+Alternativa 3
+Se dan las mismas condiciones que para la alternativa 1
+Alternativa 4
+Sin considerar el mecanismo de recaudo, la Alternativa 4, no debería tener ningún efecto negativo sobre el precio del mercado, por el contrario podría darse un efecto positivo al incluir explícitamente la nueva capacidad requerida, lo que facilita el proceso de expansión y por lo tanto una posible reducción en el precio del mercado. El precio techo es una externalidad positiva
+Alternativa 5
+La opción al establecer un precio de ejercicio induce al generador a mantener un precio de mercado menor al de ejercicio y de igual manera limita el abuso de posición dominante en la medida en que el agente la remunerada mediante cargo por capacidad no se beneficia de los incrementos del precio
+Alternativa 6
+En la medida que los agentes contratan su energía a precio fijo en un mercado de largo plazo, los beneficios que obtienen por las ventas en la bolsa son inferiores y por lo tanto disminuye posibilidades de poder de mercado.
+Alternativa 7
+El efecto podría darse más por el mecanismo de recaudo que por el cargo por capacidad en simismo
+Alternativa 8
+La opción al establecer un precio de ejercicio induce al generador a mantener un precio de mercado menor al de ejercicio y de igual manera limita el abuso de posición dominante en la medida en que el agente la remunerada mediante cargo por capacidad no se beneficia de los incrementos del precio.
+
+
+Confiabilidad. Permite asegurar la continuidad en la prestación del servicio, para
+todos los usuarios del Sistema Interconectado Nacional-SN
+Alternativa 1
+Nivel de confiabilidad depende del valor regulado. No existe reciprocidad por parte de los generadores que son remunerados
+Alternativa 2
+Depende del diseño de la subasta. No existe reciprocidad por parte de los generadores que son remunerados.
+Es de muy corto plazo. Introduce alta incertidumbre en la remuneración de los generadores.
+Alternativa 3
+Nivel de confiabilidad depende del valor regulado. No existe reciprocidad por parte de los generadores que son remunerados. Incrementa el plazo de asignación (mejora con respecto a la 1)
+Alternativa 4
+Considera explícitamente los requerimientos futuros del sistema. Depende de la proyección de la demanda y del cálculo de la energía firme
+Alternativa 5
+Similar a la alternativa 1, pero adicionalmente incluye precio de ejercicio administrado que puede ser restrictivo
+Alternativa 6
+Se alcanza en la medida en que se defina adecuadamente la demanda futura del sistema y se implemente un mecanismo eficiente de negociación. (Decisiones individuales y por el contrario debería ser un criterio agregado para el SIN)
+Alternativa 7
+Se alcanza en la medida en la que se defina adecuadamente la demanda futura del sistema y se implemente un mecanismo eficiente de negociación
+Alternativa 8
+La confiabilidad es alta, siempre que se definan adecuadamente los requerimientos futuros del sistema
+Estabilidad: Conduce a una baja volatilidad en la asignación del Cargo por Capacidad en el tiempo, recibida por cada uno de los agentes del mercado, tanto
+existentes Como entrantes.
+Alternativa 1
+La asignación anual incrementa la volatilidad de la remuneración por CXC para muchos agentes del mercado
+Alternativa 2
+Asignación anual al igual que la alternativa 1, pero se incrementa la volatilidad por el diseño de la subasta de potencia
+Alternativa 3
+El período de asignación se incrementa a cinco años, lo cual disminuye volatilidad
+Alternativa 4
+El período de asignación para los existentes es de cinco años y para los nuevos es de diez, lo cual reduce significativamente la
+
+
+volatilidad de la remuneración por CXC
+Alternativa 5
+Si bien la asignación se realiza para un período de cinco años, la definición del precio de ejercicio podría implicar una alta volatilidad en los ingresos reales por CXC
+Alternativa 6
+Se incrementa la estabilidad al ampliar el horizonte de
+Contratación a Cinco años
+Alternativa 7
+La estabilidad depende del proceso de subasta, lo cual podría incrementar la variabilidad en la asignación, aun siendo esta por Cinco años
+Alternativa 8
+Si bien la asignación se realiza para un período de cinco años el proceso de subasta podría incrementar la volatilidad en la asignación
+Predictibilidad: Posibilita que cualquier agente del mercado pueda estimar la evolución futura de su remuneración por concepto de confiabilidad, con un nivel de probabilidad aceptable
+Alternativa 1
+Si bien la predictibilidad puede ser alta, se requieren muchos Supuestos
+Alternativa 2
+Se requiere desarrollar un modelo de equilibrio parcial el cual puede ser altamente complejo
+Alternativa 3
+Si bien la predictibilidad puede ser alta, se requieren muchos Supuestos
+Alternativa 4
+Si bien para los generadores existentes es altamente predecible (en cantidad), se requiere definir el diseño de la subasta para determinar la capacidad de predicción de los entrantes y el precio a ser aplicado a los existentes con posterioridad al quinto año
+Alternativa 5
+Si bien la predictibilidad puede ser alta, se requieren muchos Supuestos
+Alternativa 6
+La predictibilidad es muy baja dado que se requiere estimar curvas de demanda y curvas de oferta para lo cual se tendría que desarrollar un modelo de equilibrio parcial que permita estimar las estrategias a adoptar por los demás agentes. El mercado de contratos produce una señal de precio.
+Alternativa 7
+La predictibilidad es muy baja dado que se requiere estimar curvas de demanda y curvas de oferta para lo cual se tendría que desarrollar un modelo de equilibrio parcial que permita estimar las estrategias a adoptar por los demás agentes
+Alternativa 8
+La predictibilidad es muy baja dado que se requiere estimar curvas de demanda y curvas de oferta para lo cual se tendría que desarrollar un modelo de equilibrio parcial que permita estimar las estrategias a adoptar por los demás agentes
+
+
+Capacidad de previsión: Posibilita la apropiación oportuna de los requerimientos futuros del sistema.
+Alternativa 1
+Solo observa el próximo verano
+Alternativa 2
+Solo observa el próximo verano
+Alternativa 3
+Considera un horizonte de cinco años pero no incluye entrantes (nuevos proyectos)
+Alternativa 4.
+Considera explícitamente los entrantes, esta limitada por el horizonte de tiempo en el que se realiza la asignación (cinco años adelante)
+Alternativa 5
+Si bien se cuenta con un horizonte de cinco años, no incluye entrantes (nuevos proyectos).
+Alternativa 6
+Considera explícitamente los entrantes, esta limitada por el horizonte de tiempo en el que se realiza la asignación (cinco años adelante).
+Alternativa 7
+Cinco años incluye los nuevos
+Alternativa 8
+Cinco años, incluye los nuevos.
+Riesgos de la actividad de generación: Asigna los riesgos de mercado que corresponden a la actividad de generación.
+Alternativa 1
+Si bien el CXC tiene por objetivo remunerar parte de los costos fijos de inversión en un recurso de generación, su asignación anual incrementa el riesgo del generador
+Alternativa 2
+Asignación anual al igual que alternativa 1, pero incrementa los riesgos a implicar oferta para 17 meses adelante ante situaciones de alta incertidumbre
+Alternativa 3
+Asignación por cinco años, lo que disminuye los riesgos de la actividad de generación
+Alternativa 4
+En la medida que las subastas asignan el CXC para un período de 10 años, se diminuye drásticamente el riesgo enfrentado por el generador en el mercado, para el caso de los establecidos dicho riesgo igualmente se diminuye ya que la asignación se realizaría para un período de cinco (5) años.
+Alternativa 5
+Se incrementa el período para el cual se asigna el CxC y por lo tanto disminuye el riesgo por este concepto, pero este se ve afectado por la definición del precio de ejercicio, tal y como lo propone el consulto el riesgo se podría incrementar considerablemente en la medida en la que dicho precio de ejercicio resulte ser inferior al costo marginal del generador
+Alternativa 6
+Se diminuye el riesgo ya que el generador fija el precio total el cual incluye potencia más energía para un período de cinco (5) años. Riesgo de combustible. Afecta hidrotérmicos
+Alternativa 7
+Depende del excedente de oferta con que cuente el sistema, lo cual podría deprimir el precio incrementando el riesgo de la
+
+
+actividad de generación.
+Alternativa 8
+Dado que el precio de ejercicio se fija considerando un valor superior al CMg de la tecnología más costosa para un período determinado, el riesgo de ser llamado a un precio inferior al CMg, es mínimo, adicionalmente la asignación de la opción se realiza para un período de cinco (años) lo que disminuye el riesgo de la actividad
+Capacidad de atraer Inversión Directa: es un esquema competitivo en el mercado internacional para atraer inversión en nuevos proyectos de generación.
+Alternativa 1
+Es un mecanismo de corto plazo, que no considera requerimientos futuros de generación.
+Alternativa 2
+No considera los requerimientos futuros del sistema e introduce un mayor grado de incertidumbre en la actividad de generación
+Alternativa 3
+Se considera un horizonte de cinco años lo que mejora la capacidad de atraer inversión directa, pero no considera explícitamente los nuevos generadores requeridos para atender las necesidades futuras del sistema
+Alternativa 4
+Alta capacidad de atraer inversión directa (considera explícitamente los nuevos requerimientos del sistema y establece el mecanismo para convocarios (Se podría presentar un desincentivo para los inversionistas por la existencia de precios de ejercicio
+Alternativa 5
+El mecanismo de opciones con un precio de ejercicio dependiente de la historia puede desincentivar la nueva inversión
+Alternativa 6
+Si bien se cuenta con un horizonte de cinco años no se consideran explícitamente los nuevos generadores. Limitada. Estos deben ser “lamados”.
+Alternativa 7
+Alta capacidad de atraer inversión directa considera explícitamente los nuevos requerimientos del sistema y establece el mecanismo para convocarios (Se podría presentar un desincentivo para los inversionistas por la existencia de precios de ejercicio)
+Alternativa 8
+Si bien se consideran los requerimientos futuros del sistema no se establece el mecanismo explicito para incorporarios
+Simplicidad: Es compleja para la comprensión, aplicación y control, desde el punto de vista práctico y teórico.
+Alternativa 1
+El mecanismo es conocido y no reviste gran complejidad
+Alternativa 2
+Requiere el desarrollo de un modelo de equilibrio parcial que permita estimar el comportamiento de los generadores
+Alternativa 3
+Mecanismo ampliamente conocido
+
+
+Alternativa 4
+Metodología conocida (para los existentes), para los nuevos el mecanismo de subasta debe ser diseñado, pero las subastas son una herramienta conocida a nivel internacional.
+Alternativa 5
+Mecanismo conocido
+Alternativa 6
+El mecanismo es simple (mercado de contratos conocido), se tiene que realizar proyecciones de demanda por comercializadores e implementar mecanismo de verificación.
+Alternativa 7
+El mecanismo de subasta debe ser diseñado, pero las subastas son una herramienta conocida a nivel internacional
+Alternativa 8
+Si bien no es un mecanismo existente en el mercado es de amplio conocimiento (mercados de opciones).
+Tiempo de implementación: Tiene un período esperado de tiempo requerido para poner en operación una alternativa especifica
+Alternativa 1
+Requiere el desarrollo de un nuevo modelo
+Alternativa 2
+Requiere el desarrollo de un nuevo modelo y el diseño de la subasta.
+Alternativa 3
+Requiere desarrollar un modelo para la asignación de cinco años
+Alternativa 4
+Requiere el desarrollo del nuevo modelo para efectos de la determinación y asignación de la energía firme, así como el diseño de la subasta, el esquema de garantías a aplicar, diseño del mecanismo de divulgación de la convocatoria
+Alternativa 5
+Fundamentalmente requiere solo el desarrollo de modelo para la asignación y mecanismos de garantías
+Alternativa 6
+Se requiere definir un modelo para determinar la energía firme de cada planta de generación, de igual manera se debe definir el procedimiento de pronóstico de la demanda de energía para cada Comercializador
+Alternativa 7
+Requiere el diseño de la subasta, tanto para los nuevos como para los existentes
+Alternativa 8
+Requiere el desarrollo del nuevo modelo y el diseño de la subasta para efectos de la asignación de la potencia firme, definición de precio de ejercicio, y el esquema de garantías
+Nivel de cambios requeridos al modelo económico existente: Conduce a cambios con respecto al esquema actual.
+Alternativa 1
+No requiere cambios al modelo existente (desarrollo de nuevo modelo de asignación y cálculo de energía firme)
+Alternativa 2
+Se pasa de un modelo de ofertas diarias a uno que considera ofertas mensuales para un periodo de 17 meses
+Alternativa 3
+No requiere cambios fundamentales al modelo económico existente
+
+
+Alternativa 4
+Requiere cambio en el modelo e implementación de un nuevo mecanismo (subasta).
+Alternativa 5
+Requiere cambio de modelo
+Alternativa 6
+El nivel de cambios requeridos es alto, en la medida en que se pasa de un mercado de energía y capacidad a un mercado solo de energía. Requiere transición.
+Alternativa 7 Se pasa de un mecanismo completamente administrado a uno
+con una componente importante de mercado Alternativa 8 Cambio en el modelo (implementación de subastas), cambio en
+liquidación de las transacciones en bolsa
+Remuneración del “servicio de confiabilidad”: dentifica el servicio a Tele2.
+Alternativa 1 No existe reciprocidad y no se define el producto que se
+ferrera
+Alternativa 2
+Si bien existe algún grado de reciprocidad, no se define el producto que se remunera
+Alternativa 3
+No existe reciprocidad y no se define el producto que se ferrera.
+Alternativa 4
+La remuneración del servicio de confiabilidad es media en la medida en que el mayor grado se alcanza en alternativas como la 6, en la cual la demanda adquiere el derecho sobre la energía necesaria para atender la demanda futura del sistema
+Alternativa 5
+Si bien se tienen un precio de ejercicio no se tiene el derecho sobre la energía requerida para atender la demanda (Mercado secundario requerido).
+Alternativa 6
+Se adquiere derecho sobre la energía necesaria para atender la demanda futura
+Alternativa 7
+la remuneración del servicio de confiabilidad es media en la medida en que el mayor grado se alcanza en alternativas como la 6, en la cual la demanda adquiere el derecho sobre la energía necesaria para atender la demanda futura del sistema
+Alternativa 8
+la remuneración del servicio de confiabilidad es media en la medida en que el mayor grado se alcanza en alternativas como la 6, en la cual la demanda adquiere el derecho sobre la energía necesaria para atender la demanda futura del sistema
+Verificabilidad: Permite medir la potencial entrega del bien que se está
+remunerando.
+Alternativa 1
+Si bien existen las pruebas de disponibilidad éstas no permiten determinar la disponibilidad de la energía firme
+Adicional a las pruebas de disponibilidad, se tienen techos a las
+Alternativa 2
+
+
+ofertas.
+Alternativa 3
+Si bien existen las pruebas de disponibilidad éstas no permiten determinar la disponibilidad de la energía firme.
+Alternativa 4.
+Adicional a las pruebas de disponibilidad, se tiene precio de ejercicio.
+Alternativa 5
+Adicional a las pruebas de disponibilidad, se tiene precio de ejercicio.
+Alternativa 6
+Las condiciones de verificabilidad dependen de la negociación bilateral.
+Alternativa 7
+Adicional a las pruebas de disponibilidad, se tiene precio de ejercicio.
+Alternativa 8
+Adicional a las pruebas de disponibilidad, se tiene precio de ejercicio.
+Exigibilidad: Permite hacer exigible la entrega del bien que se está remunerando o su equivalente económico.
+Alternativa 1
+No es exigible
+Alternativa 2
+Es exigible en la medida en la que el precio de oferta para la asignación del Cargo por Capacidad es un techo al precio de Oferta
+Alternativa 3
+No es exigible
+Alternativa 4
+Es exigible en la medida en que existe un precio de ejercicio en el mercado (se requiere implementar mercado secundario).
+Alternativa 5
+Existe precio de ejercicio
+Alternativa 6
+Es un contrato bilateral de obligatorio cumplimiento soportado en sistema de garantías sólido
+Alternativa 7
+Existe precio de ejercicio
+Alternativa 8
+Existe precio de ejercicio
+Claridad de las metodologías: Los procedimientos y la información a utilizar deben estar expresamente definidas sin ambigüedades, de tal manera que pueda haber pleno conocimiento de todos estos elementos (no caja negra).
+Alternativa 1
+Las metodologías y la información utilizada son de público conocimiento, el modelo no utiliza información privada, pero existe un grado de discrecionalidad en la alimentación del modelo y en la existencia de otros procesos
+Alternativa 2 Las metodologías y la información utilizada son de público conocimiento, el modelo no utiliza información privada, existe un grado de discrecionalidad en la alimentación del modelo y en la existencia de otros procesos
+Alternativa 3 Las metodologías y la información utilizada son de público
+conocimiento, el modelo no utiliza información privada, existe un
+
+
+grado de discrecionalidad en la alimentación del modelo y en la existencia de otros procesos
+Alternativa 4
+Las metodologías y la información utilizada son de público conocimiento, el modelo no utiliza información privada
+Alternativa 5
+Las metodologías y la información utilizada son de público conocimiento, el modelo no utiliza información privada
+Alternativa 6
+La valoración es bilateral, pude existir poder de mercado bien sea de la oferta o de la demanda, lo cual hace difícil para las partes y para el mercado determinar el valor implícito de la confiabilidad (problema de descubrimiento de precios).
+Alternativa 7
+Las metodologías y la información utilizada son de público conocimiento, el modelo no utiliza información privada
+Alternativa 8
+Conocida (mercado de opciones)
+Verificabilidad de los resultados: Permite reproducir los resultados por parte de
+los agentes.
+Alternativa 1
+Siempre que el modelo sea de público conocimiento
+Alternativa 2
+Existe información confidencial (ofertas de los agentes) lo cual dificulta o imposibilita reproducir los resultados
+Alternativa 3
+Siempre que el modelo sea de público conocimiento
+Alternativa 4
+Modelo público, la verificabilidad es alta, pero depende de la disponibilidad de información sobre las subastas
+Alternativa 5
+La verificabilidad es alta en la medida en que el modelo de asignación sea público
+Alternativa 6
+En la medida en que las negociaciones bilaterales sean de público conocimiento
+Alternativa 7
+Siempre que la información del proceso de subasta sea pública
+Alternativa 8
+Siempre que la información del proceso de subasta sea pública
+
+
+15. ANEXO3. RESULTADOSTALLER DE EVALUACIÓN
+
+
+16. ANExo 4: DESCRIPCIÓN GENERAL DE Los MÓDULos
+16.1. PRUEBAS DE DISPONIBILIDAD
+Procedimiento mediante el cual se verifica la disponibilidad declarada por los generadores que están siendo remunerados por cargo por capacidad. En materia de pruebas de disponibilidad se requiere revisar la resolución CREG-017 de 2002, con el fin de analizar la posibilidad de implementar un muestreo estratificado que permita verificar plantas con una asignación menor de CRT.
+Se consideran las siguientes actividades:
+• Análisis de la información histórica de plantas llamadas a pruebas de disponibilidad de conformidad con la Resolución CREG-017 de 2002.
+o Simulación de diferentes mecanismos de muestreo que permitan incorporar
+una mayor diversidad de plantas a ser probadas.
+O Determinación del mecanismo de muestreo a implementar.
+16.2. RETIRO Y DEGRADACIÓN DE GENERADORES
+Procedimiento mediante el cual se establece el mecanismo de ajuste a la asignación de cargo por capacidad por el retiro del mercado de aquellos generadores que tienen asignación de cargo por capacidad.
+La Resolución CREG-037 de 1999 establece el mecanismo de retiro de plantas y/o unidades de generación del SIN, esta Resolución se fundamenta en el principio de libre entrada y salida en la actividad de generación.
+Si bien bajo el esquema actual del cargo por capacidad en el cual el generador no adquiere ningún compromiso es razonable el principio de libre salida, este debería analizarse a la luz de las alternativas en las cuales el generador adquiere obligaciones y compromisos con el mercado al ser remunerado con cargo por capacidad.
+Se consideran las siguientes actividades generales:
+o Analizar el principio de libre salida ante situaciones en las cuales el generador ha adquirido obligaciones con el mercado por un período de
+tiempo determinado.
+O Metodología y cálculo de los índices de indisponibilidad y responsabilidad
+de su cálculo.
+
+
+16.3. ANILLOS DE SEGURIDAD
+Mecanismo mediante el cual los generadores o comercializadores compensan sus compromisos en materia de cargo por capacidad.
+Se consideran las siguientes actividades
+Mercado secundario
+o Estado del arte (Revisión internacional): o Diseño:
+o Beneficios y costos del mercado secundario. o Características del mercado
+Agentes que participan en este Mecanismo de asignación de cantidades Formación de precios. Periodicidad. o Condiciones para participar como vendedor y comprador. O Pruebas (simulación):
+o Se debe realizar una simulación del modelo de mercado secundario a ser implementado, con el fin de realizar los ajustes necesarios que se requieran.
+• Diseño final:
+o Una vez finalizada la etapa de pruebas se debe expedir la reglamentación para la implementación y operación del mercado secundario.
+Generación de ultima instancia y demanda desconectable voluntariamente.
+En estos módulos se desarrolla la aproximación regulatoria necesaria para implementar estos mecanismos en forma coordinada con los esquemas de mercado primario, secundario y con el estatuto de.
+Las actividades comprenden
+o Análisis y elección de alternativas (en el caso de demanda desconectable
+   evaluación de potencial) o Definición de esquema regulatorio.
+16.4. PROYECCIÓN DE DEMANDA
+Procedimiento mediante el cual se determina la demanda del sistema para cada uno de los bloques de la curva de duración de carga. Las proyecciones de demanda estarán fundamentadas en las proyecciones que realiza la UPME para el Plan de Expansión de Referencia
+
+
+16.5. DETERMINACIÓN DE LA ENERGÍA FIRME
+La energía firme es la máxima cantidad de Kwh que una planta de generación hidráulica puede entregar en condiciones extremas de hidrología.
+Para las plantas térmicas se debe definir la condición de garantía de combustible que deben tener para garantizar la capacidad disponible de las plantas.
+En cuanto a disponibilidad se mantiene la definición de H. Sin embargo, es necesario identificar posibles mejoras.
+Se consideran las siguientes actividades:
+o Definición de energía firme
+• Definición Alternativas de consideración de energía firme:
+o Certificada o Declarada o Definición de parámetros para el cálculo de energía firme certificada
+o Plantas térmicas o Plantas hidráulicas O Definición de requisitos funcionales del algoritmo de cálculo de energía
+  filme o Metodología de cálculo o Definición de parámetros para energía firme declarada
+166. ORGANIZACIÓN
+Establecer los requisitos de organización establecer las actividades para su disposición.
+Se identifican las funciones de realización de subastas, seguimiento del cumplimiento de los compromisos asignados por los mismos, la administración de mercado secundario y administración de garantías.
+16.7. SEGUIMIENTO
+Este módulo consiste en el seguimiento de los compromisos que adquieren los agentes que han recibido la asignación del cargo. Ya sea porque se les ha asignado generación a instalar en una subasta o porque deben tener capacidad instalada con energía firme a la cual se le ha asignado el cargo.
+El seguimiento busca asegurar que el agente realice las acciones tendientes a cumplir con el compromiso de capacidad disponible y energía firme asignados.
+
+
+Esta función permite dar señales de ajuste para generar incremento en las capacidades a considerar para las nuevas asignaciones.
+Se consideran las siguientes actividades
+O AlternativaS
+o Para Nuevos
+Programa de instalación comprometido Auditoria de proyecto para comparación con referencia Otras o Para instalados
+Pruebas Seguimiento de indicadores Otras
+• Evaluación y pruebas Selección Diseños regulatorios
+16.8. GARANTÍAS
+Para el caso de generadores nuevos, el pago de la prima de la opción se inicia una vez la planta se encuentre en operación comercial, durante el periodo de instalación el generador deberá aportar al sistema las garantías de cumplimiento que serán establecidas por la Comisión. De igual manera, los generadores que se encuentren en operación comercial y que presenten obligaciones en el mercado de opciones de energía firme, deberán constituir las garantías necesarias para su operación en el mercado secundario.
+16.9. SUBASTAS
+La subasta es uno de los componentes más exigentes de todo el diseño del esquema de opciones, en tal sentido la CREG prevé contar con la asesoría de un grupo de expertos en el tema. En este módulo se consideran dos actividades principales tendientes a establecer las condiciones de la subasta:
+O Diseño y
+e Simulaciones e Ajustes
+16.10. ESTABLECIMIENTO DEL PRECIO DE EJERCICIO
+Si bien el precio de ejercicio puede considerarse un elemento del diseño de la subasta, el mismo debe responder a otro conjunto de inquietudes a tenerse en
+
+
+cuenta. La definición de este valor está relacionado con el nivel de riesgo de precio que se desea cubrir
+16.11. RECAUDO
+Se prevé que debe existir un mecanismo de recaudo y distribución de la prima asignada a cada agente. Para su definición se considera una evaluación del esquema que se utiliza actualmente con el fin de establecer la necesidad y posibilidad de implementar uno nuevo o realizar ajustes al actual.
+16.12. CONTRATOS DE COMBUSTIBLES
+En este módulo se están estudiando alternativas de contratos a las ya existes que la administración del riesgo de cantidad por parte de los agentes, contempla las siguientes actividades.
+o Análisis de alternativas de modalidades contractuales o Selección de modalidad contractual recomendada O Desarrollo regulatorio
+16.13, CHEQUEO INVERSIONSTAS
+Este modulo tiene por objetivo presentar a posibles inversionistas la alternativa propuesta para la remuneración del Cargo por Capacidad con el fin de recibir retroalimentación sobre el diseño de la misma y conocer la probabilidad que bajo dicho mecanismo se incentive la inversión en nueva capacidad de generación:
+Se consideran las siguientes actividades
+o Presentación internacional de la alternativa. o Evaluación de comentarios recibidos. O Ajustes necesarios ase realizados.

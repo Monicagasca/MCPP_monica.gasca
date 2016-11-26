@@ -1,0 +1,1488 @@
+Comisión de Regulación de Energía y Gas
+CARGO POR CONFIABILIDAD
+DOCUMENTO CREG 17 DE JULIO DE 2006
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+
+Siísiúí" i'J-:,' 7t-‘
+CARGO POR CONFIABILIDAD
+1. INTRODUCCIÓN............................................................................................................14 2. ANTECEDENTES...........................................................................................................15 3. DEFINICIÓN DEL PRODUCTO............... 16 3.1 Obligación de Entrega de Energía Firme.............................................................16 3.2 Período de Vigencia de la Obligación..................................................................17 3.3 Procedimiento para establecer el valor máximo de la Obligación de Entrega de Energía Firme.................................................................................................................18 3.4 Único producto vs. Bloques de Energía...............................................................20 3.5 Verificación de la Instalación de Generadores Nuevos........................................21 3.5.1 Antecedentes...................................................... 21 3.5.2 Consideraciones..........................................................................................21 3.6 Retiro...................................................................................................................22 3.6.1 Análisis de alternativas................................................................................22 3.6.2 Propuesta.....................................................................................................24 4. PRECIO DE EJERCICIO.................................................................................................25 4.1 Objetivo................................................................................................................25 4.2 Fundamentos.......................................................................................................25 4.3 Determinación del Precio de Ejercicio.................................................................27 4.3.1 Metodología de Estimación..........................................................................28 4.3.2 Indexación del Costo del Combustible.........................................................30 4.3.3 Aplicación de la Metodología.......................................................................32 5. ENERGÍA FIRME........................................................... 32 5.1 Metodología para el Cálculo de la Energía Firme.................................................32
+5.1.1 Consideraciones generales sobre la Energía Firme para Cargo por Confiabilidad -ENFICC...............................................................................................32 5.1.2 Esquema de Trabajo....................................................................................35 5.1.3 Periodicidad.................................................................................................48 5.1.4 Energía Disponible para ofertar en el Mercado Secundario........................48 5.1.5 Contratos de Combustible...........................................................................49 5.1.6 Verificación de Parámetros..........................................................................49 5.1.7 Entidad Encargada de la Estimación de la Energía Firme para el Cargo por Confiabilidad y chequeo de Contratos Combustibles..................................................49 5.1.8 Declaración de Parámetros.........................................................................49 5.1.9 Resultados de la Simulación........................................................................49 5.2 Contratación de Combustibles............................................................................ 50 5.2.1 Antecedentes...............................................................................................50 5.2.2 Generalidades del Consumo de Combustible para el Sector Térmico 50 5.2.3 Combustibles Alternos para Generación Térmica.......................................52 5.2.4 Normatividad Vigente para la Compra de Combustibles.............................54 5.2.5 Consideraciones sobre el Abastecimiento de Combustibles Líquidos 54 5.2.6 Régimen de Precios.....................................................................................55 5.2.7 Balance de Oferta y Demanda de Carbón...................................................55 5.2.8 Esquemas Contractuales para el Suministro de Gas Natural......................56
+CARGO POR CONFIABILIDAD 15
+
+
+5.2.9 Ámbito Internacional....................................................................................60 5.2.10 Propuesta Regulatoria .........................................................................62 5.3 índices de Indisponibilidad Histórica Forzada ......................................... 65 5.3.1 Antecedentes...............................................................................................65 5.3.2 Análisis de la Metodología de Cálculo de los IH y Propuesta Regulatoria .68 6. SUBASTA.....................................................................................................................69 6.1 Objetivos del Diseño de una Subasta.................................................................. 70 6.2 Subasta de Compra de Obligaciones de Energía Firme.....................................70 6.2.1 Formatos básicos de subastas....................................................................70 6.3 Características de las Obligaciones de Energía Firme a ser Subastadas 71 6.4 Determinación del Precio de las Obligaciones de Energía Firme.........................72 6.4.1 Generadores Existentes..............................................................................72 6.4.2 Generadores Nuevos..................................................................................74 6.5 Recomendación de Subastas para Nuevos y Existentes....................................75 6.6 Problema de Valor Común...................................................................................75 6.7 Propuesta de Subasta.........................................................................................76 6.7.1 Subasta descendente..................................................................................77 6.7.2 Subasta de reloj descendente.....................................................................77 6.7.3 Mecanismos de diseño de la subasta necesarios para la mitigación del poder de mercado.......................................................................................................80 7. TRANSICIÓN................................................................................................................ 81 7.1 Características del Período de Transición...........................................................81 7.1.1 Incorporación del producto..........................................................................81 7.1.2 Remuneración por concepto de Cargo por Confiabilidad............................81 7.1.3 Definición del mecanismo de asignación del Cargo por Confiabilidad 83 7.1.4 Período de tiempo durante el cual se dará la transición..............................83 8. LIQUIDACIÓN............................................................................................................... 84 8.1 Verificación del cumplimiento de la entrega de energía firme.............................84 8.2 Remuneración de la energía asociada a la responsabilidad en Obligaciones de energía firme...................................................................................................................85 8.3 Recaudo de las primas de las obligaciones de energía firme.............................85 8.4 Pago de la prima a los generadores....................................................................86 9. ANILLOS DE SEGURIDAD............................................................................................ 86 9.1 Mercado Secundario............................................................................................86 9.1.1 Objetivo del Mercado Secundario................................................................86 9.1.2 Participantes y Objeto de la Negociación....................................................86 9.1.3 Alternativas de Diseño................................................................................ 87 9.1.4 Funcionamiento...........................................................................................88 9.1.5 Asignación de Responsabilidades.............................................................. 89 9.2 Subastas de Reconfiguración..............................................................................89 9.2.1 Fundamento y Cronología............................................................................89 9.2.2 Producto Transado en las Subastas de Reconfiguración............................90 9.2.3 Diseño de las Subastas de Reconfiguración...............................................90 9.2.4 Funcionamiento de la Subasta de Reconfiguración.....................................91 9.2.5 Subastas de Reconfiguración y Mercado Secundario................................ 91 9.3 Demanda Desconectable.....................................................................................92 9.4 Generación de Última Instancia...........................................................................92
+CARGO POR CONFIABILIDAD 16
+
+
+Sesión No. 207
+10. GARANTÍAS..............................................................................................................92 11. PROPUESTA RESOLUTIVA.......................................................................................93 12. REFERENCIAS BIBLIOGRÁFICAS.............................................................................93
+CONTENIDO DE FIGURAS
+Figura 1. Ejemplo del Producto................................................................................... 17 Figura 2. Procedimiento para calcular la Obligación de Entrega de Energía Firme ..20 Figura 3. “Heat Rate” Plantas Térmicas......................................................................30 Figura 4. Comparación de Precio de Electricidad en Bolsa y Precios Fuel Oil Internacional...............................................................................................31 Figura 5. Comparación de Precios Fuel Oil ECOPETROL y Precios Fuel Oil Internacional...............................................................................................31 Figura 6. Generación Plantas Hidráulicas...................................................................33 Figura 7. Generación Estacional Plantas Hidráulicas.................................................33 Figura 8. Generación Plantas Térmicas......................................................................34 Figura 9. Criterio Confiabilidad....................................................................................35 Figura 10. Esquema de trabajo.............................................................. 35 Figura 11. Evaluación de modelos................................................................................36 Figura 12, Comparación Modelos AS y SDDP..............................................................37 Figura 13. Comparación de facilidades de programas integrados................................38 Figura 14. índice IGVA. Planta Tipo 1............................................................................ 39 Figura 15. índice IGVA. Planta Tipo II........................................................................... 39 Figura 16. índice IGVA. Planta Tipo III..........................................................................40 Figura 17. Mes de Menor Generación..........................................................................40 Figura 18. Análisis Mínimos Operativos........................................................................41 Figura 19. Generación Hidráulica con diferentes escenarios hidrológicos...................42 Figura 20. Procedimiento Iterativo de Estimación de la Demanda Estacionaria...........47 Figura 21. Combustible Principal de las Unidades Térmicas del SIN............................51 Figura 22. Días sin Utilización de las Unidades de Gas...............................................51 Figura 23. Combustibles Alternos Plantas Térmicas....................................................53 Figura 24. Balance Combustibles Derivados del Petróleo............................................54 Figura 25. Reservas de Carbón en Colombia (Millones de Toneladas)........................56 Figura 26. Balance Producción - Consumo de Carbón Térmico..................................57 Figura 27. Porcentaje de “Take or Pay” de los Contratos Vigentes..............................57 Figura 28. Contrato “Pague lo Contratado”...................................................................58 Figura 29. Generación Real durante el año 2005 para algunas Plantas Térmicas.......60 Figura 30. Capacidad de Generación por Combustible (GW).......................................62 Figura 31. Costos de Inversión Requeridos para el Consumo de Combustible Alterno
+....................................................................................................................65 Figura 32. IH vs. Tiempo de Operación según tipo de Planta.......................................67 Figura 33. Subasta de reloj descendente.....................................................................80 Figura 34. Costos de Inversión (US$/kW-mes), utilizando la información reportada por los agentes y los parámetros establecidos para la remuneración..............82 Figura 35. Costos de Inversión por unidad -CAPEX.....................................................83
+CARGO POR CONFIABILIDAD 17
+
+
+S & S 'j ó / j N<:i. 2U\
+Figura 36. Verificación del Cumplimiento de la Entrega de Energía Firme...................85 Figura 37. Remuneración de la Energía.......................................................................85 Figura 38. Alternativas de Diseño del Mercado Secundario.........................................87 Figura 39. Cronograma de las Subastas de Reconfiguración.......................................90
+CARGO POR CONFIABILIDAD 18
+
+
+1. INTRODUCCIÓN
+En este documento se presentan los análisis, justificaciones y explicaciones detalladas de la metodología propuesta para la remuneración del Cargo por Confiabilidad. Luego de un proceso de análisis crítico con los agentes de los sectores de energía y gas, los usuarios y el Gobierno, que inició formalmente en junio de 2004 (Resolución CREG-050 de 2004), sobre los objetivos perseguidos con esta remuneración así como sobre el esquema de funcionamiento más consecuente con ellos, se obtuvo el diseño contemplado en este documento y en el proyecto de resolución que se somete a consulta.
+Las principales novedades de esta propuesta frente al esquema vigente son las siguientes:
+• Reciprocidad: el generador que recibe remuneración por concepto de un Cargo
+por Confiabilidad se compromete a entregar, en caso de condiciones críticas de abastecimiento de la demanda, una cantidad de energía determinada, a un precio definido por la CREG, y es penalizado en caso de incumplimiento.
+• Mecanismo de mercado: la remuneración del Cargo por Confiabilidad es el
+resultado de implementar un mecanismo de subastas que permite remunerar de manera eficiente la energía firme que puede aportar cada planta, en la medida en que se basa en un esquema de competencia.
+• Señal de expansión: la valoración eficiente de la energía, así como la posibilidad
+de que los nuevos proyectos de generación puedan contar con un ingreso fijo durante un período máximo de diez años, proporcionan señales claras para los agentes que quieran invertir en la ampliación del parque de generación, condición necesaria para soportar el crecimiento económico del país. Por su parte, los generadores existentes contarán con un incentivo claro para contribuir a la confiabilidad del sistema.
+• Flexibilidad en la selección del combustible: para el caso de generadores
+termoeléctricos, el pago del Cargo por Confiabilidad está sujeto a la demostración de un abastecimiento continuo de un combustible o una mezcla de ellos (gas natural, carbón, combustibles líquidos), siendo decisión del agente escoger cuál es el energético ó la mezcla más eficiente.
+• Nuevos instrumentos de respaldo: con el fin de facilitar el cumplimiento de la
+obligación de entregar energía en condiciones críticas de abastecimiento, la CREG ha propuesto implementar un conjunto de mecanismos denominados Anillos de Seguridad, que incorporan herramientas como el mercado secundario de energía firme, la reducción voluntaria del consumo de algunos usuarios a cambio de una remuneración y la posibilidad de contar con un activo de generación de último recurso.
+De acuerdo con el decreto 2696 de 2004, se invita a los agentes y a la comunidad en general a remitir sus observaciones o sugerencias sobre la propuesta, dentro de los treinta (30) días siguientes a la publicación de la Resolución en la página Web de la Comisión.
+
+
+2. ANTECEDENTES
+La Ley 143 de 1994 en su artículo 4 establece que el Estado, en relación con el servicio de electricidad, tendrá como objetivos el abastecimiento de la demanda bajo criterios económicos y de viabilidad financiera, asegurando su cubrimiento en un marco de uso racional y eficiente de los diferentes recursos energéticos del país. Para alcanzar este objetivo, atribuyó a la Comisión de Regulación de Energía y Gas, entre otras funciones, la de crear las condiciones para asegurar la disponibilidad de una oferta energética eficiente, capaz de abastecer la demanda teniendo en cuenta la capacidad de generación de respaldo.
+Con base en esta facultad, la Comisión expidió la Resolución CREG-116 de 1996 en donde adoptó la metodología para el cálculo del Cargo por Capacidad para los siguientes diez años, precisada y aclarada mediante Resoluciones CREG-113 de 1998 y CREG-047 y CREG-059 de 1999. Por medio de este mecanismo la Comisión buscó garantizar la disponibilidad de una oferta eficiente de energía eléctrica a través de la remuneración de la inversión por kilovatio instalado de los generadores que contribuyen a la confiabilidad del Sistema.
+Tras haberse cumplido el período previsto para la aplicación de la metodología, la Comisión sometió a consideración de agentes y terceros interesados una propuesta para la determinación y asignación del Cargo por Confiabilidad en el Mercado de Energía mayorista (Resolución CREG-050 de 2004). Posteriormente, mediante Documento CREG-072 de 2005 la Comisión puso a consideración ocho alternativas para la definición del nuevo Cargo por Confiabilidad, y un conjunto de principios y criterios de evaluación de las mismas. A partir de un ejercicio conjunto con los agentes del Mercado Mayorista se evaluaron las alternativas propuestas y los resultados de este análisis se presentaron a los agentes en el seminario del Mercado de Energía Mayorista organizado por el Consejo Nacional de Operación y el Comité Asesor de Comercialización en octubre del año 2005.
+Una vez definida la propuesta central, la Comisión diseñó e hizo públicas las propuestas relacionadas con el Mercado Secundario de Opciones de Energía Firme, Retiro de Plantas, Verificación de Instalaciones de Generadores Nuevos, Análisis de índices de Indisponibilidad Histórica (Circular CREG-021 de 2006).
+En forma paralela la Comisión adelantó la contratación de un consultor con experiencia en diseño de subastas para el sector eléctrico, con el objetivo central de asesorar a la CREG en el diseño de las subastas de opciones de energía firme. El Dr. Peter Cramton, seleccionado por la Comisión, fue el encargado de esta labor. Su propuesta se presentó a los agentes del sector y tras el análisis de la misma hecho por la CREG se incluyó como parte de la propuesta general que hace parte de este documento.
+Luego, el 16 de junio de 2006 la CREG aprobó someter a discusión de los agentes, usuarios y terceros interesados las propuestas sobre Definición del Producto (Documento CREG-041 de 2006); Energía Firme para el Cargo por Confiabilidad (Documento CREG- 042 de 2006); Determinación del Precio de Ejercicio (Documento CREG-043 de 2006); Transición Mecanismo de Remuneración del Cargo por Confiabilidad (Documento CREG- 044 de 2006); y Liquidación y Administración de Cuentas y Mecanismo de Remuneración del Cargo por Confiabilidad (documento CREG-045 de 2006), los cuales fueron
+CARGO POR CONFIABILIDAD 15
+
+
+Sesión No. Z'ó7
+publicados en la página internet de la CREG con la Circular CREG-027 del 23 de junio de 2006. Posteriormente, el 29 de junio la Comisión aprobó someter a discusión la propuesta sobre el diseño de la subasta de Energía Firme, el tratamiento de las plantas menores en este esquema de asignación de Cargo por Confiabilidad, el formato de declaración de información de contratos de combustible, las pruebas opcionales sin efecto sobre los IMF, el período de validación de parámetros para el cálculo de la energía firme, la auditoría de estos parámetros, el diseño de las subastas de reconfiguración, la definición de plantas y/o unidades de generación nuevas y el tratamiento a los costos de racionamiento;
+A la fecha de expedición de la resolución que se anexa a este documento, se han radicado en la CREG los comentarios a la propuesta de los siguientes agentes: Acolgen (E-2006-004206), Epsa (E-2006-004258), Isagen (E-2006-004209), Termocandelaria (E- 2006-004167, E-2006-004731, E-2006-004920), XM (E-2006-004212), Consejo Nacional de Operación (E-2006-005246) e Isagen (E-2006-005351).
+A continuación se presentan los argumentos que soportan la metodología propuesta así como la descripción detallada de los procedimientos contenidos en el proyecto de resolución que se anexa.
+3. DEFINICIÓN DEL PRODUCTO
+Teniendo en cuenta la necesidad de contar con un mecanismo que permita alcanzar el nivel de confiabilidad en el suministro de la energía eléctrica, y que esta confiabilidad se remunere de manera eficiente, la Comisión ha propuesto continuar con el pago de un cargo por producto cuyo proceso de asignación corresponde a una subasta.
+Para la asignación de la obligación que debe tener cada generador en las condiciones de escasez se requiere definir el producto por el cual se hace el pago y se verifica su entrega.
+En el Documento CREG-122 de 2005 la Comisión presentó la definición de un producto en tres bloques para representar la demanda de energía. En la propuesta que aquí se presenta, analizada con el Consultor Dr. Peter Cramton para el diseño de la subasta1, se recomienda la utilización de un solo producto de energía con un patrón de demanda igual al de la curva de carga horaria real.
+En este capítulo se desarrolla la propuesta presentada por el Dr. Cramton y se compara con la presentada en el Documento CREG-122, argumentando la pertinencia de recomendar a la Comisión la utilización de la primera.
+3.1 Obligación de Entrega de Energía Firme
+El producto a ser subastado es una Obligación de Entrega de Energía Firme en condición de escasez ajustada al patrón real de demanda horaria. La obligación de entrega está limitada a la cantidad de energía máxima que cada generador se compromete a generar
+1 Conferencia del Dr. Peter Cramton. 7 de junio de 2006.
+CARGO POR CONFIABILIDAD 16
+
+
+mes a mes y que resulta del procedimiento de asignación. Esta energía será remunerada al valor que resulte de descontar del precio de ejercicio los Otros Costos Variables (OCV).
+La obligación de entrega de energía debe estar respaldada por un activo de generación. La condición de escasez se establece cuando el precio de bolsa supera el precio de ejercicio.
+A manera de ejemplo, en la Figura 1 se muestra la Obligación de Entrega de Energía Firme de un generador que resultó asignado con el 50% de la demanda subastada. En este caso, el generador está obligado a entregar, hora a hora, el 50% de la demanda, siempre y cuando el precio de bolsa haya superado el precio de ejercicio. Ahora bien, si la generación de este agente se comporta como aparece en la Figura 1, uniforme en todas las horas, para cumplir con su obligación el agente debe adquirir energía en algunas horas y vender sus excedentes en otras y de esta forma ajustarse a la curva que corresponde al 50% de la demanda horaria.
+3.2 Período de Vigencia de la Obligación
+Se ha propuesto que la vigencia del compromiso de entregar energía de acuerdo con las condiciones anteriormente definidas sea de un año para los generadores existentes y de máximo 10 años para los nuevos.
+A diferencia de los generadores existentes, para quienes parte de sus costos son hundidos, los nuevos generadores requieren mayor certeza y estabilidad en sus ingresos
+Figura 1. Ejemplo del Producto
+9.00
+8.00
+7.00
+¡.00
+5.00
+4.00
+3.00
+2.00
+                                  Demanda Horaria Real T 50% 1.00
+0.00
+Demanda Obligación asociada,
+Generación Planta Térmica
+CARGO POR CONFIABILIDAD 17
+
+
+Sentón No. 2 it!
+3.3 Procedimiento para establecer el valor máximo de la Obligación de Entrega de
+Energía Firme
+La energía que debe ser asignada entre los distintos generadores en la subasta, o en el procedimiento que haga sus veces durante la etapa de transición, se establece con base en las proyecciones de demanda de energía efectuadas por la UPME más un margen que será definido por la CREG para cada subasta basándose en el error de estimación de la demanda.
+Con el objeto de subastar una energía que se ajuste a la estacionalidad de la generación eléctrica, se propone emplear la demanda de la estación de verano, es decir la comprendida entre los meses de noviembre y abril del año siguiente.
+De esta energía anual, incluyendo el margen definido por la CREG, se descuenta la energía que en subastas anteriores fue asignada a los generadores que se comprometieron a abastecerla por un período máximo de diez años así como la energía firme que pueda ser aportada por las plantas menores y los cogeneradores.
+Una vez asignada la demanda de la estación de verano entre los generadores mediante la subasta, y conocida la cantidad de energía comprometida de cada activo de generación, y por lo tanto de cada agente generador, se establece el porcentaje que representa esta energía de la demanda subastada. Este porcentaje, aplicado sobre la demanda horaria real durante cada uno de los meses del período de vigencia de la obligación, se emplea como la cantidad de energía firme que hora a hora el generador está obligado a entregar cuando el precio de bolsa así lo indique (Ver Figuras 1 y 2). De esta forma se tiene:
+La energía exigible al generador y en cada uno de los meses de esta estación no podrá superar el valor máximo mensual correspondiente al producto entre el número de días de cada mes y el valor diario de Energía Firme asignada al generador y (ED>Ay) calculado de acuerdo con la siguiente fórmula:
+donde cf„ corresponde al número de días de la estación de verano del Período de Vigencia de la Obligación.
+OEFV,
+donde:
+OEFVj: Obligación de Energía Firme en la estación de verano del generador y.
+Energía Firme asignada al generador) en la Subasta. Total de Energía Firme asignada la Subasta. Demanda real de energía en la hora h, sin considerar Transacciones Internacionales de Energía.
+CARGO POR CONFIABILIDAD 18
+
+
+Sesión No. 2‘:-
+Para la estación de invierno, la Obligación de Energía Firme para el generador j se calculará de acuerdo con la siguiente fórmula:
+OEFI, =- EDA, J * d,
+     1 D,
+DDh
+donde: df. corresponde al número de días de la estación de invierno. D,\ es la demanda de energía para la estación de invierno. Corresponde a la proyección más actualizada del escenario medio de demanda de energía del mercado nacional que haya calculado la UPME para la estación de invierno del primer año del Período de Vigencia de la Obligación, más el porcentaje adicional definido por la CREG y utilizado como margen para calcular la Demanda Objetivo de esa Subasta. De lo anterior se descuenta la energía ya cubierta con Obligaciones de Energía Firme asignadas en subastas previas y la Energía Firme de las Plantas no Despachadas Centralmente. DD„: Demanda real de energía en la hora h, sin considerar Transacciones
+Internacionales de Energía.
+La energía exigible al generador en cada uno de los meses de la estación de invierno no podrá superar el valor máximo mensual correspondiente al producto entre el número de días de cada mes de esta estación y el valor diario de Energía Firme asignada al generador j (EDAj).
+CARGO POR CONFIABILIDAD 19
+
+
+Sesión No. 29
+Figura 2. Procedimiento para calcular la Obligación de Entrega de Energía Firme
+Cuantlficación de la Demanda anual a Asignar (dic-nov), desagregada
+                                               Energía Firme Certificada mensualmente (Proyección UPME + margen - Energía ya asianada en subastas orevias)
+Asignación de la demanda anual entre las plantas o unidades de generación (regla de repartición o subasta)
+Cálculo porcentaje de participación de la asignación de cada planta (y cada generador) en la demanda
+Aplicación del porcentaje sobre la demanda real para calcular la obligación horaria de entrega de energía firme
+Ajuste de la obligación de entrega de energía
+?or subestimación de la demanda
+3.4 Único producto vs. Bloques de Energía
+Como puede observarse, la principal diferencia de esta propuesta respecto a la contenida en el Documento CREG-122 de 2005 es la utilización de un solo producto.
+Los tres tipos de opciones planteados en el Documento 122 tienen por objetivo seguir la curva de carga garantizando el cubrimiento de la energía con los distintos tipos de activos de generación. Sin embargo considerando que:
+• Al tener como única restricción para los tres productos el abastecimiento de la demanda en condiciones críticas, los precios de estos productos deben converger a un solo valor.
+• En condiciones de escasez, un sistema hidrotérmico como el colombiano demanda expansión para asegurar el cubrimiento de energía antes que el de capacidad.
+CARGO POR CONFIABILIDAD 20
+
+
+• La complementariedad entre los distintos tipos de recursos, (hidráulicos con diferente capacidad de regulación y térmicos) permite definir un solo producto. Esta complementariedad se puede hacer efectiva en el mercado de corto plazo o a través del mercado secundario. La concepción de un producto como el presentado, simplifica considerablemente el esquema de asignación, facilita su verificación y elimina los efectos de borde que se presentan en la definición de los tres tipos de opciones inicialmente considerados.
+Por todo lo anterior, se recomienda a la Comisión adoptar la definición de producto propuesta en este capítulo.
+3.5 Verificación de la Instalación de Generadores Nuevos
+En el Documento CREG-122 de 2005 se advirtió la necesidad de contar con un mecanismo de verificación del cumplimiento de los compromisos adquiridos por un generador nuevo cuando le es asignada una Obligación de Energía Firme. Por lo tanto, el objetivo de este módulo es desarrollar dicho mecanismo, mediante el cual se determina el cumplimiento de las obligaciones relativas a la instalación de la planta de generación que respalda la Obligación y determinar las consecuencias de los eventuales incumplimientos.
+3.5.1 Antecedentes
+En la regulación actual no existe la posibilidad de que a agentes con plantas por instalar se les asigne cargo por capacidad; en consecuencia, no existen experiencias sobre la verificación de la obligación de instalación de plantas de generación.
+No obstante, el procedimiento adoptado en la Resolución CREG-022 de 2001 para la expansión del SIN, ofrece analogía, guardadas proporciones, con lo que aquí se trata de regular y, como consecuencia, sirve de base para tal propósito.
+3.5.2 Consideraciones
+En el diseño de este módulo de verificación se identificaron dos necesidades del sistema a satisfacer mediante el mecanismo de subastas de energía firme para generadores nuevos:
+• Obtener los nuevos recursos de generación requeridos por el sistema
+• Recibir señales de ajuste para generar incremento en las capacidades a considerar para las nuevas subastas
+Para la efectividad de este propósito se constituyen dos obligaciones correlativas a estas necesidades a cargo de los agentes nuevos que resultan asignados con obligaciones de energía firme:
+• Poner en operación el proyecto de generación en la fecha y con la energía firme asignadas en la subasta
+CARGO POR CONFIABILIDAD 21
+
+
+Sesión No- 297
+• Cumplir el cronograma de construcción de la planta y la curva de avance del proyecto.
+Se trata entonces de obligaciones de hacer, sucesivas en el tiempo, específicamente, de obligaciones de obra para cuya verificación no se conoce otro instrumento distinto del de las interventorías, el cual es el que se propone en este documento.
+Para establecer los efectos de los incumplimientos de estas obligaciones, que en el fondo, son medios de persuasión para que se honren las obligaciones surgidas de la subasta, se crean dos categorías de incumplimientos: subsanadles e insubsanables.
+Para los primeros se estima como medios de control suficientes:
+• La exposición del agente a ser requerido para entregar energía firme, en caso de incumplimiento subsanadle de la fecha de puesta en operación de la planta.
+• El ajuste de la póliza de cumplimiento en caso de incumplimiento del cronograma de construcción de la planta.
+Para los segundos, se prevé la ejecución de la póliza de cumplimiento y la pérdida de la asignación de la Obligación de Energía Firme. Este evento de incumplimiento insubsanable se restringe a la obligación de poner en operación la planta en la fecha definida en la subasta con una tolerancia máxima de seis (6) meses, en tanto que es necesario colocar un parámetro temporal que resuelva este riesgo.
+3.6 Retiro
+El mercado de energía mayorista se rige, entre otros, por el principio de libertad de entrada y de salida, que supone esencialmente autonomía para que cualquier persona decida la oportunidad para ingresar a dicho mercado y su permanencia o retiro, sin más exigencias que las indispensables para asegurar su adecuado funcionamiento, conforme a la regulación sobre la materia.
+Razones de interés superior al particular, como la eficiencia, la seguridad y la libre competencia en el funcionamiento del mercado, ameritan que en su diseño y organización se hayan tenido en cuenta distintos elementos y requisitos para ordenar el ingreso, la permanencia y el retiro de los agentes.
+Es necesario considerar los efectos que el retiro de las plantas o unidades de generación supondría para la confiabilidad del sistema, según el esquema de remuneración propuesto para este bien.
+3.6.1 Análisis de alternativas
+La propuesta del nuevo Cargo por Confiabilidad se fundamenta, esencialmente, en los siguientes criterios:
+CARGO POR CONFIABILIDAD 22
+
+
+Sesión Nc. 29/
+• El Cargo debe ser un instrumento para garantizar un nivel adecuado de
+confiabilidad en el suministro de energía eléctrica a través del Sistema Interconectado Nacional.
+• Mediante el Cargo por Confiabilidad se remunera la energía firme asignada a una planta, que debe aportarle al sistema bajo condiciones críticas.
+• En virtud del criterio de reciprocidad, el agente que tiene a su cargo la planta adquiere el compromiso de aportar la energía firme asignada, y la demanda en el Sistema paga el respectivo cargo, como contraprestación.
+• El compromiso de aportar la energía firme asignada vincula tanto al agente como a la planta, durante toda la vigencia del periodo de asignación, y recíprocamente a la demanda del Sistema.
+• Se pone a disposición de los agentes, los Anillos de Seguridad, como mecanismos
+alternativos que les permiten cumplir sus obligaciones cuando no pueden hacerlo con su respectiva planta.
+Se requiere diseñar un esquema regulatorio que garantice, de manera equilibrada, el cumplimiento de los criterios señalados y el ejercicio de la libertad de entrada y salida de los agentes. Para el efecto se considera conveniente que la regulación sobre retiros incentive el cumplimiento de las Obligaciones de Energía Firme que han adquirido los agentes, pero que, igualmente, flexibilice el retiro teniendo en cuenta los mecanismos diseñados para asegurar el cumplimiento de dichos compromisos.
+Entre las múltiples alternativas que puede plantear el retiro de los agentes y las plantas del mercado, se pueden enunciar:
+a. El retiro puede ser del agente, de la planta o la unidad de generación, o
+   simultáneamente del agente y la planta. b. Retiros sin restricciones c. Retiro con restricciones d. Restricción temporal absoluta para el retiro e. Retiro con cesión de derechos f. Retiro sin cesión de derechos g. Retiro voluntario h. Retiro con causa externa i. Retiro definitivo j. Retiro temporal
+En la regulación vigente existe un esquema de libertad de retiro y de reincorporación, con algunas restricciones de tiempo, que se justifican principalmente por razones de libre competencia en el Mercado Mayorista y de seguridad energética o eléctrica del Sistema Interconectado Nacional.
+El retiro sin restricciones desdibujaría el diseño del nuevo Cargo por Confiabilidad propuesto, y no garantizaría el cumplimiento del objetivo y los principales criterios que
+CARGO POR CONFIABILIDAD 23
+
+
+ü'Gs/ói'i No 21)'
+fundamentan la propuesta. En adición, su ¡mplementación exigiría que, por razones de equidad, se debiera prever un mecanismo recíproco para retiro de la demanda cubierta.
+La restricción temporal absoluta del retiro privaría a los agentes del ejercicio de tal derecho, y podría resultar excesiva frente a la existencia de los anillos de seguridad que permiten al agente cumplir sus compromisos con recursos distintos de la planta o unidad que tiene asignada la energía firme, que cumplan condiciones similares.
+Por otro lado, en presencia de los anillos de seguridad y las garantías para el cumplimiento de la energía firme asignada, se considera que no resulta útil distinguir entre las causas y duración del retiro.
+3.6.2 Propuesta
+Se considera que las siguientes alternativas para el retiro de los agentes y de las plantas permiten garantizar el cumplimiento de la Obligación de Energía Firme asignada a un agente y la flexibilidad del retiro, manteniendo previsiones orientadas a la preservación de la competencia y de la seguridad energética o eléctrica del sistema.
+Retiro de agentes
+Durante la vigencia del periodo de asignación de la energía firme, el agente se podrá retirar del mercado mayorista cuando haya enajenado su planta o unidad de energía que respalda la asignación y haya cedido al adquirente los compromisos y derechos derivados de la energía firme asignada. El retiro solamente se podrá hacer efectivo a partir del momento en que el Administrador del Sistema de Intercambios Comerciales haya aceptado las garantías que debe otorgar el agente cesionario.
+La cesión solamente se podrá hacer a agentes generadores inscritos en el mercado mayorista, que cumplan con la normatividad vigente para su participación en el mismo. El agente cedente deberá mantener vigentes las garantías que cubren el compromiso por la energía firme asignada, y será el responsable del cumplimiento de dicho compromiso, hasta cuando el Administrador del Sistema de Intercambios Comerciales acepte las garantías que deberá otorgar el cesionario en las mismas condiciones exigidas al cedente.
+En estos eventos, el retiro del agente deberá hacerse previa notificación a la CREG y al CND de la cesión efectuada. Si el compromiso de energía firme se ha adquirido en el mercado secundario, la notificación previa también deberá hacerse al contratante cedido.
+En este mismo caso, el agente que se quiera retirar deberá hacer cesión de los contratos de energía a largo plazo que tenga suscritos, y estar a paz y salvo por todo concepto con el Mercado.
+Igual tratamiento se dará cuando exista enajenación de activos de generación que tengan energía firme asignada y el agente enajenante no se retire del mercado.
+Retiro de plantas
+CARGO POR CONFIABILIDAD 24
+
+
+Cuando una planta o unidad de generación que tiene energía firme asignada sale del sistema, cualquiera que sea la causa que provoque su salida, el agente la podrá retirar y reingresar libremente en el mercado mayorista, cuando haya garantizado el cumplimiento de la energía firme asignada, a través del mercado secundario. En estos eventos el retiro y reingreso de la planta o unidad se harán efectivos previa notificación y coordinación con el CND.
+Las plantas o unidades de generación que no participaron en la subasta de energía firme se podrán retirar libremente del mercado, previa notificación al CND y a la CREG. La reincorporación de la planta igualmente se podrá hacer libremente, previa notificación y coordinación con el CND.
+Al cabo de seis (6) meses, contados desde la fecha en que se produjo el retiro de una planta o unidad, expirará la asignación de la capacidad de transporte que tenía en el Sistema Interconectado Nacional la planta o unidad de generación retirada, caso en el cual para la reincorporación de estos activos al sistema y al mercado, el agente deberá cumplir el procedimiento vigente para la asignación de la capacidad de transporte.
+Cuando el retiro de una planta tenga como única causa la voluntad del agente, deberá informar por lo menos con tres (3) meses de antelación a la CREG, con copia al CND y al ASIC, la fecha prevista para el retiro.
+En los casos en que de acuerdo con el concepto del CND, el retiro de la planta o de la unidad de generación pueda comprometer la situación energética o eléctrica del Sistema Interconectado Nacional, se deberán Identificar las medidas o inversiones necesarias que suplan la ausencia de esta generación e informar de tal situación al agente generador y a los demás agentes que puedan resultar afectados.
+4. PRECIO DE EJERCICIO
+4.1 Objetivo Dentro de la propuesta de remuneración del Cargo por Confiabilidad se propone la ¡mplementación en el mercado de energía mayorista de una obligación de entrega de energía fírme mediante la cual el generador que es remunerado se compromete a entregar la energía requerida en el despacho ideal siempre que el precio de bolsa sea superior al precio de ejercicio y adicionalmente, se compromete a entregar dicha energía al precio de ejercicio. En este documento se presentan los fundamentos por los cuales es recomendable la utilización del precio de ejercicio.
+4.2 Fundamentos
+A continuación se analizan cada uno de los elementos que conducen a establecer un precio de ejercicio asociado a las obligaciones de energía firme adquiridas por cada uno de los generadores bajo la propuesta de remuneración de Cargo por Confiabilidad.
+CARGO POR CONFIABILIDAD 25
+
+
+Sesión No. 2'J
+• Mitigación del poder de mercado en la bolsa de energía: Es conocido que las condiciones de corto plazo presentes en un mercado de energía spot, como son, la poca o nula elasticidad de la demanda, la necesidad de mantener el balance entre oferta y demanda en tiempo real y la imposibilidad de almacenamiento de la energía como bien terminado generan condiciones propicias para el ejercicio de poder de mercado, situación esta que se magnifica en los momentos en los cuales el sistema se encuentra en condiciones críticas debido al equilibrio entre oferta y demanda. En este orden de ideas la existencia de un precio de ejercicio mitiga el poder de mercado al establecer éste como el precio máximo al cual es remunerado un generador que tiene obligaciones de energía firme.
+• Brinda cubrimiento a la demanda contra precios altos: Bajo los fundamentos de la teoría marginalista, las rentas de escasez son el mecanismo requerido por los productores para alcanzar una adecuada remuneración de la inversión y generar las señales de expansión de la capacidad instalada. Lo anterior requiere que la demanda se vea expuesta al precio en tiempo real, condición esta no deseable en el mercado de energía colombiano. En este sentido, la consideración de una obligación de energía firme con un precio de ejercicio, permite una remuneración adecuada de la inversión, implicando que el usuario no debe estar expuesto a precios altos en la medida en que éstos no son por sí solos suficientes para la remuneración de la inversión. Por lo tanto, la existencia del precio de ejercicio protege a la demanda contra estos precios altos, al tiempo que permite una remuneración suficiente de la inversión y los costos de operación cuando están acompañados del pago de una prima.
+• Mecanismo transparente y confiable para la determinación de la existencia o no de condiciones críticas: En un mercado en el cual se ha mitigado el poder de mercado, el precio es el indicador adecuado de la escasez o abundancia de un bien, en la medida en que un mercado con exceso de oferta debe disminuir su precio para alcanzar el equilibrio y por el contrario un mercado con exceso de demanda (déficit) debe incrementar su precio, por lo tanto el precio de ejercicio es un instrumento claro y transparente, y por lo tanto idóneo, mediante el cual se puede determinar la escasez de un bien, en este caso de la energía en la bolsa.
+• Disminuye el riesgo regulatorio y político (estabilidad del mercado): En la medida en que los precios altos de la bolsa solo sean observados por los generadores con obligación de energía firme y no afecten a la demanda, se diminuye el riesgo regulatorio de intervención del mercado, situación fundamental para los agentes del mercado tanto existentes como entrantes, si se quiere alcanzar un nivel adecuado de inversión.
+• Reciprocidad - Incentivos: Es un objetivo fundamental de la propuesta del Cargo por Conflabilidad establecer claramente las obligaciones adquiridas por aquellos generadores remunerados mediante este cargo, adquiriendo la obligación de entrega de energía, en este sentido la existencia del precio de ejercicio implica que el generador no solo adquiere la obligación de disponer de la energía firme requerida, sino adicionalmente la obligación de entregarla a un precio máximo previamente establecido. El precio de ejercicio determina el incentivo que penaliza al generador
+CARGO POR CONFIABILIDAD 26
+
+
+Sesión No 29 /
+que no dispone de la energía comprometida obligándolo a comprar a precio de bolsa, sin límite, en el mercado de corto plazo. A su vez premia al generador que puede ofrecer más energía de la comprometida en las condiciones de escasez y paga lo justo al que cumple el compromiso. El usuario recibe la energía. Si se presenta un racionamiento, permite identificar claramente si éste es debido a incumplimiento del compromiso de un generador y permite asignar las responsabilidades y penalizaciones al incumplido.
+• Disminuye incertidumbre en la estimación de ingresos de los agentes: En un mercado
+de energía liberalizado como el implementado en Colombia, la predicción de los picos de precios es un proceso altamente complejo, en este sentido la ¡mplementación de un precio de ejercicio facilita esta labor al eliminar la necesidad de predecir dichos precios, en la medida que estos no son necesarios para alcanzar una adecuada remuneración de la inversión, tanto de los generadores existentes como de los entrantes, ya que su valoración podrá ser orientada al cálculo del beneficio por rentas inframarginales bien determinadas por el precio de ejercicio y el costo variable de operación.
+• Asignación adecuada del riesgo a quien lo puede administrar: En un mercado de energía de corto plazo, en el cual la demanda es altamente inelástica, la gestión adecuada del riesgo de precio solo puede ser realizada por el generador, por lo tanto, la existencia del precio de ejercicio reconoce esta situación y asigna la gestión de dicho riesgo de manera eficiente al generador, quien es el agente que puede administrarlo, en este caso mediante el respaldo del activo de generación con una capacidad de generación bien determinada para el cubrimiento de la condición extrema.
+• Bajo costo de verificación: Una vez definido el precio de ejercicio, el procedimiento de verificación es simple y eficiente, en la medida que no requiere la ¡mplementación de sistemas de seguimiento y verificación física altamente complejos y subjetivos, que han probado ser muy conflictivos en mercados eléctricos, como el de California.
+• Adicionalmente es importante resaltar que la existencia del precio de ejercicio no interfiere con la operación normal del mercado de contratos de largo plazo y del la Bolsa de energía.
+4.3 Determinación del Precio de Ejercicio
+En el documento CREG-122 de 05 se estableció que dentro de la propuesta del mercado de obligaciones de energía firme se requería establecer un precio de ejercicio, que corresponde al precio al cual el generador se compromete a entregar la energía firme remunerada por concepto de Cargo por Confiabilidad, siempre que la opción sea ejercida, sin que se intervenga el normal funcionamiento de la Bolsa. Este precio es el indicador de la condición de crítica del sistema.
+CARGO POR CONFIABILIDAD 27
+
+
+En la Sesión de la Comisión del 5 de junio de 2006 se evaluaron los argumentos de la existencia del precio de ejercicio y se aprobó su utilización. El análisis se consignó en el documento CREG-038 de 2006.
+El experto internacional Dr. Peter Cramton, contratado por la Comisión para estudio del tema de subastas, en la presentación del 7 de junio de 2006 denominada "Colombia Capacity Auction” consideró y sustentó la necesidad de contar con un precio de ejercicio en el esquema.
+Posteriormente, en la Sesión de la Comisión del 12 de junio de 2006 se discutió el tema de combustibles alternos, en donde se evaluaron las plantas con capacidad de utilizar combustibles alternos y las características de suministro, para lo cual se aprobó la publicación para comentarios del Documento 039, denominado “Contratación de Suministro de Combustibles para Generación Eléctrica”.
+Finalmente, en la Sesión del 16 de junio de 2006 se presentó el documento “Determinación del Precio de Ejercicio” el cual fue aprobado para ser publicado para comentarios.
+A continuación se presenta la metodología propuesta para estimar el precio de ejercicio - PE- y el mecanismo de indexación que permita su actualización.
+4.3.1 Metodología de Estimación
+Teniendo en cuenta los antecedentes señalados, la metodología de estimación del precio de ejercicio tiene las siguientes características:
+? Para asegurar que en condiciones críticas todos los recursos de generación, tanto térmicos como hidráulicos, tengan el incentivo de abastecer la demanda, el precio de ejercicio debe corresponder al valor de la planta térmica más costosa que se pudiera utilizar en el sistema. Lo anterior también evita interferencias en el funcionamiento normal de la bolsa y mitiga el posible abuso de posición dominante2.
+? Para lograr lo anterior, se debe considerar la planta de menor eficiencia que pueda utilizar Fuel Oil No. 6 como combustible alterno.
+? Para el cálculo se utilizan los costos de combustible referidos al mercado internacional de los mismos (suministro y transporte).
+? Teniendo en consideración que el precio de bolsa incluye costos variables es necesario adicionar estos mismos costos al precio señalado anteriormente para compararlo directamente con el precio de bolsa. Un esquema alterno era restar esos costos variables para comparar, sin embargo esto implicaba hacer algunas
+2 El Dr. Schmuel Oren en su presentación del 25 de Julio de 2006 planteó la necesidad de contar con un precio de ejercicio suficientemente alto que permita la participación de la demanda en el mercado de corto plazo. En el caso colombiano esta participación no está contemplada, en consecuencia la demanda es completamente inelástica frente al precio de bolsa y no se ve afectada su participación con la fijación de un precio de ejercicio como el propuesto.
+CARGO POR CONFIABILIDAD 28
+
+
+modificaciones al esquema de recaudo del cargo que por ahora no parecen convenientes.
+Cumpliendo con lo anterior, se tiene la siguiente fórmula:
+PEm=PEcw+OCVm+COMm
+donde:
+PEm : Precio de Ejercicio Total vigente para el mes m, expresado en pesos por kilovatio
+hora [$/KWh]
+PE^: Precio de Ejercicio Parte Combustible vigente para el mes m, expresado en pesos por kilovatio hora ($/KWh) empleando para su conversión la TRM del último día hábil del mes en que se efectúe el cálculo.
+OCVm: Otros Costos Variables [$/kWh]. Valor estimado para el mes m. Corresponde a los siguientes costos variables: i) CEE (CERE), ii) FAZNI, iii) Aporte Ley 99 de 1993, y iv) AGC. En el procedimiento de liquidación se harán los ajustes necesarios para la facturación.
+COMm'. Parte variable del costo de operación y mantenimiento para el mes m, expresado en $/kWh, fijado en $10,667 pesos de junio de 2006 por MWh para plantas térmicas que operan con Fuel Oil.
+Este costo se actualizará mensualmente con el último IPC disponible al momento del cálculo del precio de ejercicio.
+El Precio de Ejercicio Parte Combustible, PE^, para el momento inicial, y que será indexado mensualmente de acuerdo con el procedimiento descrito en el numeral 4.3.2, se estimará de la siguiente forma:
+P E t i n i c i a l = P e a t R a t e *
+Pr ecioF.O
+Heat Rate [MBTU/MWhj: Consumo específico de combustible a plena carga de la planta de menor eficiencia y que pueda utilizar Fuel Oil como combustible alterno.
+Precio FO [USD/MBTUj: corresponde al precio del combustóleo publicado por Ecopetrol en su página WEB para el mes de junio de 2006, más 1.5% para cubrir costos de transporte. Este precio se convierte a dólares por MBTU empleando la TRM del último día hábil del mes en que se efectúa este cálculo, certificada por el Banco de la República, y empleando un poder calorífico de 0.15 MBTU/galón.
+CARGO POR CONFIABILIDAD 29
+
+
+COM: Costos Variables de Operación y Mantenimiento. Tomando en consideración la resolución CREG 034 de 2001 y el reporte de información de los agentes a la circular CREG 014 de 2006, se encuentra que el valor definido para Plantas Térmicas Otros Combustibles en la resolución 034 de 2001, refleja de manera adecuada estos costos, por lo que se considera el valor de $10,667 de junio de 2006 por MWh.
+4.3.1.1 Eficiencia -“Heat Rate” - Hr
+Para determinar la eficiencia utilizar en el cálculo, se hizo una revisión de las eficiencias de las plantas reportadas en el sistema, encontrándose lo que se tiene en la Figura 3:
+Figura 3. “Heat Rate” Plantas Térmicas
+MBTU/MWh
+i;. -m tH U
+'"y*-- i
+0.000
+2.000 4.000
+                                     6.000 8.000 10.000 12,000 1 4.0 00 16.000 Respecto a los datos anteriores, encontramos que la planta de menor eficiencia (mayor “heat rate") que puede utilizar Fuel Oil No.6 es la Planta de Barranca 3 que tiene un HR de 12.482 MBTU/MWh, por lo tanto se propone utilizar este valor para calcular el precio de ejercicio.
+4.3.2 Indexación del Costo del Combustible
+Al comparar el precio de la Bolsa de electricidad en Colombia con los precios internacionales del Fuel Oil (Ver Figura 4), se puede ver claramente que existe una relación directa entre estos dos precios, lo que corrobora lo esperado, dado que los precios del gas natural que utilizan las plantas térmicas se encuentran indexados con el Fuel Oil de exportación de Ecopetrol3 antes de diciembre de 2005 (Figura 5) y con el Fuel OH internacional a partir de enero de 20064.
+3 Resolución CREG 057 de 1996 y resolución 023 de 2000. 4 Resolución CREG 119 de 2005.
+CARGO POR CONFIABILIDAD 30
+
+
+Ser,¡ón K'c ¿y
+Figura 4. Comparación de Precio de Electricidad en Bolsa y Precios Fuel Oil
+Internacional
+16
+Fuel Oil "1% Sulfur LP Sp ol Price" Electricidad - Colombia
+14
+12
+10
+6
+4
+'• j
+I ! I I 5 1 I
+Figura 5. Comparación de Precios Fuel Oil ECOPETROL y Precios Fuel Oil Internacional
+Teniendo en cuenta lo anterior, se encuentra que la utilización del indexador mensual con relación a la variación de precios del mercado internacional del Fuel Oil es un referente apropiado.
+Ahora bien, con el fin de que eliminar el riesgo de tasa de cambio, la estimación de hará en dólares y se convertirá a pesos con la Tasa Representativa del Mercado -TRM del día del cálculo.
+El precio de ejercicio parte combustible se deberá indexar mensualmente y su cálculo se realizará el último día hábil del mes anterior (t-1) al mes (t) en el cual se pondrá en vigencia.
+La fórmula a aplicar es la siguiente:
+— Fuel Oil Ecopetrol (FOB Cartagena)
+— Fuel Oil (NY 1.0% sulfur spot price)
+CARGO POR CONFIABILIDAD 31
+
+
+Sd-fUC') No, 2-9/
+P E f= pE ?tj m o ^
+1 INDICEt_2
+donde: PE0^ Precio de Ejercicio parte Combustible que regirá durante el mes siguiente (t) expresado en USD/kWh y pasado a $/kWh con la TRM, certificada por el Banco de la República, del día en que se calcule. PE^t-h Precio de Ejercicio parte Combustible del mes anterior (t-1) INDICES : Promedio aritmético del índice diario en el mes anterior (t-1) INDICEt-
+2
+: Promedio aritmético del índice diario en el mes precedente al anterior (t-2) INDICE: New York Harbor Residual Fuel Oil 1% Sulfur LP Spot Price, según la serie
+publicada por el Departamento de Energía de Estados Unidos.
+4.3.3 Aplicación de la Metodología
+Suponiendo que el cálculo se hiciera el 12 de junio de 2006, aplicando la metodología descrita anteriormente, el precio de ejercicio resultante es $ 306.7 /kWh.
+5. ENERGÍA FIRME
+5.1 Metodología para el Cálculo de la Energía Firme
+La Comisión de Regulación de Energía y Gas, en su sesión del 20 de diciembre, aprobó continuar con la dirección de trabajo que se propuso en el documento CREG 122 y ratificó el cronograma previsto en el documento CREG-072 de 2005, el cual contemplaba como paso siguiente el análisis con la industria de esta propuesta y el desarrollo de los módulos requeridos para su ¡mplementación.
+En este contexto, el presente documento constituye el análisis del módulo de energía firme para Cargo por Confiabilidad que aprobó la Comisión publicar para consulta en su sesión del 16 de junio de 2006.
+Teniendo en cuenta el marco de desarrollo de Cargo por Confiabilidad, a continuación se presenta la metodología, modelo, parámetros y procedimientos necesarios para estimar los valores de Energía Firme para Cargo por Confiabilidad -ENFICC- para los agentes que van a intervenir en las subastas.
+5.1.1 Consideraciones generales sobre la Energía Firme para Cargo por Confiabilidad -
+ENFICC
+Se entiende por ENFICC la cantidad de energía que una planta de generación puede entregar en condiciones críticas.
+Para el caso del parque de generación que participa en el mercado mayorista colombiano, se identifican los siguientes casos:
+CARGO POR CONFIABILIDAD 32
+
+
+Sesión No 29/
+ENFICC para Plantas Hidráulicas
+En este caso, la ENFICC es la cantidad de energía que es capaz de entregar la planta en una condición de hidrología crítica (Figura 6), sujeto a las siguientes variables: i) capacidad del embalse, ii) disponibilidad, iii) caudales y iv) factor de conversión.
+Adicionalmente, se tiene la capacidad de regulación del embalse asociado a la planta como variable a considerar para establecer el horizonte de evaluación de la energía firme. En el caso del sistema colombiano, se cuenta con tres (3) tipos de planta: i) filo de agua, ii) regulación inferior a un año, y iii) regulación mayor a un año.
+Ahora, en el sector eléctrico se diferencian dos (2) estaciones hidrológicas: verano e invierno, con lo que se tienen diferentes niveles de energía firme por estación.
+Figura 6. Generación Plantas Hidráulicas
+K [kWh]
+Hidrología Crítica
+Cap. Máx.
+Energía Firme
+Probabilidad aportes hidrológicos
+Figura 7. Generación Estacional Plantas Hidráulicas
+MWh
+Energía firme estación Invierno
+ Energía fírme estación Verano
+Energía fírme del mes
+VeraTM} (5 meses) May' 1 Nov. 30
+Invierno (7 meses)
+t(m cs)
+CARGO POR CONFIABILIDAD 33
+
+
+Sesión No 2 9 /
+En la Figura 7 se tiene la forma característica de generación de una planta hidráulica, donde en la estación de verano se presentan los menores aportes. En esta condición se obtiene la generación que la planta puede garantizar. Para las plantas con capacidad de regulación menor que estacional, la energía firme es el valor de la menor generación mensual de energía en la estación de verano. Sin embargo, la condición de menor generación en el caso colombiano se puede presentar principalmente en los meses de enero, febrero o marzo, por lo que lo más conveniente es valorarla con el promedio de estos meses.
+Para plantas con capacidad de regulación, aunque la condición más crítica se presenta también en un mes, la capacidad de regulación le permite distribuir la energía en la estación, por lo cual para este tipo de centrales se considera el promedio de la estación.
+ENFICC para Plantas Térmicas
+En el caso de las plantas térmicas, la ENFICC es función de las siguientes tres variables (Ver Figura 8): i) disponibilidad del combustible, ii) disponibilidad de la planta y iii) eficiencia. En el primer caso, es una condición que debe ser garantizada mediante esquemas de contratación que aseguren la entrega del combustible en las cantidades requeridas, en el segundo caso se evalúa el comportamiento histórico de las salidas de la planta y en el tercero corresponde a la tecnología de la planta.
+Figura 8. Generación Plantas Térmicas
+K [kWh]
+Cap. Máx.
+Energía Firme
+Disponibilidad [%]
+Confiabilidad en el marco de energía firme
+Teniendo en cuenta que la confiabilidad es el máximo nivel aceptable de riesgo en el suministro de la demanda, y que la energía firme a contratar por el sistema debe asegurar el cubrimiento de la demanda estimada, se deberá garantizar que por lo menos esta última cumpla con el criterio de confiabilidad utilizado en el planeamiento del sistema.
+Debido a que el pago por confiabilidad debe asegurar el cubrimiento de demanda en condición crítica, se define la condición crítica de El Niño 97-98, que se ajusta a la
+CARGO POR CONFIABILIDAD 34
+
+
+A‘i : : 'Í I . ''7 /y ''-'. 297
+confiabilidad del 95% como el máximo riesgo de desabastecimiento que asumirá la demanda (Figura 9).
+Figura 9. Criterio Confiabilidad
+BNIROIA HIQBAIAICA PMOUE WSTALAIW
+Ú% HlX *n% «rt. 7H MU ÚOU 1M%
+HI6TQ 07 M ULTlwQ~|
+5.1.2 Esquema de Trabajo
+Para el desarrollo del análisis objeto de esta sección, la Comisión contó con la colaboración del Operador de Mercado (XM), quién suministró a la Comisión los resultados de diferentes simulaciones con diferentes modelos a lo largo de cinco (5) meses.
+Esquema de trabajo adoptado por la Comisión fue el siguiente (Figura 10):
+Figura 10. Esquema de trabajo
+Evaluación de Modelos y definición de condiciones de modelamiento. - Integrado - Aislado
+Evaluación de escenarios ^hidrológicos y ’ condiciones (mínimos operativos)
+Comparación de
+              >ef¡o£i¿n?dela Resultados
+metodología y modelo
+5.1.2.1 Selección del Modelo
+En la presente sección del documento se definirá el modelo que se utilizará para calcular la energía firme de los proyectos que van a participar en las subastas.
+5.1.2.1.1 Evaluación de modelos
+Con la evaluación de los modelos se pretendió dar respuestas a dos tipos de pregunta: i) la evaluación de la energía debe realizarse con un modelo integrado o uno aislado, y ¡i) tipo de modelo más conveniente para el sistema. Para adelantar el trabajo se partió de modelos que han sido probados en el sistema, utilizando generación de 100 series
+CARGO POR CONFIABILIDAD 35
+
+
+Sesión No,
+equiprobables de caudales para los integrados y una historia de 30 años de caudales para los aislados.
+En el caso de los modelos aislados se utilizaron los siguientes modelos de programación de lineal: i) RNO - incluye una regla normal de operación, ii) PL- programación lineal y iii) Fórmula - cálculo con la fórmula de acuerdo con la definición de aportes y factor de cada planta, modelo implementado en Excel. Adicionalmente, se hizo el modelamiento con el Modelo de programación dinámica dual estocástica -SDDP.
+Para el caso integrado se utilizaron los siguientes modelos: i) Modelo de Programación Dinámica Estocástica con Aproximaciones Sucesivas -AS y ii) Modelo de Programación Dinámica Dual Estocástica -SDDP.
+Se hicieron análisis para varias plantas y a continuación se presentan los resultados obtenidos para una de ellas (Figura 11).
+Figura 11. Evaluación de modelos
+HISTORIA
+CARGO
+SDDP ESTOCÁSTICO
+FÓRMULA FLO
+FÓRMULA EMBALSE
+PL CRITICA
+PL HISTÓRICA
+SDDP AISLADO
+RNO FILO
+RNO EMBALSE
+SDDP CRITICO
+AS CRITICO
+SDDP S90
+P LAN T A CON EMBALSE
+R ES UM EN DE R ES UL TA D OS D E LO S M O D EL O S (GWh)
+2do
+lenor 818
+Media Máxima
+  •f SOS!
+693!
+622
+560:100% ] 92 7:95% 1065 : 90%
+Fuente: XM Expertos en Energía
+Respecto a los análisis que se hicieron para diferentes plantas se puede comentar lo siguiente:
+? Los modelos aislados no son estables en sus resultados porque dependen en gran medida de las condiciones iniciales, tal es el caso cuando se considera el aporte del embalse a la energía del proyecto, esta se incrementa de manera sustancial, siendo en algunos casos superior a la historia.
+? El modelamiento de cadenas de plantas hidráulicas, se dificulta con los modelos aislados porque hay que hacer supuestos que pueden llevar a resultados que no reflejen la real capacidad de los proyectos.
+? En lo que respecta a los resultados a los modelos integrados, sus resultados fueron consistentes y estables, por lo que se encuentra que desde el punto de vista energético juntos modelos se ajustan a los requerimientos del sector.
+CARGO POR CONFIABILIDAD 36
+
+
+5.1.2.1.2 Definición del Modelo
+Teniendo en cuenta que los modelos integrados presentan resultados acordes con la realidad del sistema, se propone hacer la siguiente evaluación para seleccionar el modelo a utilizar.
+• Comparación de resultados
+Se hicieron corridas para comparar los resultados de dos5 modelos encontrándose que desde el punto de vista energético son similares, sus diferencias en el resultado para el sistema es menor al 1%, tal como se puede apreciar en la Figura 12.
+Figura 12. Comparación Modelos AS y SDDP
+COMPARACIÓN RESULTADOS AS VS. MPODE GENERACIÓN PROMEDIO
+...
+<g 4000
+3000
+2000
+1000
+? AS ?
+Ahora, a pesar de que con el modelo SDDP se obtiene una utilización de los recursos similar al del AS, la señal de precios que se obtiene no se ajusta a costos marginales normales, por lo que si se quiere obtener resultados acordes con el sistema, se debe adicionar un piso a los costos de las plantas térmicas.
+• Comparación de Facilidades
+Para hacer la comparación de facilidades se establecieron características que permitieran escoger objetivamente el modelo más apropiado en las condiciones actuales, dando espacio a que se puedan incorporar desarrollos futuros.
+La tabla de evaluación es la siguiente (Ver Figura 13):
+s En el Modelo SDDP no se utilizan penalizaciones.
+CARGO POR CONFIABILIDAD 37
+
+
+Sesión No. 297
+Figura 13. Comparación de facilidades de programas integrados
+    Característica SDDP AS Facilidad se uso Se puede instalar en
+microcomputadores en ambiente Windows.
+? Requiere VAX.
+? No tiene capacidad de ampliación. Resultados Ajustados al sistema. Ajustados al sistema. Conocimiento del sector Utilizado por el Operador del
+Sistema, el Planeador y varios agentes. Se consigue comercialmente.
+Utilizado por el Operador del Sistema y algunos agentes.
+• Selección del Modelo
+Teniendo en cuenta los análisis anteriores, y dadas las condiciones actuales, se considera conveniente la utilización del modelo SDDP para las simulaciones del Cargo por Confiabilidad.
+Sin embargo, la utilización de otros modelos puede ser viable en la medida que cumpla las características señaladas anteriormente y que sea aprobado por la Comisión.
+5.1.2.2 Calculo de La Energía Firme para Cargo Por Confiabilidad
+En esta sección del documento se van a definir: i) criterios, ii) parámetros y iii) metodología para calcular la energía de los proyectos.
+En cuanto a la metodología, el objetivo es definir un esquema que dependa lo menos posible de condiciones de choque hidrológico, dado que la energía firme de un proyecto debe ser “única” en el tiempo.
+5.1.2.2.1 Plantas Hidráulicas
+Teniendo en cuenta que la energía firme de un proyecto hidráulico depende de los aportes y de sus características se requiere definir lo siguiente:
+• Caracterización de Plantas Hidráulicas
+Para poder estimar la energía firme de los proyectos se debe tener en cuenta sus características, por lo que se requiere definir un criterio que permita identificar de forma clara si la energía firme del proyecto se debe estimar como el promedio o la menor generación mensual de la estación de verano.
+En este sentido, se revisaron los siguientes criterios: i) capacidad de embalse vs. planta asociada, y ii) generación vs. aportes en período crítico.
+o Capacidad del embalse vs. planta asociada
+CARGO POR CONFIABILIDAD 38
+
+
+S cJión Wr:.
+El indicador se construye como la relación entre el volumen útil del embalse en unidades de energía, sin considerar aportes, y la generación mensual máxima de la planta, obteniéndose el dato de la capacidad de generación plena de la planta en meses.
+o índice de Generación vs. Aportes -IGVA
+El indicador se debe construir para cada planta como la relación entre la generación y los aportes6 (ríos, descargas proyectos aguas arriba, entre otros) a una planta en un período crítico. Para hacer el cálculo se requiere la topología del sistema de aportes y definir un período con rachas hidrológicas críticas. Ahora, considerando que la racha hidrológica del 97/98 llevó al sistema a una condición extrema, se hizo el análisis para esta hidrología.
+En las figuras 14, 15 y 16 se presenta el cálculo del indicador para tres tipos de planta existentes en el sistema: Tipo I: sin regulación, Tipo II: alguna regulación y Tipo III: con regulación.
+Figura 14. índice IGVA. Planta Tipo I.
+1.20 •
+  1.00 ? O m 0.60 - 5 0.60 -
+“ 0.40 -
+PLANTA TIPO I
+índice IGVA cercano a uno: significa que la planta genera lo que se recibe por aportes. No hay contribución entre meses del embalse.
+« « « « « « « A »
+-IG VA Re fe ren cia I
+Figura 15. índice IGVA. Planta Tipo II.
+                PLANTA TI PON zoo
+1.50
+1.00
+0.50
+0.00 Si
+K Í S S S S Í S Í i í S S S S Í S S Í S Í i í í S !
+IG V A Referen cia |
+índice IGVA levemente superior a uno en algunos meses: en este caso el indicador fue levemente superior a uno en un mes, pero no tuvo la capacidad de sostenerse en esa condición. Lo anterior muestra que la planta tiene una leve capacidad de regulación que le permite hacer un uso de los aportes, sin embargo es de corto plazo.
+6 La información de aportes de la serie hidrológica única (m3/s) se convierte en energía utilizando el factor de conversión de la planta (MW/m3/s) y las horas del mes respectivo.
+CARGO POR CONFIABILIDAD 39
+
+
+Figura 16. Indice IGVA. Planta Tipo III.
+5 3.00
+- 2.0 0
+1.00
+                PLANTA TIPO III 6,00
+índice IGVA superior a uno en forma sostenida, en este caso las plantas
+5.00
+                                           mantuvieron el indicador mayor a uno en CJ uj
+4.00 forma consistente por lo menos durante
+dos meses seguidos.
+0.00
+|----- K3VA — Referencia j
+En lo que respecta al mes de menor generación por planta para dos condiciones (%PSS) diferentes se encontró lo siguiente:
+Figura 17. Mes de Menor Generación
+DICIEMBRE ENERO FEBRERO MARZO ABRIL
+IO 98% PSS ? 95% PSS
+En la Figura 17 se observa que el mes en el que el mayor número de plantas tiene la generación más baja es el de febrero donde, de acuerdo con la condición hidrológica sintética, algunas plantas pueden llegar a tener generaciones cercanas o iguales a cero. Para evitar que estos problemas se presenten en las plantas con un IGVA menor a 1.5, donde se evalúa la capacidad de desplazar agua entre meses seguidos, se promedia la energía del mes de menor generación con el precedente y siguiente.
+Teniendo en cuenta los datos de los análisis anteriores, se encuentra que las plantas con IGVA superior a 1.5 durante dos meses seguidos en la época crítica de 97/98 tienen la capacidad suficiente para que su energía firme se tome como el promedio de la estación de verano, y las que no cumplen con este criterio se les considere su energía fírme como el promedio de los meses de enero, febrero y marzo. Sin embargo, para este último tipo de plantas, en el invierno se debe considerar el mes mínimo, dado que por sus
+CARGO POR CONFIABILIDAD 40
+
+
+características, en estas épocas de excedentes, la generación que aportan al sistema corresponde a aquella que minimiza los vertimientos.
+• Mínimos Operativos
+Respecto a los mínimos operativos de los embalses, se evaluaron las siguientes condiciones: i) con mínimos operativos y ii) sin mínimos operativos.
+Figura 18. Análisis Mínimos Operativos
+Generación Sistema Con Mínimos Operativos Generación Sistema Sin Mínimos
+Operativos
+?NIN4IA HIDRAULICA PAHOUI INSTALADO
+I— v.amcaa
+Sobre los resultados se puede anotar que son similares, teniendo en cuenta que los modelos trabajan como agentes racionales (Figura 18).
+Por lo anterior, y considerando que los mecanismos que prevé el Cargo por Confiabilidad propuesto inducen a que los agentes tomen decisiones racionales, no se encuentra necesario considerar los mínimos operativos para estimar la energía firme y no se considerarán para la intervención de embalses.
+• Hidrología
+Se toman en consideración las siguientes series hidrológicas: i) generación sintética de caudales - 100 series- (generadas de manera estocástica), ii) la racha hidrológica 97/98 y iii) Series hidrológicas del cargo actual (Figura 19)
+CARGO POR CONFIABILIDAD 41
+
+
+Sesión Ni:-. 2'J
+Figura 19- Generación Hidráulica con diferentes escenarios hidrológicos
+ENERGIA HIDRAULICA PARQUE INSTALADO
+3000
+0
+0% 20S 30% 50% 70%
+B0%
+|— PROM. E. &7/M SUSÍN~PROM. É . CQNSQLIOADQ — ^MÍN. MES 97/98"
+Teniendo en cuenta las hidrologías señaladas, se realizaron simulaciones para cada condición y aplicando la metodología descrita por planta se construyeron las siguientes curvas: i) Curva de distribución de probabilidad para verano, que se obtiene de la agregación de las curvas de cada planta en donde el menor valor equivale al 100% PSS y el menor valor al 0%, ii) Curva para la condición crítica de la racha hidrológica del 97/98, y ¡ii) Curva para la condición crítica del cargo actual.
+El resultado final muestra que sobre la curva de distribución de probabilidad de verano la serie hidrológica del cargo actual se acerca a la condición de 98% PSS y la condición crítica de la racha hidrológica del 97/98 se acerca al 95% PSS.
+• Metodología
+De acuerdo con los criterios y parámetros descritos anteriormente, la metodología que se describe a continuación permite establecer la energía fírme de referencia por planta para la estación de verano, que se utilizará para: i) establecer la energía firme del año, y ii) definir el valor de referencia para comparar la información que reportará cada uno de los agentes.
+Las simulaciones que se utilizan son del tipo estacionario, en donde se despachan los recursos hasta cumplir con los criterios de confiabilidad utilizados por la UPME para el planeamiento de la expansión de generación de referencia. Se aplica el procedimiento iterativo descrito en la Figura 20 teniendo en cuenta:
+? Un horizonte de análisis de diez (10) años.
+? No se considera red de transmisión.
+? Cien series equiprobables generadas sintéticamente a partir de la serie histórica conocida hasta la fecha de cálculo del valor de energía firme para Cargo por Confiabilidad.
+? Las plantas y/o unidades de generación existentes.
+CARGO POR CONFIABILIDAD 42
+
+
+if--.:"'', f' NO. 297
+? Los niveles de embalse existentes en el último día del mes anterior a la simulación.
+? El modelamiento autónomo del sistema sin considerar interconexiones
+internacionales.
+? Las curvas guía por restricciones ocasionadas por el uso del agua para propósitos diferentes al de generación de energía eléctrica (Caudal mínimo garantizado aguas abajo del embalse, agua para consumo humano, riego, navegación, etc.), declaradas por los agentes.
+? Partir de una energía estacionaria a atender mayor a la que podría atender el sistema, durante todo el horizonte de análisis.
+? Para cada mes se modela una curva escalonada de (6) bloques de energía estacionaria a atender con el mismo factor de carga de la demanda del sistema y sin crecimiento anual.
+? La capacidad disponible para generación es la capacidad efectiva de potencia de las plantas hidráulicas y térmicas, afectadas por su respectivo índice de indisponibilidad histórico de salidas forzadas (IHF), más la potencia determinística del sistema. La capacidad disponible permanece constante durante todo el horizonte de estudio.
+? La variable de control es la energía a atender, la cual se ajusta hasta el momento en que se cumpla el criterio de confiabilidad de la expansión (hasta un 5% de casos de déficit en el mes más crítico, VERE menor o igual al 1.5% y VEREC menor o igual al 3%).
+A partir de los resultados de este procedimiento iterativo, para las plantas con un IGVA mayor o igual a 1.5 durante dos meses seguidos, se construyen las Curvas de Distribución de Probabilidad de Generación Promedio para la Estación de Verano y para la Estación de Invierno. Con los datos obtenidos en el ejercicio de simulación se calculan los novecientos valores para cada estación empleando las siguientes fórmulas según corresponda:
+a) Estación de Verano:
+            afir Q
+d/c.M .y "í"
+9
+m,t,j
+donde:
+GVtiJ : Generación promedio mensual de la estación de verano del año t
+Qdic.t-rj : Generación en el mes de diciembre del año t-1 de la serie j
+gm tj : Generación del mes m del año t de la serie j.
+b) Estación de Invierno:
+nov
+m=mayo
+CARGO POR CONFIABILIDAD 43
+
+
+S esión No.
+? ' •
+donde:
+Glt J : Generación promedio mensual de la estación de invierno del año t
+gmtj : Generación del mes m del año t de la serle j.
+Para cada estación, estos valores promedio se ordenan en forma ascendente. El menor valor de generación mensual promedio de la estación corresponde al 100% de probabilidad de ser superado y el mayor valor corresponde al 0% de probabilidad de ser superado.
+Para las plantas que no cumplan con un IGVA mayor o igual a 1.5 durante dos meses seguidos, se construirán las Curvas de Distribución de Probabilidad de Generación Minima para las Estaciones de Verano y de Invierno. Con los datos procedentes del ejercicio de simulación se calculan los novecientos (900) valores para cada estación empleando las siguientes fórmulas según la estación que corresponda:
+a) Estación de Verano:
+mar
+/-'i i / _ m^ane___ 9 m,t,j
+donde:
+GVt j : Generación Mínima Promedio de la estación de verano del año t
+gm t
+j
+: Generación del mes m del año t de la serie j.
+b) Estación de Invierno:
+G l f j —
+min(()
+mgy0 ( j ,
+g
+junio,tj ’ " 9 m,t,j •••’ 9 noviembre,t, ¡ )
+donde:
+Glt j : Generación mínima mensual de la estación de invierno del año t
+gmt j : Generación del mes m, entre mayo y noviembre, del año t de la
+serle j.
+Estos valores se ordenan en forma ascendente. El menor valor de generación mínima de la estación de invierno corresponde al 100% de probabilidad de ser superado y el mayor valor corresponde al 0% de probabilidad de ser superado.
+CARGO POR CONFIABILIDAD 44
+
+
+•S< .'i .i No. 29 /
+Una vez construidas las curvas, la energía firme será la asociada al 98% PSS, obtenida de la Curva de Distribución de Probabilidad de Generación Promedio para la Estación de Verano o de la Curva de Distribución de Probabilidad de la Generación Mínima Promedio para la Estación de Verano, según el IGVA correspondiente a la planta.
+• Energía Firme Plantas Hidráulicas
+La energía firme para el Cargo por Confiabilidad por planta hidráulica será determinada utilizando la curva de distribución de probabilidad verano en el 98% PSS.
+El nivel de probabilidad del 95% PSS que es coherente con el parámetro de confiabilidad utilizado en el planeamiento del sistema, puede ser el valor máximo de energía a considerar por planta.
+Si la declaración es inferior al 98% PSS será el valor definitivo para cualquier subasta posterior. La declaración de energía firme podrá ser superior y hasta un límite de 95% PSS, la diferencia deberá ser garantizada.
+5.1.2.2.2 Plantas Térmicas
+En el evento crítico, teniendo en cuenta que el recurso hidráulico fija sus costos con los recursos térmicos, el modelo de simulación despacha las plantas térmicas a plena capacidad, solamente disminuida por su indisponibilidad y siempre y cuando la demanda mínima del sistema sea superior a la capacidad efectiva de la generación térmica disponible, por lo que su energía firme se puede establecer como:
+EFpT - C E N * p *H m
+donde:
+CEA/: Capacidad Efectiva Neta (MW) /3: Factor entre 0 y 1 que corresponde al menor valor entre los siguientes índices:
+1. Disponibilidad de la Planta (1-IHF), donde IHF es el índice de
+     Indisponibilidad Histórica de Salidas Forzadas. 2. índice de Disponibilidad de suministro de combustibles para operación
+     continua {IDS) definido en el parágrafo 1 de este Artículo. 3. índice de Disponibilidad de Transporte de combustibles para operación
+             continua (/DT) definido en el Parágrafo 2 de este Artículo. Hm: Horas del mes m
+El índice de Disponibilidad de Suministro de Combustibles (IDS) para operación continua se calcula así:
+Plantas Térmicas a gas
+donde:
+IDSm -
+CS CM„
+CARGO POR CONFIABILIDAD 45
+
+
+S
+Ü SIVÍ
+I No. 297
+IDSm\ índice de disponibilidad de suministro de combustible para el mes m. CSrr,: Cantidad de gas que podrá ser suministrada en el mes m CM: Cantidad de gas requerida para operar a plena Capacidad Efectiva Neta.
+Plantas Térmicas con capacidad de operar con más de un combustible:
+Y C S i.m + CA
+i,m
+— < = 1 _____________________
+donde:
+IDSm: índice de Disponibilidad de Suministro de combustible para el mes m. CS/,m : Cantidad del combustible i que podrá ser suministrada en el mes m. CA¡:m : Cantidad almacenada del combustible /' disponible para operar la planta en el mes
+      m CMm : Cantidad de energía requerida para operar a plena Capacidad Efectiva Neta en el
+      mes m n : Número de combustibles de los que dispone la planta en el mes m para operar
+simultáneamente
+Plantas Térmicas a carbón
+IDSm = CS„ ' m
++ 1 CAn V 71 CMm
+donde:
+IDSm: índice de Disponibilidad de Suministro de carbón para el mes m. CSm : Cantidad de carbón que podrá ser suministrada en el mes m CAm : Cantidad almacenada de carbón disponible para operar la planta en el mes m CMm : Cantidad de carbón requerida en el mes m para operar a plena Capacidad Efectiva Neta
+El índice de Disponibilidad de Transporte de combustible (/DT) para operación continua, se calcula para plantas térmicas a gas como el cociente entre la capacidad de transporte contratada en firme y la capacidad de transporte necesaria para que la planta genere a plena Capacidad Efectiva.
+CARGO POR CONFIABILIDAD 46
+
+
+          29'y S e , ; > < ' , 7 N o .
+Figura 20. Procedimiento Iterativo de Estimación de la Demanda Estacionaria
+Se establece una demanda mayor a la que podría atender el sistema (1)
+Se ejecuta la optimización del modelo SDDP: Forward 30 y Backward 15
+Se ejecuta la simulación del SDDP: 100 series hidrológicas y 10 años
+NO
+Se utiliza método bisector con criterio de convergencia(2)
+Se cumplen los índices de confiabilidad: VERE, VEREC y No. Casos
+Finaliza el procedimiento y se utilizan los resultados para establecer la Energía Firme de los proyectos (3).
+(D. (2) y (3)7
+7 (1) Se toma la demanda estimada por la UPME para el año de la subasta, incrementada en un 50%.
+(2) La metodología Bisector se aplicará para variar la demanda teniendo en cuenta los siguientes parámetros:
+? Valores iniciales: cota superior: 1.5 Demanda, tal como se señala en (1). Cota inferior 0.7 Demanda.
+? Proceso Iterativo:
+Dem, .............. Dem. +Demnr;
+2
+"r;
+donde:
+Dem,: Demanda de energía para la iteración i Demc: Demanda de energía para la última iteración que cumple con los criterios de
+      confiabilidad (VERE, VEREC y número de casos fallidos) Demnc: Demanda de energía para la última iteración que no cumple con los criterios de
+confiabilidad (VERE, VEREC y número de casos fallidos)
+CARGO POR CONFIABILIDAD 47
+
+
+5.1.2.2.3 Plantas Menores
+Para estimar la energía firme de las plantas menores se utilizará la disponibilidad declarada por los agentes y las plantas que no sean declaradas se asumirá una disponibilidad del 35% que podrá ser modificado si el propietario de la planta sustenta un valor.
+5.1.3 Periodicidad
+La estimación de la energía firme por planta se hará una vez, antes del inicio de la primera subasta y sólo se revisará cuando:
+• Ingrese un nuevo generador hidráulico, que no hubiera sido considerado en la simulación inicial. En este caso solo se calcula la energía firme de este nuevo agente de acuerdo con el procedimiento descrito, incluyéndolo como una planta o unidad de generación más en el parque que se evalúa.
+• Al inicio de cada subasta, a las plantas que tuvieron cambios en sus características y que los mismos generan modificaciones en la energía firme superiores al 10% (desvíos de ríos, contratos de combustible, entre otros).
+5.1.4 Energía Disponible para ofertar en el Mercado Secundario
+Dado que en el Mercado Secundario (numeral 9.1 de este documento) solo es posible ofertar energía disponible, y considerando que las plantas hidráulicas tienen la capacidad de incrementar la energía producida en la estación de invierno, se propone lo siguiente dependiendo de la estación para la que se comprometa la energía en este mercado:
+• Estación de Invierno: si la energía que se ofrece en el mercado secundario es exigible durante esta estación, la energía disponible para el mercado secundario es la diferencia entre la energía firme comprometida en la subasta, en caso de que exista este compromiso, y la energía disponible en la estación de invierno.
+• Estación de Verano: en este caso se puede ofertar la energía firme que no se comprometió en la subasta.
+Para calcular la energía de la estación de invierno (Energía Disponible en la Estación de Invierno) se utiliza el mismo procedimiento de cálculo de la energía firme según el IGVA de la planta, salvo que el valor será el asociado al 98 PSS obtenido de la Curva de
+? El proceso de detiene cuando se cumplan una de las siguientes condiciones: a) La diferencia entre las dos demandas seguidas es menor o igual al 0.5%,
+       calculando el porcentaje sobre el último valor; o b) Se han cumplido diez iteraciones. La demanda que se toma será el dato de la
+             última. (3) Para evitar los problemas de bordes, se eliminan los datos correspondientes a la primera y a la última estación.
+CARGO POR CONFIABILIDAD 48
+
+
+Distribución de Probabilidad de Generación Promedio para la Estación de Invierno o de la Curva de Distribución de Probabilidad de la Generación Mínima para la Estación de Invierno.
+En cuanto a las plantas térmicas, esta Energía Disponible en la Estación de Invierno, que puede ofrecerse en el mercado secundario será equivalente a la energía firme no comprometida en la subasta.
+5.1.5 Contratos de Combustible
+Los agentes para participar deberán declarar los contratos de combustible que puede ser combinaciones de contratos en firme de suministro y transporte con capacidad de almacenamiento en los formatos que se diseñen.
+En el caso del carbón se deberá entregar el Plan de Trabajo y Obras y el Registro Minero expedidos por la autoridad minera correspondiente. Y deberá tener el (los) contrato(s) firmados antes del inicio de la obligación.
+Para las subastas, se deberá entregar un compromiso que garantice se va a contar con los combustibles al momento de iniciarse los períodos de las obligaciones.
+5.1.6 Verificación de Parámetros
+El Operador del Sistema (XM) verificará mediante mecanismos aprobados por la CREG las declaraciones de parámetros de los generadores. En caso de encontrarse discrepancias entre los parámetros reales y los reportados, se ajustará el valor para las subastas posteriores y para el compromiso adquirido.
+5.1.7 Entidad Encargada de la Estimación de la Energía Firme para el Cargo por
+Confiabilidad y chequeo de Contratos Combustibles
+La entidad encargada de hacer la estimación de la energía firme con la metodología, procedimientos y parámetros señalados en el presente documento será el Operador del Sistema - XM.
+5.1.8 Declaración de Parámetros
+Para la estimación de la energía firme de referencia se deberán declarar los parámetros a la CREG quien la remitirá a la entidad encargada de la estimación de la energía firme de referencia, a más tardar un mes antes de la apertura de la subasta.
+5.1.9 Resultados de la Simulación
+Los resultados de la simulación serán publicados con anterioridad a la apertura de subastas o la asignación de energía en el período de transición.
+CARGO POR CONFIABILIDAD 49
+
+
+5.2 Contratación de Combustibles
+En este numeral se presenta un análisis de la contratación del suministro de combustibles para efectos de la remuneración del Cargo por Confiabilidad; a partir del cual se desarrolla una propuesta relacionada con las exigencias contractuales que se harán efectivas para asegurar la energía firme ofrecida al sistema y las verificaciones que esto implica.
+5.2.1 Antecedentes
+En 1996 cuando se estableció el método de cálculo del Cargo por Capacidad en el Mercado Mayorista de Electricidad, se exigió a los agentes térmicos la presentación de contratos de suministro y transporte de combustible para poder acceder al cargo. No obstante, en los últimos años la Comisión flexibilizó esta obligación, y fue así como en 1999 se dejó en libertad a los agentes térmicos para la contratación del combustible, con el argumento de que: “(...) dada la composición marcadamente hidráulica de nuestro sistema, la mayor expectativa de remuneración del parque térmico se centra en su despachabilidad durante los períodos de verano. Si un generador térmico se arriesga a ser exigido durante el verano y no está disponible por no contar con el combustible necesario, estaría comprometiendo su ingreso y su viabilidad (...)”fl.
+De otra parte, en su sesión del 20 de diciembre de 2005, la Comisión adoptó el plan de trabajo y ratificó el cronograma previsto en el Documento 072 de 2005 para la regulación de la remuneración del cargo por capacidad y dispuso continuar con el análisis y desarrollo de las acciones contempladas en los diferentes “módulos” de la propuesta mencionada. Entre los módulos se incluyó uno para definir el esquema de contratación de suministro y transporte de combustibles para efectos de reconocimiento del cargo por capacidad.
+En tal sentido, en esa misma sesión se aprobó la Resolución CREG-125 de 2005, en donde se estableció que: “(...) Los generadores térmicos que aspiren a ser remunerados por concepto de Cargo por Capacidad deberán reportar la información referente a la contratación firme de suministro y transporte de combustible, que será tenida en cuenta para efectos de la valoración de la energía firme a ser utilizada en la asignación de dicho Cargo a partir de diciembre de 2006
+Teniendo en cuenta lo anterior, en este documento se desarrolla la propuesta relacionada con el cumplimiento del requisito señalado en la Resolución CREG 125 de 2005, a partir del análisis de los aspectos relativos al suministro del combustible para este tipo específico de consumidores, y de la flexibilidad que puede otorgarse en esta clase de exigencias, de tal forma que se asegure la continuidad del servicio.
+5.2.2 Generalidades del Consumo de Combustible para el Sector Térmico
+Como se puede ver en la Figura 21, la mayoría de las plantas térmicas del SIN operan con gas natural como combustible principal (23 de 32 unidades de generación térmica), y
+0 FLEXIBILIZACIÓN DE EXIGENCIAS EN CONTRATOS DE COMBUSTIBLE PARA EL CARGO POR CAPACIDAD. Documento CREG 070, Octubre 14 de 1999
+CARGO POR CONFIABILIDAD 50
+
+
+en la actualidad algunas de ellas tienen la capacidad de generar con un combustible alterno, entre los que se encuentran fuel oil, carbón y ACPM.
+Figura 21. Combustible Principal de las Unidades Térmicas del SIN
+             Unidad Combustible Principal Barranquilla 3y 4 Gas Natural Cartagena 1, 2y 3 Gas Natural Flores 1, 2 y 3 Gas Natural Guajira 1 y2 Gas Natural Meriléctrica 1 Gas Natural Paipa 1, 2, 3 y4 Carbón Palenque 3 Gas Natural Proeléctríca 1 y 2 Gas Natural Tasajero 1 Carbón Tebsa Gas Natural Termocandelaria 1 y 2 Gas Natural Termocentro 1 Gas Natural Termodorada 1 Gas Natural Termoemcali 1 Gas Natural Termosierra Gas Natural Termovalle 1 ' Gas Natural Termoyopal 2 Gas Natural Zipa 2, 3, 4y 5 Carbón
+Fuente: XM Compañía de Expertos en Mercados S.A. E.S.P, - Neón
+Figura 22. Días sin Utilización de las Unidades de Gas
+39%
+20% 21%
+¿Sf
+8 7% 87% 88% 88%
+65% 66%
+¡tf.
+Fuente: Cálculos CREG con datos del Neón entre Ene-99 y Dic-05
+El número de días de utilización de muchas de estas unidades de generación es reducido como se observa en la Figura 22. Además de lo anterior, el comportamiento de los despachos presenta una volatilidad significativa por efecto de las cambiantes condiciones hidrológicas y las necesidades del sistema, lo que agrega incertidumbre a la proyección de la utilización futura de dichas plantas y dificulta la estimación acertada de las necesidades de combustible.
+CARGO POR CONFIABILIDAD 51
+
+
+S esión Wo. 297
+Con estas características, el suministro del combustible, en particular del gas natural, se convierte en un aspecto crítico, especialmente para aquellas unidades que tienen una utilización menor, teniendo en cuenta que los esquemas contractuales ofrecidos por los proveedores del gas natural no se ajustan a los perfiles de consumo de este tipo de usuarios, como se mostrará más adelante.
+5.2.3 Combustibles Alternos para Generación Térmica
+Con el objetivo de analizar la viabilidad de utilización de combustibles alternos al combustible principal, se solicitó a los agentes generadores de energía eléctrica el reporte de la siguiente Información (Circulares CREG 014 y 015 de 2006):
+• Costos de capital necesarios para acondicionar la planta de generación (para aquellas plantas en las que fuera factible) para la utilización de un combustible alterno al que consume actualmente, de tal forma que pueda atender los requerimientos de energía durante una estación de verano (instalación de equipos, almacenamiento, logística, etc).
+• Costos de Administración, Operación y Mantenimiento en que se incurre por la utilización del combustible alterno.
+• Costos estimados de suministro del combustible alterno en puerta de planta desagregando suministro, transporte y todos los demás costos en que debe incurrir para disponer del combustible.
+• Condiciones comerciales y características de firmeza en el suministro. Proveedores potenciales.
+Con base en la información recibida y la disponible en la Comisión, se encontraron las siguientes particularidades3:
+Combustibles Alternos para Generación
+Si bien la mayoría de las plantas consumen gas natural, todas tienen viabilidad técnica de sustitución (las que no lo pueden hacer actualmente, pueden ejecutar algunas inversiones y adaptar la planta para el consumo de un combustible alterno). Entre los combustibles altemos que están en capacidad de consumir las diferentes plantas térmicas, según la viabilidad técnica manifestada por los agentes generadores en la información remitida, se encuentran los siguientes (Figura 23):
+3 Las siguientes empresas remitieron la información requerida: Termoemcali (E-2006-003627), Isagen (E- 2006-003637), Termocandelaria (E-2006-003730), Proeléctrica (E-2006-003732), Chec (E-2006- 003740), Termovalle (E-2006-003780), Corelca (E-2006-003798), Meriléctrica (E-2006-003799), Emgesa (E-2006-3812) y EPSA (E-2006-003899).
+CARGO POR CONFIABILIDAD 52
+
+
+Figura 23. Combustibles Alternos Plantas Térmicas
+Agente Unidad Combustible Alterno
+Termoemcali Termoemcali Fuel OH No. 2 Isagen Termocentro Jet A1 Termocandelaria Termocandelaria 1 y 2 Fuel Oil No. 2 / No. 6 Proeléctrica Proeléctrica Fuel Oil No. 2 Chec Termodorada Jet A1 / Avigas Epsa Termovalle Fuel Oil No. 2 Termoflores 1 Fuel Oil No. 2 Corelca Termobarranquilla 3 y 4 Fuel Oil No. 6
+                    Tebsa Fuel Oil No. 2 / No. 6 Meriléctrica Meriléctrica Fuel Oil No. 2 Emgesa Termocartagena Fuel Oil No. 6 EEPPMM Termosierra Fuel Oil No. 6
+Fuente: Reportes Circulares 014 y 015 de 2006. Para el caso de Termosierra se tomó la información contenida en el Sistema de Información de Parámetros Técnicos del SIN publicada en la página de XM.
+Potenciales Proveedores
+Según se presenta en las comunicaciones, entre los posibles proveedores nacionales de los combustibles se encuentran ECOPETROL, Terpel, Exxonmobil y Chevron para los combustibles líquidos derivados del petróleo. Para el caso del carbón, CORELCA manifiesta que cerca de la zona donde se encuentra ubicada Termoguajira existen proveedores que pueden ofrecer firmeza en el suministro, entre los que se encuentran: Carbones de Cerrejón, Prodeco y Drummond.
+Con base en los análisis realizados por la Comisión, se ha encontrado que a nivel internacional existe un mercado competido de proveedores de combustibles, lo cual hace factible el suministro desde este punto de vista (Asesoría para el Estudio del Mercado Regional de los Derivados del Petróleo, Agosto de 2004, DNP-PNUD).
+Balance de Oferta v Demanda de Combustibles en el Mercado Interno
+La situación del mercado nacional de combustibles líquidos derivados del petróleo indica que la actividad de refinación es desarrollada por ECOPETROL en Cartagena y en Barrancabermeja, y que en los últimos años, el balance entre producción y consumo interno del Diesel (Fuel Oil No. 2), el Fuel Oil (Fuel Oil No. 6)10 y el Jet Al ha tenido el comportamiento que se presenta en la Figura 24. Como se puede ver, tanto en Fuel Oil como en Jet A1 el país produce más de lo que consume y tiene excedentes disponibles, sin embargo, la producción de Diesel ya no es suficiente para abastecer la demanda interna, y en los últimos anos ECOPETROL ha tenido que importar este combustible.
+Según lo anterior, las necesidades de suministro de las plantas térmicas que consumen Fuel Oil y Jet Al pueden ser atendidas con producción nacional, bien sea a través de
+10 “Definitions of Petroleum Products and Other Terms". EIA, Petroleum Supply Monthly, 2005.
+CARGO POR CONFIABILIDAD 53
+
+
+Sesión No, 297
+ECOPETROL o de un distribuidor mayorista. Para las plantas térmicas que utilicen Diesel presumiblemente se requerirá importación del producto.
+Fiqura 24.
+Balance Combustibles Derivados del Petróleo
+                  Balance Jet A1 30.000
+25.000 -
+70.000 ?
+Balance Fuel Oil
+20.000
+-
+60.000
+P 15.000 -
+50.000
+10.000
+O 40.000
+5.000 -
+1 = 1 PRODUCCION CONSUMO
+m 30.000
+20.000
+PRODUCC O N - - -CONSUMO
+                                               10.000 2000 2001 2002 2003 2004 2005
+2005
+90.000 i 80.000 - 70.000 - 60.000 U 50.000 -
+£ 40.000 - 30.000 -
+20.000 10.000 0 - - -
+Balance DIESEL OIL
+¡PRO DU CCIO N-- -CONSUMO
+2000 2001 2002 2003
+Fuente: ECOPETROL
+2004 2005
+5.2.4 Normatividad Vigente para la Compra de Combustibles
+Para las plantas térmicas que requieran Diesel, la normatividad vigente permite la importación de combustibles líquidos derivados del petróleo para consumo o distribución dentro del territorio nacional por parte de terceros diferentes a ECOPETROL” . Así mismo, por el nivel de consumo que tienen las plantas térmicas, éstas se pueden constituir como Grandes Consumidores, lo cual les permite contratar directamente el suministro con el refinador, el importador o el distribuidor mayorista (mayor a 10.000 galones por mes según lo establece el Decreto 4299 de 2005), y por lo tanto contar con varias alternativas de abastecimiento, incluso para los demás productos derivados del petróleo.
+5.2.5 Consideraciones sobre el Abastecimiento de Combustibles Líquidos
+Desde el punto de vista logístico, para disponer del combustible en la planta existe libre acceso a la infraestructura de transporte (sistema de poliductos) que es operada por
+11 Ministerio de Minas y Energía - Decreto 4299 de 2005: Tiene por objeto establecer los requisitos, obligaciones y el régimen sancionatorio, aplicables a los agentes de la cadena de distribución de combustibles líquidos derivados del petróleo, excepto GLP, señalados en el Artículo 61 de la Ley 812 de 2003
+CARGO POR CONFIABILIDAD 54
+
+
+S e n .yi A 'j. 23 /
+ECOPETROL12, y a la capacidad de almacenamiento en las terminales de propiedad de los diferentes agentes almacenadores (definición del Decreto 4299 de 2005 del Ministerio de Minas y Energía).
+No obstante, es deseable adoptar el Reglamento de Transporte por poliductos . También es fundamental contar con instrumentos contractuales que generen compromisos claros y explícitos de seguridad de suministro.
+5.2.6 Régimen de Precios
+En cuanto a los precios, el Ministerio de Minas y Energía define mensualmente la estructura de precios de las gasolinas y el Diesel, así como los cargos de transporte de estos productos por el sistema de poliductos. Por su parte, los precios a nivel de productor del Fuel Oil (Fuel Oil No. 6) y el Jet A1 son libres, y sus valores son publicados mensualmente por ECOPETROL.
+El mercado internacional de derivados del petróleo se caracteriza por su liquidez, con lo cual el precio se forma por la interacción de la oferta y la demanda. Existen también sistemas de información de mercado confiables y diversos instrumentos financieros de cobertura de riesgos.
+5.2.7 Balance de Oferta y Demanda de Carbón
+El mercado nacional del carbón tiene las siguientes características: Las reservas medidas del país ascienden a 7.064 millones de toneladas (UPME, 2006), las cuales al nivel de producción de 2004 (53 millones de toneladas) serían suficientes para 133 años. La distribución de estas reservas se presenta la Figura 25.
+En los departamentos de la Guajira y Cesar se encuentran los mayores yacimientos productores de carbón térmico. La producción nacional de carbón térmico ha mantenido un crecimiento constante en los últimos años, no obstante, el consumo interno destinado a la actividad de generación eléctrica se ha reducido desde 1998, como se muestra en la Figura 26.
+12 Artículo 13 de la Ley 681 de 2001
+CARGO POR CONFIABILIDAD 55
+
+
+Figura 25. Reservas de Carbón en Colombia (Millones de Toneladas)
+Lt Gu&jif* 3.933
+C«sar rg 2.035 «
+Fuente: Mercado Nacional e Internacional del Carbón Colombiano, UPME (2006)
+En cuanto a los precios de suministro, éstos son libres y en general han sido inferiores a los precios de los otros energéticos con los que compite el carbón. No obstante, en los últimos años se ha registrado un incremento en los precios internos, impulsado por la situación del mercado internacional.
+5.2.8 Esquemas Contractuales para el Suministro de Gas Natural
+En términos generales los esquemas contractuales que se han utilizado para generación térmica son del tipo “Pague lo Contratado” o “Take or Pay” (ToP). Para las unidades que están en competencia con toda la oferta eléctrica y que por lo tanto tienen utilizaciones cercanas al porcentaje de ToP definido, este tipo de contrato es una alternativa de suministro adecuada. No obstante, cuando se trata de unidades de generación con utilizaciones menores al porcentaje de ToP, este tipo de contrato no se ajusta a sus características de consumo y eleva los costos de abastecimiento del producto (En la Figura 27 se presentan los porcentajes de ToP que tienen los contratos de suministro analizados).
+CARGO POR CONFIABILIDAD 56
+
+
+Sexián ‘Jj: 2'í
+Figura 26. Balance Producción - Consumo de Carbón Térmico
+10.0
+- -
+0.0
+3;
+3:
+‘C 3: 3
+3 :
+i?
+§
+' . Producción co lom bian a óarbon t* rtn iíO — ? — Evolución %
+-? 10,0
+0,0
+2500
+?í
+• i | ' iiio itiiu n io C o lo ^ b lA n o d a C a tto n T a im k o — E v o l u c i ó n |
+Fuente: Mercado Nacional e Internacional del Carbón Colombiano, UPME (2006)
+Figura 27. Porcentaje de “Take or Pay” de los Contratos Vigentes
+Compañía % ToP
+TERMOYOPAL S.A. ESP 60% FLORES II S.C.A. ESP 70% CORELCA S.A. ESP 70% ISAGEN S.A. ESP 25% EEPPMM ESP 25% MERILECTRICA S.A. ESP 25% TERMOVALLE S.C.A. ESP 25% CHEC S.A. ESP 25%
+Fuente: Contratos de suministro solicitados por la Comisión en el año 2005
+En un contrato ToP, el comprador se obliga a pagar mensualmente una cantidad mínima, independientemente de su consumo, a cambio del suministro de gas en firme y como remuneración al vendedor por el hecho de tener disponible una cantidad en firme para el comprador en todo momento. En estos contratos se establecen: i) el volumen máximo contratado, ii) el porcentaje de ToP y iii) el precio, el cual debe tener un descuento inversamente proporcional al porcentaje de ToP (Figura 28).
+CARGO POR CONFIABILIDAD 57
+
+
+Stisión No. 29 /
+El desarrollo de un contrato ToP tiene las siguientes características. Cuando el comprador consume una cantidad inferior al porcentaje de ToP, se genera una cantidad de deficiencia a favor del comprador (cantidad pagada y no tomada) que el vendedor debe reservar para utilización por parte del comprador durante un período de 12 meses a partir del pago” . Esta cantidad a favor del comprador, puede ser tomada durante este período de 12 meses, siempre y cuando el consumo del mes en que pretende ser tomada sea superior al porcentaje de ToP. En todo caso, la cantidad máxima que puede ser solicitada por el comprador en un mes determinado no puede superar el volumen contratado. Finalmente, si transcurridos los 12 meses no se han tomado las cantidades que el comprador tiene a su favor, éste pierde su derecho sobre ellas y el vendedor puede venderlas a otros compradores.
+Figura 28. Contrato “Pague lo Contratado”
+*? Volumen contratado
+> % de ToP
+Demanda real
+De lo anterior se puede deducir que aquellos compradores que tienen una buena estimación de su consumo, y éste además tiene un perfil estable en el tiempo, pueden entrar en un contrato Pague lo Contratado sin que el porcentaje de ToP represente mayores efectos por concepto de derechos vencidos que fueron pagados y no tomados.
+Sin embargo, las plantas de generación térmica tienen un perfil de consumo incierto, como se puede observar en la Figura 29, donde se presenta el comportamiento histórico de la generación real de dos plantas termoeléctricas. La utilización diaria de estas plantas tiene una alta dispersión y no responde a una tendencia estacional, lo que representa un consumo volátil de gas natural en términos diarios.
+Cuando una planta térmica entra en un contrato Pague lo Contratado, por un volumen igual al requerido para la operación a máxima capacidad, el porcentaje de ToP se convierte en la variable crítica que determinará el balance financiero al que se enfrentaría el comprador en este contrato. En efecto, lo razonable sería que el porcentaje de ToP refleje la utilización promedio, así sea histórica, no obstante lo anterior, el vendedor tiene un nivel mínimo de ToP con el que debe cubrir sus costos fijos, y un porcentaje de ToP inferior a ese nivel, en la práctica trasladaría el riesgo de demanda al vendedor, sin la remuneración adecuada (podría convertir el contrato en un Pague lo Demandado).
+13 Los balances para efectos de determinar las estas cuentas, se hacen sobre una base mensual
+CARGO POR CONFIABILIDAD 58
+
+
+Sc;r.¡Cn No. 29?
+En el mercado, el menor porcentaje de ToP que existe es 25%14, lo que significa que una planta térmica no tendría pérdidas por derechos vencidos, cuando el promedio de utilización es mayor o igual al 25%. En general, cuando el porcentaje de ToP acordado en el contrato de suministro es superior al promedio de utilización, el comprador debe enfrentar pérdidas por concepto de derechos vencidos de gas que fue pagado y no fue consumido.
+En condiciones de competencia, donde existen suficientes jugadores tanto en el lado de la oferta como de la demanda, y no existe poder de mercado de ninguna de las partes, el porcentaje de ToP acordado en el contrato seguramente reflejaría la utilización promedio de las unidades (por lo menos para las que operan en condiciones de competencia con toda la oferta eléctrica), sin convertirse en una carga onerosa para ninguna de las partes.
+En el mercado colombiano, si bien la oferta de gas natural está caracterizada por su alto nivel de concentración, no se han demostrado conductas restrictivas de la competencia.15. Al respecto, la CREG ha recibido comunicaciones de los agentes térmicos en las que manifiestan la existencia de situaciones que, a su juicio, pueden constituir abuso de la posición dominante de parte de los productores-comercializadores en las negociaciones de contratos de suministro de gas natural16. Estas comunicaciones fueron remitidas a la Superintendencia de Servicios Públicos Domiciliarios para los fines pertinentes, quien después de realizar la respectiva investigación decidió archivar la documentación17.
+En conclusión, estructurar un contrato de suministro de gas natural que garantice firmeza (algunas plantas en particular), puede ser complejo y resultar en esquemas onerosos para los compradores, en particular para aquellas unidades térmicas que tienen despachos menores y que son requeridas por el sistema como respaldo para incrementar la confiabllidad, por las características propias del comportamiento del consumo de los generadores termoeléctricos. De otra parte, se debe tener en cuenta que los contratos de suministro también tienen como objeto permitirle al vendedor recuperar total o parcialmente los costos fijos y de inversión que enfrenta.
+14 Este porcentaje es el resultado de una negociación particular, por el efecto de la situación geológica del campo Opón que iba a suministrar el gas que requerían las plantas que se ubicaron en su zona de influencia 15 Documento CREG 057 de 2005 publicado con la Resolución CREG 082 de 2005 y Documento CREG 107 de 2005 publicado con la Resolución CREG 111 de 2005. 10 Contenido en la parte considerativa de la Resolución CREG 125 de 2005 17 Auto del 14 de Junio de 2005 - Superintendencia de Servicios Públicos Domiciliarios
+CARGO POR CONFIABIUDAD 59
+
+
+Sesión Nu. 2()
+Figura 29. Generación Real durante el ano 2005 para algunas Plantas Térmicas
+20 .000.000 -
+Tebsa
+18.000.000 -
+6 .000.000
+14.000.000 -
+12.000.000
+10
+.
+000.000
+-
+8 .000.000 -
+6.000.000
+4.000.000
+2.000.000
+en en en en en en
+T - L OCD - » - LO c n ’! - i r ) c n , _ i f i 0?-<“ i /) cn' í- Ln —
+8.000 Termocandelaria 7.000
+6.000
+5.000
+4.000
+3.000
+2.000
+000
+-
+i f i m — f M ^ e s ^ - c N L n e o T - e N L n c o ^ e M L r j í O T - C N t o a í 0 ) 0 ) d 0 ) O G > 0 ) O < J > O O O ) < 7 ) O O ) 0 ) G } O 0 ) O 0 > O > 9 >
+Fuente: Neón - XM Compañía de Expertos en Mercados S.A. ESP
+5.2.9 Ámbito Internacional
+En esta sección se presenta una breve descripción del uso de combustible alterno para generación térmica a nivel internacional, desde el punto de vista de las estrategias de abastecimiento de combustible para operación (Figura 30), de tal forma que se tenga un punto de referencia para enriquecer el análisis de las propuestas contenidas en este documento.
+En el mercado europeo, el sector térmico viene impulsando en los últimos años el crecimiento del consumo de gas natural y se prevé que esta situación continúe en el futuro (IEA, 2004). No obstante, los agentes generadores analizan en forma permanente la situación de precios de otros combustibles, con el fin de reducir costos y optimizar el retorno de sus inversiones, lo cual reduce eventualmente el uso de gas natural para generación y mantiene en competencia los diferentes energéticos. En tal sentido cerca del
+CARGO POR CONFIABIUDAD 60
+
+
+Sesión No. 297
+40% del parque de generación tiene posibilidades de consumir un combustible alterno (Figura 30).
+En el caso particular del Reino Unido, la oferta térmica a base de gas natural se ha incrementado en forma significativa en los últimos años, al punto que se ha incorporado a la carga base (base-load power), reduciendo la estacionalidad en el consumo y la producción de gas natural. No obstante, cerca del 70% del suministro de gas natural para el sector térmico corresponde a un servicio interrumpible y la capacidad de sustitución a combustibles alternos (“switching capability”) es limitada. A pesar de lo anterior, la seguridad del suministro eléctrico no se afecta ante interrupciones en el suministro de gas para generación térmica, teniendo en cuenta el excedente de capacidad de generación que existe, situación que evidentemente cambiará en la medida que dicho excedente se reduzca (IEA, 2002).
+En Estados Unidos, la generación a base de carbón representa la mayor proporción de la generación térmica, no obstante las plantas que se utilizan para atender los picos de demanda (“peaking units”) en el verano y el invierno, que representan los activos que le dan la confiabilidad al sistema eléctrico, en general son unidades que consumen gas natural. Estas unidades cuentan con la capacidad de sustitución para operar con destilados del petróleo (diesel y fuel oil) que les permite ajustar su consumo con base en la señal de precios del momento. En el invierno 2002-2003 por ejemplo, debido al incremento de los precios del gas natural, se incrementaron las ventas de diesel y fuel oil, por la sustitución de todas las plantas térmicas (Energy Information Administration - EIA- DOE, 2004).
+En los países de la OCDE, alrededor del 36% de suministro de gas natural para generación eléctrica está contratado a través de un servicio interrumpible, lo que implica que la mayoría de las plantas térmicas tienen la capacidad de sustituir el consumo por otro combustible, lo cual les permite atender los picos de la demanda eléctrica sin comprometer la confiabilidad del sistema (ver Figura 30).
+En términos generales, se puede afirmar que a nivel internacional en los mercados de gas natural que han avanzado hacia la desregulación propiciada por un desarrollo de la competencia, la demanda de gas natural es más sensible a los cambios de precios (mayor elasticidad). Así mismo, en el caso particular de los consumidores térmicos, han desarrollado esquemas de suministro de sus requerimientos de combustible que les permiten ajustarse a las condiciones puntuales del mercado y atender sus compromisos, con lo cual la responsabilidad de gestionar los riesgos relativos al negocio recae sobre los mismos agentes.
+CARGO POR CONFIABILIDAD 61
+
+
+Figura 30. Capacidad de Generación por Combustible18 (GW)
+1KA North America
+II-A Europe II A Pacific
+Ti>l:il e lix li'k itv ^L'ni.'raliiiL; i:ap ;idly (p ublic uülitics + '< i i 16 682.22 3(yv26 aulxpn «.Ilicctm
+Toral capacity by combustible fuels <S65.1 y 55* 1.24 2-12.80
+U f which Sinyie I'ucl-fircrl I C • I 220. S-i 2()<i.05
+O í which M ulri-íiiccl iub.ys 120.40 30.75
+Si.iliJ-Gas -n).2y 8.~2 1.00
+S< >liJ-l.ii |Ukls h.Jy -t~.5y 4.62
+l.ii |iii<_ls-(.ias átehb27 5 5 "2 30.49
+[.!< |UilI.s-S( dds-C las I (d.yy 1 -.3 ": 0.6-t
+   m u lti-lm cl total Ltcncralint; capacity 2Sl-c, ?I'XA 1.0%
+   m u lli-lircij (hurmal .Hcilci'atin.n capacity -lit",. 37'-: ;> 15°
+2
+   lii|Ukls-nas multi-firecl “ cilcrating capacity 21".? 43';‘" 83.’5
+   lipuids-yas. total uci'ici'atin.c; capacity (V
+1
+Sour-l.': It,A lOM.CjC.
+Fuente: IEA, 2002
+Adicionalmente, el estado de desarrollo de los mercados de gas natural, en particular los de corto plazo (“spot markets”) ha permitido la utilización de mecanismos de contratación de largo plazo más flexibles para los compradores. Por una parte, los vendedores de gas natural se enfrentan a ambientes más competitivos que si bien representan retos mayores en términos de la atracción y mantenimiento de clientes, imponen menores riesgos comerciales que fomentan la búsqueda de nuevas reservas garantizando la oferta. Por otro lado, los compradores cuentan con más alternativas para el suministro, y de no lograr acuerdos de largo plazo que se ajusten a sus necesidades, se ven favorecidos por la liquidez de los mercados de corto plazo donde pueden encontrar el suministro del combustible requerido.
+5.2.10 Propuesta Regulatoria
+Como se presentó anteriormente, las características propias del consumo térmico hacen que los esquemas contractuales del tipo “Pague lo Contratado” que se utilicen para el suministro de gas en firme sean onerosos, teniendo en cuenta las condiciones del servicio (garantía de firmeza).
+18 Información a diciembre de 2000. La cifras corresponden a capacidades máximas y no tienen en cuenta el factor de utilización
+CARGO POR CONFIABILIDAD 62
+
+
+SosiO/i Nü. 2 0 '
+Además, de conformidad con lo expuesto, por los antecedentes de desarrollo del sector de gas natural en Colombia, existe una oferta con altos niveles de concentración19. En este contexto, la obligación que tienen los agentes generadores de energía eléctrica de suscribir contratos de largo plazo de suministro de combustible en firme, en el caso del gas como única alternativa, podría desequilibrar las negociaciones de compra-venta a favor de los productores-comercializadores.
+Este desequilibrio se acentúa si se tiene en cuenta que aún con la liberación de precios de suministro, la Comisión tiene serías limitaciones para regular las cantidades de gas disponibles para el mercado nacional. Dichas limitaciones tienen que ver con la asignación a otra agencia del Estado de la determinación de la cantidad de gas destinada a la exportación y principalmente con la autonomía de las partes de los contratos de asociación y concesión para disponer del uso del gas.
+De las alternativas que existen para abordar esta situación, se identifican las siguientes: i) diseñar un contrato de suministro de gas natural por la vía regulatoria, y ii) flexibilizar las exigencias de contratación de combustibles para el cargo por capacidad. Por las consideraciones del sector de gas natural presentadas anteriormente, la primera alternativa no es aconsejable, ya que no sería consistente regular esquemas contractuales que busquen proteger precios regulados del gas en boca de pozo, una vez que la Comisión ha acogido el esquema de libertad de precios del gas natural en boca de pozo.
+Ahora bien, en cuanto a la segunda alternativa, la flexibilización total de las exigencias de contratos de combustibles sería factible si existiera un mercado de corto plazo de gas natural lo suficientemente desarrollado y una infraestructura de almacenamiento de gas natural suficiente, de tal forma que se garantizara el suministro incluso en situaciones pico de demanda. Sin embargo, al no contar en Colombia con un mercado con estas características, la única alternativa viable sería la flexibilización de la contratación considerando el mercado de los combustibles alternos.
+En este sentido, el objetivo de la Comisión es dar las señales regulatorias que permitan a los agentes térmicos determinar libremente el tipo de combustible necesario para ofrecer la energía firme que requiera el sistema.
+Así, se propone dejar a cargo de los agentes generadores la selección del esquema contractual de suministro del combustible y del tipo de combustible a utilizar. La teoría de asignación de riesgos indica que éstos deben ser asumidos por: i) la parte que esté en mejor condición de evaluarlos, controlarlos y administrarlos; y ii) la parte que tenga mayor acceso a los instrumentos de protección, mitigación o diversificación, de tal forma que se asegure que la parte que está en capacidad de reducir los riesgos y costos, tenga el incentivo para hacerlo20.
+En el caso del compromiso que adquiere el generador de entregar una energía firme en unas condiciones dadas (de acuerdo a la propuesta actual sobre la metodología del Cargo
+19 Documentos CREG 057 y 107 de 2005 20 Departamento Nacional de Planeación, Documento CONPES 3107 del 3 de abril de 2001 “Política de Manejo de Riesgo Contractual del Estado para Procesos de Participación Privada en Infraestructura”
+CARGO POR CONFIABILIDAD 63
+
+
+Scaiór. No ?,')?'
+por Confiabilidad contenida en el Documento CREG 122 de 2005), es precisamente el mismo agente quien dispone de los elementos y el acceso a la información necesaria para gestionar los riesgos implícitos en la atención de los compromisos adquiridos. Uno de estos riesgos es el suministro del combustible y el esquema contractual, así como la tecnología de conversión que seleccione autónomamente el agente de tal forma que cuente con lo necesario para honrar su compromiso con el sistema eléctrico.
+Como se presentó anteriormente, si bien la mayoría de las plantas térmicas del país consume gas natural como combustible principal, los mismos agentes han manifestado la factibilidad técnica de adaptar (en caso de que no tengan la planta adecuada en la actualidad) las unidades para el consumo de un combustible alterno. Lo anterior, permite afirmar que la infraestructura de generación térmica puede ser flexible en términos del suministro de combustibles.
+De esta forma, las plantas térmicas que se enfrenten a contratos de suministro de gas en firme (como combustible principal) que no se ajusten a sus perfiles de consumo, podrán optar por garantizar la energía firme a través de un combustible alterno. Así mismo, podrán utilizar una combinación de contratos de suministro entre combustible principal y alterno (combinando suministro y almacenamiento, contratos firmes con interrumpibles, combustibles principales con combustibles alternos), que sumados le permitan cumplir sus compromisos de generación de energía firme y ofrecer la continuidad que requiere el sistema eléctrico y que se está remunerando a través del Cargo por Confiabilidad. En general, se prevé que sea el mismo agente quien determine la estructura contractual que utilizará.
+Con base en la información enviada por los agentes térmicos, los costos de inversión requeridos para adaptar las plantas de generación para el consumo de combustibles alternos se resumen en la Figura 31 expresados en mensualidades de dólares por kilovatio instalado, calculados con una tasa de descuento del 13,5% (para efectos comparativos se utiliza la misma tasa de descuento con la que se determinó el cargo por capacidad en el año 1996) y un período de 15 años (tratándose de inversiones en activos de infraestructura, sería el escenario de tiempo en el cual el agente esperaría recuperar la inversión).
+En estos costos de inversión se incluyen: i) la inversión necesaria para adaptar la planta; ii) la inversión requerida en tanques de almacenamiento, obras civiles, tuberías, estaciones de descarga); y iii) el costo del inventario inicial del combustible para el llenado del tanque de almacenamiento. A partir de estos datos, en principio resulta factible que los costos fijos de inversión sean incluidos en la oferta que presenten en la subasta en el contexto del Cargo por Confiabilidad.
+CARGO POR CONFIABILIDAD 64
+
+
+Sesión Nc, 2'J
+Figura 31. Costos de Inversión Requeridos para el Consumo de Combustible Alterno
+                           CAP EX - Total 1.2
+1.0
+0,8
+0,6
+0,2
+D
+Fuente: Cálculos CREG con información reportada por los agentes térmicos
+No obstante lo anterior, la Comisión no pretende determinar el esquema más eficiente para conseguir el suministro del combustible. El objetivo es generar las señales regulatorias que le permitan a los diferentes agentes térmicos tomar decisiones y gestionar los riesgos que enfrentan. Así mismo, con esta propuesta se pretende mitigar el poder de mercado que existe en la oferta de gas natural, induciendo la competencia con los combustibles altemos (remunerando las inversiones que esto implique y los costos que demande su operación), y promoviendo la utilización eficiente de los recursos, sin comprometer la confiabilidad en la atención de la demanda eléctrica.
+5.3 índices de Indisponibilidad Histórica Forzada
+5.3.1 Antecedentes
+Originalmente en los modelos de planeamiento operativo para el cálculo de la probabilidad de indisponibilidad de las unidades de generación, se utilizó el índice OR definido como:
+(1) OR = Hl
+HI + HO
+donde:
+OR: Tasa de salidas Hl: Horas de indisponibilidad HO: Horas de operación o en línea
+CARGO POR CONFIABILIDAD 65
+
+
+Sesión No, 29 ?
+Como el índice OR no consideraba las indisponibilidades parciales por derrateos de las unidades, se convino efectuar una modificación y utilizar como probabilidad de indisponibilidad de una unidad el siguiente índice:
+(2, v ' OR - tIL HP
+tím
+donde:
+Hl: Horas de indisponibilidad HD: Horas equivalentes de derrateo HP: Horas del período de análisis
+Posteriormente, los análisis demostraron que la ecuación (2) sobrestimaba la disponibilidad por incluir en el denominador las horas en las cuales la unidad estaba apagada (Parada Operativa). Por lo anterior, se encontró conveniente eliminar del denominador las horas de parada operativa y la fórmula para el cálculo del IH quedó así:
+(3 )/H .M ± H e HI + HO
+donde:
+IH: Indisponibilidad histórica
+Hl: Horas de indisponibilidad forzada o programada
+HO: Horas de operación o en línea
+HD: Horas equivalentes de indisponibilidad por derrateos calculadas como:
+n o
+x /=1
+cr CE
+CD '"
+donde:
+CE: Capacidad efectiva de la unidad o planta
+CDf. Capacidad disponible durante la hora i
+H: Constante de conversión de unidades (1 hora)
+Cabe resaltar que con relación a la información necesaria para realizar los cálculos, se concluyó que para las plantas o unidades de generación nuevas o con pocas horas de operación, la fórmula de cálculo del IH no reflejaba correctamente el estado real de las
+CARGO POR CONFIABILIDAD 66
+
+
+plantas. En estos casos, luego de los análisis correspondientes, se decidió utilizar los siguientes criterios (Resolución CREG 073 de 2000)21:
+i) Plantas y/o Unidades de Generación con Información Insuficiente:
+Se consideran como unidades con información insuficiente aquellas cuyas horas de operación, más horas de indisponibilidad, no superan el 20% de las horas de los tres (3) años contemplados para su cálculo (siete meses).
+En el caso de unidades con información insuficiente, el índice se calcula con la información correspondiente a las estaciones de verano involucradas en los tres (3) últimos años de operación.
+¡i) Plantas y/o Unidades de Generación Nuevas
+Toda unidad que tenga menos de 36 meses de operación con la misma configuración con la que se esta evaluando, es considerada una unidad nueva. Cuando por decisión del agente, se configuren diferentes unidades como una sola planta, la historia de la misma se tomará a partir de la fecha de entrada en operación de la última unidad del grupo.
+El IH de una unidad nueva, se determina de acuerdo con su tiempo de operación, consultando directamente la siguiente tabla (Figura 32):
+Figura 32. IH vs. Tiempo de Operación según tipo de Planta
+Tipo Planta 1er. Año
+(lera. Columna)
+2do. Año (2da. Columna)
+3er. Año (3ra. columna)
+Gas 0.2 El menor valor entre 0.15 y el índice histórico del primer año completo de operación
+El índice histórico del segundo año completo de operación
+Carbón 0.3 El menor valor entre 0.2 y el índice histórico del primer año completo de operación
+El índice histórico del segundo año completo de operación
+Hidráulicas 0.15 El menor valor entre 0.1 y el índice histórico del primer año completo de operación
+El índice histórico del segundo año completo de operación
+iii) Si una unidad se encuentra en operación desde hace más de 24 meses, pero su operación no ha completado 36 meses y tiene información suficiente (entendiendo como información suficiente: si las horas de operación, más horas de indisponibilidad de la unidad en cuestión, superan el 20% de las horas totales del período en mención), los índices a utilizar son: para todo el
+Z1 En la Resolución CREG 113 de 1998 se efectuaron varias modificaciones a los IH. No obstante, la regulación vigente en este tema es la que se encuentra en la Resolución CREG 073 de 2000.
+CARGO POR CONFIABILIDAD 67
+
+
+horizonte, desde la entrada en operación de la unidad, el valor resultante de la tercera columna.
+iv) Si una unidad se encuentra en operación desde hace más de 24 meses, pero su operación no ha completado 36 meses y tiene información insuficiente (entendiendo como información insuficiente: si las horas de operación, más horas de indisponibilidad de la unidad en cuestión, no superan el 20% de las horas totales del período en mención), el índice se calculará con la información correspondiente a las estaciones de verano involucradas en el periodo considerado.
+5.3.2 Análisis de la Metodología de Cálculo de los IH y Propuesta Regulatoria
+Desde la última modificación de la metodología de cálculo de los IH, ocurrida en la Resolución CREG 073 de 2000, se ha observado que el mecanismo establecido ha sido exitoso y debería mantenerse para establecer la indisponibilidad histórica de las plantas.
+En el caso de aquellas plantas o unidades de generación con alta frecuencia de operación y que consecuentemente deben realizar un mayor número de mantenimientos programados, el cálculo de los IH recibe un impacto superior a las plantas o unidades que no salen a operación con la misma frecuencia. Por lo anterior, se encuentra oportuno modificar el cálculo de los IH para que no incluyan los mantenimientos programados.
+De conformidad con lo expuesto se propone emplear el índice de Indisponibilidad Histórica Forzada (IHF) definido de la siguiente forma:
+(3) IHF = — ± 1^
+HI + HO
+donde:
+IHF: Indisponibilidad histórica Forzada
+Hl: Horas de indisponibilidad (sin considerar horas de mantenimientos programadas)
+HO: Horas de operación o en línea
+HD: Horas equivalentes de indisponibilidad por derrateos calculadas como:
+H D J £ C E - C± , H tí CE
+donde:
+CE: Capacidad efectiva de la unidad o planta
+CARGO POR CONFIABILIDAD 68
+
+
+Sesión iV?
+CDi: Capacidad disponible durante la hora i
+H: Constante de conversión de unidades (1 hora)
+Estos índices deberán construirse, para cada caso, con la misma información requerida en la Resolución CREG-073 de 2000. Sin embargo para el caso de plantas y/o unidades de generación nuevas, entendiendo este término como aquellas que al momento de celebración de la Subasta o del procedimiento de asignación que haga sus veces durante la etapa de transición no han iniciado su construcción, se propone utilizar los siguientes IHF:
+a) En el primer año de operación de la unidad, el valor que aparece en la primera
+     columna de la Figura 32. b) En el segundo año de operación de la unidad en adelante: 0.05
+Para el cálculo de la ENFICC, el generador podrá declarar un IHF menor al de la primera columna de la Figura 32, y en cualquier caso superior a 0.05, siempre y cuando aporte las garantías correspondientes la diferencia de la ENFICC entre su declaración y la que resultaría de considerar el IHF de la primera columna.
+Otros Temas
+Se considera que en la aplicación de la metodología de cálculo de los índices de Indisponibilidad Histórica solamente los eventos relacionados con el SIN y/o STR no están bajo el control directo de las plantas o unidades de generación. En estos términos, se encuentra adecuado que se tengan en cuenta todos y cada uno de los eventos de indisponibilidad de la planta y/o unidad de generación diferentes a aquellos originados en el SIN y/o STR para el cálculo de los índices.
+6. SUBASTA
+La propuesta de trabajo para la remuneración de Cargo por Confiabilidad establece la implementación de una subasta22 de obligaciones de energía firme para generadores existentes y para generadores nuevos. Para tal efecto, es fundamental realizar un análisis de las características del mercado de obligaciones de energía firme propuesto con el fin de definir un diseño de subasta que alcance de manera satisfactoria los objetivos establecidos.
+Una vez expuestos los fundamentos, se presenta el diseño de la subasta propuesto por el Dr. Peter Cramton, consultor encargado de analizar este tema, y adaptado por la Comisión tras analizar dicha propuesta22.
+22 McAfee y McMillan (1987) definen una subasta como una institución de mercado que cuenta con un conjunto explícito de reglas que determinan la asignación de recursos y los precios basándose en las pujas presentadas por los participantes. 23 El Informe del consultor (Radicación CREG E-2006-05577) se hizo público mediante Circular CREG- 030 de 2006.
+CARGO POR CONFIABILIDAD 69
+
+
+Sesión No. 29v
+6.1 Objetivos del Diseño de una Subasta
+En principio el diseño de una subasta parte de tener absoluta claridad de los objetivos que con esta se pretenden alcanzar, en este sentido, las subastas de obligaciones de energía firme establecidas en la propuesta de Cargo por Confiabilidad buscan alcanzar fundamentalmente los siguientes objetivos:
+Determinar el precio de mercado de las obligaciones de energía firme: Una vez definidas las obligaciones de energía firme como un mecanismo idóneo para la remuneración de la confiabilidad requerida por el sistema, el regulador se enfrenta al problema de determinar el valor (precio) de dichas obligaciones. En tal sentido se considera que una subasta como organización de mercado es un mecanismo eficiente en el proceso de descubrimiento de precios. Como se verá más adelante este objetivo puede ser alcanzado en mayor o menor grado dependiendo del formato de subasta utilizado.
+Controlar poder de mercado y prácticas colusivas: El diseño de la subasta debe permitir alcanzar un grado aceptable de eficiencia, promoviendo la competencia entre los generadores y evitando prácticas anticompetitivas que produzcan resultados ineficientes.
+Transparencia: Se busca contar con un mecanismo transparente y abierto que brinde igualdad de condiciones a todos los agentes participantes, lo que redunda en una disminución de la incertidumbre enfrentada por ellos.
+6.2 Subasta de Compra de Obligaciones de Energía Firme
+Durante las últimas décadas, la institución de subasta ha ganado enorme popularidad como herramienta de asignación de recursos y más recientemente como mecanismo de compra. En particular, considerando las diferentes alternativas de diseño de una subasta, se han estudiado sus propiedades de optimalidad, desde el punto de vista de eficiencia social24. Por supuesto, existen factores que pueden afectar estos aspectos de optimalidad, tales como el diseño mismo de la subasta, o el poder de mercado de los jugadores. A continuación se analizan las características de los principales formatos de subastas.
+6.2.1 Formatos básicos de subastas
+Desde el trabajo de Vickrey (1961) se han considerado principalmente cuatro tipos de subastas de las cuales se han derivado la mayoría de formatos existentes. Estos formatos básicos son:
+24 Una subasta es socialmente eficiente cuando el ganador de ella es el jugador con la mayor valoración sobre el bien subastado: o el de menor costo cuando los jugadores compiten para producir un bien o proveer un servicio
+CARGO POR CONFIABILIDAD 70
+
+
+Scmón No. 297
+Subasta ascendente o inglesa; Es el tipo de subasta más utilizado. La característica que la define es que el precio se va incrementando (decrementando) sucesivamente hasta que queda un único comprador (vendedor), al que se la adjudica el bien al precio final.
+Subasta holandesa o subasta descendente; En este caso el subastador (comprador) inicia con un precio muy alto que va disminuyendo sucesivamente hasta que algún comprador (vendedor) lo acepta. Este tipo de subastas recibe su nombre por ser el mecanismo utilizado tradicionalmente para la venta de flores en Holanda.
+Subasta con sobre cerrado de primer precio: Los potenciales vendedores presentan las pujas en sobre cerrado. El bien se adjudica al mejor postor y el precio coincide con la menor puja. En este tipo de subastas se destacan dos características que contrastan con lo que ocurre en la subasta inglesa: en el momento de presentar sus pujas los potenciales vendedores no conocen cuáles son las pujas de los demás; y cada vendedor sólo puede presentar una única puja, es decir, no existen rondas adicionales.
+Subasta con sobre cerrado de segundo precio (o Vickrey): El precio corresponde a la primera puja más baja de las rechazadas. De esta manera, el precio es independiente de la puja presentada por el ganador. Quien gana no influye en el precio.
+Adicionalmente, hay un factor subjetivo, crucial al momento de diseñar una subasta, y que es intrínseco al bien subastado: la forma en que los agentes valoran dicho bien. Según este aspecto, las subastas se encuentran divididas en dos grandes grupos:
+Subastas de valor privado: Aquellas donde los jugadores conocen su propia valoración del objeto a ser subastado, y les es indiferente conocer las valoraciones de los demás jugadores (si un jugador se entera de la verdadera valoración de otro, esto no conduce a un cambio en la suya). De este tipo de subastas hace parte el ejemplo clásico de la subasta de una obra de arte, donde cada individuo valora la obra según sus propias preferencias y a partir de ellas procede a realizar su oferta.
+Subastas de valor común: Se caracterizan porque el valor del objeto es el mismo para todos, pero los individuos desconocen este valor y, por consiguiente, se basan en señales recibidas para hacer estimaciones de él. Al igual que en las de valor privado, se carece de información acerca de la señal de los demás jugadores, pero si algún jugador se entera de la señal de otro, ésta información le resulta de gran utilidad en el momento de decidir cuál es el valor del bien. Como ejemplos se tienen: i) una subasta para la explotación de un yacimiento, donde la explotación tiene el mismo costo para todos, pero éste es desconocido y, por tanto, los jugadores hacen sus ofertas de acuerdo a las señales que reciben sobre los verdaderos costos y ii) una subasta de títulos valores donde los jugadores revenden inmediatamente los títulos a otros inversionistas que no participan en las subasta.
+6.3 Características de las Obligaciones de Energía Firme a ser Subastadas
+Las obligaciones de energía firme establecidas en el documento CREG-122 de 2005, son un instrumento que otorga al mercado, mediante el pago de una prima, el derecho de
+CARGO POR CONFIABILIDAD 71
+
+
+adquirir una determinada cantidad de energía horaria a un precio máximo denominado precio de ejercicio, en aquellos momentos en los cuales el precio de bolsa es superior al precio de ejercicio.
+En el caso particular de las obligaciones de energía firme propuestas solo pueden ofrecerlas aquellos agentes que son tenedores del subyacente (energía firme). En tal sentido, no es permitida la venta de obligaciones por parte de agentes que no poseen energía firme al momento de la negociación (venta en corto para el caso de los generadores existentes). No obstante, para hacer posible la participación de agentes que no cuentan con el subyacente en el momento de la negociación pero que contarán con él en el futuro -tal es el caso de agentes con proyectos de expansión de la infraestructura de generación eléctrica- se propone implementar un mecanismo de subasta mediante el cual se solicitan los requerimientos del sistema con tres años de anticipación23. Este mecanismo permite reducir la incertidumbre asociada a la nueva inversión, y brinda al ganador de la subasta un tiempo prudencial para la construcción de la planta de generación que respalda la obligación de energía firme asignada.
+6.4 Determinación del Precio de las Obligaciones de Energía Firme
+6.4.1 Generadores Existentes
+Como se establece claramente en la definición del producto, el activo subyacente de las obligaciones de energía firme es energía a precio de ejercicio; por lo tanto, se espera que la valoración de estas obligaciones este estrechamente relacionada con la evolución futura del precio de bolsa para el período de vigencia de la obligación.
+De los resultados de la teoría estándar de valoración de opciones, (ver Cox and Ross (1976), Harrison and Pliska (1981)26) el precio de una obligación sobre el precio de bolsa esta dado por el valor esperado de los pagos descontados durante el período de vigencia de la obligación. Si suponemos un mercado en el cual se negocia una obligación de energía firme con un precio de ejercicio K y vencimiento en T, en el que solo los agentes que poseen el subyacente (energía firme) pueden participar, y que el precio de ejercicio es estrictamente mayor al costo marginal de generación c (K>c), entonces el precio de dicha obligación esta definido por:
+T
+O)
+Donde S(t) corresponde al precio de bolsa en el momento t
+25 Este período de tiempo podrá ser modificado por la Comisión. 26 Este enfoque es similar a adoptar una metodología de costo de oportunidad representado este como el flujo de efectivo que podría resultar del uso alternativo más adecuado de un activo que se posee (para este caso una cantidad determinada de energía firme).
+CARGO POR CONFIABILIDAD
+
+
+Sesión No. 2 9/
+El valor establecido en (1) es cierto siempre que el generador pueda entregar la energía comprometida. Si el generador no puede hacer entrega de la energía comprometida este deberá pagar la diferencia entre el precio de bolsa y el precio de ejercicio.
+Si suponemos que el generador cumple la entrega de la energía firme con una probabilidad p, entonces tenemos que el valor de la obligación esta determinado por:
+T T y(.) = p * E t( Je"" max(0,S(r) - K)dr) + (1 - p )* E(( Je '" max(0,S(r)- K)dz) (2)
+T = t r - t
+6.4.1.1 Análisis del precio de la obligación de energía firme
+De (2) se puede concluir que el valor de la obligación de energía firme esta determinado por las rentas correspondientes a la diferencia entre el precio de bolsa y el precio de ejercicio (K); esto es, a las que el generador renuncia cada vez que la obligación es ejercida, más el valor esperado de las penalizaciones por incumplimiento. En otras palabras, el valor de la obligación es una función estrictamente creciente de (p). De lo anterior se pude afirmar que:
+• Obligaciones asociadas a bloques de energía menos firme tienen un mayor valor, debido al valor esperado de las penalizaciones.
+• El costo de la obligación es el mismo para todos los generadores con independencia del tipo de tecnología utilizada (para bloques de energía con igual probabilidad de falla).
+6.4.1.2 El precio de la obligación de energía firme y la remuneración de la inversión
+Dado que para la derivación de (2) solo se consideran los generadores existentes, la inversión requerida para proveer las obligaciones de energía firme no aparece como un costo adicional27. La especificidad de los activos de generación hace que el costo de poseerlos sea considerado hundido (si bien puede existir algún mercado de reventa para el caso de las plantas térmicas este no se considera en el presente análisis) y por lo tanto, parecería ser que el valor de la obligación no tiene relación directa con la inversión requerida para proveer dicho bien. A continuación se abordará con mayor detalle el análisis de esta situación.
+Considerando que el precio de la obligación de energía firme está definido por (2), y que esta expresión es una función estrictamente creciente en la probabilidad de falla (p), tenemos que si para atender la demanda de obligaciones de energía firme se requiere el uso de bloques de energía cada vez menos firmes se puede mostrar que el costo marginal para algún valor de p (cercano a 1) debe ser igual al costo de inversión
+27 Esto es consistente con las predicciones de la teoría económica según la cual los costos hundidos son irrelevantes al momento de tomar decisiones sobre producción de corto plazo o permanencia en el mercado. Es importante reconocer que en contraposición a esta teoría existe el supuesto de que bajo algunas circunstancias especiales los productores de un bien pueden fijar precios mediante una política de costos totales, incluyendo inversión hundida.
+CARGO POR CONFIABILIDAD 73
+
+
+Sesión Nr. 2‘V?
+(descontadas las rentas entre el costo marginal c y el precio de ejercicio K) de un nuevo recurso de generación que provea la misma cantidad de energía firme.
+El anterior análisis parte del supuesto de que la construcción del nuevo recurso de generación se da de manera instantánea y por lo tanto, en equilibrio, los generadores adoptarían una política de precios igual a sus costos totales eficientes26, situación que no corresponde al ciclo real de inversión en la industria de generación de energía eléctrica.
+Si reconocemos que la construcción del nuevo recurso de generación no se da instantáneamente, y que además está definida de manera centralizada (Documento CREG-122 de 2005), podemos afirmar que durante el período comprendido entre t=0 y el momento en el cual se da la expansión, los precios estarán determinados fundamentalmente por la estructura de mercado existente, y se encontrarán entre el precio de un mercado en competencia perfecta (en cuyo caso será igual a la valoración establecida en (2)29) y el precio de equilibrio de un mercado oligopólico. En ambos casos se puede afirmar que el precio de las obligaciones refleja el grado de competencia existente y no la remuneración de la inversión requerida para brindar el nivel de confiabilidad establecido.
+Dado el análisis anterior se podría concluir que el precio resultante de la subasta para los generadores existentes no refleja el costo de inversión necesario para brindar la confiabilidad requerida por el sistema y por el contrario dichos precios solo reflejan el grado de competencia entre los generadores establecidos. Esto genera un espacio solución comprendido entre los resultados de un mercado en competencia perfecta y un mercado que compite a la Cournot.
+6.4.2 Generadores Nuevos
+La propuesta de trabajo para la remuneración del Cargo por Confiabilidad establece un mecanismo de subasta anual para la incorporación de la nueva capacidad de generación requerida por el sistema. A continuación se analiza la valoración de una obligación de energía firme para un nuevo generador.
+Si retomamos los análisis realizados para la valoración de la obligación de un generador existente, podemos concluir que el precio de la obligación para un nuevo generador incorpora una componente adicional, directamente asociada con el costo de inversión, en la medida en que éste no puede ser considerado como un costo hundido y por lo tanto, como se dijo anteriormente, el nuevo generador puede adoptar una política de precios de costo total. En este orden de ideas el precio de la obligación para el nuevo generador estaría determinado por la siguiente expresión:
+28 Un generador existente podría incluir un costo de inversión igual al del entrante, la eficiencia se logra en la medida en que el nuevo recurso de generación sea provisto por un mercado competitivo. 29 En (2) se supone la existencia de un agente neutral al riesgo, si se considera algún grado de aversión al riesgo el valor de la opción debe ser menor.
+CARGO POR CONFIABILIDAD 74
+
+
+y(-) = l~(qc* Je-^Sr-cJc/rJ + g / í |e^r((ST-K)dr)dr)) (3)
+T = t c¿Sr<K T = t
+$ T>K
+Donde q0 corresponde a la probabilidad conjunta de que el precio se encuentre por encima del costo marginal c y el generador este disponible, y q¡ corresponde a la probabilidad de que el precio del mercado supere el precio de ejercicio y el generador se encuentre indisponible. El parámetro / corresponde a la inversión o fracción de la misma que debe ser recuperada durante el período de vigencia de la obligación30. Si bien dentro del análisis el período de vigencia de la obligación es inferior al período de repago de la inversión, parece razonable asumir que una vez finalice el período de vigencia de la obligación, el generador podrá vender nuevamente una obligación de energía firme al sistema. Si esta condición es altamente incierta se debería esperar que la inversión total fuera recuperada en el período de vigencia de la obligación.
+Considerando que el precio de bolsa definido por S(t) es una variable aleatoria, el valor de la prima de la obligación podría ser determinado haciendo uso de la teoría de inversión bajo incertidumbre (ver Dixit y Pindyck (1994))
+De (3) se puede concluir que el precio para una obligación de energía firme entregada por un nuevo generador tiene una relación directa con la inversión necesaria para disponer de la energía firme comprometida en dicha obligación.
+6.5 Recomendación de Subastas para Nuevos y Existentes
+Considerando los análisis anteriores y dado que la obligación de energía firme busca ser una de las fuentes de remuneración de la inversión necesaria para brindar la confiabilidad requerida por el sistema, no parece recomendable la realización de subastas independientes para generadores existentes y nuevos; por el contrario, se debería realizar una única subasta en la que participen ambos tipos de generadores.
+6.6 Problema de Valor Común
+Una vez establecidas las características de las obligaciones de energía firme, podemos concluir que el diseño de subasta que se adopte corresponde a una subasta de valor común. Como se dijo anteriormente esta es una característica intrínseca del producto y no del diseño mismo de la subasta, en la medida en que el valor de una obligación de energía firme (con la misma probabilidad de incumplimiento) es el mismo para todos los
+30 Se supone la existencia de un mercado eficiente para la expansión de tal manera que el benéfico es igual a cero.
+CARGO POR CONFIABILIDAD 75
+
+
+generadores31 pero desconocido para éstos, y por lo tanto su valoración se basa en señales recibidas del mercado y en la información privada32.
+Como resultado de un problema de valor común se presenta la condición conocida como “la maldición del ganador”. Este fenómeno puede explicarse de la siguiente manera: Dada una Información pública y una información privada, cada vendedor realiza una estimación del precio de la obligación de energía firme en función de la cual calculará su puja óptima. Esto supone que, a diferencia del modelo de valoraciones privadas, la puja no se basa en la valoración propia sino en la estimación de la “verdadera” valoración. Si los vendedores son simétricos33, los ganadores serán los n generadores que hayan realizado la estimación más baja, lo cual podría constituir una mala noticia para (n-1) de ellos ya que implica que ese oferente marginal ha estimado el valor de la obligación en una cantidad mayor. Esta situación inevitablemente los lleva a concluir que habrían podido obtener un mayor precio sin disminuir la cantidad vendida. Sin embargo, McAfee y McMillan (1987) afirman que el hecho de que los pujadores se vean sistemáticamente sorprendidos de manera negativa por el resultado obtenido en estas subastas violaría las nociones básicas de racionalidad.
+Pero aun, si consideramos que en un juego repetido los generadores podrían ajustar sus ofertas con el fin de reducir la posibilidad de enfrentar “la maldición del ganador”, el hecho de que esta situación los pueda conducir a ser menos agresivos en el proceso de puja es contrario a los objetivos de eficiencia de la subasta, sería razonable por lo tanto establecer un formato de subasta que reduzca este efecto entre los potenciales vendedores con el fin de suavizar su reacción defensiva consistente en presentar pujas mayores. Como se vera más adelante este efecto puede ser minimizado con la implementación de una subasta dinámica.
+Además de la eliminación de la “maldición del ganador” las subastas dinámicas brindan un mayo grado de información a los participantes, de tal manera que disminuyen el grado de incertidumbre mediante un mecanismo eficiente de descubrimiento de precio y por lo tanto incrementan el grado de competencia.
+6.7 Propuesta de Subasta
+Suponiendo que las obligaciones de energía firme son un modelo de valoración común, es indispensable que en el diseño de la subasta se propenda por un adecuado proceso de descubrimiento de precios. Esto se facilita con la implementación de una subasta dinámica34.
+31 Para los casos en los cuales el regulador establece la energía firme de cada generador todos los bloques deberían tener la misma probabilidad de incumplimiento. 32 Esto implica que cada generador trata de establecer el verdadero valor de la obligación de energía firme 33 La simetría hace referencia a que las valoraciones de todos los generadores provienen de la misma función de distribución de probabilidades y no a que sean iguales ex ante. 34 Una subasta dinámica es un proceso en el cual existen n rondas y los jugadores si bien no conocen las pujas enviadas por los restantes participantes en la ronda k (subasta con infomnación imperfecta) si
+CARGO POR CONFIABILIDAD 76
+
+
+Stísiún 20/
+Dos tipos de subastas dinámicas han sido analizadas exhaustivamente: la subasta descendente35 y la subasta simultánea de reloj descendente. En el primer caso los vendedores realizan ofertas sucesivas de precio y cantidad y el proceso de detiene cuando no se realizan mejoras en las pujas durante un tiempo determinado. En la subasta de reloj descendente el subastador inicia con un precio relativamente alto y cada vendedor realiza ofertas de cantidad al precio vigente, el proceso continua hasta que el exceso de oferta es igual cero. A continuación se analizan en detalle las características de equilibrio de ambas subastas.
+6.7.1 Subasta descendente
+En este mecanismo de formación dinámica de precios, los participantes envían sus ofertas de precio y cantidad. El mecanismo se detiene cuando ningún oferente desee reducir el precio, momento en el cual finaliza la subasta y los oferentes con los precios más bajos entregan el bien y reciben el pago a dichos precios.
+El éxito de este tipo de subasta, por su característica dinámica, radica en que es un mecanismo eficiente de descubrimiento de precios. En la medida en que durante el proceso de pujas los vendedores van teniendo mayor información sobre el posible precio final, sus pujas pueden ser ajustadas a medida que el proceso avanza.
+Las subastas descendentes de compra son escasas pese a la considerable experiencia en subastas ascendentes, que son su caso simétrico para la venta de un bien. No obstante, no existen razones por las cuales las subastas descendentes no funcionen de manera adecuada, ya que en la medida en que el mercado revela más información se espera una participación más agresiva de los oferentes, debido fundamentalmente a la reducción en el nivel de incertidumbre36 (Cramton (1997)). Sin embargo, dadas las características mismas de la subasta descendente, es susceptible de manipulación por parte de los vendedores y de manera grave cuando el grado de competencia en el mercado no es aceptable. Entre las prácticas que pueden afectar esta subasta se tiene la reducción de la oferta para mantener precios altos, o para el caso de las subastas simultáneas la existencia de señales entre los oferentes con el objetivo de distribuirse el mercado37. En este sentido, existen elementos críticos del diseño que deben ser analizados con cuidado como son: Precio de apertura, precios de reserva, ofertas en bloque, regla de actividad y el decremento mínimo.
+6.7.2 Subasta de reloj descendente
+conocen el historial de pujas realizadas hasta la ronda k-1. Por el contrario en una subasta estática solo cuenta con una sola ronda. 35 Generalización natural de la subasta inglesa para el caso de adquisición de varios bienes 36 En este punto la incertidumbre esta asociada a la racionalidad limitada, más que a la definición misma que Simon da de incertidumbre. 37 Klemeperer (2004) resalta esta última situación como la causante del fracaso por parte del gobierno italiano de las subasta del espectro de tercera generación, en la cual los dos postores mediante señales en sus ofertas llegaron a un acuerdo de repartición del mercado
+CARGO POR CONFIABILIDAD 77
+
+
+Sesión No, 2‘)
+En la subasta de reloj descendente el subastador inicia con un precio alto para el cual cada uno de los participantes envía una oferta de cantidad. Una vez se reciben las cantidades al precio vigente, el subastador despeja el mercado y determina su exceso de oferta. En caso de que el exceso sea positivo, el subastador disminuye el precio y lo anuncia nuevamente, este proceso se repite hasta que se vacía el mercado y el precio resultante es el que reciben los oferentes.
+Este mecanismo se ajusta al principio de Walras, según el cual si un mercado muestra exceso de demanda, su precio (relativo) debe subir, y por el contrario si muestra exceso de oferta, su precio (relativo) debe bajar.
+A continuación se realiza una descripción del proceso de ajuste Walrasiano y de la condición de equilibrio.
+Se supone una economía con mercados contingentes38. Sea p e R"+ el precio del bien, si definimos la demanda agregada de la economía F(p) en función únicamente de los precios como:
+F(p) = Z f '(P) <5>
+M
+Y la función de exceso de oferta, que depende únicamente de los precios, como la diferencia entre la demanda total y la oferta total, tenemos que el exceso de oferta esta dado por:
+       1 1 Z(p) = '^lS ' ( p ) - ^ j f l(p) , donde S1 corresponde a la oferta agregada para el mercado /',
+       /= i /= i podemos afirmar que p e es un equilibrio Walrasiano si y solo si Z(p) - 0 . Para los casos en los que esta condición no se cumple el subastador reacciona enviando un nuevo vector de precios definido por:
+— = -T(Z{p(t))), donde T(.) es una función continua que preserva el signo. 8t
+Si bien se puede demostrar que el anterior mecanismo conduce a un equilibrio eficiente en el sentido de Pareto, el modelo supone la no-existencia de poder de mercado ni de prácticas colusivas, condiciones que posiblemente no se dan en la realidad. Esta situación obliga a la Inclusión de elementos adicionales en el diseño de la subasta como la consideración de un precio de reserva de compra (precio de apertura) que desincentiva las prácticas colusivas, en la medida en que limita las ganancias resultantes de un acuerdo39 y fija un precio máximo ante condiciones de poder de mercado unilateral.
+38 O lo que es lo mismo con información perfecta 30 Esto es fundamental si se considera que un acuerdo colusivo es sostenible solo en la medida en que las ganancias sean muy superiores a los beneficios resultantes de la competencia.
+CARGO POR CONFIABILIDAD 78
+
+
+Sesión iVo. 2,9/
+Si bien hasta este punto se han planteado dos de las alternativas existentes podría realizarse un análisis de la subasta Anglo-Dutch propuesta por Blnmore y Klemperer (2002) diseñada para la adquisición de múltiples bienes complementarlos o sustitutos40.
+Para el caso de bienes divisibles como las obligaciones de energía firme propuestas en el Documento CREG-122 de 2005, parece ser más recomendable la implementación de un mecanismo de subasta de reloj descendente, en la medida en que es un procedimiento relativamente simple41 que permite alcanzar los objetivos planteados en la subasta de obligaciones de energía firme y en donde en condiciones de equilibrio, el precio resultante tiene a reflejar en obtenido en un mercado en competencia. Además es un modelo probado para la adquisición o venta de bienes similares42.
+6.7.2.1 Características de la subasta de reloj descendente
+Como se dijo anteriormente la subasta se inicia con el anuncio por parte del subastador de un precio, ante el cual cada uno de los vendedores debe enviar una oferta de cantidad. Una vez recibidas las cantidades ofertadas a cada nivel de precios el subastador determina el exceso de oferta que resulta de restar de la cantidad total demandada la oferta agregada.
+Dado que los análisis teóricos se fundamentan en un proceso de ofertas continuo, situación que en la practica puede ser imposible, existe la posibilidad de implementar un proceso de ofertas entre cada una de las rondas que permitiría incrementar la eficiencia del proceso de subasta en un período de tiempo aceptable. En este proceso los oferentes son habilitados para enviar al mercado una función de oferta entre el precio inicial y el precio final de cada ronda. Para garantizar condiciones de unicidad y existencia del equilibrio esta función de oferta debería ser continua, estrictamente creciente y doblemente diferenciable, situación nuevamente imposible de implementar en la práctica, por lo tanto se recomienda que la función de oferta entre cada una de las rondas sea una función escalonada estrictamente creciente.
+40 Los modelos son igualmente aplicables para el caso en los cuales los bienes no están relacionados, esto es si las obligaciones de energía firme (pico, base, media) no son bienes sustitutos o complementarios, el formato de subasta sigue siendo el mismo solo que estas no necesariamente se deben adelantar de manera simultánea. 41 Sin olvidar que incluso las subastas más simples pueden llevar a comportamientos altamente complejos Wilson (1979) 42 Electricidad de Francia vende anualmente desde 2001 opciones de capacidad (el comprador adquiere el derecho de comprar la energía I aprecio de ejercicio) a un precio de ejercicio establecido y a una prima resultante de una subasta simultánea de reloj ascendente. Información disponible en (www.edf.fr)
+CARGO POR CONFIABILIDAD 79
+
+
+Sásión No. 2')T
+Figura 33. Subasta de reloj descendente
+Precio US$/MWh
+Precio de apertura
+26.8 = PO
+Oferta agregada
+Exceso de oferta
+¿Ronda 1
+P2 Ronda 2 P3 Ronda 3 f P4 7 P5 13.4 13.00 = = P6
+P6’
+Ronda 4
+Ronda 5
+! Precio de despeje ¡
+                           Demanda Cantidad (kWh) En cada ronda del proceso de subasta el subastador informa el precio Inicial y el precio final. En este intervalo de precios, se solicita a cada uno de los oferentes un conjunto de pares cantidad-precio estrictamente crecientes en el precio. Una vez se reciben las ofertas, el subastador encuentra la oferta agregada del sistema y procede a determinar el exceso de oferta y la actualización del precio. El proceso continua hasta que el exceso de oferta es igual a cero (0).
+Una vez el exceso de oferta es igual a cero (0) el subastados determina el precio de despeje del mercado y cada uno de los oferentes asignados es remunerado a este precio (Figura 33).
+6.7.3 Mecanismos de diseño de la subasta necesarios para la mitigación del poder de
+mercado
+Como se dijo anteriormente el diseño de la subasta debe Incorporar mecanismos que permitan mitigar las ineficiencias resultantes de condiciones de competencia insuficiente, con este fin se recomienda la implementación de los siguientes mecanismos de conformidad con lo sugerido por el Dr. Cramton:
+a) Si al inicio de la primera ronda existe oferta insuficiente de Energía Firme se recomienda que las plantas y/o unidades de generación nuevas sean remuneradas al Precio de Apertura de la Subasta y las Existentes y las Especiales en proceso de construcción al valor resultante de incrementar en un 10% el CNE.
+b) Si al inicio de la primera ronda i) la capacidad existente, la capacidad de las especiales en proceso de construcción, más los retiros temporales, es menor que la demanda y el exceso de oferta es menor al 4%; o ii) las plantas y/o unidades de generación nuevas son
+CARGO POR CONFIABILIDAD 80
+
+
+Sesión No. i
+pivotales se recomienda que el Administrador de la Subasta implemente el procedimiento de Subasta en donde el precio de cierre solo aplique para los nuevos generadores que sean asignados. Para el caso de los generadores existentes y especiales en proceso de construcción, se les aplicará el menor valor resultante entre incrementar en un 10% el CNE y el precio de cierre de la Subasta.
+7. TRANSICIÓN
+Con el ánimo de garantizar una implementación exitosa de la propuesta para la remuneración del Cargo por Confiabilidad es conveniente la consideración de un período de transición que permita incorporar algunos de los elementos fundamentales de la propuesta de trabajo como un primer paso a la implementación total de la misma.
+7.1 Características del Período de Transición
+El período de transición propuesto contempla los siguientes puntos:
+7.1.1 Incorporación del producto
+Durante el periodo de transición, los generadores remunerados mediante Cargo por Confiabilidad adquieren la obligación con el sistema, asociada al producto definido para tal fin. Esto significa que los generadores remunerados están obligados a entregar la energía firme al precio de ejercicio que determine el regulador, siempre que este sea inferior al precio de bolsa. Como contraprestación a esta obligación reciben la prima establecida por el regulador para el período de transición.
+7.1.2 Remuneración por concepto de Cargo por Confiabilidad
+El período mínimo necesario para la entrada de nuevos proyectos de generación se ha estimado en tres años. En consecuencia, para los años 2007, 2008 y 2009 no se cuenta con la participación de estos nuevos generadores que, como se explicó en el numeral 6.5 de este documento, son requeridos para la formación adecuada de precios en la subasta. Esto conlleva a que por los próximos tres años sea necesario establecer de manera administrada el valor del Carqg> por Confiabilidad.
+Para la cuantificación de esta remuneración se consideró lo siguiente:
+• El valor utilizado actualmente es de 5.25 US$/KW-mes. En concordancia con lo planteado en el Documento CREG-042 de 2006, se propone considerar una planta ciclo simple operando con combustible alterno. Consistentemente se debe incluir en la inversión total de la planta la correspondiente a los costos para la adecuación de la unidad de generación para la operación con dicho combustible sustituto, incluyendo el capital de trabajo necesario para disponer de almacenamiento de combustible.
+CARGO POR CONFIABILIDAD 81
+
+
+Sesión No. 297
+• Para efectos de determinar la inversión requerida para la operación con sustituto se hace uso de la información suministrada por los generadores como respuesta a la Circulares CREG 14 y 15 de 2006.
+De esta forma, la determinación de la remuneración, que parte del 5.25 US$/KW-mes vigente consideró los siguientes parámetros:
+• Período: 20 años.
+• Tasa de Descuento: 12%.
+Los costos de inversión incluyen:
+• Inversiones en la adecuación de la planta para el consumo de combustible alterno.
+• Inversiones en facilidades para el manejo del combustible alterno (tanques de almacenamiento, lotes, tuberías, bombas, accesorios).
+• Capital de trabajo del inventario inicial en el tanque de almacenamiento.
+Los valores obtenidos de costo de inversión para las diferentes unidades reportados por los generadores como respuesta a las Circulares CREG 14 y 15 de 2006 se presentan en las Figuras 34 y 35.
+Figura 34. Costos de Inversión (US$/kW-mes), utilizando la información reportada por
+los agentes y los parámetros establecidos para la remuneración.
+Unidad
+CAP EX Conversión US/kW mes U1 0,09 U2 0,14 U3 0,58 U4 0,47 U5 0,07 U6 0,12 U7 0,20 U9 0,57 U10 0,90 U11 0,89 U12 0,47 U13 0,25
+CARGO POR CONFIABILIDAD 82
+
+
+•S i ? / (' • / i ’;.:, i ' y i'
+Figura 35. Costos de Inversión por unidad -CAPEX
+1,0 i
+0,9
+0,8
+-
+  0,7 - |
+0,6
+CAPEX * Total
+-
+1 W 3
+°'S 0,4 - 0,3
+0,2
+-
+0,1
+-
+£ L Ü .
+n H
+Como resultado de considerar el costo necesario para la conversión de las unidades de generación a combustible sustituto, el valor de la prima del Cargo por Confiabilidad es igual a 5.25 US$/kW-mes + 0.94 US$/kW-mes, obteniendo un valor igual a 13.04 US$/MWh (equivalente a 6.19 US$/kW-imes).
+7.1.3 Definición del mecanismo de asignación del Cargo por Confiabilidad
+Dado que durante el periodo de transición no se tiene previsto la realización de subastas que permitan establecer la asignación de las obligaciones de energía firme entre los generadores existentes, dicha asignación se realizará mediante el siguiente procedimiento.
+• Para cada generador se determina su energía firme, de conformidad con el procedimiento descrito en el capítulo 5 de este documento.
+• La demanda total a ser remunerada será asignada a cada uno de los generadores a prorrata de su energía firme.
+• Para los casos en los cuales la demanda total sea mayor a la energía firme certificada, la demanda a remunerar será igual a la energía firme certificada.
+• La asignación se realiza para el siguiente año el cual esta comprendido entre los meses de diciembre del año t en el cual se realiza la asignación y el mes e noviembre del año t+1.
+7.1.4 Período de tiempo durante el cual se dará la transición
+El período de transición será de tres años, el cual inicia en noviembre de 2006 y finaliza en diciembre de 2009, momento en el cual el valor de la prima y la asignación de cantidades serán resultado del mecanismo de subasta propuesto.
+Contratos de combustible durante transición pueden escoger construir facilidades para...
+CARGO POR CONFIABILIDAD 83
+
+
+S 'Í V Í r l 2 ^ /
+Plantas especiales registrar entrada antes de marzo 2007 para ser remuneradas hasta por diez años.
+8. LIQUIDACIÓN
+El procedimiento de liquidación de la obligaciones de energía firme implementadas para la remuneración del Cargo por Confiabilidad será realizado por el Administrador del Sistema de Intercambios Comerciales -ASIC- haciendo uso del siguiente procedimiento general.
+8.1 Verificación del cumplimiento de la entrega de energía firme
+Al finalizar el mes de operación el ASIC deberá determinar si la energía firme subastada es menor que la demanda real de energía, sin considerar las exportaciones realizadas en los términos de las Transacciones Internacionales de Electricidad de Corto Plazo -TIE-. En cuyo caso procederá a realizar el ajuste al porcentaje de participación de cada uno de los generadores con el fin de garantizar que la energía mensual requerida a cada generador no sea mayor que la energía para el mismo mes, a la cual se comprometió en la subasta.
+Una vez realizado los ajustes correspondientes el ASIC efectuará el procedimiento de verificación de cumplimiento para cada una de las horas del mes de operación, aplicando el porcentaje de participación (ajustado cuando sea el caso) a la demanda real del sistema sin considerar exportaciones en el marco de las TIE, este procedimiento define la obligación de energía firme en el despacho ideal para cada generador, durante cada una de las horas del mes de operación.
+Se considera que un generador da cumplimiento a la obligación horaria de energía firme, cuando su generación ideal en la respectiva hora es mayor o igual a la obligación de energía firme para dicha hora (Figura 36).
+Aquellos generadores para los que la generación en el despacho ideal en una hora es inferior a su obligación de opciones de energía firme para dicha hora, deberán pagar al mercado la diferencia entre el precio de bolsa de la hora respectiva y el precio de ejercicio multiplicados por la cantidad faltante para dar cumplimiento a su responsabilidad de energía firme en la hora respectiva.
+CARGO POR CONFIABILIDAD 84
+
+
+Sesión N
+L
+\ 2.9/
+Figura 36. Verificación del Cumplimiento de la Entrega de Energía Firme
+El generador paga esta energía al diferencial entre
+Obligación
+el precio de bolsa y el precio
+de energía firme
+Despacho
+de ejercicio (PB-PE)
+Ideal
+8.2 Remuneración de la energía asociada a la responsabilidad en Obligaciones de
+energía firme.
+Para determinar la remuneración por la energía asociada a las obligaciones de energía firme, el ASIC deberá descontar de la obligación para cada una de las horas la cantidad de energía en la hora respectiva despachada en contratos de largo plazo suscritos por el generador y que esta destinada a atender usuarios finales. Cuando la diferencia entre la responsabilidad en obligaciones de energía firme y la cantidad de energía despachada en contratos sea positiva, el generador vende estos excedentes en Bolsa a precio de ejercicio, esto sin perjuicio de los procedimientos de reconciliación positiva y negativa establecidos en la reglamentación vigente (Figura 37).
+Figura 37. Remuneración de la Energía
+Despacho
+Obligación de energía firme
+El generador vende esta energía al precio de bolsa
+El generador vende esta energía a Precio de ejercicio
+Contratos despachados
+                       Venta a precio de para atender de manda
+contrato
+8.3 Recaudo de las primas de las obligaciones de energía firme
+Para efectos del recaudo de la prima asociada con las opciones de energía firme, estas deberán ser consideradas como un costo más dentro de la estructura de costos variables del generador, para efectos de determinar el valor total a recaudar el ASIC utilizará la
+CARGO POR CONFIABILIDAD 85
+
+
+S osion No. 297
+TRM del ultimo día hábil del mes anterior al de operación. Para efectos de facturación se usará la TRM del último día hábil del mes.
+8.4 Pago de la prima a los generadores
+Como se dijo anteriormente cada planta y/o unidad de generación recaudará mediante sus ventas mensuales de energía una cantidad igual a su generación multiplicada por el valor de la prima asociada a las obligaciones de energía firme expresada en $/kWh. Para efectos de determinar el balance de cada generar el valor recaudado se deberá comparar con el valor resultante de multiplicar la obligación mensual de energía firme resultante de la subasta por el valor de la prima expresada en $/kWh, en este caso la diferencia será un saldo a favor o en contra del generador según sea el caso.
+9. ANILLOS DE SEGURIDAD
+En el Documento CREG-122 de 2005, la Comisión planteó la alternativa considerada más conveniente para remunerar el Cargo por Capacidad. Como parte de la propuesta, incluyó un conjunto de mecanismos que denominó “Anillos de Seguridad” encaminados a brindar herramientas adicionales para facilitar a los generadores el cumplimiento de los compromisos de entrega de energía firme. Uno de estos anillos es el Mercado Secundario. En este documento se precisa el funcionamiento del mismo.
+9.1 Mercado Secundario
+9.1.1 Objetivo del Mercado Secundario
+El mercado secundario tiene por objeto servir como una herramienta para facilitar el cumplimiento de las Obligaciones de Energía Firme asignadas a los generadores en la subasta a través de negociaciones entre los agentes.
+9.1.2 Participantes y Objeto de la Negociación
+En el mercado secundario participan exclusivamente los generadores: como oferentes aquellos que no han comprometido toda su energía firme, y como demandantes aquellos agentes que tienen asignada una Obligación de Energía Firme procedentes de la subasta y que temporalmente no pueden cumplir con ellos.
+Dos tipos de respaldo podrían pactarse en este mercado:
+• Unilateral: en donde uno de los generadores cuenta con energía no comprometida en la subasta y puede respaldar la Obligación de Energía Firme de otro, ya sea porque el segundo tiene previsto un mantenimiento de sus plantas de generación o porque por condiciones solamente previsibles en el corto plazo no puede dar cumplimiento a su Obligación.
+CARGO POR CONFIABILIDAD 86
+
+
+Sesión No. 297
+• Bilateral: cuando dos agentes con perfiles de generación distintos y complementarios de manera recíproca respaldan el cumplimiento de sus Obligaciones de Energía Firme.
+9.1.3 Alternativas de Diseño
+Distintos mecanismos de negociación pueden emplearse en este mercado secundario. La Comisión ha considerado los siguientes (Figura 38):
+- Un mercado bilateral privado - Un mercado bilateral visible - Un mercado centralizado
+Lo que diferencia al primero del segundo básicamente es la obligación de reportar la energía disponible por parte de los oferentes y los precios a los que han negociado los respaldos. En cuanto al último mecanismo, éste corresponde a un mercado que convoca a oferentes y demandantes de manera centralizada, y que funciona en momentos previamente definidos y comunes a todos los agentes.
+Figura 38. Alternativas de Diseño del Mercado Secundario
+Publicación de precios y cantidades. Garantías definidas centralmente.
+Publicación de cantidades Publicación de precios y Disponibles cantidades Disponibles Garantías Bilaterales Garantías Bilaterales
+1r i r yr
+El esquema de garantías para los mecanismos bilaterales es más simple que en el caso centralizado, toda vez que éstas serían acordadas por las partes que intervienen en la negociación mientras que en un mercado centralizado se requeriría que fueran estandarizadas y administradas.
+Considerando que en este mercado el objeto de negociación es la prima de la opción -o su equivalente en caso de adoptar otro tipo de compromiso-, y que el período de duración de este respaldo será el requerido en cada caso por cada generador según sus previsiones de incumplimiento de la Obligación de Energía Firme adquirida en la subasta de energía firme, se propone que este mercado secundario funcione de manera bilateral y visible. Este diseño facilita la equidad en el acceso a la información entre todos los
+CARGO POR CONFIABILIDAD 87
+
+
+Sesión No. 29 i
+agentes, sin incurrir en la complejidad asociada a la organización de un mercado administrado o de contratos estandarizados.
+9.1.4 Funcionamiento
+Los generadores con energía firme disponible, que voluntariamente participen en este mercado, deberán informar permanentemente la energía que quieren ofertar, para lo cual el administrador del mercado dispondrá de un sitio en Internet de acceso público que contendrá la información de cantidades disponibles por parte de los potenciales vendedores.
+Para el cálculo de la energía firme que podrá ofertarse en el mercado secundario se utilizarán los mismos procedimientos de definición de esta energía que se empleen para participar en la subasta, así como la información sobre la asignación que resulte de ella entre las distintas plantas o unidades de generación.
+Los generadores que requieran este respaldo pactarán con el o los oferentes el precio al cual se ejecuta la transacción. Se propone que el mercado opere con una anticipación mínima de tres días a la fecha en la cual el respaldo de la energía adquirida en el mercado secundario es requerido según la obligación proveniente de la subasta.
+Las demás condiciones de entrega de la energía firme deberán coincidir con el compromiso adquirido en la subasta que será respaldada con esta negociación en el secundario.
+Los contratos resultantes de las negociaciones en este mercado, tanto de respaldo unilateral como bilateral de conformidad con lo descrito en el numeral 9.1.2 de este documento, deberán registrarse ante el Administrador del Sistema de Intercambios Comerciales, identificando claramente la energía en firme comprometida, el tiempo de vigencia del contrato y el precio al que fue pactado el respaldo. El ASIC definirá el procedimiento correspondiente a este registro.
+Adicionalmente, se hará público el precio al que fueron efectuadas estas transacciones aunque manteniendo el anonimato de los agentes involucrados.
+Es importante notar que las salidas de operación que se deben a mantenimiento de los activos de generación y que produzcan incumplimiento de la Obligación de Energía Firme, deberán ser respaldadas con energía firme contratada en el mercado secundario y para ello se solicitará el registro de estos contratos de respaldo.
+De presentarse el caso en que un generador negocie en el mercado secundario con varios agentes, a diferentes precios, el respaldo de un mismo compromiso procedente de la subasta, el generador adquiriente deberá reportar al ASIC el orden en el cual desea le sea verificado su cumplimiento frente a los compromisos de la subasta mediante su respaldo en el secundario, y por lo tanto, el orden al que posteriormente el comprador liquidará de manera bilateral las obligaciones adquiridas en el mercado secundario. De igual forma, un generador que respalde en el mercado secundario a varios generadores, también reportará al ASIC el orden en el que deben cubrirse estos compromisos.
+CARGO POR CONFIABILIDAD 88
+
+
+9.1.5 Asignación de Responsabilidades
+Es importante resaltar que la observancia de la Obligación de Energía Firme es responsabilidad exclusiva del generador que la adquirió en la Subasta. Si para garantizar este cumplimiento acudió al mercado secundario, el carácter bilateral de las obligaciones pactadas allí hace que cualquier incumplimiento en la entrega de energía firme negociada en el mercado secundario, de como resultado la penalización del generador comprometido en la subasta.
+Se entiende que el comprador se compromete a pagar al vendedor la prima acordada por las partes y esta no modifica la prima con la cual el comprador pactó con el sistema mediante el mecanismo de subasta la entrega de energía firme. La responsabilidad de entrega de la energía firme del comprador no es transferida al vendedor.
+9.2 Subastas de Reconfiguración
+Las Subastas de Reconfiguración fueron planteadas por el Dr. Peter Cramton como su aproximación al mercado secundario. Tras evaluar esta propuesta y compararla con el mercado bilateral contemplado por la Comisión en el documento CREG-122 de 2005 y en el documento CREG-032 de 2006, se encontró conveniente emplear los dos esquemas.
+En este numeral se expone la coordinación entre el mercado secundario propuesto y las Subastas de Reconfiguración, todo con el objetivo de contar con un mecanismo de mercado que permita, de manera eficiente, garantizar el suministro de la energía firme requerida por la demanda en condiciones críticas de abastecimiento.
+9.2.1 Fundamento y Cronología
+Dado que la subasta donde se asignan los compromisos de entrega de energía firme tiene lugar tres años antes de la fecha en la cual puede iniciarse la exigibilidad de esta energía, tanto los generadores como los inversionistas y el administrador del sistema deben tomar sus decisiones con base información proyectada.
+Ante el riesgo inevitable de desviación de las proyecciones, se hace necesario contar con un mecanismo que permita ajustar los compromisos adquiridos y la demanda abastecida a las correcciones que puedan efectuarse en las estimaciones en presencia de mejor información.
+Por lo anterior, se propone que estos ajustes tengan lugar en tres ocasiones: veintiocho (28) meses y dieciséis (16) meses antes de la fecha en que empiece a ser exigible la entrega de la energía firme (Figura 39).
+CARGO POR CONFIABILIDAD 89
+
+
+Sesión No. 2^^
+Figura 39. Cronograma de las Subastas de Reconfiguración
+Subasta Primaria
+                                                                Exigibilidad de para exigencia de EF
+                                                                 entrega de la t a partir del año t >
+t-28 t-16
+Energía Firme
+2a Subasta de Reconfiguración
+9.2.2 Producto Transado en las Subastas de Reconfiguración
+Se propone que el producto sea una Obligación de Energía Firme con período de vigencia de un año, incluso para los generadores que al momento de organizar estas subastas sean considerados Generadores Nuevos y quieran ofrecer su energía fírme mediante este mecanismo.
+9.2.3 Diseño de las Subastas de Reconfiguración
+Se propone que las Subastas de Reconfiguración sean de sobre cerrado en donde el precio lo determine el equilibrio entre la oferta y la demanda de energía firme que se transa en la misma subasta.
+Dado que XM puede acudir a este mecanismo para incrementar las obligaciones de energía firme exigióles a partir del ano t (cuando la proyección de demanda empleada en la subasta de energía firme subestimó la demanda de energía según las proyecciones más recientes), o para disminuir los compromisos adquiridos en la Subasta de Energía Firme (cuando la proyección de demanda empleada en la subasta de energía firme sobreestimó la demanda de energía según las proyecciones más recientes), su participación en la subasta puede ser como oferente o como demandante de obligaciones de energía firme.
+En el caso de compra de obligaciones adicionales de energía firme los oferentes son los generadores que cuenten con energía firme disponible, es decir no comprometida en la Subasta ni en el Mercado Secundarlo ni en Subastas de Reconfiguración Previas. Si la demanda está ofreciendo estas obligaciones, los demandantes de los mismos serán los generadores que habiéndose comprometido a entregar energía firme durante el año t quieran reducir la energía firme comprometida o cerrar sus compromisos.
+Es conveniente definir un umbral a partir del cual se convoque a una subasta de reconfiguración. Para tal efecto se propone que la Comisión evalúe periódicamente la necesidad de acudir a este mecanismo y, de encontrar necesaria su implementación, ordenar a XM la organización de la subasta.
+Nótese que en el mercado secundario propuesto por la Comisión solamente participan los generadores, mientras que en estas Subastas de Reconfiguración el sistema adquiere energía para cubrir los crecimientos no esperados en la demanda de la misma.
+CARGO POR CONFIABILIDAD 90
+
+
+Sesian No. 29"/
+9.2.4 Funcionamiento de la Subasta de Reconfiguración
+• Subastas de Reconfiguración para la Compra de Obligaciones de Energía Firme
+Esta subasta se lleva a cabo cuando la Comisión evalúa que la demanda asignada en una subasta es significativamente inferior a la que se prevé según las últimas proyecciones realizadas por la UPME.
+En este caso, los generadores oferentes deberán enviar a XM en la fecha acordada y en sobre cerrado, la cantidad de energía firme ofrecida y el precio mínimo al que están dispuestos a venderla, expresado en dólares por kilovatio hora.
+XM empleará la misma curva de demanda utilizada en la Subasta para la asignación de Obligaciones de Energía Firme, salvo que la demanda objetivo de esta curva será equivalente a la cantidad adicional requerida.
+Con base en la anterior información, una vez cumplido el plazo para el envío de los sobres, XM procederá a construir la curva de oferta agregada y a encontrar el precio al cual la demanda es abastecida, si ello es posible, con base en las propuestas enviadas por los participantes en la subasta. Este precio será el único valor al que sean remuneradas estas transacciones.
+• Subastas de Reconfiguración para la Venta de Obligaciones de Energía Firme
+Esta subasta se lleva a cabo cuando la Comisión evalúa que la energía firme contratada en una subasta es significativamente superior a la demanda prevista para ese año según las últimas proyecciones realizadas por la UPME. Este ajuste pretende evitar que la demanda incurra en sobrecostos provenientes del pago de una energía firme que probablemente no va a requerirse en el mediano plazo.
+En las subastas de reconfiguración para la venta de obligaciones de energía firme los generadores demandantes deberán enviar a XM en la fecha acordada y en sobre cerrado, la cantidad de energía firme que desean comprar y el precio máximo que están dispuestos a pagar por ella.
+XM por su parte empleará la curva de oferta que la Comisión previamente haya definido para esa subasta en particular.
+Al igual que en las subastas de reconfiguración de compra, XM procederá a construir la curva de demanda agregada y el precio al que se intercepta ésta con la curva de oferta. Este precio será el único valor al que sean remuneradas estas transacciones.
+9.2.5 Subastas de Reconfiguración y Mercado Secundario
+El Mercado Secundario presentado en el numeral 9.1 se diferencia de las Subastas de Reconfiguración en los siguientes aspectos:
+CARGO POR CONFIABILIDAD 91
+
+
+Sos if)
+11
+No 20/
+a. El objetivo del mercado secundario es facilitar el cumplimiento de las
+obligaciones de energía firme. Las subastas de reconfiguración además pretenden garantizar que la demanda de energía firme esté cubierta mediante estos compromisos. b. Los participantes en el primero únicamente son los generadores mientras
+en las segundas la demanda participa de manera activa a través de XM. c. El mercado secundario funciona permanentemente. Las subastas de
+reconfiguración se efectúan en fechas predeterminadas.
+9.3 Demanda Desconectable
+Mediante este mecanismo un generador que anticipe que su energía no es suficiente para cumplir con sus Obligaciones de Energía Firme podrá negociar con usuarios no regulados la reducción voluntaria de la demanda de energía.
+A la fecha de elaboración de este documento la Comisión se encuentra ejecutando los estudios necesarios para diseñar el mecanismo de participación de la demanda. En resolución aparte será sometido a consulta de agentes, usuarios y terceros interesados.
+9.4 Generación de Última Instancia
+Mediante este mecanismo un generador que anticipe que su energía no es suficiente para cumplir con sus Obligaciones de Energía Firme negociará el suministro de la misma con el propietario o el representante comercial de un Activo de Generación de Última Instancia, entendido como una planta o unidad de generación que no participa en las Subastas de Energía Firme ni en el mercado de energía mayorista porque sus costos de operación no lo hacen competitivo en tales mercados.
+10. GARANTÍAS
+En el Documento CREG-122 de 2005 se propuso que los generadores nuevos que resultan asignados en la subasta deben constituir una garantía de cumplimiento durante el período de instalación de la planta o unidad de generación que respalda la energía firme asignada. También se había propuesto que los generadores tanto nuevos como existentes, que se encuentren en operación comercial, debían constituir las garantías necesarias para su operación en el mercado secundario.
+No obstante la garantía para respaldar la operación en el mercado secundario hará parte de las negociaciones bilaterales que se ejecuten allí y por lo tanto no será objeto de regulación detallada.
+En consecuencia se proponen las siguientes garantías:
+• Garantía por la energía firme incremental referente a una declaración de energía firme con una probabilidad asociada entre el 98% y el 95% PSS.
+CARGO POR CONFIABILIDAD 92
+
+
+• Garantía de Ejecución de Nuevos Proyectos
+• Garantía de Ejecución de Proyectos en Construcción
+Todas ellas deberán acoger los siguientes principios:
+• Cubrir los conceptos que surjan dentro de este mercado a cargo del generador o de otros participantes.
+• El administrador designado debe tener la preferencia para obtener de manera inmediata el pago de la obligación garantizada.
+• Deben ser otorgadas de manera irrevocable a favor del administrador
+• Deben ser líquidas y fácilmente realizables.
+Adicionalmente deben especificar:
+• Los eventos a garantizar y los riesgos cubiertos
+• Los montos de las coberturas o procedimientos para su cálculo en el momento de ejecutar la garantía
+• Los mecanismos de ajuste de las garantías, si se requieren.
+Teniendo en cuenta que a la fecha de elaboración de este documento XM se encuentra adelantando un estudio cuyo objetivo es definir el esquema de garantías bajo los principios planteados en este numeral, la propuesta resultante será sometida a consideración de la CREG por parte de XM y luego incorporada a la regulación en resolución aparte.
+11. PROPUESTA RESOLUTIVA
+Con base en las consideraciones hasta aquí expuestas, se somete a consideración de usuarios, agentes y terceros interesados el proyecto de resolución anexo a este documento.
+12. REFERENCIAS BIBLIOGRÁFICAS
+Ausubel M and Cramton P, (2006), “Dynamic Auctions in Procurement” Handbook of Procurement, Cambridge, England: Cambridge University Press
+Cox, J C and S A Ross, (1976), "The Valuation of Options for Alternative Stochastic Processes", Journal of Financial Economics, Vol. 3, pp. 145 -166.
+Cramton, Peter (2006), “Propuesta de diseño de la subasta de obligaciones de energía firme para el mercado colombiano"
+Cramton, Peter (1997), “The FCC Spectrum Auctions: An Early Assessment,” Journal of Economics and Management Strategy, 6:3, 431-495.
+CARGO POR CONFIABILIDAD 93
+
+
+Sesión No. 20 /
+Departamento Nacional de Planeación - DNP. (2004) “Asesoría para el Estudio del Mercado Regional de los Derivados del Petróleo”. PNUD-COL/96/013 (03/045).
+Dixit, A. y PlndycK, R, (1994), Investment Under Uncertainty. Princeton: Princeton University Press.
+Harrison, J M and S Pliska, (1981), “Martingales and Stochastic Integrals in the Theory of Continuous Trading”, Stochastic Processes and Their Applications, Vol. 11, pp. 215-260.
+International Energy Agency - IEA. (2004). “Security of Gas Supply in Open Markets”.
+International Energy Agency - IEA. (2002). “Flexibility in Natural Gas Supply and Demand”.
+Klemperer, Paul (2004), Auctions: Theory and Practice, Princeton University Press.
+McAfee, P., y McMillan, J. (1987), "Auctions and Bidding", Journal of Economic Literature, XXV(2), 699-738.
+Mercados Energéticos con Econometría y Consultoría Colombiana. (1998). “Coordinación de la Operación de los Sectores de Gas y Electricidad en Colombia. Informe Tarea C: Desarrollo de Estrategias de Contratos”. Proyecto PNUD/COL/94/016 - BIRF 3827-CO.
+National Energy Board. (1997). “Natural Gas Market Assessment, Long-term Canadian Natural Gas Contracts: An Update”.
+Neuhoff, Karsten. Von Hirschhausen, Christian. (2005). “Long term vs. Short Term Contracts: A European Perspective on Natural Gas”.
+Salant, David (2000), Auctions and Regulation: Reengineering of Regulatory Mechanisms, Journal of Regulatory Economics, 17(3): 195-204.
+US Department of Energy - Energy Information Administration. (2004). “Fuel Oil and Kerosene Sales 2003”.
+CARGO POR CONFIABILIDAD 94
+
+
+Sssion No. 297
+Departamento Nacional de Planeación - DNP. (2004) “Asesoría para el Estudio del Mercado Regional de los Derivados del Petróleo”. PNUD-COL/96/013 (03/045).
+Dixit, A. y Pindyck, R, (1994), Investment Under Uncertainty. Princeton: Princeton University Press.
+Harrison, J M and S Pliska, (1981), “Martingales and Stochastic Integrals in the Theory of Continuous Trading”, Stochastic Processes and Their Applications, Vol. 11, pp. 215-260.
+International Energy Agency - IEA. (2004). “Security of Gas Supply in Open Markets”.
+International Energy Agency - IEA. (2002). “Flexibility in Natural Gas Supply and Demand”.
+Klemperer, Paul (2004), Auctions: Theory and Practice, Princeton University Press.
+McAfee, P., y McMillan, J. (1987), "Auctions and Bidding", Journal of Economic Literature, XXV(2), 699-738.
+Mercados Energéticos con Econometría y Consultoría Colombiana. (1998). “Coordinación de la Operación de los Sectores de Gas y Electricidad en Colombia. Informe Tarea C: Desarrollo de Estrategias de Contratos". Proyecto PNUD/COL/94/016 - BIRF 3827-CO.
+National Energy Board. (1997). “Natural Gas Market Assessment, Long-term Canadian Natural Gas Contracts: An Update”.
+Neuhoff, Karsten. Von Hirschhausen, Christian. (2005). “Long term vs. Short Term Contracts: A European Perspective on Natural Gas”.
+Salant, David (2000), Auctions and Regulation: Reengineering of Regulatory Mechanisms, Journal of Regulatory Economics, 17(3): 195-204.
+US Department of Energy - Energy Information Administration. (2004). “Fuel Oil and Kerosene Sales 2003”.
+CARGO POR CONFIABILIDAD 94

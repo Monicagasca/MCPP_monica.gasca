@@ -1,0 +1,283 @@
+Comisión de Regulación de Energía y Gas
+ENERGÍA PARA EL CARGO POR CONFIABILIDAD
+PLANTAS HIDRÁULICAS
+Documento para Consulta
+DOCUMENTO
+                   CREG-073 6 DE SEPTIEMBRE DE 2006
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+
+CONTENIDO
+1. ANTECEDENTES........................................................................................................... 4 2. ANÁLISIS COMPLEMENTARIOS....................................................................................5 3. METODOLOGÍA DE EVALUACIÓN DE LA ENERGÍA.....................................................5 3.1 Metodología..............................................................................................................6 3.2 Evaluación de Parámetros....................................................................................6 Período de optimización...............................................................................................7 Nivel inicial del embalse...............................................................................................9 3.3 Parámetros para el Análisis..................................................................................9 4. INFORMACIÓN PARA EL MODELAMIENTO..................................................................9 5. DETERMINACIÓN DE LA ENFICC............................................................................... 10 6. ENERGÍA DISPONIBLE INVIERNO.............................................................................. 11 7. MODELO.......................................................................................................................12 8. ENERGÍA FIRME PARA PLANTAS NUEVAS................................................................12 ANEXO 1: RESULTADOS....................................................................................................14 ANEXO 2: DIAGRAMA DE FLUJO DE LA METODOLOGÍA.................................................16
+Documento CREG-073de 2006 2
+
+
+GRÁFICAS
+Gráfica 1
+. Tendencias de Variables Principales Según Longitud del Período de Optimización..................
+                                                                               7 Gráfica 2.
+Curva de Distribución de Probabilidad..................................................................................................
+                                                                              10 Gráfica 3.
+Energía de Invierno...................................................................................................................................
+12
+TABLAS
+Tabla 1
+. Características de Embalses........................................................................................................................
+                                                                               8 Tabla 2.
+Efecto del Nivel del Embalse Inicial.............................................................................................................
+9
+Documento CREG-073de 2006 3
+
+
+ENERGÍA PARA CARGO POR CONFIABILIDAD
+PLANTAS HIDRÁULICAS
+1. ANTECEDENTES
+La Comisión de Regulación de Energía y Gas, en el marco de la propuesta para el establecimiento del cargo por confiabilidad, después del análisis de las metodologías acogidas en el sector para estimar la energía de los proyectos, publicó el documento 042 del 16 de junio de 2006 “Energía Firme para el Cargo por Confiabilidad - ENFICC’ y la resolución 043 de 2006 “Por la cual se ordena hacer público un proyecto de resolución de carácter general que pretende adoptar la CREG, con el fin de establecer la metodología para la remuneración del Cargo por Confiabilidad en el Mercado Mayorista de Energía" para comentarios de los agentes y terceros en un período de 30 días, contados a partir del 31 de julio de 2006.
+Los documentos en mención tienen una descripción detallada de la metodología de cálculo de la energía firme para las diferentes tipos de plantas de generación que se pueden encontrar en el sistema.
+En el caso de las plantas hidráulicas se destacan los siguientes elementos:
+i) Definición de la situación crítica que se quiere proteger (condición
+       hidrológica), ii) considerar que en el esquema de mercado eléctrico colombiano las decisiones y responsabilidades de los generadores frente al sistema son individuales, iii) no utilizar mínimos operativos teniendo en cuenta que los agentes, con el
+       esquema planteado, deben tomar decisiones racionales, iv) el cálculo de la energía firme de cada planta sólo se realiza una vez, y solamente se recalcularía ante la variación de parámetros que afecten, de forma positiva o negativa y en cierto grado, la capacidad de producción de la planta (desviaciones de ríos, construcción de embalses rió arriba, entre otros), y v) utilizar el Modelo de Programación Dinámica Dual Estocástica -SDDP, de
+amplio reconocimiento en el sector, para establecer la energía firme en una condición estática de máxima capacidad de generación cumpliendo con el criterio de confiabilidad utilizado para la expansión.
+Documento CREG-073de 2006 4
+
+
+2. ANÁLISIS COMPLEMENTARIOS
+En complemento a la metodología propuesta en los documentos anteriormente mencionados, la Comisión continuó adelantando análisis complementarios para tratar de encontrar modelos1 robustos que permitieran evaluar de una manera sencilla la energía de las plantas en forma individual, teniendo en cuenta que las responsabilidades que se tendrían en el cargo son individuales.
+Adicionalmente, dentro del proceso de recibir observaciones a la propuesta se hicieron comentarios a la metodología de cálculo y se dieron algunos hechos, y una vez evaluados, se encontraron pertinentes los siguientes:
+? Se identifican efectos cruzados entre plantas hidráulicas que afectan la valoración de la energía firme en forma individual,
+? Se podrían presentar problemas de estabilidad, es decir, la entrada de nuevos generadores podrían afectar las energías ya definidas, y
+? El modelo seleccionado para el cálculo ha sufrido ajustes desde la publicación de la Resolución 043 de 2006 y podría seguir requiriéndolos, lo que para una aplicación estática como la requerida, se vuelve inconveniente.
+Teniendo en cuenta los anteriores elementos, la Comisión evaluó una nueva metodología para resolver los temas planteados, la cual se presenta a continuación.
+3. METODOLOGÍA DE EVALUACIÓN DE LA ENERGÍA
+La metodología además de tener en cuenta los elementos planteados en el numeral 2, debe cumplir lo siguiente:
+? Simple y reproducible
+? Estimar la energía por planta o cadena a partir de la historia de aportes y por tanto considerar las rachas críticas.
+? Debe valorar la energía a partir de las propias características de la planta.
+1 Sobre los modelos aislados que se analizaron en su momento se dijo: “En el caso de los modelos aislados se utilizaron los siguientes modelos: i) RNO - incluye una regla norma! de operación, ii) PL- programación lineal y iii) Fórmula - cálculo con la fórmula de acuerdo con la definición de aportes y factor de cada planta, modelo implementado en Excel. Adicionalmente, se hizo el modelamiento con el Modelo de programación dinámica dual estocástica -SDDP.
+Respecto a los diferentes análisis que se hideron para diferentes plantas se puede comentar los siguiente:
+? Los modelos aislados no son estables en sus resultados porque dependen en gran medida de las condiciones iniciales, tal es el caso cuando se considera el aporte del embalse a la energía del proyecto, esta se incrementa de manera sustancial, siendo en algunos casos superior a la historia.
+? El modelamiento de cadenas de plantas hidráulicas, se dificulta con los modelos aislados porque hay que hacer supuestos que pueden llevar a resultados que no reflejen la real capacidad de los proyectos".
+Documento CREG-073de 2006 5
+
+
+? Las decisiones de despacho no deben estar acotadas a funciones de precios, sino a la optimización de la energía firme.
+? Debe ser un modelo reproducible y estable, es decir, que con los mismos
+parámetros de entrada se obtengan los mismos resultados.
+3.1 Metodología
+Teniendo en cuenta lo anterior, se plantea una metodología2 que cumple los requisitos señalados dado que el problema a resolver es:
+? Determinar la energía máxima que es capaz de entregar continuamente una planta bajo una condición hidrológica determinada, teniendo en cuenta el balance hídrico, es decir, maximizar la mínima generación.
+? La energía debe estimarse teniendo en cuenta los límites que se tienen en: i) embalse, ii) capacidad de turbinamiento, iii) restricciones en transporte de aportes (arcos de descarga) y iii) usos alternativos del agua.
+En términos matemáticos el problema a resolver es:
+Max._Energía donde:
+                                  t : período Sujeto a :
+                                  e : volúmen embalse £
+M
+=£t +at - r t - v t
+a : aportes T : turbinado Límites:
+v : vertimientos
+£
+min. max.
+T min.
+.
+             max. Nota: En los límites del embalse se deben tener en cuenta los otros usos.
+En el caso de plantas en cadena, se aplica la misma metodología iniciando la optimización con la planta aguas arriba. Para la plantas aguas abajo, se le consideran, además de los aportes directos que tenga, los que surjan de lo turbinado y/o vertido por la planta aguas arriba.
+3.2 Evaluación de Parámetros
+Teniendo en cuenta que los parámetros principales para el modelamiento son: i) período de análisis, y ii) nivel inicial de los embalses, se hace necesario hacer una evaluación del impacto de cada uno de estos en la metodología planteada para recomendar el valor que se debería adoptar.
+2 Una propuesta en este sentido se tiene en los documentos “Energía Firme de Sistemas Hidroeléctricos e Usos Múltiplos Dos Recursos Hídricos” - Jerson Kelman, Rafael Kelman y Mario Veiga Ferraz.
+Documento CREG-073de 2006 6
+
+
+Período de optimización
+El período de optimización se entenderá como el horizonte de tiempo en que se resolverá la ecuación planteada, es decir:
+       T N = —
+P
+N : número de periodos de optimización
+T : número de años de historia hidrológica
+p : periodo de optimización en años
+De acuerdo con lo anterior, y tomando en cuenta toda la historia de los aportes hidrológicos de las plantas, se realizaron los siguientes ejercicios: a) diferentes periodos de optimización: 1, 2, 3, 4, 5 y 6 años, y b) período de optimización igual a la historia de aportes. En todos los ejercicios se tomó como nivel inicial del embalse el 50% de su capacidad útil en el mes de mayo, primer mes del horizonte de simulación.
+Para los ejercicios planteados en a) se obtiene tantas soluciones como períodos de optimización se tengan. En el caso b) se obtiene un único valor.
+De los resultados que se obtienen, se encontraron las tendencias que se presentan3 en la Gráfica 1.
+VERTIMIENTOS PROMEDIO ENERGIA PROMEDIO
+GWh/mes
+PLANTA CON EMBALSE
+TODO
+PLANTA CDN EMBALSE
+PLANTA SIN EMBALSE
+1 -----------1----------I------------- I-' 4 5 6 TODO
+              ENERGIA ENFICC GWh/mes A
+PLANTA SIN EMBALSE
+TODO
+Gráfica 1. Tendencias de Variables Principales Según Longitud del Período de Optimización
+De las soluciones obtenidas se encuentra que a medida que se amplia el período de optimización, las plantas sin embalse o con baja capacidad de regulación, no
+3 En el anexo 1 se tienen los resultados para plantas con diferente capacidad de regulación. Documento CREG-073de 2006 7
+
+
+presentan variaciones . En cambio, para las plantas con alta capacidad de regulación se tienen: mayores vertimientos, disminución de la energía promedio, e incrementos de la energía firme, a medida que el período de optimización se incrementa. Ahora bien, el compromiso entre una mayor generación promedio y una mayor energía firme, objetivos opuestos, es una decisión del propietario, por lo que la cantidad de energía firme que no está sujeta a esta decisión y por lo tanto las más confiable es la que corresponde al menor período.
+Adicionalmente, se debe tener en cuenta que:
+i) el régimen hidrológico es anual: estación de invierno y estación de
+verano,
+ii) la capacidad de predicción hidrológica es corta4,
+iii) las decisiones de operación de los agentes responden a señales
+de corto y mediano plazo.
+Además, se encuentra que la capacidad de regulación del embalse, medida como la relación entre su capacidad útil máxima5 y la generación de la planta a máxima capacidad, no supera el año. Igualmente se calcula el indicador de llenado del embalse tomando el promedio de la aportes históricos, llegándose a la misma conclusión. Tabla 1.
+EVALUACIÓN DE CAPACIDAD DE LOS EMBALSE
+VOLUMEN ÚTIL
+CAPACIDAD
+       CAPACIDAD PLANTA
+ENERGÍA
+APORTES PROM. HISTORIA m3/s - mes RELACION* VOL./CAP.
+LLENADO VOL./APOR.
+CARIBE CENTRO
+MIEL I PEÑOL PLAYAS PORCE II PUNCHINÁ RIOGRANDE 2 SAN LORENZO TRONERAS URRÁ1 AGREGADO BOGOTÁ BETANIA PRADO CHUZA ESMERALDA GUAVIO ALTO ANCHICAYÁ CALIMA 1 SALVAJINA
+190.45 2148.00 22.02 55.06 70.78 313.00 397.66 4.05 154.89 4455.76 146.63 66.90 1141.08 1108.19 2113.78 32.57 216.16 173.30
+296.04 549.95 199.84 404.22 1240.00 305.57 170.00 42.00 303.08
+486.72 24.14
+942.17 1124.47 323.28 131.09 284.23
+129.41 384.52 140.22 272.00 817.65 194.80 112.52 28.99 203.18
+325.54 14.35
+634.97 745.99 196.46 74.65 191.44
+1.47 5.59 0.16 0.20 0.09 1.61 3.53 0.14 0.76
+0.45 4.66
+1.75 2.83 0.17 2.90 0.91
+81.40 49.67 119.22 108.22 147.10 33.45 36.83 34.25 341.71 62.77 427.79 52.44
+78.99 72.39 44.06 12.08 136.41
+1.99 7.66 0.15 0.34 0.14 1.58 1.68 0.24 1.35 5.38 0.76
+2.81 4.00 0.27 12.80 1.94
+•ANÁLISIS SIN CONSIDERAR APORTES A LOS EMBALSES
+Tabla 1. Características de Embalses
+Por todo lo anterior, se recomienda utilizar como período de análisis un año.
+4 Por ejemplo en el Subcomité Hidrológico del Consejo Nacional de Operación del Sector Eléctrico las empresas presentan pronósticos para un año. 5 Calculada con el factor de conversión de la planta asociada.
+Documento CREG-073de 2006 8
+
+
+Nivel inicial del embalse
+Teniendo en cuenta que los análisis toman como base la serie histórica de caudales de las plantas, que en ningún caso es inferior a 25 años, se evaluó la energía obtenida para un período de análisis de un año, de acuerdo con lo señalado en el numeral anterior, para diferentes condiciones de nivel inicial del embalse (100%, 80%, 50%, y 20%), encontrándose que los resultados no son afectados, tal como se puede ver en la Tabla 2.
+PLANTA
+ENFICC PARA DIFERENTES NIVELES INICIALES DE EMBALSE [GWh/mes]
+100% 80% 50% 20%
+PLANTA 9 279.0 279.0 279.0 279.0
+PLANTA 5 239.2 239.2 239.2 239.2
+PLANTA 8 168.4 168.4 168.4 168.4
+PLANTA 3 104.2 104.2 104.2 104.2
+PLANTA 1 52.2 52.2 52.2 52.2
+Tabla 2. Efecto del Nivel del Embalse Inicial
+De esta forma se resuelve el principal problema que se había identificado inicialmente cuando se consideraron los modelos aislados, cual es el de la condición inicial del embalse.
+3.3 Parámetros para el Análisis
+De acuerdo con lo señalado anteriormente, los siguientes son los parámetros que se tendrán en cuenta para el modelamiento:
+? Horizonte de análisis: corresponderá a todo el horizonte de información histórica de los aportes hidrológicos por planta.
+? Períodos de optimización : se establece de un año, comprendidos entre el mes de mayo del año t y el mes de abril del año t+1, y así sucesivamente. El año t corresponde al primer año de información histórica.
+? Nivel inicial del embalse: se toma como nivel inicial del embalse el 50% de la capacidad útil.
+4. INFORMACIÓN PARA EL MODELAMIENTO
+Para aplicar la metodología planteada se requiere la siguiente información:
+? Aportes hidrológicos: información de toda la historia de aportes mensuales promedio de la planta.
+Documento CREG-073de 2006 9
+
+
+? Topología: se deberá contar con la información de interacción de la planta con aportes, vertimientos y restricción en los sistemas de conducción.
+? Características de las plantas: se tomarán en cuenta los datos de: i) eficiencia
+media de las plantas, ii) generación mínima y iii) generación máxima.
+? Embalses: se tomarán en cuenta sus límites: i) mínimo técnico, ii) máximo técnico y iii) restricciones por acueducto, riego y ambientales.
+? Disponibilidad: se considera la disponibilidad histórica por salidas forzadas de la planta-IHF.
+? Restricciones de flujo: se consideran las restricciones por arcos de descarga, valores mínimos y máximos.
+5. DETERMINACION DE LA ENFICC
+Teniendo en cuenta que la metodología tiene las siguientes características:
+? Optimiza la energía para un período de un año, que incluye las estaciones de invierno y verano, por lo cual la cantidad estimada aplica para las dos estaciones.
+? Se tienen n soluciones de acuerdo con los períodos que se tengan, dada la historia hidrológica de los ríos que aportan a cada planta.
+Con los resultados, se construye la curva de distribución de probabilidad ordenando los valores obtenidos por período en forma ascendente. El menor valor de generación mensual corresponde al 100% de probabilidad de ser superado y el mayor valor corresponde al 0% de probabilidad de ser superado, tal como se ilustra en la Gráfica 2.
+E N E R G IA G E N E R A D A - P L A N T A X X X
+I
+N ivel de P rob ab ilid ad de Ser S uperado - PSS
+Gráfica 2. Curva de Distribución de Probabilidad (Hidrología Histórica)
+Documento CREG-073de 2006 10
+
+
+De acuerdo con esto, se consideran los siguientes tipos de energía para el cargo por confiabilidad:
+? ENFICC BASE: corresponde a aquella generación que es capaz de entregar la planta en la condición histórica más crítica, por lo que se toma como el valor mínimo que se obtuvo en los períodos de optimización. Esta energía no requiere de garantías.
+? ENFICC 95% PSS: corresponde a aquella generación que es capaz de entregar la planta en la condición del 95% PSS de la curva de distribución de probabilidades. El valor que se asigne corresponderá a la energía calculada para el período más próximo a la condición del 95% PSS.
+La diferencia entre la ENFICC BASE y la ENFICC 95% PSS deberá respaldarse con una garantía.
+De acuerdo con los criterios definidos para establecer los tipos de energía para el cargo por confiabilidad, se identifica que el procedimiento completo6 para la determinación de la ENFICC tiene los siguientes cinco (5) pasos:
+a. Datos iniciales, correspondiente a la declaración de parámetros que hacen
+los agentes.
+b. Caracterización de datos, referente a ubicar los períodos de optimización y
+aplicar el nivel inicial de embalse.
+c. Solución del problema, donde se aplica el algoritmo para maximizar la
+mínima energía generada.
+d. Procesamiento de resultados, corresponde a la organización de los
+resultados para construcción de la curva de distribución de probabilidad.
+e. Energía para Cargo por Confiabilidad, se identifica para cada planta el valor
+de energía para cada uno de los criterios definidos.
+6. ENERGÍA DISPONIBLE INVIERNO
+La energía disponible invierno corresponde a la energía generada por encima de la energía ENFICC (BASE ó 95% PSS de acuerdo con la alternativa seleccionada por el generador), para cada uno de los meses de invierno del periodo correspondiente, es decir, el periodo que marco la ENFICC respectiva.
+6 En el anexo 2 se tiene un diagrama de flujo de la metodología. Documento CREG-073de 2006 11
+
+
+ENERGIA DISPONIBLE INVIERNO
+£ 5 o u> OJ E
+Energía Invierno
+^ ^ ^ /v A /v
+MES DELANO
+•ENFICC ó 95%PSS GWH -GENERACION GWH
+Gráfica 3. Energía de Invierno período T1/T2
+7. MODELO
+El operador del mercado implementará el modelo, el cual será revisado por la CREG, y definirá las condiciones para que pueda ser utilizado por cualquier agente.
+Aunque cualquier agente puede reproducir el modelo, se recomienda utilizar una sola versión, la cual debe estar disponible en el sitio de red del Operador del Mercado, con el fin de obviar problemas de diferencias por cálculos numéricos en el proceso de optimización.
+8. ENERGIA FIRME PARA PLANTAS NUEVAS
+La ENFICC para plantas hidráulicas nuevas, se calculará en la forma señala en los numerales 3, 4 y 5, con una serie histórica de aportes de al menos veinte (20) años.
+Documento CREG-073de 2006 12
+
+
+ANEXOS
+Documento CREG-073de 2006
+
+
+ANEXO 1: RESULTADOS
+La CREG con el fin de evaluar la metodología planteada desarrollo una serie de modelos con los que se hicieron estimativos preliminares de los resultados que se obtendrían para las diferentes tipos de plantas que se tienen en el sistema.
+PERÍODO DE ANÁLISIS
+Planta con moderada capacidad de regulación
+P1: laño P2: 2 años P3: 3 años P4: 4 años P5: 5 años P6: 6 años PT: Todo el período
+RESULTADOS - PLANTA 1
+£
+? E
+O
+E. MEDIA VERTIMIBMTOS ENFICC BASE ENFICC 95% PSS
+| ? P1 ? P 2 D R 3 n P 4 D P 5 D P 6 n P r |
+Planta con alta capacidad de regulación
+P1: laño P2: 2 años P3: 3 años P4: 4 años P5: 5 años P6: 6 años PT: Todo el período
+RESULTADOS - PLANTA 9
+(/>
+2 £ O
+?n
+E. MEDIA VERTIMIENTOS ENFICC BASE ENFICC 95% PSS
+?
+P I
+? R 2 n P 3 n P 4 n P 5 n P 6 n P T
+Documento CREG-073de 2006 14
+
+
+DETERMINACIÓN DE LA ENFICC
+COMPARACIÓN DE RESULTADOS
+2 E £ § O
+     \ % 'b fc <d fa A % 4? 4? 4* 4* 4? 4? 4? 4?
+? ENFICC BASE ENFICC 95% PSS
+Documento CREG-073de 2006 15
+
+
+ANEXO 2: DIAGRAMA DE FLUJO DE LA METODOLOGÍA
+Datos Iniciales
+• Hidrologías históricas
+• Características de las plantas
+• Capacidad útil embalse
+Caracterización de datos
+• Definición períodos
+• Nivel inicial embalse 50°/
+A ETAPA CALCULO DE
+Solución proUema Aplicación algoritmo Maximin para el horizonte de información
+Procesamiento resultados Construcción de la curva de distribución de probabilidad
+A
+ETAPA DE PROCESAMIENTO
+Energía Cargo por Confiabilidad
+•EN FICC BASE
+•EN FICC 95% PSS
+• Energía disponible invierno
+Documento CREG-073de 2006

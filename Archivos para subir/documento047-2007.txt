@@ -1,0 +1,408 @@
+Comisión de Regulación de Energía y Gas
+ANÁLISIS PRECIO DE ESCASEZ
+-Documento para Discusión-
+DOCUMENTO
+          CREG-047 05
+-
+07-2007
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y
+
+
+Sesión No. 336
+CONTENIDO
+1. ANTECEDENTES..............................................................................................................3
+2. OBJETIVO......................................................................................................................... 3
+3. CONSIDERACIONES PARA EL ANÁLISIS.................................................................... 3 3.1 Eficiencia Plantas Térm icas..................................................................................4 3.2 Probabilidad y Duración del Fenómeno de El Niño..........................................5 3.3 Precio de los Combustibles...................................................................................6 3.3.1 Fuel Oil # 2 ......................................................................................................... 6 3.3.2 Fuel Oil # 6 .........................................................................................................7 3.4 Remuneración del Cargo por Confiabilidad....................................................... 8 3.5 Otras consideraciones............................................................................................8
+4. RESULTADOS.................................................................................................................. 9 4.1 COSTOS VARIABLES...........................................................................................9 4.2 VALOR PRESENTE NETO - V P N ......................................................................9 4.2.1 Fuel Oil # 2 ....................................................................................................... 10 4.2.2 Fuel Oil # 6 ......................................................................................................11 4.3 ANÁLISIS DE RESULTADOS............................................................................13
+ANEXO....................................................................................................................................14
+GRÁFICAS
+Gráfica 3.1 Eficiencias Plantas Térmicas Sistema Colombiano......................................................4 Gráfica 3.2 Histograma de frecuencia - Tiempo de Retorno..........................................................5 Gráfica 3.3 Histograma de frecuencia - Duración..........................................................................5 Gráfica 3.4 Generación Probabilística de Niños............................................................................. 6 Gráfica 4.1 VPN Neto Planta Nueva con Fuel Oil
+# 2 ...................................................................................
+                                                                              10 Gráfica 4.2 VPN Neto Planta Convertida con Fuel Oil #2..............................................................11 Gráfica 4.3 VPN Neto Planta Nueva con Fue! Oil # 6................................................................... 12 Gráfica 4.4 VPN Neto Planta Convertida con Fuel Oil #6..............................................................12
+TABLAS
+Tabla 3.1 Balance Oferta - Demanda de Diesel Oil y Fuel Oil....................................................... 6 Tabla 3.2 Precio Fuel Oil #2 - Paridad Importación........................................................................7 Tabla 3.3 Precio Fuel Oil #6.......................................................................................................... 8 Tabla 4.1 Costos Variables Plantas Térmicas con combustibles líquidos....................................... 9
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+ANÁLISIS PRECIO DE ESCASEZ
+1. ANTECEDENTES
+Con la expedición de la metodología para la remuneración del Cargo por Confiabilidad, Resolución CREG-071 de 2006, se estableció la remuneración que tendría un generador que participe del merado de la confiabilidad. Dentro de esta remuneración, los dos (2) elementos básicos que se deben considerar en forma integrada son: i) pago por concepto de cargo por confiabilidad, y ii) el precio de escasez que se define como “Valor definido por la CREG y actualizado mensualmente que determina el nivel del precio de bolsa a partir del cual se hacen exigióles las Obligaciones de Energía Firme, y constituye el precio máximo al que se remunera esta energía’'.
+En el período de transición los dos valores señalados anteriormente son regulados y una vez inicien las subastas, los agentes son los que definen la prima que requieren para operar, conocido el precio de escasez.
+En lo que respecta al precio de escasez, algunos agentes han realizado comentarios al valor que resulta de la aplicación de la metodología definida en la Resolución CREG-071 de 2006.
+Dado que el Precio de Escasez es un elemento importante en la metodología de Cargo por Confiabilidad por las señales que este conlleva (eficiencia energética, situación crítica, entre otros), la Comisión ha realizado un análisis tomando en consideración los comentarios emitidos por los agentes con generación térmica cuyos combustibles serían líquidos como combustible primario.
+2. OBJETIVO
+Análisis económico de la viabilidad de las plantas térmicas utilizando combustibles líquidos para la generación de energía firme frente al Precio de Escasez, teniendo en cuenta la función que este valor tiene en el contexto del Cargo por Confiabilidad.
+3. CONSIDERACIONES PARA EL ANÁLISIS
+El análisis de precio de escasez que se realiza en el presente documento tiene en cuenta los siguientes elementos: eficiencia de las plantas térmicas, costos de combustibles, pago por concepto de cargo por confiabilidad, probabilidad y duración del fenómeno de El Niño.
+Adicionalmente, para realizar el análisis en una condición extrema para el agente generador, se consideran las siguientes dos características para la operación de la
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+planta: i) operan solamente en los período donde se presenta el fenómeno de El Niño, y ii) operan todo el tiempo de duración del período del fenómeno de El Niño. Teniendo en cuenta las anteriores característica de operación, se tomarán como referencia plantas que operen con combustibles líquidos (Fuel Oil #2 y Fuel Oil #6), dado que plantas que operan con Gas Natural y Carbón, que tienen costo variables bastante inferiores, no serían las llamadas a marcar el precio de Bolsa en condiciones críticas.
+3.1 Eficiencia Plantas Térmicas
+Las eficiencias (Heat Rate) reportadas para el Cargo por Confiabilidad por los plantas térmicas que se tienen hoy en el sistema se presentan en la Gráfica 3.1.
+EFICIENCIAS PLANTAS TERMICAS CON HIDROCARBUROS
+13.0
+C iclo Turbo simple
+12.0
+11.0
+STr^pIe
+Tujrbo Vaipar
+liurbo
+10,0
+£ 9.0 J 8.0
+b in a d o
+^ 7.0
+3 6.0
+“ 5.0
+4.0
+Plantas FO
+3.0
+Plantas DO
+Plantas GN
+2.0
+1.0
+0.0
+Gráfica 3.1 Eficiencias Plantas Térmicas Sistema Colombiano
+De acuerdo con lo anterior, se encuentra lo siguiente:
+• Existen varias plantas de ciclo combinado y ciclo simple que pueden operar con
+Fuel Oil #2 (DO) y Gas Natural (GN).
+• Existen varias plantas turbo vapor que pueden operar con Fuel Oil #6 (FO) y Gas
+Natural (GN).
+DOC CREG-047 DE 2007
+C ic lo
+
+
+Sesión No. 336
+• Teniendo en cuenta la información de la Gráfica 3.1 y lo reportado al operador del mercado (Informe de parámetros técnicos publicado por XM:Paratec) se encuentra que las plantas que operan solamente con gas natural son: Tebsa (Ciclo Combinado), Proeiéctrica (Ciclo Stig), Flores 3 (Ciclo Simple) y Meriléctrica (Ciclo Simple).
+• El rango de eficiencias {Heat Rate) se encuentra entre 6.01 - 12.0 MBTU/MWh. Adicionalmente, en el documento CREG-043 de 2006 '"Determinación del Precio de Ejercicio" se encontró que algunas plantas que estaban en el sistema tenían Heat Rate mayores.
+Por lo tanto, para los análisis que se muestran en este documento se utiliza un rango de Heat Rate de 6.0 a 14.0 MBTU/MWh.
+3.2 Probabilidad y Duración del Fenómeno de El Niño
+Partiendo del histograma de frecuencias de los diferentes tiempos de retorno (años), Gráfica 3.2, y duración (meses), Gráfica 3.3, los cuales se obtuvieron con información que tiene reportada la NOAA, índice BEST (Bivariate EnSo Timeserie) que permite maximizar la muestra teniéndose datos desde 1871 hasta 20062, se generan cien (100) series probabilístlcas del fenómeno de El Niño. En la Gráfica 3.4 se muestran seis (6) de las cien (100) series generadas, las cuales conservan la misma distribución de las series históricas.
+7
+1 2 3 4 5 6 7 8 9 10 I I
+T i e m p o d e R e t o r n o ( A ñ o s ]
+Gráfica 3.2 Histograma de frecuencia - Tiempo de Retorno
+—n F— ! --- n i 4 —m—F
+i
+lil
+3 4 5 6 7 0 10 11 12 13 14 15
+D ura c ió n (M e s e s )
+Gráfica 3.3 Histograma de frecuencia - Duración
+1 Es equivalente a una eficiencia de 57% que está entre los rangos que se manejan internacionalmente, tal como aparece en el documento de la International Energy Agency denominado “Projected Cost of Generating Electricity - Update 2005' en donde se dice “Combine cycle gas turbines. All gas-fired power plants presented in this study are based upon the use of combine cycle gas turbine. ...Currently, CCGT plants have thermal efficiencies of 50 to 60% (LHV)." 2 En el documento CREG-027 de 2007 “Valor de Cobertura de las Garantías para el Cargo por Confiabilidad' se tiene una descripción detallada de la forma en que se obtienen los histogramas de frecuencia.
+DOC CREG-047 DE 2007
+—
+n
+
+
+Sesión No. 336
+GENERACIÓN PROBABILÍSTICA DE NIÑOS (Ejemplo de algunas de las 100 serles)
+? 4
+ñ n \ M . i T T J I M I A
+'ii 1 1 , í 1
+ji i A i
+;
+i
+A
+a
+' A \ ! | 1 J!\ i-, 1'
+? 1 ' a a i ¡ ¡ ' I í 1
+/ A l—J y , Ü ll .
+/
+;
+J !/i
+L
+í
+I 1 3 4 S 6 7 S » 10 <1 12 13 » 13 K 17 1« i e 20 21 22 23 24 29
+Años
+Gráfica 3.4 Generación Probabilística de Niños
+3.3 Precio de los Combustibles
+Para el análisis los combustibles considerados son el Fuel Oil #2 y Fuel Oil #6, los cuales tendrían la siguiente estructura de precios.
+3.3.1 Fuel OH #2
+Para establecer la estructura del precio se tiene en cuenta lo siguiente:
+? Los Decretos 2935 de 2002 y 2988 de 2003, modificados y adicionados por el Decreto 4483 de 2006 definió a las “empresas generadoras de energía ubicadas en las Zonas Interconectadas del Territorio Nacional (...) como Grandes Consumidores Individuales No Intermediarios de ACPM, independientemente de su consumo", y por tanto, de acuerdo con el artículo 14 de la ley 681 de 2001, el precio que Jes aplica para este combustible será como mínimo el de exportación.
+• El Balance oferta - demanda en Barriles Día Calendario (BDC) de Diesel Oil (Fuel Oil #2) -Tabla 3.1- que se tiene hoy en día, muestra que se requiere importar, así:
+Producción Ventas Imp. / Exp. BDC BDC BDC
+Diesel Gil 89,800 94,241 -4,441
+Fuel Oil 58,000 6,000 52,000
+Fuente: F.CP
+Tabla 3.1 Balance Oferta - Demanda de Diesel Oil y Fuel Oil
+DOC CREG-047 DE 2007
+i»
+.
+»
+i
+» V
+V—
+V—•
+.
+?
+?
+i
+?
+4 4-X-. »?. •
+«-
+
+
+Sesión No. 336
+Por lo tanto, para el análisis se considera el precio que resulta de la paridad importación, que es el mostrado en la Tabla 3.2 siguiente:
+(RSeT* i)
+ITEM Fuel Oil #2
+01-Jun-07
+Ingreso al productor 4,225.04
+Tarifa de Marcación 3.50
+Transporte y/o manejo 39.36
+Margen de seguridad
+Impuesto global 449,39
+Impuesto a las ventas 676.01
+Precio de venta al distr. Mayorista 5,393.29
+MBTU/Galón 0.14
+USD/MBTU
+20.27
+Margen mayorista 1S2.5E
+Precio de venta en planta de abasto mayorista 5,575.84
+USD/MBTU 20.95
+Tabla 3.2 Precio Fuel Oil #2 - Paridad Importación
+Para determinar el ingreso al productor se toma como referencia el precio de combustible en el mercado del golfo en Estados Unidos, promedio mes de mayo para el Heating Oil No.2 fwww.eia.doe.com). y se le adicionan los costos de arancel, timbre, seguros y fletes marítimos. Los otros costos son tomadas de la estructura de precios interna publicada en la WEB de ECOPETROL (www.ecopetrol.com.co).
+3.3.2 Fuel Oil #6
+De acuerdo con el balance presentado en la Tabla 3.1 la oferta nacional de Fuel Oil #6 es suficiente y se exporta la gran mayoría. Teniendo en cuenta esto, la estructura de precio para este combustible corresponde a datos locales para lo cual se tomaron los precios publicados por ECOPETROL, quien suministra este combustible (www.ecopetrol.com.co).
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+[ («Galón) |
+ITEM Combustóleo
+01-Jun-07
+Ingreso al productor 2,333.12
+Tarifa de Marcación -
+Transporte y/o manejo 41.64
+Margen de seguridad
+Impuesto global
+Impuesto a tas ventas 382.90
+Precio de venta al distr. Mayorista 2817.66
+MBTU/Galón 0.15
+USD/MBTU 9.88
+Margen mayorista
+Precio de venta en planta de abasto mayorista 2817.66
+USD/MBTU 9.88
+Tabla 3.3 Precio Fuel Oil #6
+No se incluye margen mayorista porque los usuarios de este combustible lo compran directamente al productor que es ECOPETROL.
+3.4 Remuneración del Cargo por Confiabilidad
+Los elementos de remuneración del Cargo por Confiabilidad considerados son:
+• Ingreso constante por energía firme. Ingreso constante que recibirá el agente generador al que se asignan Obligaciones de Energía Firme, de 13.045 US$/MWh de ENFICC asignada.
+• Ingreso cuando se hacen exigibies las Obligaciones de Energía Firme (Precio de Escasez). Corresponde al precio que se remunera la energía al agente generador cuando se le exigen las Obligaciones de Energía Firme. Los valores de los parámetros requeridos para su determinación para el mes de junio de 2007, publicados por XM (www.xm.com.co). son: $248.09/kWh, Precio de Escasez, $36.97/kWh otros costos y $11,26/kWh costos de operación y mantenimiento.
+3.5 Otras consideraciones
+Para el análisis se toma como referente una planta tipo con las siguientes características:
+• Capacidad: 150 MW
+• IHF: 5%
+• ENFICC: 1,248 GWh/año
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+El análisis se realiza trayendo a valor presente neto (VPN), con una tasa de descuento del 12%3, los flujos de caja de 25 años: i) inversión a un costo de 82.5 Millones de USD que se considera se ejecutan en dos años para una planta nueva, turbogas dual con facilidades para operar con combustibles líquidos, y un año para una planta turbogas o turbovapor existente que instala facilidades para operar con combustibles líquidos a un costo de 13.5 Millones de USD, trabajos que son llevados a cabo antes de el inicio de las obligaciones, ii) ingresos constantes, correspondientes al pago del cargo por confiabilidad (USD 13.045/MWh de ENFICC), y iii) egresos/ingresos cuando se hacen exigidles las obligaciones, corresponde a la diferencia entre los costos variables de la planta y el precio de escasez, los cuales se dan en las épocas en que opera la planta, es decir cuando se está en período de fenómeno de El Niño. Adicionalmente, la TRM utilizada es la junio 8 de 2007 que fue de $ 1900.68.
+4. RESULTADOS
+De acuerdo con las consideraciones del numeral 3, los resultados que se obtuvieron fueron los siguientes:
+4.1 COSTOS VARIABLES
+Los costos variables para la planta tipo para las diferentes eficiencias utilizando los dos (2) combustibles considerados para el análisis son los siguientes:
+Fuel Oil # 2 Fuel Oil # 6 Heat Rate CV Heat Rate CV MBTU/MWh $/kWh MBTU/MWh $/kWh 6.0 287.19 6.0 160.94 7.0 327.02 7.0 179.72 8.0 366.85 8.0 198.51 9.0 406.68 9.0 217.29 10.0 446.50 10.0 236.07 11.0 486.33 11.0 254.86 12.0 526.16
+12.0 273.64
+13.0 565.99
+13.0 292.43
+14.0 605.81
+14.0 311.21
+Tabla 4.1 Costos Variables Plantas Térmicas con combustibles líquidos
+4.2 VALOR PRESENTE NETO - VPN
+Los resultados del valor presente neto de los flujos de caja para una planta térmica consumiendo cada uno de los combustibles en análisis, se presentan a continuación. Como ya indicó, se supone que solo es despachada durante el período de crítico que se supone es igual al período de ocurrencia del fenómeno de El Niño.
+3 Una sensibilidad a la tasa de descuento se presenta en el anexo.
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+Para interpretar los resultados que se presentan en las gráficas para cada nivel de Heat Rate se debe tener en cuenta lo siguiente:
+• Eje de ia ordenada, es el resultado neto de los flujos de: i)inversión, tanto para planta nueva como para conversión de una existente; ii)ingresos; y iii)egresos traídos a valor presente con la tasa de descuento definida en el numeral 3.5.
+• Eje de la abscisa, corresponde al número de casos, en este caso son 100 casos ordenados en forma descendente.
+4.2.1 Fuel Oil #2
+• Planta Nueva
+ANÁLISIS PRECIO DE ESCASEZ PLANTA CON DIESEL OIL 100.00Ü
+   • 100.000 0) 2 -200.000 2
+ • = -300,000 1. 2 z ^ -5 01,0 00 O.
+> -6 00,000
+-7 00,00 0
+PSS
+I— h r s . o — n n . o * a o m o o h r io .o h r h .o -h ? 1 2 ,o h r 13.0 m i 4.01
+Gráfica 4.1 VPN Neto Planta Nueva con Fuel Oil #2
+De acuerdo con los resultados, se encuentra que una planta nueva solamente tiene un VPN positivo en un elevado número de casos, cuando tiene una alta eficiencia.
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+Planta Existente que se Convierte
+            ANÁLISIS PRECIO DE ESCASEZ PLANTA EXISTENTE CON DIESEL OIL - Inv. Conversión 300.000 • 200,000
+00,000
+# o 5 -100,000 _o B -200,000
+O -300.000 o Z ^00,000 z CL -500,000 >
+-600,000
+-700,000
+-800,000
+PSS
+I-R6.0 HR 7.0 W 8.0 I-F9.0------- HR 1 0 0 ------- HR 11.0 ..... « 1 2 .0 --------H»> 13.0 — H tÍ4 S Í
+Gráfica 4.2 VPN Neto Planta Convertida con Fuel Oil #2
+En el caso de plantas existentes que hagan las inversiones para convertirse a la utilización de fuel oil #2, se encuentra que para plantas hasta con Heat Rate de 9.0 MBTU/MWh, los resultados son positivos en más de un cincuenta (50%) de los casos, asumiendo recuperación total de la inversión en conversión.
+4.2.2 Fuel Oil #6
+• Planta Nueva
+DOC CREG-047 DE 2007
+
+
+5es/ón No. 336
+ANÁLISIS PRECIO DE ESCASEZ PLANTA CON FUEL OIL #6 300.000
+250.000
+150.000
+100,000
+50,000
+-50,000
+-100,000
+PSS
+— I - F 6 . 0 h F 7.0 KFía.O H? 9.0 h F 1 0 .0 h R H . O HF 1 2 .0 h F 13.0 HR 14.0 |
+Gráfica 4.3 VPN Neto Planta Nueva con Fuel Oil #6
+En e! caso plantas nuevas que operen con Fuel Oil #6, la inviabilidad solamente está comprometida con las plantas muy ineficientes.
+• Planta Existente que se Convierte
+ANÁLISIS PRECIO DE ESCASEZ PLANTA EXISTENTE CON FUEL OIL #6 - Inv. Conversión
+400,000
+350,000
+¡ = 250.000
+150,000
+>
+100.000
+50.000
+8 O
+PSS
+I PR6.0 FF 7.0 m s .0 FF 9 .0 PR 10.0 PR11.0 PFt 12.0 -PR13.0 PR 14,0 |
+Gráfica 4.4 VPN Neto Planta Convertida con Fuel Oil #6
+En el caso de plantas existentes que se conviertan para utilizar el Fuel Oil #6, se encuentra que en todos los casos los ingresos netos son positivos.
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+4.3 ANÁLISIS DE RESULTADOS
+Teniendo en cuenta los objetivos del Precio de Escasez y de acuerdo con los resultados presentados en el numeral 4.2, que se obtienen bajo una condición bastante extrema por el hecho de considerar que cuando se presenta el fenómeno de El Niño se está en la condición crítica4 definida según la Resolución CREG-071 de 2006, por lo tanto la planta térmica es requerida a plena ENFICC durante todo el tiempo de duración del fenómeno de El Niño, se puede hacer el siguiente análisis:
+• Desde el punto de vista de hidrologías, los ejercicios realizados consideran que el
+fenómeno de El Niño, desde el momento inicia hasta su finalización, afectan las hidrologías tal forma que lleva a que se hagan efectivas las Obligaciones de Energía Firme del parque térmico, situación que no ha sido así. Por lo tanto, en la condición real los resultados presentados en el análisis podrían ser más favorables.
+• Las variables relevantes para el caso de plantas térmicas en lograr una producción de
+energía a menor costo son: ^eficiencia y ii)costo del combustible.
+• Las señales de precios del cargo inducen a la utilización de los combustibles de menores costos, tal como es la práctica internacional para la generación de energía eléctrica5.
+• Las plantas más eficientes tiene un mayor rango de ganancias.
+• Las plantas que utilizan combustibles costosos, son viables en la medida en que la
+planta tenga una alta eficiencia.
+• La conversión de las plantas térmicas existentes, es una alternativa competitiva en el
+caso de Fuel Oil #2 para plantas eficientes y para el caso de Fue! Oil #6 en todas las plantas.
+• Algunas plantas térmicas con eficiencias superiores a 8 MBTU/MWh, pueden gestionar cierres de ciclo para el uso de combustibles de alto costo sea viable.
+• Las plantas térmicas con tecnologías de vapor y con las eficiencias actuales, son viables técnica y financieramente para la utilización de cualquier combustible líquido.
+Teniendo en cuenta lo anterior, desde el punto de vista de eficiencia energética, no se encuentran razones que sugieran la necesidad de hacer un cambio en el precio de escasez.
+4 En las épocas donde se ha presentado el fenómeno del El Niño los requerimientos de generación de las plantas térmicas a plena capacidad es inferior al período de duración del fenómeno. 5 Documento CREG-039 de 2006 “Contratación de Suministro de Combustible para Generación Eléctrica".
+DOC CREG-047 DE 2007
+I
+
+
+Sesión No. 336
+ANEXO
+SENBILIDAD A LA TASA DE DESCUENTO
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+TASA DE DESCUENTO DEL 10%
+FUEL OIL #2
+• Plantas Nuevas
+ANÁLISIS PRECIO DE ESCASEZ PLANTA NUEVA CON DIESEL OIL 200,000
+-200,000
+?800,000
+?1,000,000
+PSS
+I-F6.0 l-R7.0 FR8.0 HR8,0 HR 100-----------11.0 HR 12.0-------l-F 13.0-------HR iT oj
+• Planta Existente que se Convierte
+           ANÁLISIS PRECIO DE ESCASEZ PLANTA EXISTENTE CON DIESEL OIL - Inv. Conversión 400.000
+    200,000 </>
+i £ ÜJ 0) c
+Z I
+-400,000
+^ -800,000
+-800.000
+PSS
+I HR fi.O HR 7.0 HR 8 0 HR 0 .0 hR 10 .0 FF 11.0 HR 1 2 .0
+HR
+13,0 HR 14.0
+j
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+FUEL OIL #6
+• Plantas Nuevas
+ANÁLISIS PRECIO DE ESCASEZ PLANTA CON FUEL OIL #6 350,000
+O 100.000
+50.000
+?50,000
+-100,000
+PSS
+| FR 6 .0 hF 7-0 HR8.0 HPS.O —— rfíIO.CÍ------- ^HRII.O HR12.Q ^HR13.0 — H?14.0|
+i
+• Planta Existente que se Convierte
+ANÁLISIS PRECIO DE ESCASEZ PLANTA EXISTENTE CON FUEL OIL #6 - Inv. Conversión
+1* tfi 5
+® 400,000
+z £
+z s 0
+£
+200 OCIO
+PSS
+HR6 ,0 l-R 7.0 HR 8 0 m 9 . 0 --------HR1 0.0 --------HR1 1.0-------- r f íl 2 . 0 — ^ F R 1 3 .0 HR W ,o|
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+TASA DE DESCUENTO DEL 14%
+FUEL OIL #2
+• Plantas Nuevas
+ANÁLISIS PRECIO DE ESCASEZ PLANTA NUEVA CON DIESEL OIL 100.000
+    • 100.000 «/> O c o
+2 -500,000 O. > «0.000
+PSS
+I I - R e o HR7.0 LR8.Ü hRO.O- HR 1 0 .0 -------- H R1 10 (-R 1 2 .0 ------- l-R 13.0 - l-R 14.0
+• Planta Existente que se Convierte
+           ANÁLISIS PRECIO DE ESCASEZ PLANTA EXISTENTE CON DIESEL OIL - Inv. Conversión 200,000 -p
+-100.000
+-500,000
+-600.000
+PSS
+MR 9 .0 hR 1 0 .0 H R ll O HR 6 .0 HR 7.0 hR 12 0 HR 13,0
+DOC CREG-047 DE 2007
+
+
+Sesión No. 336
+FUEL OIL #6
+• Plantas Nuevas
+ANÁLISIS PRECIO DE ESCASEZ PLANTA CON FUEL OIL #6 250.000
+200,000
+S.
+90 000
+Z
+^ -50,000
+- 100.000
+PSS
+| HR 6 0 HR 7 0 HR 8.0 HR 9.0 HR 10.0---------------------- HR 1 2.0-------- HR 13.0 HR M .ü |
+• Planta Existente que se Convierte
+ANÁLISIS PRECIO DE ESCASEZ PLANTA EXISTENTE CON FUEL OIL #6 ? Inv. Conversión
+390.000
+300,000
+200,000
+100.000
+90.000
+s SI
+SftKJlRSSSS
+» K 3
+PSS
+| tiíEL O H r T o hfta.O HR 9 0 Fft 1 0.0--------HR11.0 H R 12 .0 -------- hR 13.0 H R U .o |
+DOC CREG-047 DE 2007

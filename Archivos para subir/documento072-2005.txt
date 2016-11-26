@@ -1,0 +1,328 @@
+Comisión de Regulación de Energía y Gas
+PRINCIPIOS, CRITERIOS DE EVALUACIÓN Y ALTERNATIVAS A LA REMUNERACIÓN POR CONFIABILIDAD EN EL SIN
+-Documento para consulta-
+Documento CREG-072
+Septiembre 6 de 2005
+
+
+1 Introducción................................................................................................................................... 3
+2 Objetivo............................................................................................................................................ 3
+3 Antecedentes..................................................................................................................................4 4 Principios Fundam entales..........................................................................................................4
+5 Criterios de Evaluación...............................................................................................................5
+6 Alternativas......................................................................................................................................7 6.1 Alternativa 1............................................................................................................8 6.1.1 Requerimientos para la implementación de la Alternativa 1:......................... 9 6.2 Alternativa 2 ............................................................................................................9 6.2.1 Requerimientos para la implementación de la Alternativa 2:........................11 6.3 Alternativa 3 ..........................................................................................................11 6.3.1 Requerimientos para la implementación de la alternativa 3..........................12 6.4 Alternativa 4:..........................................................................................................13 6.4.1 Para generadores instalados...........................................................................13 6.4.2 Para nueva capacidad de generación:............................................................14 6.4.3 Requerimientos para la implementación de la alternativa 4..........................15 6.5 Alternativa 5:.........................................................................................................15 6.5.1 Requerimientos para la implementación de la alternativa 5..........................16 6.6 Alternativa 6...........................................................................................................16 6.6.1 Requerimientos para la implementación de la alternativa 6..........................17 6.7 Alternativa 7 ..........................................................................................................17 6.7.1 Requerimientos para la implementación de la alternativa 7..........................18 6.8 Alternativa 8..........................................................................................................18 6.8.1 Requerimientos para la implementación de la alternativa 8..........................19 7 Descripción de los requerimientos para la implementación de las alternativas
+19
+8 Bibliografía.....................................................................................................................................22
+
+
+1 Introducción
+Considerando las características propias de los mercados de energía liberalizados como el implementado en Colombia, en el cual el estado pasa de realizar un papel de único prestador del servicio y planificador central al de regulador, y dada las condiciones características de la producción de energía eléctrica como son, la imposibilidad de almacenamiento como bien terminado (lo que impide producir en un momento del tiempo para consumir durante los picos futuros de demanda) y la poca elasticidad precio de la dem anda en el corto plazo, requiere la implementación de mecanismos que garanticen la suficiencia del sistema, entendida como la disponibilidad de la capacidad firme instalada que perm ita responder de m anera adecuada a los requerimientos de la dem anda en el largo plazo.
+Como solución al problema de la suficiencia del sistema en el largo plazo se han adoptado diferentes alternativas, las cuales comprenden pagos por capacidad o disponibilidad, como el actualm ente implementado en Colombia, mercados de energía y en los últimos tiempos mercados de opciones de confiabilidad.
+Una vez establecida la necesidad de garantizar la suficiencia del sistema, el presente documento aborda algunas de las posibles soluciones, así como algunos de los principios fundamentales que dichas soluciones deberían cumplir.
+2 Objetivo
+El presente documento tiene por objeto
+i). Plantear los principios fundamentales que deben regir la metodología de remuneración del cargo por capacidad que se adopte para el mercado de energía mayorista colombiano.
+ii) Plantear los criterios de evaluación consistentes con cada uno de los principios establecidos, los cuales se usarán para evaluar el grado de cumplimiento de los principios por parte de cada una de las alternativas que se consideren.
+iii) Plantear un conjunto de alternativas para la remuneración del cargo por capacidad,
+
+
+3 Antecedentes
+Dado que el cargo por Capacidad establecido mediante la Resolución CREG-116 de 1996, tiene vigencia hasta el año 2006, la CREG sometió a consulta de los agentes y terceros interesados la propuesta de Cargo por Confiabilidad contenida en la Resolución CREG-055 de 2005, sobre la cual se recibieron comentarios dentro de los plazos y términos establecidos. Adicionalmente, la Comisión contrató la consultoria de dos expertos internacionales para la revisión del tema, Frank Wolak y Peter Nance, con el propósito de complementar las observaciones presentadas por la industria..
+Del análisis de los comentarios recibidos por parte de la industria, de los informes presentados por lo expertos internacionales y del análisis de experiencias internacionales se identificaron varias alternativas adicionales, las cuales son puestas a consideración y análisis en el presente documento.
+La Comisión ha aprobado la realización de una consulta a la industria con los siguientes objetivos:
+i. Incorporar los conocimientos alcanzados por la industria como resultado de los estudios adelantados por esta en el proceso de definición de la alternativa a implementar.
+ii. Obtener información y comentarios por parte de la industria sobre,
+principios, criterios y nuevas alternativas para el proceso de evaluación, a ser realizado por la Comisión.
+iii. Identificar los requerimientos adicionales para cada una de las
+alternativas propuestas.
+Este documento contiene principios, criterios y alternativas a ser considerados en el proceso de consulta. Adicionalmente, se presentan una descripción general de los diferentes requisitos de funciones que requiere cada alternativa
+4 Principios Fundamentales
+Los siguientes son los principios que considera la CREG para la definición de metodología de cargo por capacidad que se implemente para la rem uneración de los generadores en el mercado mayorista:
+• Eficiencia: Busca la prestación del servicio a mínimo costo.
+
+
+• Adaptabilidad: Incentivo a la incorporación al sector de producción de energía eléctrica de los últimos avances de la tecnología.
+• Continuidad: Prestación sin interrupciones del servicio de energía eléctrica.
+• Eficacia: Comprende los siguientes aspectos generales
+Constituir señal de largo plazo Incentivar a la permanencia de la inversión existente y ejecución de nueva inversión. Asegurar estabilidad. Oportunidad (ciclo de inversión)
+•
+Simplicidad. La metodología debe ser de fácil comprensión y su implementación no debe presentar mayores complicaciones ni dificultades
+• Reciprocidad. Correspondencia m utua entre lo que se pague por cargo por capacidad y lo que se debe exigir como contraprestación a cada agente remunerado por este concepto, o en defecto de esta última, su equivalente económico.
+• Transparencia. La metodología debe ser clara y sin ambigüedades, de tal m anera que la asignación y la remuneración se puedan hacer de m anera imparcial y objetiva.
+Los anteriores principios constituyen la base fundam ental de los criterios de evaluación a ser utilizados para la valoración de cada una de las alternativas propuestas, los cuales se establecen a continuación.
+5 Criterios de Evaluación
+Los siguientes son los criterios propuestos para la evaluación de cada una de las alternativas, correspondientes a cada uno de los principios fundam entales anteriorm ente establecidos.
+Principio: Eficiencia y adaptabilidad.
+Criterios asociados a este principio:
+
+
+Eficiencia Económica:: Permite la prestación del servicio a mínimo costo.
+Coherencia con los precios del mercado; No distorsiona la formación de precios, de corto y largo plazo.
+Principio: Continuidad.
+Criterios asociados a este principio:
+Confiabilidad. Permite asegurar la continuidad en la prestación del servicio, para todos los usuarios del Sistema Interconectado Nacional-SIN-..
+Principio: Eñcacia
+Criterios asociados a este principio:
+Estabilidad: Conduce a una baja volatilidad en la asignación del Cargo por Capacidad en el tiempo, recibida por cada uno de los agentes del mercado, tanto existentes como entrantes.
+Predictibilidad: Posibilita que cualquier agente del mercado pueda estimar la evolución futura de su remuneración por concepto de confiabilidad, con un nivel de probabilidad aceptable .
+Capacidad de previsión: Posibilita la apropiación oportuna de los requerimientos futuros del sistema.
+Riesgos de la actividad de generación: Asigna los riesgos de mercado que corresponden a la actividad de generación.
+Capacidad de atraer Inversión Directa: es un esquema competitivo en el mercado internacional para atraer inversión en nuevos proyectos de generación.
+Principio: Simplicidad:
+Criterios asociados a este principio:
+Simplicidad: Es compleja para la comprensión, aplicación y control, desde el punto de vista práctico y teórico.
+
+
+Tiempo de implementación: Tiene un período esperado de tiempo requerido para poner en operación una alternativa especifica.
+Nivel de cambios requeridos al modelo económ ico existente: Conduce a cambios con respecto al esquem a actual.
+Principio: Reciprocidad.
+Criterios asociados a este principio:
+Remuneración del “servicio de confiabilidad”: Identifica el servicio a remunerar.
+Verificabilidad: Permite medir la potencial entrega del bien que se está remunerando.
+ExigibUidad: Permite hacer exigible la entrega del bien que se está rem unerando o su equivalente económico.
+Principio: Transparencia
+Criterios asociados a este principio:
+Claridad de las metodologías: Los procedimientos y la información a utilizar deben estar expresamente definidas sin ambigüedades, de tal m anera que pueda haber pleno conocimiento de todos estos elementos (no caja negra).
+Verificabilidad de los resultados: Permite reproducir los resultados por parte de los agentes.
+6 Alternativas
+A continuación se presentan ocho alternativas posibles para la remuneración del cargo por Capacidad que se presentan m ás adelante, las cuales consideran tanto mecanismos de mercado como administrados, así como mecanismso de remuneración por energía o por disponibilidad o capacidad. De m anera general se pueden caracterizar, como se m uestra en la figura l,en:
+ i. Mecanismos administrados en los cuales se rem unera potencia, ii. Mecanismos de mercado en los que se rem unera capacidad, iii. Mecanismos de mercado en los que se rem unera energía,
+
+
+Mercado
+Alternativa
+Alternátivas 2-4-7-S
+Energía Capacidad
+Alternativas 1-2-3-4-5
+Administrado
+Figura 1: caracterización de las alternativas
+6.1 Alternativa 1
+En general corresponde a la metodología establecida actualmente, mediante la Resolución CREG-116 de 1996, considerando algunas modificaciones, en especial la determinación de la Energía Firme, la cual se realizaría el procedimiento general que se establecerá para todas las alternativas identificadas:
+• Anualmente y para cada una de las plantas existentes se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin.
+• El procedimiento denominado “K” establecido mediante la Resolución CREG-116 de 1996, se sustituiría por el despacho realizado por el modelo hidrotérmico en el período de dem anda alta. Para el efecto la demanda de potencia en dicho periodo se aum entaría por un factor del 5%.
+
+
+• En el proceso de asignación solo se concederían aquellos recursos instalados o los que entren en operación comercial durante alguno de los meses del verano para el cual se esta realizando la asignación.
+• La asignación a cada recurso de generación se realizaría considerando la Energía Firme dentro de cada bloque de demanda, así como los costos variables de cada uno, determinados mediante un mecanismo definido por la CREG.
+• La asignación de Cargo por Capacidad para cada uno de los recursos se realizaría anualmente.
+• El pago del Cargo por Capacidad se realiza considerando la disponibilidad real de cada uno de los recursos de generación, en los términos establecidos en la reglamentación vigente.
+• El costo unitario expresado en US$/kW -mes de la tecnología eficiente a ser utilizado para la remuneración de la confiabilidad sería definido por la CREG, con base en una planta eficiente y el bloque de dem anda a remunerar.
+6.1.1 Requerimientos para la implementación de la Alternativa 1:
+Para efectos de la adecuada implementación de esta alternativa se requiere disponer de:
+• Módulo para la determinación de Energía Firme.
+• Proyección de demanda
+• Pruebas de disponibilidad.
+• Mecanismo de verificación.
+• Determinación del costo unitario a remunerar.
+• Mecanismo de recaudo.
+6.2 Alternativa 2
+• Corresponde al mecanismo propuesto mediante la Resolución CREG-050 de 2004,. por la cual se sometió a consideración de los agentes y demás interesados el documento CREG 038 de 2004, el cual contiene una propuesta para la determinación y asignación del Cargo por Confiabilidad en el Mercado de Energía Mayorista
+• Anualmente cada generador remite a la CREG una oferta de precios, la cual se utilizará para el proceso de asignación.
+
+
+Para cada planta se certifica su Energía Firme y la asignación se realiza considerando los precios ofertados por cada uno de los generadores.
+El cargo por confiabilidad asociado con la Energía Firme se rem unera durante las 24 horas del día de despacho a un costo unitario expresado en US$/kW-mes, establecida por la CREG, con base en una planta eficiente y el bloque de dem anda a rem unerar.
+Una vez se asigna la Energía Firme se procede a realizar la asignación de potencia firme mediante un mecanismo de subasta en el cual cada agente generador debe ofertar el costo unitario expresado en US$/kW -mes, al cual espera ser remunerado, la asignación se realiza hasta el punto en el cual se cubre la demanda máxima de potencia.
+La rem uneración por potencia firme se realiza durante las cuatro (4) horas del período de punta, al costo marginal resultante del proceso de subasta.
+La oferta de costos variables y de valor de agua realizada por cada uno de los generadores constituye un techo al precio de oferta que pueden realizar al mercado de corto plazo (bolsa).
+La cantidad de potencia firme contemplada en la subasta corresponde a la diferencia entre la dem anda máxima de potencia y la potencia media asociada con la Energía Firme asignada.
+Se establece un mercado secundario en el cual los generadores que fallan en entregar una disponibilidad igual o superior a su asignación de potencia firme, deban adquirirla de aquellos generadores que tiene potencia disponible no rem unerada, si en dicho mercado no existe disponibilidad el generador debe pagar al costo de racionamiento.
+En el proceso de asignación del cargo por confiabilidad por Energía Firme y en la subasta de potencia solo participan los generadores ya instalados.
+La asignación se realiza de m anera anual.
+
+
+6.2.1 Requerimientos para la implementación de la Alternativa 2:
+Para efectos de la adecuada implementación de esta alternativa se requiere disponer de:
+• Módulo para la determinación de Energía Firme.
+• Proyección de demanda.
+• Pruebas de disponibilidad.
+• Mecanismo de verificación.
+• Determinación del costo unitario a remunerar.
+• Mecanismo de recaudo.
+• Mecanismo de seguimiento.
+• Diseño de subasta de potencia.
+• Diseño del mercado secundario.
+6.3 Alternativa 3
+Contempla una alternativa administrada de rem uneración de capacidad, con las siguientes características.
+• Anualmente se establece para cada período de dem anda y con un horizonte de 5 años la capacidad confiable de generación, la cual corresponde a la capacidad mínima requerida para atender la dem anda esperada por la UPME.
+• Para cada una de las plantas existentes se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin
+• La asignación se realiza de m anera anual para los siguientes cinco (5) años, como se m uestra en la siguiente figura 2, período durante el cual se realizan ajustes anuales por variaciones en el índice de indisponibilidad.
+
+
+Capacidad firmé existente
+5 3 4 1 2
+Años Figura 2, asignación por cinco (5) años del cargo por capacidad.
+• El costo unitario expresado en US$/kW -mes a rem unerar es definido por la CREG, con base en una planta eficiente y el bloque de dem anda a remunerar.
+• Se asigna la capacidad confiable seleccionando la capacidad firme de cada una de las plantas de menor costo variable.
+• Cada año se asigna para los siguientes 5 años la capacidad incremental que no ha sido asignada.
+• El cargo se actualiza cada año para las nuevas asignaciones.
+El cargo antes establecido se reconoce a las capacidades que se asignen cada año.
+• El procedimiento de asignación se realiza cada cinco (5) años.
+6.3.1 Requerimientos para la implementación de la alternativa 3.
+Para efectos de la adecuada implementación de esta alternativa se requiere disponer de:
+• Módulo para la determinación de Energía Firme.
+• Proyección de demanda.
+• Pruebas de disponibilidad.
+
+
+• Mecanismo de veriñcación.
+• Determinación del costo unitario a remunerar.
+• Mecanismo de recaudo.
+• Mecanismo de seguimiento.
+6.4 Alternativa 4:.
+Esta alternativa contempla una asignación adm inistrada de cargo por capacidad para el parque existente y un mecanismo de subastas de nueva capacidad para atender la dem anda incrementa!.
+6.4.1 Para generadores instalados
+• Anualmente se establece para cada período de dem anda y con un horizonte de 5 años la capacidad confiable de generación, la cual corresponde a la capacidad mínima requerida para atender la dem anda esperada por la UPME.
+• Para cada una de las plantas de generación se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin
+• Para cada generador existente la asignación de potencia firme a ser rem unerada tiene un periodo de vigencia de cinco (5) años, durante el cual se realizan ajustes anuales por variaciones en el índice de indisponibilidad, mediante una metodología establecida por la CREG.
+• La asignación a cada generador se realiza considerando el costo variable de cada uno de estos, determinados mediante un mecanismo definido por la CREG.
+• Para los generadores con asignación antes adelantada la primera subasta, el costo unitario a rem unerar es definido por la CREG, con base en una planta eficiente y el bloque de dem anda a remunerar.
+• Después de realizada la primera subasta el costo unitario a ser remunerado a los generadores existentes corresponde al costo unitario resultante de cada uno de los procesos de subasta.
+
+
+6.4.2 Para nueva capacidad de generación:
+• Anualmente se establece para cada período del horizonte de cinco (5) años la capacidad confiable de generación incremental requerida para atender la demanda con la confiabilidad definida por la UPME.
+Capacidad instalada en 1=0
+Potencia firme en t=0
+Nueva capacidad firme requerida
+1 1 Capacidad a ser asignada Años
+Figura 3, asignación a generadores existentes y subasta de nueva capacidad
+El valor incremental se obtiene de la diferencia entre el valor de la demanda pico esperada y la capacidad confiable total instalada para cada bloque de dem anda (punta,media,base) y asignada en cargo por capacidad a los generadores existentes durante cada uno de los años.
+Una vez se identifica la nueva capacidad requerida se subasta en un proceso a nivel internacional donde cada oferente compite por el precio de la capacidad en US$/kW-mes, para cada bloque de carga.
+Para cada una de las plantas se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin.
+La capacidad firme asignada a cada oferente en el proceso de subasta tiene una vigencia de diez (10) años, contados a partir de la fecha para la cual fue asignada dicha capacidad. Con lo cual el generador se compromete a tener una disponibilidad de capacidad firme y de la Energía Firme corre spondiente.
+
+
+Cada nuevo generador deberá constituir las garantías de cumplimiento de entrada en operación, que para tal efecto determine la CREG.
+El procedimiento de subasta será realizado para cada uno de los bloques de la curva de dem anda (base, media, alta), y cada generador podrá participar según las características de su Energía Firme previamente certiñcada.
+Para todos los efectos la CREG establecerá un precio techo aplicable al mercado de corto plazo, el cual debe ser considerado por los generadores al momento de realizar sus ofertas en el proceso de subasta.
+6.4.3 Requerimientos para la implementación de la alternativa 4.
+Para efectos de la adecuada implementación de esta alternativa se requiere disponer de:
+• Módulo para la determinación de Energía Firme.
+• Proyección de demanda.
+• Pruebas de disponibilidad.
+• Mecanismo de verificación.
+• Determinación del costo unitario a rem unerar para los generadores existentes.
+• Mecanismo de subasta.
+• Mecanismo de recaudo.
+• Mecanismo de seguimiento.
+• Esquema de garantías.
+• Diseño de incentivos.
+6.5 Alternativas:
+Esta alternativa corresponde a la primera parte de la propuesta presentada por el consultor Peter Nance, la cual es complementaria con la propuesta de energía presentada por Frank Wolak y tiene las siguientes características.
+• Convertir el actual cargo por capacidad en un contrato de potencia asimilable a una opción del tipo cali, con un precio de ejercicio igual al precio promedio de bolsa para los últimos cinco (5) años y un precio de mercado igual al precio promedio de bolsa para el último mes.
+
+
+• Mediante un proceso de despacho bajo condiciones hidrológicas criticas se determina de m anera centralizada la Energía Firme de cada generador la cual determina su CRT, la cual es rem unerada a una tarifa fija (ej, 5.25 US$/kWh-mes) definida por el regulador.
+• Durante cada mes el generador deberá realizar un pago al mercado mayorista igual a:
+Pago = CRT*min(0, Pm-P5);
+Donde
+P5: Precio promedio de bolsa últimos cinco (5) años. Pm: precio promedio de bolsa del mes.
+• Lo anterior implica que para los casos en los cuales el precio promedio de los últimos cinco (5) años P5, sea inferior al precio promedio del mes anterior el sistema ejerce automáticamente la opción y el generador ve disminuida su remuneración por concepto de CxC, en el monto correspondiente al pago arriba señalado.
+6.5.1 Requerimientos para la implementación de la alternativa 5.
+Para efectos de la adecuada implementación de esta alternativa se requiere disponer de:
+• Módulo para la determinación de Energía Firme.
+• Proyección de dem anda
+• Pruebas de disponibilidad.
+• Mecanismo de verificación.
+• Determinación del costo unitario a remunerar.
+• Mecanismo de recaudo.
+• Mecanismo de seguimiento.
+• Esquema de garantías.
+6.6 Alternativa 6.
+Esta alternativa corresponde a la propuesta del mercado de energía sin cargo por capacidad realizado por Frank Wolak, en el cual la capacidad de generación de respaldo se incluye en los contratos de largo plazo firmados entre la dem anda y los generadores.
+
+
+Se debe requerir a cada uno de los comercializadores contratar un portafolio de productos.
+El portafolio de productos adquiridos por el comercializador puede estar conformado por contratos del tipo “forward” o por opciones del tipo cali sobre Energía Firme.
+El regulador debe establecer la composición del portafolio, por ejemplo para un año se puede requerir que el 90% se contrato mediante contratos “forward” y el 10% restante mediante opciones cali con un precio de ejercicio determinado, para el caso de horizontes de entrega mayores el 90% puede ser reducido y el 10% incrementado.
+Se debe implementar un mercado secundario que perm ita al comercializador ajustar sus desviaciones frente al contrato, por ejemplo al comercializador que pierde un usuario liberar la Energía Firme y al entrante adquirirla.
+6.6.1 Requerimientos para la implementación de la alternativa 6.
+Para efectos de la adecuada implementación de esta alternativa se requiere disponer de:
+• Módulo para la determinación de Energía Firme.
+• Pruebas de disponibilidad.
+• Mecanismo de verificación.
+• Determinación del costo unitario a remunerar.
+• Mecanismo de recaudo.
+• Mecanismo de seguimiento.
+• Esquema de garantías.
+• Proyección de dem anda por comercializador.
+• Mercado secundario.
+• Mecanismo de subasta para e mercado de contratos.
+6.7 Alternativa 7
+Esta alternativa constituye un mercado de capacidad asignado mediante un procedimiento de subasta.
+• Para cada una de las plantas se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin
+
+
+• Se establece la dem anda esperada para cada bloque para el período de 10 años .
+• Anualmente se realiza una subasta para cada uno de los bloques de dem anda en la cual pueden participar tanto las plantas existentes como las entrantes, considerando su Energía Firme previamente certificada.
+• En la subasta el generador debe ofertar la prima con la que espera ser remunerado, expresada en US$/kW-mes.
+• Cada generador adquiere un compromiso con el sistema por un período de diez (10 años), equivalente a su potencia firme rem unerada y la Energía Firme correspondiente.
+• La rem uneración recibida por cada generador asignado corresponde al precio ofertado en el proceso de subasta.
+6.7.1 Requerimientos para la implementación de la alternativa 7.
+Para efectos de la adecuada implementación de esta alternativa se requiere disponer de:
+• Módulo para la determinación de Energía Firme.
+• Proyección de demanda.
+• Pruebas de disponibilidad.
+• Mecanismo de verificación.
+• Mecanismo de recaudo.
+• Mecanismo de seguimiento.
+• Esquema de garantías.
+• Mecanismo de subasta
+• Proyección de dem anda por comercializador.
+• Mercado secundario.
+6.8 Alternativa 8
+• El producto adquirido corresponde a una opción de capacidad del tipo cali, la cual le otorga el derecho al comprador mediante el pago de una prima, m as no la obligación de adquirir un bien determinado en un momento del tiempo a un precio pactado previamente denominado precio de ejercicio.
+
+
+• El mercado o el operador deben adquirir de los generadores un volumen determinado de opciones de confiabilidad, definido por el regulador.
+• El regulador establece el precio de ejercicio de la opción el cual se propone sea superior al 25% del CMg del generador m ás costoso que se espera despachar en un período determinado.
+• La asignación se realiza mediante un mecanismo de subasta en la cual los generadores ofertan la prima de la opción, expresada en US$/kW -mes, considerando la Energía Firme certificada para cada uno.
+• Para cada una de las plantas se certifica la Energía Firme de conformidad con el procedimiento establecido para tal fin
+• Cuando el precio del mercado spot supere el precio de ejercicio el generador debe pagar al mercado la diferencia de precios por el volumen total comprometido.
+• Se establece una penalización para los generadores requeridos en el despacho y que se encuentren indisponibles.
+6.8.1 Requerimientos para la implementación de la alternativa 8.
+Para efectos de la adecuada implementación de esta alternativa se requiere disponer de:
+• Módulo para la determinación de Energía Firme.
+• Proyección de demanda.
+• Pruebas de disponibilidad.
+• Mecanismo de verificación.
+• Mecanismo de recaudo.
+• Mecanismo de seguimiento.
+• Esquema de garantías de opciones.
+• Mecanismo de subasta
+• Mercado secundario de opciones.
+7 Descripción de los requerimientos para la
+implementación de las alternativas
+
+
+A continuación se describen los requerimientos necesarios para la adecuada implementación de cada una de las alternativas:
+• Determinación de la Energía Firme de las plantas de generación: Procedimiento realizado por una entidad independiente, basado en un despacho hidrotérmico bajo condiciones de hidrología crítica y considerando los contratos de suministro y transporte de combustible para el caso de los generadores térmicos a gas y/o otros combustibles, así como la disponibilidad y capacidad del sistema nacional de transporte de gas natural, mediante el cual se determina la Energía Firme de cada planta de generación, tanto de las existentes como de las entrantes.
+El proceso de despacho hidrotérmico y la determinación de la Energía Firme de cada una de las plantas de generación será realizado considerando una curva de duración de carga con tres bloques de demanda como se m uestra en la siguiente figura.
+Ita
+Media
+Base
+% tiempo
+• Proyección de demanda: Procedimiento mediante el cual se determina la demanda bien sea del sistema o de cada uno de los comercializadores a ser utilizada durante el período para el cual se realiza la asignación.
+• Modelo de subasta: Especificaciones de la subasta a ser utilizada, para el cual se debe definir, entre otros, las características del producto objeto de la subasta y el tipo de subasta a ser utilizado, la cual será realizada por una entidad independiente.
+
+
+• Garantías: Procedimiento mediante el cual se determinan las garantías que deben ser aportadas por cada uno de los generadores entrantes, así como por aquellos existentes que incrementan su capacidad.
+• Esquema de seguimiento: Procedimiento mediante el cual se realiza un control periódico de los compromisos adquiridos por los generadores entrantes y por aquellos que increm entan su capacidad.
+• M ecanismo de recaudo: Definición del mecanismo de recaudo del cargo por capacidad a ser implementado, el cual pude ser mediante un piso al precio de bolsa
+• Pruebas de disponibilidad: Procedimiento mediante el cual se verifica la disponibilidad declarada por los generadores que están siendo rem unerados por cargo por capacidad.
+• Retiro de generadores: Procedimiento mediante el cual se establece el mecanismo de ajuste a la asignación de cargo por capacidad por el retiro del mercado de aquellos generadores que tienen asignación de cargo por capacidad.
+• Incentivos: Mecanismos mediante los cuales se garantice el cumplimiento de los compromisos adquiridos por los generadores con asignación de Cargo por Capacidad.
+El diseño detallado de estas funciones se hará para la alternativa o alternativas que la Comisión considere deban pasar al proceso análisis detallado.
+La siguiente figura presenta el resumen de los requerimientos de cada una de las alternativas.
+
+
+Alternativa / Requerimientos A1 A2 A3 A4 AS A6 A7 AS
+Pruebas de disponibilidad Degradación y retiro Incentivos Mercado secundario Energía firme Despaho Hidrotérmico Proyección de demanda Subasta Verficación Recaudo Determinar valor Garantías Seguimiento
+B
+No requerida
+                                           Requerida Requerimientos de cada una de las alternativas
+8 Bibliografía
+Nance, P (2005). Cargo por Confiabilidad Y Sistema Electrónico de Contratos Estandarizados. Final report, disponible en www.creg.gov.co
+TERA (2000), Mínimos Operativos, Cargo por Capacidad y Estatuto de racionamiento, disponible en www.creg.gov.co.
+Wolak, F (2005). Report on “Proposal for Determining and Assigning the Reliability Charge for the Wholesale Energy Market” and “Electronic System of Standardized Long-Term Contracts (SEC)”, disponible en www.creg.gov.co
+Vasquez, et al (2002). A market approach to long-term security of supply: IEEE Transactions on Power Systems , Vol. 17. No 2, Pp 349-357-389.

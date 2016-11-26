@@ -1,0 +1,83 @@
+Comisión de Regulación de Energía y Gas
+Producto Asociado a las Obligaciones del Cargo por Confiabilidad
+Documento para Consulta
+DOCUMENTO
+                 CREG-075 6 DE SEPTIEMBRE DE 2006
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA
+
+
+AJUSTES AL PRODUCTO Y AL PROCESO DE LIQUIDACIÓN DE LA OBLIGACIONES DE ENERGÍA FIRME
+Antecedentes:
+Mediante la Resolución CREG-043 de 2006, la CREG sometió a comentarios de los agentes y terceros interesados el proyecto de Resolución por el cual se establece la metodología para la remuneración del Cargo por Confiabilidad en el Mercado mayorista. Dicha metodología establece las características del producto a ser considerado para la remuneración de Cargo por Confiabilidad, así como el procedimiento de liquidación del mismo.
+Como resultado de los comentarios recibidos en materia del producto y el proceso de liquidación, la CREG analizó las diferentes alternativas contenidas en el presente documento, con el fin de realizar los cambios requeridos, tanto a la definición del producto como al proceso de liquidación.
+Análisis del producto:
+Tal y como lo establece la Resolución CREG-043 de 2006, el producto Obligación de Energía Firme está definido como:
+“Obligación de Energía Firme: Vínculo resultante de la Subasta o de una asignación administrada, que impone a un generador la necesidad de generar en cada hora, de acuerdo con el Despacho Ideal, una cantidad de energía durante el Período de Vigencia de la Obligación de Energía Firme, y cuando el Precio de Bolsa supere el Precio de Ejercicio. Esta cantidad de energía corresponde a una proporción de la demanda horaria real, sin considerar Transacciones Internacionales de Electricidad, calculado para las estaciones de verano e invierno de acuerdo con el procedimiento definido en esta resolución."
+De la anterior definición se desprende que en los casos en los cuales la obligación de energía firme se ejerce, el generador podría estar obligado a generar valores superiores a su capacidad efectiva. Por lo cual, para que la obligación de energía firme se encuentre respaldada con un activo de generación, se analizan las siguientes alternativas:
+1. Subasta combinatoria: Las subastas combinatorias son procedimientos de formación de precios para los casos en los cuales existen múltiples bienes que tienen características de complementariedad y sustitución, en este caso potencia y energía. En este orden de ideas las subastas combinatorias
+
+
+permiten a los agentes hacer explícitas las características de sustitución y complementariedad de los bienes objeto de la misma. En una subasta combinatoria de bienes complementarios como es el caso de la energía (E) y la potencia (P) cada generador debe enviar un paquete K(E,P), con el cual se realiza la subasta en la que se tiene un proceso de formación de precios, tanto para la energía como para la potencia.
+Pe Pp
+Ea De
+Pa
+Figura 1, subasta combinatoria.
+En la figura 1, con las parejas de potencia y energía enviadas por cada uno de los generadores se construyen las funciones de exceso de oferta, tanto de energía como de potencia, y el proceso se continúa hasta que uno o ambos bienes no presentan exceso de oferta. Para el ejemplo de la figura 1, el mercado de energía despeja a un precio positivo y se asigna una cantidad de energía Ea, la cual requiere una potencia Pa; para este ejemplo el mercado de potencia presenta un exceso de oferta con la potencia necesaria para producir la energía Ea, y por lo tanto su precio es cero. En general la situación normal es que uno de los dos sea cero y solo en eventos muy raros ambos bienes podrían despejar con precio diferente de cero, solamente cuando los dos productos sean escasos.
+Ahora bien, la implementación de una subasta combinatoria podría resolver de manera eficiente el proceso de formación de precios de la potencia, pero enfrenta nuevamente (en menor escala) al sistema con el problema que originalmente se pretendía resolver (obligación de generar valores superiores a la capacidad de las plantas), en este caso un generador que por sus características en condiciones críticas produce su energía en los períodos de punta se vería obligado, aún en los casos en los cuales cumplió con su obligación de energía firme diaria a pagar diferencial de precio por incumplimiento.
+
+
+800.00 n
+700.00 -
+600.00 -
+500.00
+400.00 -
+300.00 -
+200.00
+100.00
+0.00
+Generación Obligación (6% demanda)
+Gráfica 1. Obligación de energía firme vs despacho ideal.
+La anterior situación se presenta en la medida en que es el operador del sistema quien mediante el despacho óptimo establece el nivel de producción horario de cada uno de los recursos del generador.
+Por lo anterior se considera que las subastas combinatorias no permiten resolver adecuadamente el problema de la forma como se debe exigir la obligación de energía firme a cada uno de los generadores.
+2. Subasta simultánea: La subasta simultánea es un mecanismo común para la formación de precios de bienes sustitutos, mediante la cual cada uno de los oferentes decide a cuál de los mercados existentes (tantos como bienes existan) enviar su producto. Para el caso del cargo por confiabilidad esto requiere la definición de diferentes productos, que puede ser un procedimiento complejo, en este sentido se analiza la alternativa de dos productos, uno de base y uno de seguimiento de demanda, tal y como se muestra en la Figura 2.
+9000
+•
+8000
+7000
+6000
+5000
+4000
+3000
+2000
+1000
+1 3 5 7 9 11 13 15 17 19 21 23
+
+
+Figura 2, Base y seguimiento de demanda.
+Si bien este procedimiento puede resolver el problema para algunos generadores, los que no están en la base enfrentan el mismo problema.
+3. Contratos de compensación firmados ex_ante: En este caso cada uno de los generadores deben firmar los contratos de compensación establecidos en la Resolución CREG-043 de 2006 de manera anticipada a la asignación de las obligaciones de energía firme, de tal forma que cada uno cuente con la energía y la potencia necesaria para dar cumplimiento a las obligaciones asignadas. Este mecanismo implica que cada uno de los generadores debe encontrar dentro del sistema y con una anticipación de tres años el generador que es complementario en el despacho cuando se den las condiciones críticas. Esta condición necesaria para alcanzar la eficiencia del mecanismo establecido, puede ser difícil de lograr, implicando que las asignaciones exante podrían no ser eficientes expost.
+4. Entrega de la energía firme asociada a la obligación utilizando el despacho ideal: El objetivo del despacho económico es asignar los recursos para atender la demanda con los criterios de economía, seguridad y calidad, de esta forma todas las plantas despachadas permiten seguir la curva de carga y además cada recurso es despachado de acuerdo con sus características técnicas y económicas. Si bajo condiciones críticas es exigida la energía firme y esta es entregada en la misma forma que lo requiere el despacho se cumplen las dos condiciones de seguimiento de curva de demanda y entrega de energía firme.
+Para dar cummplimento a este concepto se tendría el siguiente mecanismo de distribución de la energía firme en el tiempo y de su verificación diaria y horaria.
+Para cada uno de los días de operación en los cuales el Precio de Bolsa supere el Precio de Ejercicio por lo menos durante una hora, la verificación del cumplimiento de entrega de energía firme se hará así:
+Verificación diaria del cumplimiento de la obligación de energía firme :
+Para cada generador diariamente se verificará si su Generación Ideal (GI) es mayor que la Obligación Diaria de Energía Firme (ODEF):
+Cuando DIF = (GI-ODEF) = 0; El generador cumplió con su obligación.
+Cuando DIF = (GI-ODEF) < 0; El generador incumplió su obligación.
+Cuando DIF = (GI-ODEF) > 0; El generador cumplió
+
+
+Distribución horaria de la obligación energía firme total:
+La energía firme horaria (Efh) adquirida en la subasta se determina mediante el siguiente procedimiento:
+Si la Demanda Diaria de Energía (DDE) es menor o igual que la Obligación Diaria de Energía Firme Total (ODET), la EFh es igual a la demanda real de la hora respectiva.
+Si la DDE es mayor que la ODET, la EFh será igual a la demanda real de la hora afectada por la proporción resultante de dividir la ODET sobre DDE.
+Distribución horaria de la obligación de energía firme de cada Generador que excede su obligación:
+Para cada generador para el cual DIF > 0, se determina su Obligación Horaria de Energía Firme (OHEF) mediante el siguiente procedimiento:
+Se multiplica la Generación Ideal del generador en cada una de las horas por el factor resultante de dividir ODEF sobre la GI.
+Determinación de cantidades del incumplimiento horario
+Las cantidades totales del incumplimiento son iguales a la generación por encima de la obligación de energía firme menos la cantidad de demanda que supera la energía firme horaria adquirida en la subasta conforme a la siguiente expresión:
+                              SGI - SOHEF - (DR - Efh) SGI: Sumatoria de la Generación Ideal de todos los generadores para los cuales la variable DIF es mayor que cero. SOHEF: Sumatoria de las Obligaciones Horaria de Energía Firme de todos los generadores para los cuales la variable DIF es mayor que cero. DR: Demanda real de energía horaria. Efh: Energía firme horaria adquirida en la subasta.
+Esta cantidad será asignada entre generadores incumplidos a prorrata de la diferencia DIF encontrada para ellos.
+De esta forma se establece el cumplimiento o no de la obligación. En el proceso de liquidación se determinan los débitos o créditos por el cumplimiento o incumplimiento de la obligación horaria de energía firme.
+
+
+Por todo lo anterior se recomienda adoptar esta última alternativa como el mecanismo mediante el cual se le debe exigir la obligación de energía firme a cada uno de los generadores.

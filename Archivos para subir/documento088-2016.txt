@@ -1,0 +1,243 @@
+Comisión de Regulación de Energía y Gas
+ALTERNATIVAS PARA DEFNR EL PRECO DE ESCASEZ
+DOCUMENTO CREG-088
+27 DE SEPTEMBRE DE 2016
+MIEMBRos DE LA COMISIÓN DE REGULACION DE ENERGIA Y GAS
+
+
+SeSión NO. 733
+Contenido
+1. ANTECEDENTES............................................................................................... 6 2. MOTIVACIONES DEL CAMBOAL PRECO DE ESCASEZ. 8 2.1 Variación de precios de combustibles líquidos................................. 9 2.2 Variación de la matriz energética............................ 11 2.3 Síntesis............................................ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . • • • • • • • • • • • • • • • • • • 11 3. EXTERNALIDADES DEL PRECO DE ESCASEZ Y CRTERIOS PARA LA EVALUACIÓN DE ALTERNATIVAS PROPUESTAS. 12 4. ALTERNATIVAS DE CAMBO PARA EL PRECO DE ESCASEZ. 13 4.1. Percentil 95 del histórico de precios de bolsa........... 13 4.2. Costo variable de generación con GN en la planta más ineficiente. 15 4.3. Costo variable de la planta térmica más costosa. 15 4.4. Menú de Contratos........................................ 16 4.5. Nivelación de riesgo...................................................... 17 5. RECOMENDACONES..................................................................................... 18 6. REFERENCIAS BIBLOGRÁFICAS. 19
+Ilustración 1: Despacho de recursos en condiciones normales y Crítica, y
+comportamiento del precio de bolsa.......... 9 ilustración 2: Precio bolsa, precio de escasez, precio del fuel oil y precio del diésel oil 10 Ilustración 3: Matriz energética para 2016................................................................ 11 llustración 4: Precios de Bolsa Dic 2006 a Sept 2016. 14
+O-088-16ATERNATIVAS PARA DEFINIR EL PRECIO DE ESCASEZ
+
+
+SeSión NO. 733
+ALTERNATIVAS PARA DEFINR EL PRECTO DE ESCASEZ
+1. ANTECEDENTES
+Con la expedición de la Resolución CREG 071 de 2006 se dio inicio al mecanismo del Cargo por Confiabilidad, cuyo objetivo es asegurar el cubrimiento de la demanda, mediante la expansión del parque generador de forma eficiente. Lo anterior, en cumplimiento de la función delegada a la CREG en el artículo 23 de la Ley 143 de 1994.
+Desde el punto de vista de la demanda, el Cargo por Confiabilidad asegura la disponibilidad de la energía aún en condiciones críticas, que en el caso colombiano están asociados a eventos de bajas hidrologías ante la presencia del Fenómeno de El Niño, a un precio máximo denominado Precio de Escasez. A cambio, la demanda debe remunerar el servicio de confiabilidad, mediante el pago del Cargo por Confiabilidad, por la energía en firme que comprometen las plantas que participan en este esquema.
+En lo que respecta a los agentes generadores, su participación en el mecanismo del Cargo por Confiabilidad es voluntaria y se materializa mediante la asignación de Obligaciones de Energía Firme (OEF). La asignación de OEF implica para los generadores, por un lado, una serie de compromisos tales como: la construcción de la planta, contar con contratos de suministro de combustibles, estar disponible y entregar la energía firme comprometida, cuando el precio de bolsa supere el precio de escasez. Por otro lado, los beneficios por participar en el Cargo por Confiabilidad son: recibir una remuneración constante del servicio de confiabilidad por el período de asignación de las obligaciones y el pago de la energía, máximo al precio de escasez.
+Teniendo en cuenta lo anterior, el mecanismo del Cargo por Confiabilidad se puede sintetizar en dos elementos: el precio de la confiabilidad, es decir, la prima del Cargo por Confiabilidad y el precio de escasez que es el precio de ejercicio de las obligaciones. Este último precio define el riesgo que los generadores están dispuestos a asumir y la primera, indica el precio al que el generador que tiene la oferta marginal, en la subasta de energía en firme está dispuesta a vender su confiabilidad, dado el riesgo implícito que define el precio de escasez.
+La determinación de la prima del cargo se realiza mediante un proceso competitivo de subasta, en donde cada generación ofrece su energía en firme. Desde la creación del Cargo por Confiabilidad se han adelantado dos subastas, una en mayo de 2008, en donde se obtuvo una prima de 13,998 USD/MWh y la segunda, que se realizó en diciembre de 2011 y cuya prima resultante fue 15,7 USD/MWh.
+Por su parte, el nivel del precio de escasez fue definido por el regulador considerando dos metodologías: el nivel de precio que permitía cubrir un alto porcentaje de la historia de precios de bolsa (percentil e 95%, enero 1997 a diciembre 2005) y los costos variables de la planta más ineficiente que operaba en el sistema al momento de definir el valor. De forma adicional, la indexación mensual se definió de acuerdo con la
+1 Documento CREG 043 de 2006.
+D-088-16 ALTERNATIVAS PARA DEFINR EL PRECO DE ESCASEZ 6 U22?
+
+
+SeSi6.n No. 733
+variación de los precios internacionales del fueloil6, dado que la historia de este precio mostraba un orden similar al del percentil 95% de PSS de la serie histórica precio de bolsa.
+El mecanismo del Cargo por Confiabilidad ha operado ya durante 10 años en el Mercado de Energía Mayorista, y ha logrado concretar la inversión y construcción de 14 proyectos que suman 4.136 MW y que representan 24.819 GWh-año en OEF.
+Adicionalmente, en el reciente Fenómeno de El Niño 2015-2016, las OEF se hicieron exigibles a los generadores como resultado de la activación de la situación crítica, desde el 20 de septiembre de 2015 hasta el 12 de abril de 2016. Gracias al mecanismo del Cargo por Confiabilidad, se mantuvo el suministro de energía para toda la demanda durante todo este periodo, a pesar de que aunada a la baja hidrología se presentaron salidas inesperadas de varias centrales (i.e. Incendio en la planta de Guatapé, salida unidad Termofores V). De igual forma, la demanda estuvo cubierta ante los altos precios de bolsa registrados en este periodo. Dicho cubrimiento representó un ahorro para la demanda de 5.23 billones de COP, lo que corresponde a 2.82 billones de COP en el 2015 y 2.41 billones de COP del 1 de enero hasta 12 de abril de 2016.
+No obstante los logros alcanzados con el Cargo por Confiabilidad, este último periodo crítico requirió de la expedición de medidas complementarias por parte de la CREG. En particular, la Resolución CREG 178 de 2015 se emitió con el fin de asegurar la prestación del servicio de energía eléctrica, mediante la definición de una opción para las plantas térmicas que operaban con combustibles líquidos. Lo anterior, como resultado de que con el nivel de precio de escasez que se registraba hasta el momento, los generadores térmicos con altos costos variables adujeron una imposibilidad financiera para honrar sus OEF.
+La opción diseñada en la mencionada resolución, tuvo como objetivo equiparar el riesgo asumido por este tipo de generadores, en el momento de recibir las asignaciones de OEF para el período 2015-2016 (i.e. diciembre de 2011) y garantizar así, la entrega de la energía comprometida. Durante esta coyuntura se identificó que la disminución del precio de escasez, como resultado de la reducción acelerada del precio internacional del fue ol6”, no se reflejó en la misma proporción en los costos variables de las plantas que operan con combustibles líquidos. Esta situación, aunada a otra serie de eventos impredecibles, implicó que el riesgo asumido por estos generadores (i.e. diferencia entre costos variables y precio de escasez) se incrementara de forma inesperada.
+Por lo anterior, la opción de la Resolución CREG 178 de 2015 consistió en definir un precio de remuneración P”, superior al precio de escasez, con el que se remuneraría la energía de las OEF de los generadores con combustibles líquidos. Dicho nivel se fijó como aquel con el que se pudiera determinar que el riesgo asumido en diciembre de 2011, momento en que se asignaron las OEF 2015-2016, fuera estadísticamente igual.
+Terminado el periodo crítico, la CREG mediante la Resolución CREG 052 de 2016 no prorrogó la opción. Sin embargo, en el documento soporte de dicha resolución,
+* En el documento CREG D-120 de 2015, soporte de la Resolución 178 de 2015, se tiene una discusión detallada de los eventos que se dieron para dicha época.
+D-088-16 ALTERNATIVAS PARA DEFINR EL PRECO DE ESCASEZ
+?????? "
+
+
+SeSiÕ? \O.733
+Documento CREG 024 de 2016, se señala la necesidad de hacer una revisión de precio de escasez, para evitar este tipo de situaciones en el futuro.
+Teniendo en cuenta los antecedentes mencionados anteriormente, las perspectivas futuras en cuanto a la matriz energética y la disponibilidad de combustibles, el objetivo del presente documento es analizar las diferentes alternativas que se podrían dar en cuanto al precio de escasez y su indexador. Este análisis se fundamentará en las características que se definieron debería tener el precio de escasez, e incluirá las lecciones aprendidas durante el Fenómeno de El Niño 2015-2016, las propuestas de los agentes del mercado y las perspectivas del mercado de energía eléctrica en el mediano y largo plazo.
+Este documento se compone de seis (6) partes contando esta introducción. A Continuación, se presentan las motivaciones que sustentan las alternativas de cambio para el precio de escasez. En la tercera parte se presentan las externalidades del precio de escasez en el mercado y en la siguiente se describen y analizan las alternativas propuestas por la CREG en esta materia. Finalmente, se realizan las recomendaciones pertinentes y se lista la bibliografía utilizada.
+2.0 MOTIVACIONES DEL CAMBOAL PRECO DE ESCASEZ
+En la Ilustración 1 se muestra el despacho de recursos de generación y el precio de bolsa para el período comprendido entre enero de 2014 a septiembre de 2016. Durante condiciones normales, es decir, desde enero de 2014 a septiembre de 2015, se puede ver que la demanda se cubre con generación hidráulica entre un 70% y 80% y el resto se cubre con generación a partir de carbón y gas natural. Adicionalmente, durante este periodo no se observan incrementos sostenidos del precio de bolsa (i.e línea naranja).
+Para el período del último Fenómeno de El Niño, es decir, lo que comprende los meses de octubre de 2015 a abril de 2016, la generación hidráulica reduce su participación a un 50%, y la diferencia se genera con carbón, gas y también se requiere la generación con combustibles líquidos. Lo anterior, revela que solamente en presencia de condición crítica entran a operar las plantas que utilizan los combustibles más costosos, a no ser que se requieran por generación de seguridad.
+En la Ilustración 1, se presenta la relación existente entre los cambios de uso de las diferentes tecnologías y los cambios en el precio de bolsa (i.e. Línea naranja punteada). Teniendo en cuenta esta relación, se puede señalar que el precio de escasez debería indicar el nivel de precio de bolsa a partir del cual en el sistema eléctrico se comienzan a despachar recursos que sólo se utilizarían en condición crítica.
+D-088-16 ALTERNATIVAS PARA DEFINR EL PRECO DE ESCASEZ 8
+
+
+SeSi6) No. 733
+Generación por combustible y precios de bolsa
+2.500
+||
+III
+I
+| I I
+I I III.
+lso
+OXO
+1.??0
+??
+??
+??
+J"
+9??
+?? ?? ?? Q3 ????????????????????????????????? ????????????????????????????????? eSS SLeLL SSe eeSS SeL S SL S SL SLL SLeL eeSeieS SLS S SHqiS S SeeeS SLLLL SSeeee S SeeeS S LLLLL LLLL SHeqS S S SLLLL LLLL SHeqS S S SLS S SHqS SqS eeeSS SL SeqS SeeSS SLLL S Heiq eqeS S HqS JL SLLLLL S SSeeee S SLLL SLLLL S SSeeee S SLLL S SSeeee S SSeeee S SLLL SLLLL S SSeeee S SLLL S SLLL SS SS SSeeee S SGLL SS SeS S Seeee S SJLL S SLSLS S SLee S S SLL S SLLL S SSeeee S SLLL SLLLL S Seee S LLLL S SLL SLL SL S L SLLLL
+LICQUIDOS GAS CARBON AGUA == Pbolsa
+Fuente: XML S.A. E.S.P.
+llustración 1: Despacho de recursos en condiciones normales y Crítica, y comportamiento del precio de bolsa
+En concordancia con lo anterior, a continuación se identifican aquellos elementos que pueden afectar el actual precio de escasez, de tal forma, que éste no refleje adecuadamente la Condición crítica.
+2.1 Variación de precios de combustibles líquidos
+En la ilustración 2 se presentan el precio bolsa y el precio de escasez (eje izquierdo) y precio del fuel oilo, diésel oilo internacional y el precio de fuel oil y diésel oil declarado por generadores térmicoso (eje derecho), desde diciembre de 2011 hasta marzo de 2016.
+8 Fuel Oil No. 6, 1% S.
+ Ultra Low Sulfur Diesel o información declarada por los agentes en cumplimiento de la Resolución CREG 034 de 2001 y consolidad por XM en cumplimiento de la Resolución CREG 139 de 2011.
+D-088-16 ALTERNATIVAS PARA DEFENR EL PRECO DE ESCASEZ 9 Va2
+ 
+ 
+
+
+SeSi6.n No. 733
+Precio Bolsa, PE, FO6 y DO
+2CO
+OOO H
+800
+?
+    sCO ?S w
+400 H
+2CO H
+O =
+                  ?? f f fy ????????? *?r *?r ????? 1 ås ? fh f ? ? ? " ? " 7 ? m ? " ? - ? " ? ? ? ? ? ? ? e ? 5 ? ? ? ? ?, ? ?
+PBS/kWh) HI PE {SkWh) — FC{USD/gal; ULS DO 4 USD/gal) — RAOS 4-FO ROBA-C-C
+USD/Gal USCf Gat
+Fuente. XM, UPME y EAo
+llustración 2: Precio bolsa, precio de escasez, precio del fuel oil y precio del diésel oil
+La Ilustración 2 muestra que el precio de los combustibles internacionales (i.e. líneas roja y verde delgadas) es sustancialmente inferior al precio de los combustibles declarados por los agentes generadores (i.e. líneas naranja y azul). Esta diferencia es significativa, a pesar que en el caso del diésel oil, el suministro para las plantas térmicas proviene de los mercados internacionales, según lo reportado por los mismos agentes para el Cargo por Confiabilidad.
+Por su parte, la actualización del precio de escasez que se determinó en la Resolución CREG 071 de 2006 se realiza con la variación de los precios internacionales, puesto que es un mercado competitivo y los agentes generadores tienen acceso a él, sin embargo, la diferencia observada anteriormente, implica que puede existir un desfase entre el costo generación y la remuneración máxima que ellos recibirán a la hora de entregar la energía comprometida en las OEF.
+En síntesis, el uso de los indicadores de los precios de los combustibles líquidos internacionales, en presencia de un precio nacional que no corresponde exactamente al nivel de paridad importación, puede resultar en un precio de escasez que a pesar de usar referentes de mercados eficientes, no refleje la condición crítica cuando los generadores utilizan combustibles suministrados a nivel local. Lo anterior, sin mencionar que adicionalmente la diferencia entre estos precios resulta en un aumento del riesgo asociado al cumplimiento de las CEF, por parte de estos generadores, aunque varios de ellos informan que se cubren con combustibles importados.
+o Energy Information Administration
+O-088-16, A TERNATIVAS PARA DEFINR EL PRECO DE ESCASEZ
+ 
+
+
+SeSión NO. 733
+2.2 Variación de la matriz energética
+En ésta parte del análisis se considera el parque de generación para el 2016 y el cambio que se espera con la entrada de la planta regasificación, utilizando la información de los combustibles declarados para el Cargo por Confiabilidad. La variación de la matriz energética para final de 2016 se presenta en la Ilustración 3 (i.e. panel derecho)
+MATRIZ ACTUAL 2016 MATRIZESPERADA 2016
+PNDC PNDC ?% ?%
+FC
+3%
+                                                                   Fuente XM, SA, ESP A. Agua, CM. Carbón Mineral, DO. Diésel Oil, FO. Fuel Oil, GN. Gas Natural, GN): Gas Natural Importado, PNDC. Plantas No Despachadas Centralmente.
+Ilustración 3: Matriz energética para 2016
+La comparación de la matriz energética actual, frente a la esperada para finales de 2016 permite concluir que con la entrada de la planta regasificadora se producirá un cambio sustancial, en lo que respecta a la participación del gas natural en la generación nacional”. Para finales de 2016, el GN representará el 19% de la capacidad instalada, mientras que el DOo disminuirá su participación pasando del 22% al 13%.
+El desplazamiento en la utilización de diésel y gas natura nacional que ocasionará la regasificadora, provocará que en condiciones normales del sistema, la generación necesaria para cubrir la demanda provenga con alta probabilidad de los recursos hidroeléctricos, el carbón, gas natural y gas natural importado de las plantas más eficientes. Por su parte, la situación crítica estaría definida por el uso de GN en las plantas más ineficientes, lo que actualmente ocurre cuando se utilizan los combustibles líquidos.
+En conclusión, se puede señalar que la entrada de la planta de regasificación y la disponibilidad de GNl para las plantas de generación de la Costa Atlántica constituye una reconfiguración de la matriz energética a partir de 2017, lo que por un lado permite una sustitución de combustibles líquidos y por otra, que la señal para activar la condición crítica, es decir, el precio de escasez, debería contemplar el uso de GN en las plantas térmicas más ineficientes.
+2.3 Síntesis
+7 Gas Natural importando 8 Diésel Oil.
+D-088-16 ALTERNATIVAS PARA DEFINR EL PRECO DE ESCASEZ ??
+ 
+ 
+ 
+ 
+ 
+
+
+SeSión NO. 733
+De acuerdo con los elementos señalados en los numerales 2.1 y 2.2 se encuentra lo siguiente.
+Existe un desfase entre los precios internacionales de los combustibles líquidos y los precios declarados por los agentes, lo que puede tener un efecto sobre la caracterización de la condición crítica y el riesgo de cumplimiento de las OEF.
+La inclusión de GN en la matriz energética tendrá un efecto en las condiciones nomales y críticas de operación del sistema, por lo que el precio de escasez debería indicar el uso de éste combustible en las plantas de generación del sistema.
+3. EXTERNALIDADES DEL PRECIO DE ESCASEZYCRTERIOS PARA LA
+EVALUACIÓN DEALTERNATIVAS PROPUESTAS
+El análisis de las alternativas del precio de escasez deben contemplar las externalidades que tiene en el mercado y que se encuentran correlacionados con el objetivo que se persigue con el Cargo por Confiabilidad, que es garantizar una expansión eficiente del parque generador. De igual forma, el precio de escasez tiene unas externalidades positivas en el mercado, que serán insumos fundamentales en la evaluación de las alternativas propuestas.
+Señal de eficiencia. En línea con la búsqueda de un parque de generación eficiente, el nivel de precio de escasez debe ser tal que incentive a los agentes generadores nuevos y existentes a seleccionar la tecnología y el combustible que los haga competitivos.
+Mitigar poder de mercado. En el mercado de corto plazo se presentan condiciones que pueden ser aprovechadas para el ejercicio de poder de mercado, en particular, en momentos en el que hay una estrechez en la oferta para cubrir la demanda. Dado que en un periodo crítico, los generadores pueden ser pivotales y ejercer poder de mercado, la existencia del precio de escasez mitigatal situación, pues establece un precio máximo que se remunera en condiciones críticas a los generadores. Esto implica que la demanda no se ve perjudicada por los altos precios que puedan resultar del ejercicio de poder de mercado.
+Cubrir a la demanda en situaciones críticas. La consideración de una CEF con un pago constante y un precio de escasez para la entrega de dichas obligaciones, resulta en un ingreso fijo y cierto al generador. A cambio el generador debe entregarla energía comprometida en situación crítica, es decir el suministro está cubierto para la demanda y como ya se mencionó, el precio de escasez la cubre frente a los precios altos que se presentan en condiciones Críticas.
+Gestión de riesgo. En el mercado eléctrico de corto plazo, la predicción de los precios a largo plazo es un ejercicio complejo, por lo que la existencia del precio de escasez y la remuneración constante por confiabilidad, le permite al agente hacer un pronóstico más acertado de un flujo de caja y por ende, una mejor
+O-088-16 A TERNATIVAS PARA DEFINR EL PRECO DE ESCASEZ 12
+
+
+SeSíón NO.733
+estimación de la remuneración de la inversión. Sin embargo, el nivel del precio de escasez no debería interferir con las decisiones de los agentes generadores en la bolsa energía y en el mercado de contratos.
+4. ALTERNAVAS DE CAMBIO PARA EL PRECO DE ESCASEZ
+Teniendo en cuenta que el precio de escasez se puede definir mediante dos componentes: nivel e indexador, en los siguientes numerales se van a presentar las alternativas analizadas por la CREG, de acuerdo con la matriz energética esperada, las propuestas de los agentes y las experiencias recogidas con el último Fenómeno de El Niño.
+41. Percentil 95 de histórico de precios de bolsa
+Teniendo en mente que el precio de escasez debe reflejar la frontera de precios de bolsa que se registran entre la operación normal y la operación de condiciones críticas y que en un mercado competitivo, el precio de bolsa refleja la abundancia o escasez de los recursos, la primera alternativa que se proporte para definir un nivel para el precio de escasez es que éste sea función de los precios históricos de bolsa.
+En la Ilustración 4 se presentan los precios de bolsa que se han registrado en el mercado desde que inicio el Cargo por Confiabilidad (i.e. diciembre de 2006) hasta la fecha. La serie de los precios de bolsa muestran claramente que en los períodos de El Niño (i.e. recuadros azules), los valores son consistentemente altos durante todo el período del evento, comparados con los periodos previos.
+En la medida que los cambios abruptos de los precios de bolsa, indican a su vez el cambio en la composición de los recursos con los que se atiende la demanda, la historia del precio de bolsa puede ser utilizada para construir un indicador (i.e., precio de escasez) que permita detectar que el sistema se encuentra en condición crítica.
+D-088-16 ALTERNATIVAS PARA DEFINIR EL PRECO DE ESCASEZ 13
+
+
+SeSión NO. 733
+Dic.2006 a Sept,2016
+35??
+Precio Horario Bolsa Nacional
+-—
+—
+-—
+—
+—
+?
+??
+—
+—
+-
+Ilustración 4: Precios de Bolsa Dic 2006 a Sept 2016
+Sin embargo, es preciso recalcar que como también se puede ver en la Ilustración 4, los precios de bolsa altos no se limitan únicamente para los períodos en que se ha presentado un Fenómeno de El Niño. Lo anterior, puede explicarse como resultado de las expectativas de los agentes que se reflejan en el precio, antes de que se realicen los eventos y las cuales pueden estar sobre o sub estimadas.
+Teniendo en cuenta lo anterior, la primera alternativa propuesta para determinar el precio de escasez consiste en tomar la historia completa de los precios de bolsa y definir el percentil que permita cubrir un espectro importante de los precios altos de bolsa. En ese sentido, el precio de escasez resultante de esta propuesta resultaría de construir la curva de duración de los precios de bolsa para el periodo comprendido entre el comienzo del Cargo por Confiabilidad y la fecha en que se determine en precio de escasez.
+Con esta metodología, el precio de escasez se definiría a partir del percentil 95 de la historia de los precios de bolsa durante el periodo de funcionamiento del Cargo por Confiabilidad. Una vez definido el nivel, la indexación de éste precio se realizaría mensualmente con el cambio del índice de precios al productor y anualmente se actualiza el cálculo del percentil 95, con la nueva historia de precios de bolsa que se tenga. Lo anterior, con el fin de reflejar los posibles cambios en la composición de la matriz energética que se sucedan en un año.
+D.088-16 ALTERNATIVAS PARA DEFINIR EL PRECO DE ESCASEZ 14.
+ 
+
+
+SeSión NO. 733
+4.2. Costo variable de generación con GNl en la planta más ineficiente
+Como se mencionó en la segunda sección de este documento, la participación de la generación con GNl aumentará notablemente, a partir de finales de 2016, con la entrada en operación de la planta de regasificación.
+Esta reconfiguración del parque generador implica que el uso de GNl para generar y cubrir la totalidad de la demanda podría estar definiendo la frontera entre una situación normal y una crítica. Por lo anterior, la segunda alternativa que se propone para determinar el nivel del precio de escasez es utilizar el costo variable de operación de la planta más ineficiente que utilice GNl como combustible.
+Para encontrar el nivel propuesto se debe tener en cuenta el costo de suministro del gas en un mercado de referencia competitivo, que por su cercanía a la costa nacional, se propone tomar los precios de Henry Hub. Al este precio se le debe adicionar los costos de licuefacción, trasporte por gasoducto y buque así como el costo de regasificación. De igual forma, en esta metodología se deben sumar los costos variables de operación y mantenimiento, los otros costos variables y utilizar el heatrate de la planta más ineficiente que utilice GNl.
+Obtenido el nivel del precio de escasez que se calcularía con la metodología propuesta, se actualizaría mensualmente con la tasa representativa del mercado y con la variación del precio en el mercado referencia seleccionado, es decir, el Henry Hub.
+Vale la pena señalar que a pesar de que en la segunda sección se identificó como problemática la utilización de la variación de los precios de mercados internacionales como indexador del precio de escasez, dada la disparidad con los precios de los Combustibles locales. Para el caso del GNl, el acceso a la infraestructura de importación está garantizada para las plantas térmicas, razón por la que el suministro de gas natural local, sólo sería factible sí su precio es inferior al que se puede comprar en el mercado internacional. Por lo que se espera que no haya tal dualidad con el GN.
+4.3.Costo variable de la planta térmica más costosa
+La tercera alternativa propuesta para la determinación del nivel del precio de escasez corresponde al escenario en el que el generador participante en el Cargo por Confiabilidad no asume ningún riesgo, frente al cumplimiento de la OEF. Esta alternativa surge como resultado de lo observado en el Fenómeno de El Niño 20152016, en particular, del riesgo que asume el sistema, cuando los generadores que deciden participar en el Cargo por Confiabilidad tienen costos variables superiores al precio de escasez.
+En la medida que el principio de esta alternativa es que el generador no corra ningún riesgo la hora de adquirir una OEF, el precio de escasez estaría definido por el costo variable de la planta térmica más costosa del sistema.
+Para encontrar el nivel al que se encontraría el precio de escasez de esta alternativa, se debe sumar el costo del suministro de diésel oil (DO) reportado por los agentes, los costos de operación y mantenimiento y los otros costos variables. Para calcular el costo
+C-O88-16 ALTERNAVAS PARA DEFENR EL PRECO DE ESCASEZ
+15 ?2?
+
+
+SeSión NO.733
+variable que define el precio de escasez de esta alternativa se tomaría el heat rate de la planta más ineficiente.
+La indexación del precio de escasez correspondiente a esta alternativa debería estar ligada a variación del combustible que utiliza la planta más ineficiente, con diésel oil en el mercado internacional, porque es el costo más eficiente. Sin embargo esta alternativa podría tener el mismo problema de dualidad señalado anteriormente.
+4.4. Menú de Contrafos
+Como se mencionó en la sección introductoria, el mecanismo del Cargo por Confiabilidad se caracteriza por tener dos elementos: el precio de escasez y la prima del Cargo por Confiabilidad. El primero define además del momento en que se hacen exigibles las OEF, el precio máximo que recibirán los generadores al generar la energía Comprometida en su OEF y la segunda corresponde al ingreso fijo que tendrán los generadores por participar en el mecanismo.
+Lo anterior, implica que en el momento en que un agente generador decide participar en la subasta del Cargo por Confiabilidad, la prima que estará dispuesto a aceptar será una función de la probabilidad de que se active el mecanismo y el precio de escasez, entre otras consideraciones. En consecuencia, existe una relación implícita entre el precio de escasez y la prima del cargo. Un precio de escasez muy alto, reduce el riesgo que debe asumir un generador al adquirir una OEF, por ende, la prima que está dispuesto a aceptar es más baja, en comparación de una situación en la que el precio de escasez tiene un nivel bajo y por ende, una mayor probabilidad de que se active el mecanismo.
+Teniendo en cuenta lo mencionado anteriormente y que los generadores existentes son en buena medida pasivos en la subasta del Cargo por Confiabilidad y que como se evidenció en el Fenómeno de El Niño de 2015-2016, una parte del parque generador respalda sus OEF con combustibles cuyos costos variables son superiores al precio de escasez, la cuarta alternativa plantea un menú de contratos, es decir parejas de precios de escasez y primas de cargo por confiabilidad, que permitan a los generadores existentes con costos variables superiores al precio de escasez seleccionar el riesgo a aSL.
+El menú de contratos se construye bajo la premisa fundamental de que la demanda sea indiferente entre las opciones que se le presentan al generador. Lo anterior, implica que el costo esperado de cualquiera de las opciones es el mismo desde la perspectiva de la demanda.
+Para la definición de las opciones se parte de la pareja, precio de escasez, prima del cargo por confiabilidad vigente, a continuación se supone una ventana de tiempo de cinco (5) años, de los cuales se activa el mecanismo por un periodo de seis (6) meses y se calcula el valor presente neto del costo del cargo por confiabilidad para la demanda durante dicho periodo, es decir, el pago de la prima por las OEF, más las compras de energía en bolsa, a precio de escasez en situación crítica.
+Finalmente, para definir el menú de contratos se define un precio de ejercicio mayor al inicial, y se identifica la prima del cargo de confiabilidad que le significaría a la demanda,
+O-O8816 ALERNATIVAS PARA DEFINR EL PRECO DE ESCASEZ 16 ?*/
+
+
+SeSión NO. 733
+la misma utilidad esperada. En este último paso se puede suponer que la demanda es aversa o neutral al riesgo y se utilizaría una función de utilidad con aversión relativa al riesgo constante, por lo que también se conoce como la función de utilidad CRRAo. Esta función de utilidad se define así:
+        c' - 1 ? > 0, ? ??= 1 U(c) = 1 - 9 , ? ??
+log(C) 6 = 1
+El parámetro 6 representa la aversión al riesgo relativo del agente. Cuando 6 = 0, el agente es neutral al riesgo y cuando tiende a infinito la aversión al riesgo también.
+Esta propuesta no es excluyente con las anteriores, de hecho la propuesta de la CREG corresponde a utilizar el costo del GN en la planta más ineficiente como precio inicial y obtener con éste precio, la prima del cargo. Junto con esta primera opción se propondría a los generadores existentes con costos variables superiores al precio de escasez, una segunda opción, en el que el precio de ejercicio y pago de sus OEF corresponda al costo variable de la planta térmica más ineficiente del sistema, pero con una prima del cargo ajustada, de tal forma que la demanda sea indiferente.
+En la medida que este menú de contratos contempla dos opciones, la indexación de los precios de escasez resultantes sería el siguiente, para la primera opción, en la que se determina un precio de escasez con el costo variable del GNl, se utilizaría la variación en el precio internacional del Henry Hub. Para el precio de escasez de la segunda opción, es decir, utilizando los costos variables de la planta más ineficiente del sistema, simplemente se actualizaría manteniendo el diferencia inicial, con el primer precio y evitar así utilizar el precio del diésel internacional.
+45. Nivelación de riesgo
+La última alternativa que se ha considerado por la CREG para la determinación del precio de escasez consiste en definir un mecanismo de nivelación del riesgo asumido en el momento de adquirir las OEF, que tendría vigencia durante el periodo de la OEF,
+Esta alternativa contesponde a un esquema equivalente al que se implementó durante el periodo crítico de septiembre de 2015 a abril de 2016 con la expedición de la Resolución CREG 178 de 2015. Con esta resolución se definió un precio P” al que se remuneraría la energía entregada por los generadores con altos costos variables comespondiente a su OEF. Dicho P” se definió como el mínimo precio que significará el mismo riesgo para el generador, comparado con el riesgo que asumió en el momento de la asignación de OEF.
+La metodología de cálculo de esta alternativa tomaría la historia del precio de escasez vigente desde momento en que se realizó la asignación de OEF y se determinaría el valor mínimo del precio de escasez que mantendría el riesgo inicial igual.
+o La sigla CRRA Corresponde al nombre en inglés de la función de utilidad: constant relative risk averSión.
+D-088-16 ALTERNATIVAS PARA DEFINR EL PRECIO DE ESCASEZ 17 ???*
+
+
+SeSión NO. 733
+Esta alternativa supone seguir utilizando la misma fórmula del precio de escasez actual e ir actualizando cada mes, si es necesario determinar un nivel mínimo P” que mantenga el riesgo inicial constante.
+5. RECOMENDACONES
+La definición del nivel del precio de escasez tiene como objetivo fundamental identificar el nivel de precios al que se estarían utilizando los recursos necesarios para atender una condición crítica, es decir, periodos de baja disponibilidad de los recursos de generación hidráulica. Por su parte, la fórmula de indexación tiene como objeto, actualizar de forma mensual el nivel del precio de escasez para mantener el nivel de riesgo de compromiso con respecto a las variaciones de costos variables, y por ende, pueda cumplir con la tarea de indicar la condición crítica a lo largo del tiempo.
+En este contexto, la CREG ha trabajado en una serie de alternativas de modificación para el precio de escasez, con el fin de ponerlas en discusión con los agentes y terceros interesados. Estas alternativas se construyeron a la luz de las externalidades que se alcanzan al tener el precio de escasez y teniendo en mente la relación implícita existente entre éste precio y la prima del cargo por confiabilidad.
+Se han considerado 5 alternativas. En primer lugar se contempló el cambio del combustible de referencia al GN dada la entrada en operación de la regasificadora, de igual forma se analizó el precio de escasez que se alcanzaría con el costo variable de la planta térmica más costosa. Adicionalmente, se estudió la posibilidad de tomar la historia de precios de bolsa y tomar el percentil 95 para fijar el nivel del precio de escasez. En la cuarta alternativa, se propone un menú de contratos con el que se dé la posibilidad a los generadores con costos variables superiores al precio de escasez, de escoger un precio de escasez más elevado a cambio de un ajuste en la prima del cargo por confiabilidad, de tal forma que la demanda sea indiferente. Finalmente, se propone ajustar el precio de escasez en condición crítica utilizando la metodología de la Resolución CREG 178 de 2015, en la que se equipare el riesgo que el agente tomo, a la hora de aceptar las CEF, en caso que este riesgo haya aumentado.
+Dada la importancia de este tema en la definición de las reglas de juego que regirán el mecanismo del CXC para las subastas futuras y la asignación de CEF en el parque generador actual, se recomienda que estas alternativas se pongan a discusión del público interesado con el objeto de identificar posibles elementos de mejora en cada una de ellas.
+O-088-16 ALTERNATIVAS PARA DEFINR EL PRECO DE ESCASEZ 18 ??????
+
+
+SeSión NO. 733
+6. REFERENCIAS BIBLOGRÁFICAS
+[1]
+2)
+(3)
+Comisión de Regulación de Energía y Gas, Resoluciones CREG 034 de 2001.
+Comisión de Regulación de Energía y Gas, Resoluciones CREG 071 de 2006.
+Comisión de Regulación de Energía y Gas, Documento CREG 043 de 2006.
+Comisión de Regulación de Energía y Gas, Resoluciones CREG 139 de 2011.
+Comisión de Regulación de Energía y Gas, Resoluciones CREG 178 de 2015.
+Comisión de Regulación de Energía y Gas, Documento CREG 120 de 2016.
+Comisión de Regulación de Energía y Gas, Resoluciones CREG 052 de 2016.
+Comisión de Regulación de Energía y Gas, Documento CREG 024 de 2016.
+WWW.eia.doe, qOV
+WWW.XIT. COTT, CO
+C)-088-16 ALTERNATIVAS PARA DEFINR EL PRECIO DE ESCASEZ 19 2

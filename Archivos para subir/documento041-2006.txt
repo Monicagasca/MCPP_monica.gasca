@@ -1,0 +1,660 @@
+DEFINICIÓN DE PRODUCTO
+Documento para Consulta
+DOCUMENTO
+                CREG-041 12 DE JUNIO DE 2006
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+
+DEFINICIÓN DEL PRODUCTO
+Teniendo en cuenta la necesidad de contar con un mecanismo que permita alcanzar el nivel de confiabilidad en el suministro de la energía eléctrica, y que esta confiabilidad se remunere de manera eficiente, la Comisión ha propuesto continuar con el pago de un cargo por producto cuyo proceso de asignación corresponde a una subasta.
+Para la asignación de la obligación que debe tener cada generador en las condiciones de escasez se requiere definir el producto por el cual se hace el pago y se verifica su entrega.
+En el Documento CREG-122 de 2005 la Comisión presentó la definición de un producto en tres bloques para representar la demanda de energía. En la propuesta que aquí se presenta, analizada con el Consultor Dr. Peter Cramton para el diseño de la subasta1, se recomienda la utilización de un solo producto de energía con un patrón de demanda igual al de la curva de carga horaria real.
+En este documento se desarrolla la propuesta presentada por el Dr. Cramton y se compara con la presentada en el Documento CREG-122, argumentando la pertinencia de recomendar a la Comisión la utilización de la primera.
+PRODUCTO
+El producto a ser subastado es una Obligación de Entrega de Energía Firme en condición de escasez ajustada al patrón real de demanda horaria. La obligación de entrega está limitada a la cantidad de energía máxima que cada generador se compromete a generar mes a mes y que resulta del procedimiento de asignación. Esta energía será remunerada al valor que resulte de descontar del precio de ejercicio los Otros Costos Variables (OCV).
+Esta obligación de entrega de energía debe estar respaldada por un activo de generación. La condición de escasez se establece cuando el precio de bolsa supera el precio de ejercicio.
+1
+Conferencia del Dr. Peter Cramton. 7 de junio de 2006.
+Documento CREG-041 de 2006 2
+
+
+1. Procedimiento para establecer el valor máximo de la Obligación de Entrega de
+Energía Firme
+La energía que debe ser asignada entre los distintos generadores en la subasta, o en el procedimiento que haga sus veces durante la etapa de transición, se establece con base en las proyecciones de demanda de energía efectuadas por la UPME más un margen que será definido por la CREG para cada subasta basándose en el error de estimación de la demanda.
+Con el objeto de subastar una energía anual que se ajuste a la estacionalidad de la generación eléctrica, se propone emplear la demanda de un período de doce meses comprendido entre diciembre y noviembre. La demanda de energía de cada uno de estos meses será estimada por la UPME.
+De esta energía anual, incluyendo el margen definido por la CREG, se descuenta la energía que en subastas anteriores fue asignada a los generadores que se comprometieron a abastecerla por un período máximo de diez años.
+Una vez asignada la demanda anual (período diciembre-noviembre) entre los generadores mediante la subasta, y conocida la cantidad de energía comprometida de cada activo de generación, y por lo tanto de cada agente generador, se establece el porcentaje que representa esta energía de la demanda anual de energía del sistema. Este porcentaje, aplicado sobre la demanda horaria real durante cada uno de los doce meses del año, se emplea como la cantidad de energía firme que hora a hora el generador está obligado a entregar cuando el precio de bolsa así lo indique. Esta cantidad siempre estará limitada al valor máximo que se estima como la energía subastada distribuida mensualmente multiplicada por el porcentaje de la obligación asignada en la subasta. (Ver Figuras 1 y 2). Si la demanda mensual real supera la demanda mensual estimada, la obligación de entrega de energía firme por parte de cada agente se limita a la estimada inicialmente.
+2. Único producto vs. Bloques de Energía
+Como puede observarse, la principal diferencia de esta propuesta respecto a la contenida en el Documento CREG-122 de 2005 es la utilización de un solo producto.
+Los tres tipos de opciones planteados en el Documento 122 tienen por objetivo seguir la curva de duración de carga garantizando el cubrimiento de la energía con los distintos tipos de activos de generación. Sin embargo considerando que:
+• Al tener como única restricción para los tres productos el abastecimiento de la demanda en condiciones críticas, los precios de estos productos deben converger a un solo valor.
+• En condiciones de escasez, un sistema hidrotérmico como el colombiano demanda expansión para asegurar el cubrimiento de energía antes que el de capacidad.
+Documento CREG-041 de 2006 3
+
+
+• La complementariedad entre los distintos tipos de recursos, (hidráulicos con diferente capacidad de regulación y térmicos) permite definir un solo producto. Esta complementariedad se puede hacer efectiva en el mercado de corto plazo o a través del mercado secundario. La concepción de un producto como el presentado, simplifica considerablemente el esquema de asignación, facilita su verificación y elimina los efectos de borde que se presentan en la definición de los tres tipos de opciones inicialmente considerados.
+Por todo lo anterior, se recomienda a la Comisión adoptar la definición de producto propuesta en este documento.
+Figura 1. Procedimiento para calcular la Obligación de Entrega de Energía Firme
+Cuantificación de la Demanda anual a Asignar (dic-nov), desagregada mensualmente (Proyección UPME + margen – Energía ya asignada en subastas previas)
+Asignación de la demanda anual entre las plantas o unidades de generación (regla de repartición o subasta)
+Cálculo porcentaje de participación de la asignación de cada planta (y cada generador) en la demanda
+Aplicación del porcentaje sobre la demanda real para calcular la obligación horaria de entrega de energía firme
+Ajuste de la obligación de entrega de energía por subestimación de la demanda
+Energía Firme Certificada
+Documento CREG-041 de 2006 4
+
+
+Figura 2. Ejemplo del Producto para una Planta Térmica
+9.00
+8.00
+7.00
+6.00
+5.00
+4.00
+3.00
+2.00
+1.00
+Demanda Horaria Real * X%
+0.00
+1 9 17 25 33 41 49 57 65 73 81 89 97 105 113 121 129 137 145 153 161
+Demanda Horaria Real Obligación asociada al X%
+Generación Planta Térmica
+Documento CREG-041 de 2006 5
+
+
+ENERGÍA FIRME PARA EL CARGO POR CONFIABILIDAD -ENFICC
+Documento para Consulta
+DOCUMENTO
+                CREG-042 16 DE JUNIO DE 2006
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+
+ENERGÍA FIRME PARA CARGO POR CONFIABILIDAD -ENFICC-
+1. ANTECEDENTES
+La Comisión de Regulación de Energía y Gas, en su sesión del 20 de diciembre, aprobó continuar con la dirección de trabajo que se propuso en el documento CREG 122 y ratificó el cronograma previsto en el documento CREG-072 de 2005, el cual contemplaba como paso siguiente el análisis con la industria de esta propuesta y el desarrollo de los módulos requeridos para su implementación.
+En este contexto, el presente documento constituye el análisis del módulo de energía firme para cargo por confiabilidad que aprobó la Comisión publicar para consulta en su sesión del 16 de junio de 2006.
+2. OBJETIVO
+Teniendo en cuenta el marco de desarrollo de cargo por confiabilidad, el objetivo del presente documento es establecer los criterios, metodología, modelo, parámetros y procedimientos necesarios para estimar los valores de Energía Firme para Cargo por Confiabilidad –ENFICC- para los agentes que van a intervenir en las subastas.
+3. CONSIDERACIONES GENERALES
+Para el entendimiento adecuado del presente documento, nos permitimos hacer una descripción de las principales consideraciones sobre los temas de que trata el presente documento.
+3.1 Energía Firme para Cargo por Confiabilidad -ENFICC
+Se entiende por ENFICC como la cantidad de energía que una planta de generación puede entregar en condiciones críticas.
+Para el caso del parque de generación que participa en el mercado mayorista, se identifican los siguientes casos:
+Documento CREG-042 de 2006 2
+
+
+Plantas Hidráulicas
+En este caso, la ENFICC es la cantidad de energía que es capaz de entregar la planta en una condición de hidrología crítica, sujeto a las siguientes variables: i) capacidad del embalse, ii) disponibilidad, iii) caudales y iv) factor de conversión.
+Adicionalmente, se tiene la capacidad de regulación del embalse asociado a la planta como variable a considerar para establecer el horizonte de evaluación de la energía firme. En el caso del sistema colombiano, se cuenta con tres (3) tipos de planta: i) filo de agua, ii) regulación inferior a un año, y iii) regulación mayor a un año.
+Ahora, en el sector eléctrico se diferencian dos (2) estaciones hidrológicas: verano e invierno, con lo que se tienen diferentes niveles de energía firme por estación.
+K [kWh]
+Hidrología Crítica
+Cap. Máx.
+Energía Firme
+Probabilidad de lluvias
+?
+Figura 1. Generación Plantas Hidráulicas
+MWh
+Verano (5 meses) Invierno (7 meses)
+  t (mes) Energía firme estación Invierno
+ Energía firme estación Verano
+Energía firme del mes
+Dic. 1 May. 1 Nov. 30
+Figura 2. Generación Estacional Plantas Hidráulicas
+En la figura 2 se tiene la forma característica de generación para una planta hidráulica, donde la energía firme se prueba en la estación de verano. Para las plantas sin capacidad de regulación la energía firme es el valor de la menor generación mensual de energía en la estación de verano, y para plantas con capacidad de regulación es el promedio de la estación.
+Documento CREG-042 de 2006 3
+
+
+Plantas Térmicas
+En el caso de las plantas térmicas, la ENFICC es función de las siguientes tres variables: i) disponibilidad del combustible, ii) disponibilidad de la planta y iii) eficiencia. En el primer caso, es una condición que debe ser garantizada mediante esquemas de contratación que aseguren la entrega del combustible en las cantidades requeridas, en el segundo caso se evalúa el comportamiento histórico de las salidas de la planta y en el tercero corresponde a la tecnología de la planta.
+K [kWh]
+Disponibilidad Planta
+Cap. Máx.
+Energía Firme
+                             Disponibilidad [%] Figura 3. Generación Plantas Térmicas
+3.2 Confiabilidad en el marco de energía firme
+Teniendo en cuenta que la confiabilidad es el máximo nivel aceptable de riesgo en el suministro de la demanda, y que la energía firme a contratar por el sistema debe asegurar el cubrimiento de la demanda estimada, se deberá garantizar que por lo menos esta última cumpla con el criterio de confiabilidad utilizado en el planeamiento del sistema.
+Q [MWh]
+Criterio Confiabilidad Cap. Máx.
+Energía Firme
+Confiabilidad
+                                % Figura 3. Criterio Confiabilidad
+Documento CREG-042 de 2006 4
+
+
+4. ESQUEMA DE TRABAJO
+Para el desarrollo del análisis objeto del presente documento, la Comisión contó con la colaboración del Operador de Mercado [XM], quién suministró a la Comisión los resultados de diferentes simulaciones con diferente modelos a lo largo de cinco (5) meses.
+Esquema de trabajo adoptado por la Comisión fue el siguiente:
+Evaluación de
+Modelos y
+definición de
+condiciones de
+Figura 4: Esquema de trabajo
+5. SELECCIÓN DEL MODELO
+En la presente sección del documento se definirá el modelo que se utilizará para calcular la energía firme de los proyectos que van a participar en las subastas.
+5.1 Evaluación de modelos
+Con la evaluación de los modelos se pretendió dar respuestas a dos tipos de pregunta: i) la evaluación de la energía debe realizarse con un modelo integrado o uno aislado, y ii) tipo de modelo más conveniente para el sistema. Para adelantar el trabajo se partió de modelos que han sido probados en el sistema, utilizando generación de 100 series equiprobables de caudales para los integrados y una historia de 30 años de caudales para los aislados.
+En el caso de los modelos aislados se utilizaron los siguientes modelos de programación de lineal: i) RNO - incluye una regla normal de operación, ii) PL- programación lineal y iii) Fórmula – cálculo con la fórmula de acuerdo con la definición de aportes y factor de cada planta, modelo implementado en Excel. Adicionalmente, se hizo el modelamiento con el Modelo de programación dinámica dual estocástica - SDDP.
+Para el caso integrado se utilizaron los siguientes modelos: i) Modelo de Programación Dinámica Estocástica con Aproximaciones Sucesivas –AS y ii) Modelo de Programación Dinámica Dual Estocástica –SDDP.
+Se hicieron análisis para varias plantas y a continuación se presentan los resultados obtenidos para una de ellas.
+Evaluación de escenarios hidrológicos y condiciones (mínimos operativos)
+Comparación de Resultados
+Definición de la metodología y modelo
+Documento CREG-042 de 2006 5
+
+
+PLANTA CON GUATAPÉ
+EMBALSE
+RESUMEN DE RESULTADOS DE LOS MODELOS (GWh)
+HISTORIA
+       2do Mínima
+Menor
+Media Máxima
+CARGO
+498 692
+818
+                                  560 : 100% SDDP ESTOCÁSTICO
+927 : 95%
+FÓRMULA FILO
+490
+1065 : 90%
+FÓRMULA EMBALSE
+1971
+PL CRÍTICA
+503
+PL HISTÓRICA
+656
+SDDP AISLADO
+550
+RNO FILO
+508
+RNO EMBALSE
+1394
+SDDP CRÍTICO
+440
+AS CRÍTICO
+693
+SDDP S90
+622
+  0 500 1000 1500 2000 2500 Fuente: XM Expertos en Energía
+Figura 5: Evaluación de modelos
+Respecto a los diferentes análisis que se hicieron para diferentes plantas se puede comentar los siguiente:
+? Los modelos aislados no son estables en sus resultados porque dependen en gran medida de las condiciones iniciales, tal es el caso cuando se considera el aporte del embalse a la energía del proyecto, esta se incrementa de manera sustancial, siendo en algunos casos superior a la historia.
+? El modelamiento de cadenas de plantas hidráulicas, se dificulta con los modelos aislados porque hay que hacer supuestos que pueden llevar a resultados que no reflejen la real capacidad de los proyectos.
+? En lo que respecta a los resultados a los modelos integrados, sus resultados fueron consistentes y estables, por lo que se encuentra que desde el punto de vista energético juntos modelos se ajustan a los requerimientos del sector.
+5.2 DEFINICIÓN DEL MODELO
+Teniendo en cuenta que los modelos integrados presentan resultados acordes con la realidad del sistema, se propone hacer la siguiente evaluación para seleccionar el modelo a utilizar.
+Comparación de resultados
+Se hicieron corridas para comparar los resultados de dos2 modelos encontrándose que desde el punto de vista energético son similares, sus diferencias en el resultado para el sistema es menor al 1%, tal como se puede apreciar en la figura 6.
+2
+En el Modelo SDDP no se utilizan penalizaciones.
+Documento CREG-042 de 2006 6
+
+
+COMPARACIÓN RESULTADOS AS VS. MPODE GENERACIÓN PROMEDIO 7000
+6000
+5000
+4000
+3000
+2000
+1000
+0
+AS SDDP Figura 6: Comparación Modelos AS y SDDP
+Ahora, a pesar de que con el modelo SDDP se obtiene una utilización de los recursos similar al del AS, la señal de precios que se obtiene no se ajusta a costos marginales normales, por lo que si se quieren obtener resultados acordes con el sistema, se debe adicionar un piso a los costos de las plantas térmicas.
+Comparación de facilidades
+Para hacer la comparación de facilidades se establecieron características que permitieran escoger objetivamente el modelo más apropiado en las condiciones actuales, dando espacio a que se puedan incorporar desarrollos futuros.
+La tabla de evaluación es la siguiente:
+Característica SDDP AS Facilidad se uso Se puede instalar en microcomputadores en ambiente windows.
+? Requiere VAX.
+? No tiene capacidad de ampliación. Resultados Ajustados al sistema. Ajustados al sistema. Conocimiento del sector Utilizado por el Operador del Sistema, el Planeador y varios agentes. Se consigue comercialmente.
+Utilizado por el Operador del Sistema y algunos agentes.
+Tabla 1: Comparación de facilidades de programas integrados
+Selección del Modelo
+Teniendo en cuenta los análisis anteriores, y dadas las condiciones actuales, se considera conveniente la utilización del modelo SDDP para la simulaciones del cargo por confiabilidad.
+Sin embargo, la utilización de otros modelos puede ser viable en la medida que cumpla las características señaladas anteriormente y que sea aprobado por la Comisión.
+Documento CREG-042 de 2006 7
+
+
+6. CALCULO DE LA ENERGÍA FIRME PARA CARGO POR CONFIABILIDAD
+En ésta sección del documento se van a definir: i) criterios, ii) parámetros y iii) metodología para calcular la energía de los proyectos.
+En lo que respecta a la metodología, lo que se trata es definir un esquema que dependa en lo menos posible de condiciones de choque hidrológico, dado que la energía firme de un proyecto debe ser “única” en el tiempo.
+6.1 PLANTAS HIDRÁULICAS
+Teniendo en cuenta que la energía firme de un proyecto hidráulico depende los aportes y de sus características se requiere definir los siguiente:
+Caracterización de Plantas Hidráulicas
+Para poder estimar la energía firme de los proyectos se debe tener en cuenta sus características, por lo que se requiere definir un criterio que permita identificar de forma clara si la energía firme del proyecto se debe estimar como el promedio o la menor generación mensual de la estación de verano.
+En este sentido, se revisaron los siguientes criterios: i) capacidad de embalse vs. planta asociada, y ii) generación vs. aportes en período crítico.
+? Capacidad del embalse vs. planta asociada
+El indicador se construye como la relación entre el volumen útil del embalse en unidades de energía, sin considerar aportes, y la generación mensual máxima de la planta, obteniéndose el dato de la capacidad de generación plena de la planta en meses. Los resultados se tienen en la tabla siguiente:
+EVALUACIÓN DE CAPACIDAD DE LOS EMBALSE ASOCIADOS A PLANTAS*
+REGIÓN
+EMBALSE VOLUMEN TÉCNICO MÁXIMO
+VOLUMEN ÚTIL
+CAPACIDAD PLANTA
+Tabla 2: Capacidad embalse vs. planta asociada
+CAPACIDAD ENERGÍA
+IH RELACIÓN
+GWh GWh MW GWh/mes p.u. meses
+ANTIOQUIA MIEL I 239.81 190.45 296.04 129.41 0.39 1.47
+MIRAFLORES 258.25 243.39 PEÑON 4291.51 3950.32 549.95 384.52 0.03 10.27 PLAYAS 129.27 89.51 199.84 140.22 0.03 0.64 PORCE II 85.48 55.06 404.22 272.00 0.07 0.20 PUNCHINÁ 82.50 70.78 1240.00 817.65 0.08 0.09 RIOGRANDE 2 528.88 392.06 305.57 194.80 0.11 2.01 SAN LORENZO 455.81 397.66 170.00 112.52 0.08 3.53 TRONERAS 81.73 56.80 42.00 28.99 0.04 1.96 CARIBE URRÁ 1 209.94 154.89 303.08 203.18 0.07 0.76 CENTRO AGREGADO BOGOTÁ 4455.76 4455.76
+BETANIA 234.19 146.63 486.72 325.54 0.07 0.45 MUÑA 95.76 70.22 PRADO 104.64 66.90 24.14 14.35 0.17 4.66 ORIENTE CHUZA 1141.08 1141.08
+ESMERALDA 1157.87 1108.19 942.17 634.97 0.06 1.75 GUAVIO 2172.51 2113.78 1124.47 745.99 0.08 2.83 VALLE ALTO ANCHICAYÁ 46.04 38.23 323.28 196.46 0.16 0.19 CALIMA 1 275.90 216.16 131.09 74.65 0.21 2.90 SALVAJINA 204.30 173.30 284.23 191.44 0.06 0.91
+* ANÁLISIS SIN CONSIDERAR APORTES A LOS EMBALSES
+Documento CREG-042 de 2006 8
+
+
+? Indice de Generación vs. Aportes –IGVA
+El indicador se debe construir para cada planta como la relación entre la generación y los aportes3 (ríos, descargas proyectos aguas arriba, etc) a una planta en un período crítico. Para hacer el cálculo se requiere la topología del sistema de aportes y definir un período con rachas hidrológicas críticas. Ahora, considerando que la racha hidrológica del 97/98 llevó al sistema a una condición extrema, se hizo el análisis para esta hidrología.
+En las siguientes gráficas se presenta el cálculo del indicador para tres tipos de planta existentes en el sistema: Tipo I: sin regulación, Tipo II: alguna regulación y Tipo III: con regulación.
+PLANTA TIPO I
+0.00
+Indice IGVA cercano a uno, lo
+1.20
+que significa que las planta
+1.00
+                                               genera lo que se recibe por 0.80
+0.60
+0.40
+aportes. No hay contribución entre meses del embalse.
+0.20
+PLANTA TIPO II
+0.00
+IGVA Referencia
+                                            Figura 7. Indice IGVA. Planta Tipo I.
+Indice IGVA levemente superior a uno
+2.00
+en algunos meses, en este caso el
+1.50
+1.00
+indicador fue levemente superior a uno en un mes, pero no se tuvo la capacidad de sostenerse en esa condición. Lo 0.50
+anterior muestra que la planta tiene una leve capacidad de regulación que le permite hacer un uso de los aportes, sin
+IGVA Referencia
+embargo es de corto plazo.
+Figura 8. Indice IGVA. Planta Tipo II.
+3
+La información de aportes de la serie hidrológica única (m
+3
+                                                       /s) se convierte en energía utilizando el factor de conversión de la planta (MW/m
+3
+/s) y las horas del mes respectivo.
+Documento CREG-042 de 2006 9
+
+
+Indice IGVA superior a uno en forma sostenida, en este caso las plantas mantuvieron el indicador mayor a uno en forma consistente por lo menos durante dos meses seguidos.
+Teniendo en cuenta los datos de los análisis anteriores, se encuentra que las plantas con IGVA superior a 1.5 durante dos meses seguidos en la época crítica de 97/98 tienen la capacidad para que su energía firme se tome como el promedio de la estación de verano, y las que no cumplen con este criterio se les considere su energía firme como la menor generación mensual de la estación de verano.
+Mínimos Operativos
+En lo que respecta a los mínimos operativos de los embalses, se evaluaron las siguientes condiciones: i) con mínimos operativos y ii) sin mínimos operativos.
+Generación Sistema Con Mínimos Operativos
+ENERGIA HIDRAULICA PARQUE INSTALADO
+0
+                PLANTA TIPO III 6.00
+5.00
+4.00
+3.00
+2.00
+1.00
+0.00
+IGVA Referencia
+Figura 9. Indice IGVA. Planta Tipo III.
+Generación Sistema Sin Mínimos Operativos
+ENERGIA HIDRAULICA PARQUE INSTALADO
+6000
+0
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+V_PROMEDIO V_MINIMO
+6000
+5000
+5000
+4000
+4000
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+V_PROMEDIO V_MINIMO
+Figura 10. Análisis Mínimos Operativos
+Respecto a los resultados se puede anotar que son similares, teniendo en cuenta que los modelos trabajan como agentes racionales.
+Por lo anterior, y tiendo en cuenta que los mecanismos que prevé el cargo por confiabilidad inducen a que los agentes tomen decisiones racionales, no se encuentra necesario considerar los mínimos operativos para estimar la energía firme y no se considerarán para la intervención de embalses.
+                                                   3000 3000
+2000
+2000
+1000
+1000
+Documento CREG-042 de 2006 10
+
+
+Hidrología
+Se toman en consideración las siguientes series hidrológicas: i) generación sintética de caudales – 100 series- (generadas estocásticamente), ii) la racha hidrológica 97/98 y iii) Series hidrológicas del cargo actual.
+ENERGIA HIDRAULICA PARQUE INSTALADO
+6000
+5000
+4000
+3000
+2000
+1000
+0
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+HISTO 97 98 SUSIN FINAL Figura 11. Generación Hidráulica con diferentes escenarios hidrológicos
+Ordenando los resultados para la estación de verano y según la característica de la planta, los resultados obtenidos muestran que la serie hidrológica del cargo actual se acerca a la condición de 98% PSS y la racha hidrológica del 97/98 se acerca a la condición del 95% PSS. Metodología
+De acuerdo con los criterios y parámetros descritos anteriormente, la metodología que se describe a continuación, permite establecer la energía firme de referencia por planta para la estación de verano, la cual se utilizará para: i) establecer la energía firme del año, y ii) definir el valor de referencia del subastador para comparar la información que reportará cada uno de los agentes.
+Las simulaciones que se utilizaran son del tipo estacionario, en donde se despachan los recursos hasta cumplir con los criterios de confiabilidad utilizados por la UPME para el planeamiento de la expansión de generación de referencia, aplicando el siguiente procedimiento:
+? El horizonte de análisis será de diez (10) años.
+? No se considera red de transmisión.
+? Se consideran la generación sintética de 100 series equiprobables generadas sintéticamente a partir de la serie histórica conocida hasta la fecha de cálculo del valor de energía firme para cargo por confiabilidad.
+? Se considerará las plantas de todo el sistema reportadas por los agentes. Plantas existentes y plantas nuevas.
+? Los niveles de embalse serán los existentes en el último día del mes anterior a la simulación.
+Documento CREG-042 de 2006 11
+
+
+? El sistema se modelará de forma autónoma. No se consideran interconexiones internacionales.
+? Curvas guía por restricciones ocasionadas por el uso del agua para propósitos diferentes al de generación de energía eléctrica (Caudal mínimo garantizado aguas abajo del embalse, agua para consumo humano, riego, navegación, etc.), declaradas por los agentes.
+? Partir de una energía estacionaria a atender mayor a la que podría atender el sistema, durante todo el horizonte de análisis.
+? Para cada mes se modela una curva escalonada de (6) bloques de energía estacionaria a atender con el mismo factor de carga de la demanda del sistema y sin crecimiento anual.
+? La capacidad disponible para generación es la capacidad efectiva de potencia de las plantas hidráulicas y térmicas, afectadas por su respectivo índice de indisponibilidad histórico de salidas forzadas (IHF), más la potencia determinística del sistema. La capacidad disponible permanece constante durante todo el horizonte de estudio.
+? La variable de control es la energía a atender, la cual se ajusta hasta el momento en que se cumpla el criterio de confiabilidad de la expansión (hasta un 5% de casos de déficit en el mes más crítico, VERE menor o igual al 1.5% y VEREC menor o igual al 3%).
+Con la simulación en las condiciones señaladas, se obtendrá la curva de distribución de probabilidades de ser superada [%PSS] por nivel generación de energía para cada planta.
+La curva de distribución de probabilidad estación –CDPE- se construirá tomando para cada una de las estaciones de las diferentes series, el promedio de la estación invierno o verano según sea el caso, y ordenando los datos para obtener la CDPE por planta. En el caso de la curva de probabilidad mes, se sigue el mismo procedimiento señalado pero tomando como dato el mes menor generación de la estación.
+Teniendo en cuenta lo anterior, se obtienen las siguientes curvas:
+? CDPVP: curva de distribución de probabilidad verano promedio
+? CDPVM: curva de distribución de probabilidad verano mes mínimo
+? CDPIP: curva de distribución de probabilidad invierno promedio
+? CDPIM: curva de distribución de probabilidad invierno mes mínimo
+Energía Firme Plantas Hidráulicas
+La energía firme para el cargo por confiabilidad por planta hidráulica será determinada utilizando la curva de distribución de probabilidad verano en el 98% PSS.
+Documento CREG-042 de 2006 12
+
+
+El nivel de probabilidad del 95% PSS correspondiente al parámetro de confiabilidad utilizado en el planeamiento del sistema, por lo puede ser el valor máximo de energía a considerar por planta.
+Si la declaración es inferior al 98% PSS será el valor definitivo para cualquier subasta posterior. La declaración de energía firme podrá ser superior y hasta un límite de 95% PSS, la diferencia deberá ser garantizada.
+6.2 PLANTAS TÉRMICAS
+En el evento crítico, teniendo en cuenta que el recurso hidráulico fija sus costos con los recursos térmicos, el modelo de optimización/simulación despacha las plantas térmicas a plena capacidad, solamente disminuida por su indisponibilidad, por lo que su energía firme se puede establecer como:
+Donde: EF
+PT
+EF PT
+                              = CE **? H m : Energía Firme para Cargo por Confiabilidad CE: Capacidad Efectiva (MW) ?: Factor entre 0 y 1 que corresponde al menor valor entre:
+  • Disponibilidad de la Planta: (1-IHF). Donde IHF es la Indisponibilidad Histórica de Salidas Forzadas.
+ • Contrato de suministro de combustibles para operación continua. Valor que va entre 0 y 1. Donde 1 es para el contrato que permite despachar plenamente la planta.
+ • Contrato de transporte de combustibles para operación continua. Valor que va entre 0 y 1. Donde 1 es para el contrato que permite despachar plenamente la planta. Hm: Horas del mes
+6.3 PLANTAS MENORES
+Para estimar la energía firme de la plantas menores se utilizará la disponibilidad declarada por los agentes y las plantas que no sean declaradas se asumirá una disponibilidad del 35% que podrá ser modificado si el propietario de la planta sustenta un nuevo valor.
+7. PERIODICIDAD
+La estimación de la energía firme por planta se hará una vez, antes del inicio de la primera subasta y sólo se revisará cuando:
+   ? Entre un nuevo generador hidráulico, que no hubiera sido considerado en la simulación, pero únicamente para asignar la energía firme de este nuevo agente.
+Documento CREG-042 de 2006 13
+
+
+A éste agente se le determinará la energía firme con la metodología señalada anteriormente donde se le incluye dentro del parque de plantas para estimar su aporte.
+   ? Al inicio de cada subasta, a las plantas que tuvieron cambios en sus características que le afecten su capacidad de generación (desvíos de ríos, contrato de combustible, otros).
+8. CONTRATOS DE COMBUSTIBLE
+Los agentes para participar deberán declarar los contratos de combustible que puede ser combinaciones de contratos en firme de suministro y transporte con capacidad de almacenamiento en los formatos que se diseñen.
+En el caso del carbón se deberá entregar los estudios de reservas y de capacidad de producción que sustenten la garantía de entrega del energético. Y deberá tener el (los) contrato(s) firmados antes del inicio de las obligación.
+9. ENERGÍA FIRME DE REFERENCIA PARA MERCADO SECUNDARIO
+En el caso del mercado secundario, la siguiente energía firme puede entrar a ser ofertada:
+9.1 ESTACIÓN DE INVIERNO
+En este caso se tienen las siguientes situaciones:
+? Para plantas que comprometieron energía firme en la subasta, se tienen dos casos: i) No se comprometió toda la energía firme estación verano: se puede ofertar la diferencia entre la energía firme y la energía comprometida, y ii) Se comprometió toda la energía firme de verano: puede ofertar la diferencia de la energía firme de referencia de invierno y verano.
+? Para plantas que no comprometieron energía firme en la subasta. Se establece como valor máximo, la energía firme máxima estación invierno.
+9.2 ESTACIÓN DE VERANO
+En este caso se puede ofertar la energía firme que no se comprometió en la subasta.
+10. VERIFICACIÓN DE PARÁMETROS
+Documento CREG-042 de 2006 14
+
+
+El Operador del Sistema (XM) verificará mediante mecanismos aprobados por la CREG las declaraciones de parámetros de los generadores. En caso de encontrarse discrepancias entre los parámetros reales y los reportados, se ajustará el valor para las subastas posteriores y para el compromiso adquirido.
+11. ENTIDAD ENCARGADA DE LA ESTIMACIÓN DE LA ENERGÍA FIRME PARA EL CARGO POR CONFIABILIDAD Y CHEQUEO DE CONTRATOS COMBUSTIBLES
+La entidad encargada de hacer la estimación de la energía firme con la metodología, procedimientos y parámetros señalados en el presente documento será el Operador del Sistema (Los expertos en mercados XM). Igualmente adelantará el chequeo de los contratos de combustibles.
+12. DECLARACIÓN DE PARÁMETROS
+Para la estimación de la energía firme de referencia se deberán declarar los parámetros a la entidad encargada de la estimación de la energía firme de referencia, a más tardar un mes (1) antes de la apertura de la subasta.
+13. RESULTADOS DE LA SIMULACIÓN
+Los resultados de la simulación serán publicados con anterioridad a la apertura de subastas o la asignación de energía en el período de transición.
+14. CONCLUSIONES
+? Se debe emplear el modelo SDDP para la estimación de la energía firme.
+? La energía firme de las plantas hidráulicas, debe evaluarse en una condición crítica y en la estación de verano. La energía firme por planta se debe obtener de la curva de distribución de probabilidad para la estación de verano.
+? Para considerar la capacidad de la planta de manejar sus recursos, se debe calcular el indicador de generación versus aportes en condición crítica –IGVA-, de tal manera que se tenga de manera cierta el aporte de la planta.
+? Las plantas que tengan un IGVA mayor a 1.5 durante dos (2) meses seguidos, pueden considerarse que tienen capacidad del manejo del recurso hidráulico, por lo que su energía firme debe estimarse como el promedio de la estación de verano.
+? Las plantas con un IGVA menor o igual a 1.5, se considera que no tienen capacidad del manejo del recurso hidráulico más allá del mes, por lo que su energía firme debe estimarse como el mes de menor de la estación de verano.
+Documento CREG-042 de 2006 15
+
+
+? Definir la energía firme por planta hidráulica utilizando la curva de distribución de probabilidad verano en el 98% PSS.
+? El nivel de probabilidad del 95% PSS correspondiente al parámetro de confiabilidad utilizado en el planeamiento del sistema, será el valor máximo de energía a considerar por planta, siempre que se disponga de una garantía por el valor de la energía firme que supere la asociada al 98% PSS.
+? El uso de los mínimos operativos garantiza una mejor utilización del recurso en la condición crítica. Ahora, como el nuevo esquema del cargo por confiabilidad tiene mecanismos que inducen a los agentes a tomar decisiones racionales, la utilización de dicho parámetro dejará de considerarse.
+? Para plantas térmicas calcular la energía firme con el menor valor entre: la disponibilidad de planta, suministro y transporte combustible.
+Documento CREG-042 de 2006 16
+
+
+DETERMINACIÓN DEL PRECIO DE EJERCICIO
+Documento para Consulta
+DOCUMENTO
+                CREG-043 16 DE JUNIO DE 2006
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+
+DETERMINACIÓN DEL PRECIO DE EJERCICIO
+ANTECEDENTES
+En el documento CREG 122/05 “Propuesta de Trabajo para la Remuneración del Cargo por Capacidad” se estableció que dentro de la propuesta del mercado de obligaciones se requería establecer un precio de ejercicio, que corresponde al precio al cual el generador se compromete a entregar la energía firme remunerada por concepto de Cargo por Confiabilidad, siempre que la opción sea ejercida, sin que se intervenga el normal funcionamiento de la Bolsa. Este precio es el indicador de la condición de crítica del sistema. El administrador ejercerá la opción siempre que el precio de bolsa supere el precio de ejercicio.
+En la Sesión de la Comisión del 5 de junio de 2006 se evaluaron y aprobaron los argumentos de la existencia del precio de ejercicio que se presentan en el documento 038 de 2006.
+El experto internacional Peter Cramton, contratado por la Comisión para estudio del tema de subastas de opciones de confiabilidad, en la presentación del 7 de junio de 2006 denominada “Colombia Capacity Auction” identificó la necesidad de contar con un precio de ejercicio en el esquema.
+En la Sesión de la Comisión del 12 de junio de 2006 se discutió el tema de combustibles alternos, en donde se evaluaron las plantas con capacidad de utilizar combustibles alternos y las características de suministro, para lo cual se aprobó la publicación para comentarios del Documento 039, denominado “Contratación de Suministro de Combustibles para Generación Eléctrica”.
+Finalmente, en la Sesión de la Comisión del 16 de junio de 2006 se presentó el documento “Determinación del Precio de Ejercicio” el cual fue aprobado para ser publicado para comentarios.
+OBJETIVO
+Definir la metodología para estimar el precio de ejercicio –PE- y el mecanismo de indexación que permita tener actualizado el precio definido.
+METODOLOGÍA DE ESTIMACIÓN
+Teniendo en cuenta los antecedentes señalados, la metodología de estimación del precio de ejercicio tiene las siguientes características:
+? Para asegurar que en condiciones críticas todos los recursos de generación, tanto térmicos como hidráulicos, tienen el incentivo de abastecer la demanda, el precio de ejercicio debe corresponder al valor de la planta térmica más costosa
+Documento CREG-043 de 2006 2
+
+
+que se pudiera utilizar en el sistema. Lo anterior también evita interferencias en el funcionamiento normal de la bolsa y mitiga el posible abuso de posición dominante.
+? Para lograr lo anterior, se debe considerar la planta de menor eficiencia que pueda utilizar Fuel Oil No. 6 como combustible alterno.
+? Para el calculo se utilizan los costos de combustible referidos al mercado internacional de los mismos (suministro y transporte).
+? Se deben tener en cuenta los otros costos variables que se tienen por participar en la Bolsa de Energía.
+Cumpliendo con lo anterior, se tiene la siguiente fórmula:
+Donde:
+PET t
+PE t
+T
+=
+PE t
+                                       C + OCV = Precio de Ejercicio Total [$/kWh]
+PEC t
+     = Precio de Ejercicio parte Combustible que se estimará en USD/MWh y se convertirá a $/kWh con la TRM del día de calculo, certificada por el Banco de la República. Para el momento inicial se estimará de la siguiente forma:
+PEC
+                          t Inicial Heat _ Rate Pr OFecio .._ Heat Rate [MBTU/MWh]: El consumo específico de combustible a plena carga de la planta de menor eficiencia y que pueda utilizar FO como combustible alterno.
+Precio FO [USD/MBTU]: corresponde al precio del combustóleo publicado por Ecopetrol en su página WEB para el mes de junio de 2006, más 1.5% para cubrir costos de transporte. Este precio se convierte a dólares por MBTU empleando la TRM del último día hábil del mes en que se efectúa este cálculo, certificada por el Banco de la República, y empleando un poder calorífico de 0.15 MBTU/galón.
+OCV: Otros Costos Variables [$/kWh]. Valor estimado para el mes siguiente. Corresponde a los siguientes costos variables: i) CEE (CERE), ii) FAZNI, iii) Aporte Ley 99 de 1993, y iv) AGC. En el procedimiento de liquidación se harán los ajustes necesarios para la facturación.
+EFICIENCIA -“HEAT RATE” - HR
+Para determinar la eficiencia utilizar en el calculo, se hizo una revisión de las eficiencias de las plantas reportadas en el sistema, encontrándose lo que se tiene en la gráfica siguiente:
+=
+=
+×
+Documento CREG-043 de 2006 3
+
+
+MBTU / MWh
+PALENQUE 3 [GN]
+PAIPA1 [CM ]
+ZIPA U2 [CM ]
+UNIDAD YOPAL 2 [GN]
+BARRANCA 3 [FO]
+PAIPA3 [CM ]
+PAIPA2 [CM ]
+BARRANQUILLA 4 [FO]
+FLORES 21 [GN]
+CARTAGENA 3 [FO]
+GUAJIRA 1 [GN]
+TERM ODORADA [GN]
+GUAJIRA 2 [GN]
+BARRANQUILLA 3 [FO]
+TERM OCANDELARIA 2 [FO]
+TERM OM ERILÉCTRICA [GN]
+ZIPA U3 [CM ]
+FLORES3 [GN]
+TERM OCANDELARIA 1 [FO]
+TASAJERO 1 [CM ]
+PAIPA4 [CM ]
+ZIPA U4 [CM ]
+ZIPA U5 [CM ]
+PROELECTRICA [GN]
+TEBSA [GN]
+FLORES 1 [GN]
+TERM OCENTRO CC [GN]
+TERM OEM CALI [GN]
+TERM OVALLE [GN]
+TSIERRACC [GN]
+0.000 2.000 4.000 6.000 8.000 10.000 12.000 14.000 16.000
+Figura 1: “Heat Rate” Plantas Térmicas
+Respecto a los datos anteriores, encontramos que la planta de menor eficiencia (mayor “heat rate”) que puede utilizar Fuel Oil No.6 es la Planta de Barranca 3 que tiene un HR de 12.482 MBTU/MWh, por lo tanto se propone utilizar este valor para calcular el precio de ejercicio.
+INDEXACIÓN DEL COSTO DEL COMBUSTIBLE
+Al comparar el precio de la Bolsa de electricidad en Colombia con los precios internacionales del Fuel Oil, figura 2, se puede ver claramente que existe una relación directa entre estos dos precios, lo que corrobora lo esperado, dado que los precios del gas natural que utilizan las plantas térmicas se encuentran indexados con el Fuel Oil de exportación de Ecopetrol4 antes de diciembre de 2005 (figura 3) y con el Fuel Oil internacional a partir de enero de 20065.
+16
+           Fuel Oil "1% Sulfur LP Spot Price" Electricidad - Colombia 14
+12
+10
+8
+6
+4
+2
+-
+4
+ Resolución CREG 057 de 1996 y resolución 023 de 2000. 5
+Resolución CREG 119 de 2005.
+Documento CREG-043 de 2006 4
+
+
+Figura 2: Comparación de Precio de Electricidad en Bolsa y Precios Fuel Oil Internacional
+Figura 3: Comparación de Precios Fuel Oil ECOPETROL y Precios Fuel Oil Internacional
+Teniendo en cuenta lo anterior, se encuentra que la utilización del indexador mensual con relación a la variación de precios del mercado internacional del Fuel Oil es un referente apropiado.
+Ahora, con el fin de que eliminar el riesgo de tasa de cambio, la estimación de hará en dólares y se convertirá a pesos con la Tasa Representativa del Mercado –TRM del día del cálculo.
+El precio de ejercicio parte combustible se deberá indexar mensualmente y su cálculo se realizará el último día hábil del mes anterior (t-1) al mes en el cual se pondrá en vigencia (t).
+La fórmula a aplicar es la siguiente:
+PE
+PE INDICE
+2
+Donde: PEC t
+t C
+=
+C t
+× t INDICE t
+              ? ?
+              1 1
+?
+    = Precio de Ejercicio parte Combustible que regirá durante el mes siguiente (t) expresado en USD/kWh y pasado a $/kWh con la TRM, certificada por el Banco de la República, del día en que se calcule. PEC
+t-1
+     = Precio de Ejercicio parte Combustible del mes anterior (t-1) INDICE
+t-1
+        = Promedio aritmético del índice diario en el mes anterior (t-1) INDICE
+t-2
+        = Promedio aritmético del índice diario en el mes precedente al anterior (t-2) INDICE = New York Harbor Residual Fuel Oil 1% Sulfur LP Spot Price, según la serie publicada por el Departamento de Energía de Estados Unidos.
+APLICACIÓN DE LA METODOLOGÍA
+Documento CREG-043 de 2006 5
+
+
+Suponiendo que el cálculo se hiciera el 12 de junio de 2006, aplicando la metodología descrita anteriormente, el precio de ejercicio sería de $ 296 /kWh.
+Documento CREG-043 de 2006 6
+
+
+TRANSICIÓN MECANISMO DE REMUNERACIÓN DEL CARGO POR CONFIABILIDAD
+Documento para Consulta
+DOCUMENTO
+             CREG-044 16 DE JUNIO DE 2006
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+
+TRANSICIÓN MECANISMO DE REMUNERACIÓN DEL CARGO POR CONFIABILIDAD
+ANTECEDENTES
+Mediante el documento CREG-122 de 2005, la CREG sometió a consideración de los agentes y terceros interesados la propuesta de trabajo para la definición del nuevo mecanismo de remuneración del cargo por capacidad. Con el ánimo de garantizar una implementación exitosa de la propuesta para la remuneración del cargo por capacidad es conveniente la incorporación de un período de transición que permita incorporar algunos de los elementos fundamentales de la propuesta de trabajo como un primer paso a la implementación de la misma.
+CARACTERÍSTICAS DEL PERÍODO DE TRANSICIÓN
+El período de transición propuesto contempla los siguientes puntos:
+Incorporación del producto: Durante el período de transición, los generadores remunerados mediante cargo por confiabilidad adquieren la obligación con el sistema, asociada al producto definido para tal fin, esto es, adquieren la obligación de entregar la energía firme al precio de ejercicio que determine el regulador siempre que este sea superior al precio de bolsa, como contraprestación a esta obligación reciben la prima establecida por el regulador para el período de transición.
+Remuneración por concepto de Cargo por Confiabilidad: En la medida en que la determinación del precio del cargo por confiabilidad será resultado de la subasta propuesta, y considerando que esta requiere la existencia de nuevos generadores con el fin de contar con una formación adecuada del precio, el mínimo período estimado para la entrada de genradores nuevos convocados mediante el esquema de subasta es de tres años, y que durante el período de transición no se cuenta con dichos generadores, se debe establecer un valor administrado, el cual se define como:
+• El valor utilizado actualmente para la remuneración del cargo por capacidad, corresponde a 5.25 US$/KW-mes y se mantendrá durante la transición. Ahora bien, considerando que la metodología para la definición del precio de ejercicio establecida en el Documento CREG-042 de 2006, considera una planta ciclo simple operando con combustible alterno, consistentemente se debe incluir en la inversión total de la planta la correspondiente a los costos para la adecuación de la unidad de generación para la operación con dicho combustible sustituto, incluyendo el capital de trabajo necesario para disponer de almacenamiento de combustible.
+Documento CREG-044 de 2006 2
+
+
+• Para efectos de determinar la inversión requerida para la operación con combustible sustituto se hace uso de la información suministrada por los generadores como respuesta a la Circulares CREG 14 y 15 de 2006.
+De esta forma para efectos de la remuneración se consideran los siguientes parámetros.
+Período: 20 años. Tasa de Descuento: 12%.
+Los costos de inversión incluyen:
+1. Inversiones en la adecuación de la planta para el consumo de combustible
+alterno.
+2. Inversiones en facilidades para el manejo del combustible alterno (tanques de
+almacenamiento, lotes, tuberías, bombas, accesorios).
+3. Capital de trabajo del inventario inicial en el tanque de almacenamiento.
+La tabla siguiente presenta los valores obtenidos de costo de inversión para las diferentes unidades reportados por lo generadores como respuesta a las Circulares CREG 14 y 15 de 2006, valores que se presentan el la figura 1.
+Unidad
+Conversión CAPEX
+          US/kW mes U1 0,09 U2 0,14 U3 0,58 U4 0,47 U5 0,07 U6 0,12 U7 0,20 U9 0,57 U10 0,90 U11 0,89 U12 0,47 U13 0,25
+Tabla 1: Costos de Inversión (US$/kW-mes), utilizando la información reportada por los agentes y los parámetros establecidos para la remuneración.
+Documento CREG-044 de 2006 3
+
+
+Figura 1. Costos de Inversión por unidad -CAPEX
+1,0
+CAPEX - Total
+0,9
+0,8
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+-
+Como resultado de considerar el costo necesario para la conversión de las unidades de generación a combustible sustituto, el valor de la prima del cargo por capacidad es igual a 5.25 US$/kW-mes + 0.94 US$/kW-mes, obteniendo un valor del cargo por confiabilidad de 13.04 US$/MWh (equivalente a 6.19 US$/kW-mes).
+Definición del mecanismo de asignación del cargo por confiabilidad entre los agentes generadores: Dado que durante el periodo de transición no se tiene previsto la realización de subastas que permitan establecer la asignación de las obligaciones de energía firme entre los generadores existentes, dicha asignación se realizará mediante el siguiente procedimiento.
+? Para cada generador se determina su energía firme, de conformidad con el documento CREG-042 de 2006.
+? La demanda total a ser remunerada será asignada a cada uno de los generadores a prorrata de su energía firme.
+? Para los casos en los cuales la demanda total sea mayor a la energía firme certificada, la demanda a remunerar será igual a la energía firme certificada.
+? La asignación se realiza para el siguiente año el cual esta comprendido entre los meses de diciembre del año t en el cual se realiza la asignación y el mes e noviembre del año t+1.
+Documento CREG-044 de 2006 4
+
+
+Período de tiempo durante el cual se dará la transición: El período de transición será de tres años, el cual inicia en noviembre de 2006 y finaliza en diciembre de 2009, momento en el cual el valor de la prima y la asignación de cantidades serán resultado del mecanismo de subasta propuesto.
+Documento CREG-044 de 2006 5
+
+
+LIQUIDACIÓN Y ADMINISTRACIÓN DE CUENTAS Y MECANISMO DE REMUNERACIÓN DEL CARGO POR CONFIABILIDAD
+Documento para Consulta
+DOCUMENTO
+                CREG-045 16 DE JUNIO DE 2006
+CIRCULACIÓN: MIEMBROS DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+
+LIQUIDACIÓN Y ADMINISTRADOR DE CUENTAS Y MECANISMO DE REMUNERACIÓN DEL CARGO POR CONFIABILIDAD
+OBJETIVO
+El presente documento tiene por objetivo presentar el procedimiento de liquidación de las obligaciones de energía firme establecidas en el documento CREG-122 de 2005.
+LIQUIDACIÓN El procedimiento de liquidación de la obligaciones de energía firme implementadas para la remuneración del cargo por confiabilidad será realizado por el Administrador del Sistema de Intercambios Comerciales –ASIC- haciendo uso del siguiente procedimiento general.
+Obligaciones de energía firme
+ Las obligaciones de energía firme serán requeridas a cada uno de los generador remunerados por concepto de cargo por confiabilidad siempre que el precio de bolsa sea mayor que el precio de ejercicio establecido.
+Verificación del cumplimiento de la entrega de energía firme
+ Para efectos de determinar el cumplimiento en la entrega de la energía firme por parte de un generador el ASIC deberá determinar:
+• Porcentaje de participación del generador del total de la energía firme subastada – PPE-.
+Al finalizar el mes de operación el ASIC deberá determinar si la energía firme subastada es menor que la demanda real de energía, sin considerar las exportaciones realizadas en los términos de las Transacciones Internacionales de Electricidad de Corto Plazo –TIE-. En cuyo caso procederá a realizar el ajuste al porcentaje de participación de cada uno de los generadores con el fin de garantizar que la energía mensual requerida a cada generador no sea mayor que la energía para el mismo mes , a la cual se comprometió en la subasta.
+Una vez realizado los ajustes correspondientes el ASIC efectuará el procedimiento de verificación de cumplimiento para cada una de las horas del mes de operación, aplicando el porcentaje de participación (ajustado cuando sea el caso) a la demanda
+Documento CREG-045 de 2006 2
+
+
+real del sistema sin considerar exportaciones en el marco de las TIE, este procedimiento define la obligación de energía firme en el despacho ideal para cada generador, durante cada una de las horas del mes de operación.
+Se considera que un generador da cumplimiento a la obligación horaria de energía firme, cuando su generación ideal en la respectiva hora es mayor o igual a la obligación de energía firme para dicha hora.
+Aquellos generadores para los que la generación en el despacho ideal en una hora es inferior a su obligación de opciones de energía firme para dicha hora, deberán pagar al mercado la diferencia entre el precio de bolsa de la hora respectiva y el precio de ejercicio multiplicados por la cantidad faltante para dar cumplimiento a su responsabilidad de energía firme en la hora respectiva.
+Obligación de energía firme
+El generador paga esta energía al diferencial entre el precio de bolsa y el precio
+Despacho
+de ejercicio (PB-PE)
+Ideal
+Remuneración de la energía asociada a la responsabilidad en opciones de energía firme.
+Para efectos de determinar la remuneración por la energía asociada a las opciones de energía firme, el ASIC deberá descontar de la obligación de energía firme para cada una de las horas la cantidad de energía en la hora respectiva despachada en contratos de largo plazo suscritos por el generador y que esta destinada a atender usuarios finales. Cuando la diferencia entre la responsabilidad en opciones de energía firme y la cantidad de energía despachada en contratos sea positiva, el generador vende estos excedentes en Bolsa a precio de ejercicio, esto sin perjuicio de los procedimientos de reconciliación positiva y negativa establecidos en la reglamentación vigente.
+Documento CREG-045 de 2006 3
+
+
+El generador vende esta energía al precio de bolsa
+Despacho El Ideal
+Contratos despachados para atender demanda
+generador vende esta
+Obligación
+energía a Precio de ejercicio
+de energía firme
+Venta a precio de contrato
+Recaudo de las primas de las obligaciones de energía firme:
+Para efectos del recaudo de la prima asociada con las opciones de energía firme, estas deberán ser consideradas como un costo más dentro de la estructura de costos variables del generador, para efectos de determinar el valor total a recaudar el ASIC utilizará la TRM del ultimo día hábil del mes anterior al de operación. Para efectos de facturación se usará la TRM del último día hábil del mes.
+Pago de la prima a los generadores:
+Como se dijo anteriormente cada planta y/o unidad de generación recaudará mediante sus ventas mensuales de energía una cantidad igual a su generación multiplicada por el valor de la prima asociada a las obligaciones de energía firme expresada en $/kWh. Para efectos de determinar el balance de cada generar el valor recaudado se deberá comparar con el valor resultante de multiplicar la obligación mensual de energía firme resultante de la subasta por el valor de la prima expresada en $/kWh, en este caso la diferencia será un saldo a favor o en contra del generador según sea el caso.
+Documento CREG-045 de 2006 4
